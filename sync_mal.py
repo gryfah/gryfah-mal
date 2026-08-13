@@ -12,6 +12,7 @@ url = (
 )
 
 all_entries = []
+first_page = True
 
 while url:
     print(f"Fetching: {url}")
@@ -27,9 +28,19 @@ while url:
     with urllib.request.urlopen(req, timeout=60) as response:
         payload = json.load(response)
 
+    if first_page and payload.get("data"):
+        print("DEBUG first MAL entry:")
+        print(
+            json.dumps(
+                payload["data"][0],
+                ensure_ascii=False,
+                indent=2,
+            )
+        )
+        first_page = False
+
     all_entries.extend(payload.get("data", []))
 
-    # MAL provides the next page as a complete URL.
     url = payload.get("paging", {}).get("next")
 
 
