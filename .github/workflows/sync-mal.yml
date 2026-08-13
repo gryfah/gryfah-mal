@@ -1,0 +1,41 @@
+name: Sync MAL
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "17 */6 * * *"
+      timezone: "Europe/Stockholm"
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Fetch MAL list
+        run: python sync_mal.py
+
+      - name: Commit updated list
+        run: |
+          git config user.name "mal-sync-bot"
+          git config user.email "mal-sync-bot@users.noreply.github.com"
+
+          git add anime.json
+
+          if git diff --cached --quiet; then
+            echo "No MAL changes"
+          else
+            git commit -m "Update MAL list"
+            git push
+          fi
