@@ -16,14 +16,16 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.13"
 
       - name: Fetch MAL list
+        env:
+          MAL_CLIENT_ID: ${{ secrets.MAL_CLIENT_ID }}
         run: python sync_mal.py
 
       - name: Commit updated list
