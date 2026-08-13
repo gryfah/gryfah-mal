@@ -8,7 +8,7 @@ CLIENT_ID = os.environ["MAL_CLIENT_ID"]
 
 url = (
     f"https://api.myanimelist.net/v2/users/{USERNAME}/animelist"
-    "?limit=1000"
+    "?fields=list_status&limit=1000"
 )
 
 all_entries = []
