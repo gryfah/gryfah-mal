@@ -12,7 +12,6 @@ url = (
 )
 
 all_entries = []
-first_page = True
 
 while url:
     print(f"Fetching: {url}")
@@ -27,17 +26,6 @@ while url:
 
     with urllib.request.urlopen(req, timeout=60) as response:
         payload = json.load(response)
-
-    if first_page and payload.get("data"):
-        print("DEBUG first MAL entry:")
-        print(
-            json.dumps(
-                payload["data"][0],
-                ensure_ascii=False,
-                indent=2,
-            )
-        )
-        first_page = False
 
     all_entries.extend(payload.get("data", []))
 
@@ -59,6 +47,8 @@ for entry in all_entries:
             "episodes_watched": status.get("num_episodes_watched"),
             "is_rewatching": status.get("is_rewatching"),
             "updated_at_mal": status.get("updated_at"),
+            "start_date": status.get("start_date"),
+            "finish_date": status.get("finish_date"),
             "mal_url": f"https://myanimelist.net/anime/{node.get('id')}",
         }
     )
