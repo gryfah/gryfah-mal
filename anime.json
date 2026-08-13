@@ -1,0 +1,6818 @@
+{
+  "mal_user": "gryfah",
+  "source": "MyAnimeList API v2",
+  "updated_at": "2026-08-13T15:25:00.410605+00:00",
+  "count": 681,
+  "anime": [
+    {
+      "mal_id": 31646,
+      "title": "3-gatsu no Lion",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/31646"
+    },
+    {
+      "mal_id": 35180,
+      "title": "3-gatsu no Lion 2nd Season",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/35180"
+    },
+    {
+      "mal_id": 36793,
+      "title": "3D Kanojo: Real Girl",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/36793"
+    },
+    {
+      "mal_id": 37956,
+      "title": "3D Kanojo: Real Girl 2nd Season",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/37956"
+    },
+    {
+      "mal_id": 38101,
+      "title": "5-toubun no Hanayome",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/38101"
+    },
+    {
+      "mal_id": 39783,
+      "title": "5-toubun no Hanayome ∬",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/39783"
+    },
+    {
+      "mal_id": 48548,
+      "title": "5-toubun no Hanayome Movie",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/48548"
+    },
+    {
+      "mal_id": 41457,
+      "title": "86",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/41457"
+    },
+    {
+      "mal_id": 48569,
+      "title": "86 Part 2",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/48569"
+    },
+    {
+      "mal_id": 58957,
+      "title": "9: Ruler's Crown",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/58957"
+    },
+    {
+      "mal_id": 9776,
+      "title": "A-Channel",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/9776"
+    },
+    {
+      "mal_id": 36039,
+      "title": "A.I.C.O. Incarnation",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/36039"
+    },
+    {
+      "mal_id": 39790,
+      "title": "Adachi to Shimamura",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/39790"
+    },
+    {
+      "mal_id": 49520,
+      "title": "Aharen-san wa Hakarenai",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/49520"
+    },
+    {
+      "mal_id": 59466,
+      "title": "Aharen-san wa Hakarenai Season 2",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/59466"
+    },
+    {
+      "mal_id": 34881,
+      "title": "Aho Girl",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/34881"
+    },
+    {
+      "mal_id": 42847,
+      "title": "Ai no Utagoe wo Kikasete",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/42847"
+    },
+    {
+      "mal_id": 101,
+      "title": "Air",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/101"
+    },
+    {
+      "mal_id": 102,
+      "title": "Aishiteruze Baby★★",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/102"
+    },
+    {
+      "mal_id": 17082,
+      "title": "Aiura",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/17082"
+    },
+    {
+      "mal_id": 48553,
+      "title": "Akebi-chan no Sailor-fuku",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/48553"
+    },
+    {
+      "mal_id": 52193,
+      "title": "Akiba Meido Sensou",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/52193"
+    },
+    {
+      "mal_id": 47,
+      "title": "Akira",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/47"
+    },
+    {
+      "mal_id": 19429,
+      "title": "Akuma no Riddle",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/19429"
+    },
+    {
+      "mal_id": 49303,
+      "title": "Alice to Therese no Maboroshi Koujou",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/49303"
+    },
+    {
+      "mal_id": 1177,
+      "title": "Alien 9",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/1177"
+    },
+    {
+      "mal_id": 60781,
+      "title": "Alma-chan wa Kazoku ni Naritai",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/60781"
+    },
+    {
+      "mal_id": 32828,
+      "title": "Amaama to Inazuma",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/32828"
+    },
+    {
+      "mal_id": 8676,
+      "title": "Amagami SS",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/8676"
+    },
+    {
+      "mal_id": 55071,
+      "title": "Amagami-san Chi no Enmusubi",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/55071"
+    },
+    {
+      "mal_id": 31771,
+      "title": "Amanchu!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/31771"
+    },
+    {
+      "mal_id": 59619,
+      "title": "Ame to Kimi to",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/59619"
+    },
+    {
+      "mal_id": 58600,
+      "title": "Ameku Takao no Suiri Karte",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/58600"
+    },
+    {
+      "mal_id": 6547,
+      "title": "Angel Beats!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/6547"
+    },
+    {
+      "mal_id": 37206,
+      "title": "Anima Yell!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/37206"
+    },
+    {
+      "mal_id": 9989,
+      "title": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/9989"
+    },
+    {
+      "mal_id": 11433,
+      "title": "Ano Natsu de Matteru",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/11433"
+    },
+    {
+      "mal_id": 11111,
+      "title": "Another",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/11111"
+    },
+    {
+      "mal_id": 21995,
+      "title": "Ao Haru Ride",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/21995"
+    },
+    {
+      "mal_id": 1051,
+      "title": "Ao no 6-gou",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/1051"
+    },
+    {
+      "mal_id": 9919,
+      "title": "Ao no Exorcist",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/9919"
+    },
+    {
+      "mal_id": 57181,
+      "title": "Ao no Hako",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/57181"
+    },
+    {
+      "mal_id": 6164,
+      "title": "Aoi Hana",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/6164"
+    },
+    {
+      "mal_id": 937,
+      "title": "Appleseed",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/937"
+    },
+    {
+      "mal_id": 38753,
+      "title": "Araburu Kisetsu no Otome-domo yo.",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/38753"
+    },
+    {
+      "mal_id": 7647,
+      "title": "Arakawa Under the Bridge",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/7647"
+    },
+    {
+      "mal_id": 962,
+      "title": "Aria the Natural",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/962"
+    },
+    {
+      "mal_id": 1079,
+      "title": "Armitage III",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/1079"
+    },
+    {
+      "mal_id": 492,
+      "title": "Armitage III: Dual-Matrix",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/492"
+    },
+    {
+      "mal_id": 493,
+      "title": "Armitage III: Poly-Matrix",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/493"
+    },
+    {
+      "mal_id": 36214,
+      "title": "Asagao to Kase-san.",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/36214"
+    },
+    {
+      "mal_id": 37171,
+      "title": "Asobi Asobase",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/37171"
+    },
+    {
+      "mal_id": 9736,
+      "title": "Astarotte no Omocha!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/9736"
+    },
+    {
+      "mal_id": 53128,
+      "title": "Atri: My Dear Moments",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/53128"
+    },
+    {
+      "mal_id": 14669,
+      "title": "Aura: Maryuuin Kouga Saigo no Tatakai",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/14669"
+    },
+    {
+      "mal_id": 66,
+      "title": "Azumanga Daiou The Animation",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/66"
+    },
+    {
+      "mal_id": 36873,
+      "title": "Back Street Girls: Gokudolls",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/36873"
+    },
+    {
+      "mal_id": 59161,
+      "title": "Bad Girl",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/59161"
+    },
+    {
+      "mal_id": 5081,
+      "title": "Bakemonogatari",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/5081"
+    },
+    {
+      "mal_id": 30795,
+      "title": "Bakuon!!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/30795"
+    },
+    {
+      "mal_id": 60293,
+      "title": "Ballpark de Tsukamaete!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/60293"
+    },
+    {
+      "mal_id": 34636,
+      "title": "Ballroom e Youkoso",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/34636"
+    },
+    {
+      "mal_id": 22789,
+      "title": "Barakamon",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/22789"
+    },
+    {
+      "mal_id": 889,
+      "title": "Black Lagoon",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/889"
+    },
+    {
+      "mal_id": 4901,
+      "title": "Black Lagoon: Roberta's Blood Trail",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/4901"
+    },
+    {
+      "mal_id": 1519,
+      "title": "Black Lagoon: The Second Barrage",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/1519"
+    },
+    {
+      "mal_id": 1270,
+      "title": "Black Magic M-66",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/1270"
+    },
+    {
+      "mal_id": 34618,
+      "title": "Blend S",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/34618"
+    },
+    {
+      "mal_id": 47639,
+      "title": "Blue Reflection Ray",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/47639"
+    },
+    {
+      "mal_id": 47917,
+      "title": "Bocchi the Rock!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/47917"
+    },
+    {
+      "mal_id": 31043,
+      "title": "Boku dake ga Inai Machi",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/31043"
+    },
+    {
+      "mal_id": 52578,
+      "title": "Boku no Kokoro no Yabai Yatsu",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/52578"
+    },
+    {
+      "mal_id": 58272,
+      "title": "Boku no Tsuma wa Kanjou ga Nai",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/58272"
+    },
+    {
+      "mal_id": 10719,
+      "title": "Boku wa Tomodachi ga Sukunai",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/10719"
+    },
+    {
+      "mal_id": 40904,
+      "title": "Bokutachi no Remake",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/40904"
+    },
+    {
+      "mal_id": 38186,
+      "title": "Bokutachi wa Benkyou ga Dekinai",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/38186"
+    },
+    {
+      "mal_id": 40004,
+      "title": "Bokutachi wa Benkyou ga Dekinai!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/40004"
+    },
+    {
+      "mal_id": 42519,
+      "title": "Bokutachi wa Benkyou ga Dekinai! Chapel no Kane wa [X] wo Shukufuku Suru",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/42519"
+    },
+    {
+      "mal_id": 369,
+      "title": "Boogiepop wa Warawanai",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/369"
+    },
+    {
+      "mal_id": 37451,
+      "title": "Boogiepop wa Warawanai (2019)",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/37451"
+    },
+    {
+      "mal_id": 1347,
+      "title": "Bubblegum Crisis",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/1347"
+    },
+    {
+      "mal_id": 568,
+      "title": "Bubblegum Crisis Tokyo 2040",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/568"
+    },
+    {
+      "mal_id": 33475,
+      "title": "Busou Shoujo Machiavellianism",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/33475"
+    },
+    {
+      "mal_id": 53512,
+      "title": "Busu ni Hanataba wo.",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/53512"
+    },
+    {
+      "mal_id": 458,
+      "title": "Buttobi!! CPU",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/458"
+    },
+    {
+      "mal_id": 5116,
+      "title": "Candy Boy Episode: EX01 - Mirai Yohouzu",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/5116"
+    },
+    {
+      "mal_id": 6479,
+      "title": "Candy Boy Episode: EX02 - Shiawase Kyouyuu Riron",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/6479"
+    },
+    {
+      "mal_id": 4535,
+      "title": "Candy Boy: Nonchalant Talk of the Certain Twin Sisters in Daily Life",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/4535"
+    },
+    {
+      "mal_id": 3456,
+      "title": "Candy☆Boy: Side Story For Archive",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/3456"
+    },
+    {
+      "mal_id": 694,
+      "title": "Canvas 2: Nijiiro no Sketch",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/694"
+    },
+    {
+      "mal_id": 34525,
+      "title": "Centaur no Nayami",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/34525"
+    },
+    {
+      "mal_id": 44511,
+      "title": "Chainsaw Man",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/44511"
+    },
+    {
+      "mal_id": 28999,
+      "title": "Charlotte",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/28999"
+    },
+    {
+      "mal_id": 10800,
+      "title": "Chihayafuru",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/10800"
+    },
+    {
+      "mal_id": 14397,
+      "title": "Chihayafuru 2",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/14397"
+    },
+    {
+      "mal_id": 37379,
+      "title": "Chihayafuru 3",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/37379"
+    },
+    {
+      "mal_id": 35821,
+      "title": "Chio-chan no Tsuugakuro",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/35821"
+    },
+    {
+      "mal_id": 59517,
+      "title": "Chitose-kun wa Ramune Bin no Naka",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/59517"
+    },
+    {
+      "mal_id": 59,
+      "title": "Chobits",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/59"
+    },
+    {
+      "mal_id": 18671,
+      "title": "Chuunibyou demo Koi ga Shitai! Ren",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/18671"
+    },
+    {
+      "mal_id": 34382,
+      "title": "Citrus",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/34382"
+    },
+    {
+      "mal_id": 1470,
+      "title": "City Hunter",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/1470"
+    },
+    {
+      "mal_id": 2167,
+      "title": "Clannad",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/2167"
+    },
+    {
+      "mal_id": 4181,
+      "title": "Clannad: After Story",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/4181"
+    },
+    {
+      "mal_id": 6351,
+      "title": "Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/6351"
+    },
+    {
+      "mal_id": 4059,
+      "title": "Clannad: Mou Hitotsu no Sekai, Tomoyo-hen",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/4059"
+    },
+    {
+      "mal_id": 59135,
+      "title": "Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/59135"
+    },
+    {
+      "mal_id": 11703,
+      "title": "Code:Breaker",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/11703"
+    },
+    {
+      "mal_id": 31456,
+      "title": "Code:Realize - Sousei no Himegimi",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/31456"
+    },
+    {
+      "mal_id": 1,
+      "title": "Cowboy Bebop",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/1"
+    },
+    {
+      "mal_id": 25731,
+      "title": "Cross Ange: Tenshi to Ryuu no Rondo",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/25731"
+    },
+    {
+      "mal_id": 20031,
+      "title": "D-Frag!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/20031"
+    },
+    {
+      "mal_id": 30127,
+      "title": "Danchigai",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/30127"
+    },
+    {
+      "mal_id": 57334,
+      "title": "Dandadan",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/57334"
+    },
+    {
+      "mal_id": 60543,
+      "title": "Dandadan 2nd Season",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/60543"
+    },
+    {
+      "mal_id": 52709,
+      "title": "Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/52709"
+    },
+    {
+      "mal_id": 11843,
+      "title": "Danshi Koukousei no Nichijou",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/11843"
+    },
+    {
+      "mal_id": 2025,
+      "title": "Darker than Black: Kuro no Keiyakusha",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/2025"
+    },
+    {
+      "mal_id": 35849,
+      "title": "Darling in the FranXX",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/35849"
+    },
+    {
+      "mal_id": 15583,
+      "title": "Date A Live",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/15583"
+    },
+    {
+      "mal_id": 58883,
+      "title": "Dead Dead Demons Dededede Destruction (ONA)",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/58883"
+    },
+    {
+      "mal_id": 6880,
+      "title": "Deadman Wonderland",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/6880"
+    },
+    {
+      "mal_id": 48779,
+      "title": "Deaimon",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/48779"
+    },
+    {
+      "mal_id": 28223,
+      "title": "Death Parade",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/28223"
+    },
+    {
+      "mal_id": 33988,
+      "title": "Demi-chan wa Kataritai",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/33988"
+    },
+    {
+      "mal_id": 35823,
+      "title": "Demi-chan wa Kataritai: Demi-chan no Natsuyasumi",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/35823"
+    },
+    {
+      "mal_id": 24031,
+      "title": "Denki-gai no Honya-san",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/24031"
+    },
+    {
+      "mal_id": 9379,
+      "title": "Denpa Onna to Seishun Otoko",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/9379"
+    },
+    {
+      "mal_id": 35928,
+      "title": "Devils Line",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/35928"
+    },
+    {
+      "mal_id": 294,
+      "title": "Divergence Eve",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/294"
+    },
+    {
+      "mal_id": 48542,
+      "title": "Do It Yourself!!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/48542"
+    },
+    {
+      "mal_id": 37982,
+      "title": "Domestic na Kanojo",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/37982"
+    },
+    {
+      "mal_id": 1151,
+      "title": "Dominion",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/1151"
+    },
+    {
+      "mal_id": 58259,
+      "title": "Douse, Koishite Shimaunda.",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/58259"
+    },
+    {
+      "mal_id": 9330,
+      "title": "Dragon Crisis!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/9330"
+    },
+    {
+      "mal_id": 42192,
+      "title": "Edens Zero",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/42192"
+    },
+    {
+      "mal_id": 52081,
+      "title": "Edomae Elf",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/52081"
+    },
+    {
+      "mal_id": 2924,
+      "title": "ef: A Tale of Memories.",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/2924"
+    },
+    {
+      "mal_id": 39792,
+      "title": "Eizouken ni wa Te wo Dasu na!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/39792"
+    },
+    {
+      "mal_id": 226,
+      "title": "Elfen Lied",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/226"
+    },
+    {
+      "mal_id": 37033,
+      "title": "Emiya-san Chi no Kyou no Gohan",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/37033"
+    },
+    {
+      "mal_id": 38671,
+      "title": "Enen no Shouboutai",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/38671"
+    },
+    {
+      "mal_id": 40956,
+      "title": "Enen no Shouboutai: Ni no Shou",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/40956"
+    },
+    {
+      "mal_id": 51417,
+      "title": "Engage Kiss",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/51417"
+    },
+    {
+      "mal_id": 32901,
+      "title": "Eromanga-sensei",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/32901"
+    },
+    {
+      "mal_id": 2759,
+      "title": "Evangelion Movie 1: Jo",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/2759"
+    },
+    {
+      "mal_id": 3784,
+      "title": "Evangelion Movie 2: Ha",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/3784"
+    },
+    {
+      "mal_id": 3785,
+      "title": "Evangelion Movie 3: Q",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/3785"
+    },
+    {
+      "mal_id": 35842,
+      "title": "FLCL Alternative",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/35842"
+    },
+    {
+      "mal_id": 33010,
+      "title": "FLCL Progressive",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/33010"
+    },
+    {
+      "mal_id": 32979,
+      "title": "Flip Flappers",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/32979"
+    },
+    {
+      "mal_id": 31376,
+      "title": "Flying Witch",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/31376"
+    },
+    {
+      "mal_id": 60508,
+      "title": "Food Court de, Mata Ashita.",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/60508"
+    },
+    {
+      "mal_id": 18507,
+      "title": "Free!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/18507"
+    },
+    {
+      "mal_id": 38680,
+      "title": "Fruits Basket 1st Season",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/38680"
+    },
+    {
+      "mal_id": 40417,
+      "title": "Fruits Basket 2nd Season",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/40417"
+    },
+    {
+      "mal_id": 49310,
+      "title": "Fruits Basket: Prelude",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/49310"
+    },
+    {
+      "mal_id": 42938,
+      "title": "Fruits Basket: The Final",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/42938"
+    },
+    {
+      "mal_id": 62405,
+      "title": "Fujimoto Tatsuki 17-26",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/62405"
+    },
+    {
+      "mal_id": 33203,
+      "title": "Fukumenkei Noise",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/33203"
+    },
+    {
+      "mal_id": 41025,
+      "title": "Fumetsu no Anata e",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/41025"
+    },
+    {
+      "mal_id": 1251,
+      "title": "Fushigi no Umi no Nadia",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/1251"
+    },
+    {
+      "mal_id": 50425,
+      "title": "Fuufu Ijou, Koibito Miman.",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/50425"
+    },
+    {
+      "mal_id": 24765,
+      "title": "Gakkougurashi!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/24765"
+    },
+    {
+      "mal_id": 239,
+      "title": "Gankutsuou",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/239"
+    },
+    {
+      "mal_id": 34213,
+      "title": "Getsuyoubi no Tawawa",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/34213"
+    },
+    {
+      "mal_id": 54968,
+      "title": "Giji Harem",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/54968"
+    },
+    {
+      "mal_id": 52481,
+      "title": "Gimai Seikatsu",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/52481"
+    },
+    {
+      "mal_id": 14131,
+      "title": "Girls & Panzer",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/14131"
+    },
+    {
+      "mal_id": 59817,
+      "title": "Girls Band Cry Movie",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/59817"
+    },
+    {
+      "mal_id": 14811,
+      "title": "GJ-bu",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/14811"
+    },
+    {
+      "mal_id": 17895,
+      "title": "Golden Time",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/17895"
+    },
+    {
+      "mal_id": 17729,
+      "title": "Grisaia no Kajitsu",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/17729"
+    },
+    {
+      "mal_id": 10793,
+      "title": "Guilty Crown",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/10793"
+    },
+    {
+      "mal_id": 1016,
+      "title": "Gunnm",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/1016"
+    },
+    {
+      "mal_id": 650,
+      "title": "Gunsmith Cats",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/650"
+    },
+    {
+      "mal_id": 3299,
+      "title": "H2O: Footprints in the Sand",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/3299"
+    },
+    {
+      "mal_id": 38091,
+      "title": "Hachigatsu no Cinderella Nine",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/38091"
+    },
+    {
+      "mal_id": 49913,
+      "title": "Hachigatsu no Cinderella Nine: Tsuzuku, Monogatari",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/49913"
+    },
+    {
+      "mal_id": 16,
+      "title": "Hachimitsu to Clover",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/16"
+    },
+    {
+      "mal_id": 387,
+      "title": "Haibane Renmei",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/387"
+    },
+    {
+      "mal_id": 35889,
+      "title": "Hakata Tonkotsu Ramens",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/35889"
+    },
+    {
+      "mal_id": 54362,
+      "title": "Hametsu no Oukoku",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/54362"
+    },
+    {
+      "mal_id": 55597,
+      "title": "Hananoi-kun to Koi no Yamai",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/55597"
+    },
+    {
+      "mal_id": 9289,
+      "title": "Hanasaku Iroha",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/9289"
+    },
+    {
+      "mal_id": 14175,
+      "title": "Hanasaku Iroha Movie: Home Sweet Home",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/14175"
+    },
+    {
+      "mal_id": 37259,
+      "title": "Hanebado!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/37259"
+    },
+    {
+      "mal_id": 37517,
+      "title": "Happy Sugar Life",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/37517"
+    },
+    {
+      "mal_id": 48413,
+      "title": "Hataraku Maou-sama!!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/48413"
+    },
+    {
+      "mal_id": 5150,
+      "title": "Hatsukoi Limited.",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/5150"
+    },
+    {
+      "mal_id": 48857,
+      "title": "Healer Girl",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/48857"
+    },
+    {
+      "mal_id": 1030,
+      "title": "Heisei Tanuki Gassen Ponpoko",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/1030"
+    },
+    {
+      "mal_id": 38816,
+      "title": "Hello World",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/38816"
+    },
+    {
+      "mal_id": 53732,
+      "title": "Hidarikiki no Eren",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/53732"
+    },
+    {
+      "mal_id": 40938,
+      "title": "Hige wo Soru. Soshite Joshikousei wo Hirou.",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/40938"
+    },
+    {
+      "mal_id": 934,
+      "title": "Higurashi no Naku Koro ni",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/934"
+    },
+    {
+      "mal_id": 41006,
+      "title": "Higurashi no Naku Koro ni Gou",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/41006"
+    },
+    {
+      "mal_id": 48488,
+      "title": "Higurashi no Naku Koro ni Sotsu",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/48488"
+    },
+    {
+      "mal_id": 33948,
+      "title": "Hinako Note",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/33948"
+    },
+    {
+      "mal_id": 36296,
+      "title": "Hinamatsuri",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/36296"
+    },
+    {
+      "mal_id": 37614,
+      "title": "Hitoribocchi no Marumaru Seikatsu",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/37614"
+    },
+    {
+      "mal_id": 58271,
+      "title": "Honey Lemon Soda",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/58271"
+    },
+    {
+      "mal_id": 14753,
+      "title": "Hori-san to Miyamura-kun",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/14753"
+    },
+    {
+      "mal_id": 42897,
+      "title": "Horimiya",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/42897"
+    },
+    {
+      "mal_id": 54856,
+      "title": "Horimiya: Piece",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/54856"
+    },
+    {
+      "mal_id": 578,
+      "title": "Hotaru no Haka",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/578"
+    },
+    {
+      "mal_id": 10408,
+      "title": "Hotarubi no Mori e",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/10408"
+    },
+    {
+      "mal_id": 39730,
+      "title": "Houkago Teibou Nisshi",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/39730"
+    },
+    {
+      "mal_id": 8426,
+      "title": "Hourou Musuko",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/8426"
+    },
+    {
+      "mal_id": 12189,
+      "title": "Hyouka",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/12189"
+    },
+    {
+      "mal_id": 488,
+      "title": "Ichigo Mashimaro",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/488"
+    },
+    {
+      "mal_id": 4811,
+      "title": "Ichigo Mashimaro Encore",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/4811"
+    },
+    {
+      "mal_id": 1888,
+      "title": "Ichigo Mashimaro OVA",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/1888"
+    },
+    {
+      "mal_id": 40046,
+      "title": "Id:Invaded",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/40046"
+    },
+    {
+      "mal_id": 40842,
+      "title": "Idoly Pride",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/40842"
+    },
+    {
+      "mal_id": 42361,
+      "title": "Ijiranaide, Nagatoro-san",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/42361"
+    },
+    {
+      "mal_id": 50197,
+      "title": "Ijiranaide, Nagatoro-san 2nd Attack",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/50197"
+    },
+    {
+      "mal_id": 58788,
+      "title": "Ikoku Nikki",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/58788"
+    },
+    {
+      "mal_id": 35413,
+      "title": "Imouto sae Ireba Ii.",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/35413"
+    },
+    {
+      "mal_id": 22123,
+      "title": "Inugami-san to Nekoyama-san",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/22123"
+    },
+    {
+      "mal_id": 37497,
+      "title": "Irozuku Sekai no Ashita kara",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/37497"
+    },
+    {
+      "mal_id": 21327,
+      "title": "Isshuukan Friends.",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/21327"
+    },
+    {
+      "mal_id": 3731,
+      "title": "Itazura na Kiss",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/3731"
+    },
+    {
+      "mal_id": 36220,
+      "title": "Itsudatte Bokura no Koi wa 10 cm Datta.",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/36220"
+    },
+    {
+      "mal_id": 48753,
+      "title": "Jahy-sama wa Kujikenai!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/48753"
+    },
+    {
+      "mal_id": 228,
+      "title": "Jigoku Shoujo",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/228"
+    },
+    {
+      "mal_id": 53621,
+      "title": "Jijou wo Shiranai Tenkousei ga Guigui Kuru.",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/53621"
+    },
+    {
+      "mal_id": 62432,
+      "title": "Jingai Kyoushitsu no Ningengirai Kyoushi",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/62432"
+    },
+    {
+      "mal_id": 29785,
+      "title": "Jitsu wa Watashi wa",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/29785"
+    },
+    {
+      "mal_id": 40787,
+      "title": "Josee to Tora to Sakana-tachi",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/40787"
+    },
+    {
+      "mal_id": 38619,
+      "title": "Joshikousei no Mudazukai",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/38619"
+    },
+    {
+      "mal_id": 253,
+      "title": "Jungle wa Itsumo Hare nochi Guu",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/253"
+    },
+    {
+      "mal_id": 35639,
+      "title": "Just Because!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/35639"
+    },
+    {
+      "mal_id": 33531,
+      "title": "Juushinki Pandora",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/33531"
+    },
+    {
+      "mal_id": 5680,
+      "title": "K-On!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/5680"
+    },
+    {
+      "mal_id": 9617,
+      "title": "K-On! Movie",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/9617"
+    },
+    {
+      "mal_id": 7791,
+      "title": "K-On!!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/7791"
+    },
+    {
+      "mal_id": 9734,
+      "title": "K-On!!: Keikaku!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/9734"
+    },
+    {
+      "mal_id": 6862,
+      "title": "K-On!: Live House!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/6862"
+    },
+    {
+      "mal_id": 43691,
+      "title": "Kageki Shoujo!!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/43691"
+    },
+    {
+      "mal_id": 40750,
+      "title": "Kaifuku Jutsushi no Yarinaoshi",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/40750"
+    },
+    {
+      "mal_id": 52588,
+      "title": "Kaijuu 8-gou",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/52588"
+    },
+    {
+      "mal_id": 48675,
+      "title": "Kakkou no Iinazuke",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/48675"
+    },
+    {
+      "mal_id": 8525,
+      "title": "Kami nomi zo Shiru Sekai",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/8525"
+    },
+    {
+      "mal_id": 10080,
+      "title": "Kami nomi zo Shiru Sekai II",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/10080"
+    },
+    {
+      "mal_id": 16706,
+      "title": "Kami nomi zo Shiru Sekai: Megami-hen",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/16706"
+    },
+    {
+      "mal_id": 14713,
+      "title": "Kamisama Hajimemashita",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/14713"
+    },
+    {
+      "mal_id": 18661,
+      "title": "Kamisama Hajimemashita OVA",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/18661"
+    },
+    {
+      "mal_id": 25681,
+      "title": "Kamisama Hajimemashita◎",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/25681"
+    },
+    {
+      "mal_id": 61501,
+      "title": "Kanan-sama wa Akumade Choroi",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/61501"
+    },
+    {
+      "mal_id": 19685,
+      "title": "Kanojo ga Flag wo Oraretara",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/19685"
+    },
+    {
+      "mal_id": 43969,
+      "title": "Kanojo mo Kanojo",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/43969"
+    },
+    {
+      "mal_id": 53040,
+      "title": "Kanojo mo Kanojo Season 2",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/53040"
+    },
+    {
+      "mal_id": 1530,
+      "title": "Kanon (2006)",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/1530"
+    },
+    {
+      "mal_id": 2593,
+      "title": "Kara no Kyoukai Movie 1: Fukan Fuukei",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/2593"
+    },
+    {
+      "mal_id": 3782,
+      "title": "Kara no Kyoukai Movie 2: Satsujin Kousatsu (Zen)",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/3782"
+    },
+    {
+      "mal_id": 3783,
+      "title": "Kara no Kyoukai Movie 3: Tsuukaku Zanryuu",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/3783"
+    },
+    {
+      "mal_id": 4280,
+      "title": "Kara no Kyoukai Movie 4: Garan no Dou",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/4280"
+    },
+    {
+      "mal_id": 4282,
+      "title": "Kara no Kyoukai Movie 5: Mujun Rasen",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/4282"
+    },
+    {
+      "mal_id": 5204,
+      "title": "Kara no Kyoukai Movie 6: Boukyaku Rokuon",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/5204"
+    },
+    {
+      "mal_id": 5205,
+      "title": "Kara no Kyoukai Movie 7: Satsujin Kousatsu (Go)",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/5205"
+    },
+    {
+      "mal_id": 6954,
+      "title": "Kara no Kyoukai Movie 8: Shuushou",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/6954"
+    },
+    {
+      "mal_id": 49721,
+      "title": "Karakai Jouzu no Takagi-san 3",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/49721"
+    },
+    {
+      "mal_id": 49722,
+      "title": "Karakai Jouzu no Takagi-san Movie",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/49722"
+    },
+    {
+      "mal_id": 145,
+      "title": "Kareshi Kanojo no Jijou",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/145"
+    },
+    {
+      "mal_id": 667,
+      "title": "Kashimashi: Girl Meets Girl",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/667"
+    },
+    {
+      "mal_id": 45613,
+      "title": "Kawaii dake ja Nai Shikimori-san",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/45613"
+    },
+    {
+      "mal_id": 39326,
+      "title": "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/39326"
+    },
+    {
+      "mal_id": 572,
+      "title": "Kaze no Tani no Nausicaä",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/572"
+    },
+    {
+      "mal_id": 32686,
+      "title": "Keijo!!!!!!!!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/32686"
+    },
+    {
+      "mal_id": 52990,
+      "title": "Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/52990"
+    },
+    {
+      "mal_id": 55887,
+      "title": "Kekkon suru tte, Hontou desu ka",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/55887"
+    },
+    {
+      "mal_id": 40908,
+      "title": "Kemono Jihen",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/40908"
+    },
+    {
+      "mal_id": 1457,
+      "title": "Key the Metal Idol",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/1457"
+    },
+    {
+      "mal_id": 1288,
+      "title": "Kidou Keisatsu Patlabor",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/1288"
+    },
+    {
+      "mal_id": 1096,
+      "title": "Kidou Keisatsu Patlabor 2 the Movie",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/1096"
+    },
+    {
+      "mal_id": 1095,
+      "title": "Kidou Keisatsu Patlabor the Movie",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/1095"
+    },
+    {
+      "mal_id": 1289,
+      "title": "Kidou Keisatsu Patlabor: New OVA",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/1289"
+    },
+    {
+      "mal_id": 6336,
+      "title": "Kidou Senshi Gundam Unicorn",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/6336"
+    },
+    {
+      "mal_id": 31251,
+      "title": "Kidou Senshi Gundam: Tekketsu no Orphans",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/31251"
+    },
+    {
+      "mal_id": 33051,
+      "title": "Kidou Senshi Gundam: Tekketsu no Orphans 2nd Season",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/33051"
+    },
+    {
+      "mal_id": 18679,
+      "title": "Kill la Kill",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/18679"
+    },
+    {
+      "mal_id": 6045,
+      "title": "Kimi ni Todoke",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/6045"
+    },
+    {
+      "mal_id": 9656,
+      "title": "Kimi ni Todoke 2nd Season",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/9656"
+    },
+    {
+      "mal_id": 56538,
+      "title": "Kimi ni Todoke 3rd Season",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/56538"
+    },
+    {
+      "mal_id": 10460,
+      "title": "Kimi to Boku.",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/10460"
+    },
+    {
+      "mal_id": 11739,
+      "title": "Kimi to Boku. 2",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/11739"
+    },
+    {
+      "mal_id": 60765,
+      "title": "Kimi to Koete Koi ni Naru",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/60765"
+    },
+    {
+      "mal_id": 50796,
+      "title": "Kimi wa Houkago Insomnia",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/50796"
+    },
+    {
+      "mal_id": 57611,
+      "title": "Kimi wa Meido-sama.",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/57611"
+    },
+    {
+      "mal_id": 61782,
+      "title": "Kirei ni Shitemoraemasu ka.",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/61782"
+    },
+    {
+      "mal_id": 18495,
+      "title": "Kitaku-bu Katsudou Kiroku",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/18495"
+    },
+    {
+      "mal_id": 3323,
+      "title": "Kite Liberator",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/3323"
+    },
+    {
+      "mal_id": 31798,
+      "title": "Kiznaiver",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/31798"
+    },
+    {
+      "mal_id": 9260,
+      "title": "Kizumonogatari I: Tekketsu-hen",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/9260"
+    },
+    {
+      "mal_id": 31757,
+      "title": "Kizumonogatari II: Nekketsu-hen",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/31757"
+    },
+    {
+      "mal_id": 31758,
+      "title": "Kizumonogatari III: Reiketsu-hen",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/31758"
+    },
+    {
+      "mal_id": 5678,
+      "title": "Kobato.",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/5678"
+    },
+    {
+      "mal_id": 33206,
+      "title": "Kobayashi-san Chi no Maid Dragon",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/33206"
+    },
+    {
+      "mal_id": 39247,
+      "title": "Kobayashi-san Chi no Maid Dragon S",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/39247"
+    },
+    {
+      "mal_id": 49893,
+      "title": "Kobayashi-san Chi no Maid Dragon S: Nippon no Omotenashi - Attend wa Dragon desu",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/49893"
+    },
+    {
+      "mal_id": 59897,
+      "title": "Kobayashi-san Chi no Maid Dragon: Samishigariya no Ryuu",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/59897"
+    },
+    {
+      "mal_id": 35363,
+      "title": "Kobayashi-san Chi no Maid Dragon: Valentine, Soshite Onsen! - Amari Kitai Shinaide Kudasai",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/35363"
+    },
+    {
+      "mal_id": 634,
+      "title": "Koi Kaze",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/634"
+    },
+    {
+      "mal_id": 41103,
+      "title": "Koi to Yobu ni wa Kimochi Warui",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/41103"
+    },
+    {
+      "mal_id": 34984,
+      "title": "Koi wa Ameagari no You ni",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/34984"
+    },
+    {
+      "mal_id": 55996,
+      "title": "Koi wa Futago de Warikirenai",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/55996"
+    },
+    {
+      "mal_id": 39388,
+      "title": "Koisuru Asteroid",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/39388"
+    },
+    {
+      "mal_id": 11887,
+      "title": "Kokoro Connect",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/11887"
+    },
+    {
+      "mal_id": 16001,
+      "title": "Kokoro Connect: Michi Random",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/16001"
+    },
+    {
+      "mal_id": 48926,
+      "title": "Komi-san wa, Comyushou desu.",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/48926"
+    },
+    {
+      "mal_id": 50631,
+      "title": "Komi-san wa, Comyushou desu. 2nd Season",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/50631"
+    },
+    {
+      "mal_id": 31952,
+      "title": "Kono Bijutsu-bu ni wa Mondai ga Aru!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/31952"
+    },
+    {
+      "mal_id": 38080,
+      "title": "Kono Oto Tomare!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/38080"
+    },
+    {
+      "mal_id": 38889,
+      "title": "Kono Oto Tomare! Part 2",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/38889"
+    },
+    {
+      "mal_id": 30831,
+      "title": "Kono Subarashii Sekai ni Shukufuku wo!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/30831"
+    },
+    {
+      "mal_id": 52173,
+      "title": "Koori Zokusei Danshi to Cool na Douryou Joshi",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/52173"
+    },
+    {
+      "mal_id": 44516,
+      "title": "Koroshi Ai",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/44516"
+    },
+    {
+      "mal_id": 16782,
+      "title": "Kotonoha no Niwa",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/16782"
+    },
+    {
+      "mal_id": 15379,
+      "title": "Kotoura-san",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/15379"
+    },
+    {
+      "mal_id": 43,
+      "title": "Koukaku Kidoutai",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/43"
+    },
+    {
+      "mal_id": 19193,
+      "title": "Koukaku Kidoutai Arise: Ghost in the Shell - Border:3 Ghost Tears",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/19193"
+    },
+    {
+      "mal_id": 38799,
+      "title": "Koukaku Kidoutai: SAC_2045",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/38799"
+    },
+    {
+      "mal_id": 41750,
+      "title": "Koukaku Kidoutai: SAC_2045 Season 2",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/41750"
+    },
+    {
+      "mal_id": 467,
+      "title": "Koukaku Kidoutai: Stand Alone Complex",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/467"
+    },
+    {
+      "mal_id": 801,
+      "title": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/801"
+    },
+    {
+      "mal_id": 237,
+      "title": "Koukyoushihen Eureka Seven",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/237"
+    },
+    {
+      "mal_id": 28623,
+      "title": "Koutetsujou no Kabaneri",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/28623"
+    },
+    {
+      "mal_id": 60083,
+      "title": "Kowloon Generic Romance",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/60083"
+    },
+    {
+      "mal_id": 51815,
+      "title": "Kubo-san wa Mob wo Yurusanai",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/51815"
+    },
+    {
+      "mal_id": 31804,
+      "title": "Kuma Miko",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/31804"
+    },
+    {
+      "mal_id": 416,
+      "title": "Kurenai no Buta",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/416"
+    },
+    {
+      "mal_id": 54492,
+      "title": "Kusuriya no Hitorigoto",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/54492"
+    },
+    {
+      "mal_id": 9014,
+      "title": "Kuttsukiboshi",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/9014"
+    },
+    {
+      "mal_id": 32949,
+      "title": "Kuzu no Honkai",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/32949"
+    },
+    {
+      "mal_id": 39017,
+      "title": "Kyokou Suiri",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/39017"
+    },
+    {
+      "mal_id": 4903,
+      "title": "Kyou no 5 no 2 (TV)",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/4903"
+    },
+    {
+      "mal_id": 6379,
+      "title": "Kyou no 5 no 2 (TV): Takarabako",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/6379"
+    },
+    {
+      "mal_id": 15005,
+      "title": "Kyou no Asuka Show",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/15005"
+    },
+    {
+      "mal_id": 6016,
+      "title": "Kyoushoku Soukou Guyver (1989)",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/6016"
+    },
+    {
+      "mal_id": 97,
+      "title": "Last Exile",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/97"
+    },
+    {
+      "mal_id": 56038,
+      "title": "Lazarus",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/56038"
+    },
+    {
+      "mal_id": 33489,
+      "title": "Little Witch Academia (TV)",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/33489"
+    },
+    {
+      "mal_id": 35677,
+      "title": "Liz to Aoi Tori",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/35677"
+    },
+    {
+      "mal_id": 23321,
+      "title": "Log Horizon 2nd Season",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/23321"
+    },
+    {
+      "mal_id": 16353,
+      "title": "Love Lab",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/16353"
+    },
+    {
+      "mal_id": 15051,
+      "title": "Love Live! School Idol Project",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/15051"
+    },
+    {
+      "mal_id": 19111,
+      "title": "Love Live! School Idol Project 2nd Season",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/19111"
+    },
+    {
+      "mal_id": 41169,
+      "title": "Love Live! Superstar!!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/41169"
+    },
+    {
+      "mal_id": 24997,
+      "title": "Love Live! The School Idol Movie",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/24997"
+    },
+    {
+      "mal_id": 2034,
+      "title": "Lovely★Complex",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/2034"
+    },
+    {
+      "mal_id": 1887,
+      "title": "Lucky☆Star",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/1887"
+    },
+    {
+      "mal_id": 54440,
+      "title": "Lycoris Recoil (Shinsaku Animation)",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/54440"
+    },
+    {
+      "mal_id": 39071,
+      "title": "Machikado Mazoku",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/39071"
+    },
+    {
+      "mal_id": 1088,
+      "title": "Macross",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/1088"
+    },
+    {
+      "mal_id": 474,
+      "title": "Macross Plus",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/474"
+    },
+    {
+      "mal_id": 1211,
+      "title": "Macross Plus Movie Edition",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/1211"
+    },
+    {
+      "mal_id": 34599,
+      "title": "Made in Abyss",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/34599"
+    },
+    {
+      "mal_id": 435,
+      "title": "Magic Knight Rayearth",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/435"
+    },
+    {
+      "mal_id": 33003,
+      "title": "Mahou Shoujo Ikusei Keikaku",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/33003"
+    },
+    {
+      "mal_id": 9756,
+      "title": "Mahou Shoujo Madoka★Magica",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/9756"
+    },
+    {
+      "mal_id": 11981,
+      "title": "Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/11981"
+    },
+    {
+      "mal_id": 31793,
+      "title": "Mahou Shoujo Nante Mou Ii desu kara.",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/31793"
+    },
+    {
+      "mal_id": 33795,
+      "title": "Mahou Shoujo Nante Mou Ii desu kara. Second Season",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/33795"
+    },
+    {
+      "mal_id": 37979,
+      "title": "Mahou Shoujo Tokushusen Asuka",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/37979"
+    },
+    {
+      "mal_id": 98,
+      "title": "Mai-HiME",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/98"
+    },
+    {
+      "mal_id": 512,
+      "title": "Majo no Takkyuubin",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/512"
+    },
+    {
+      "mal_id": 57524,
+      "title": "Make Heroine ga Oosugiru!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/57524"
+    },
+    {
+      "mal_id": 49470,
+      "title": "Mamahaha no Tsurego ga Motokano datta",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/49470"
+    },
+    {
+      "mal_id": 1280,
+      "title": "Mamono Hunter Youko",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/1280"
+    },
+    {
+      "mal_id": 33487,
+      "title": "Masamune-kun no Revenge",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/33487"
+    },
+    {
+      "mal_id": 51498,
+      "title": "Masamune-kun no Revenge R",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/51498"
+    },
+    {
+      "mal_id": 52211,
+      "title": "Mashle",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/52211"
+    },
+    {
+      "mal_id": 10721,
+      "title": "Mawaru Penguindrum",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/10721"
+    },
+    {
+      "mal_id": 61211,
+      "title": "Mayonaka Heart Tune",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/61211"
+    },
+    {
+      "mal_id": 37964,
+      "title": "Mayonaka no Occult Koumuin",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/37964"
+    },
+    {
+      "mal_id": 57947,
+      "title": "Mayonaka Punch",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/57947"
+    },
+    {
+      "mal_id": 52973,
+      "title": "Megami no Café Terrace",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/52973"
+    },
+    {
+      "mal_id": 1462,
+      "title": "Memories",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/1462"
+    },
+    {
+      "mal_id": 54794,
+      "title": "Metallic Rouge",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/54794"
+    },
+    {
+      "mal_id": 522,
+      "title": "Metropolis",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/522"
+    },
+    {
+      "mal_id": 222,
+      "title": "Mezzo DSA",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/222"
+    },
+    {
+      "mal_id": 4087,
+      "title": "Michiko to Hatchin",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/4087"
+    },
+    {
+      "mal_id": 48483,
+      "title": "Mieruko-chan",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/48483"
+    },
+    {
+      "mal_id": 59207,
+      "title": "Mikadono Sanshimai wa Angai, Choroi.",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/59207"
+    },
+    {
+      "mal_id": 20541,
+      "title": "Mikakunin de Shinkoukei",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/20541"
+    },
+    {
+      "mal_id": 585,
+      "title": "Mimi wo Sumaseba",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/585"
+    },
+    {
+      "mal_id": 31422,
+      "title": "Minami Kamakura Koukou Joshi Jitensha-bu",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/31422"
+    },
+    {
+      "mal_id": 2963,
+      "title": "Minami-ke",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/2963"
+    },
+    {
+      "mal_id": 48590,
+      "title": "Mini Dragon",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/48590"
+    },
+    {
+      "mal_id": 10620,
+      "title": "Mirai Nikki (TV)",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/10620"
+    },
+    {
+      "mal_id": 7627,
+      "title": "Mitsudomoe",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/7627"
+    },
+    {
+      "mal_id": 164,
+      "title": "Mononoke Hime",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/164"
+    },
+    {
+      "mal_id": 30307,
+      "title": "Monster Musume no Iru Nichijou",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/30307"
+    },
+    {
+      "mal_id": 457,
+      "title": "Mushishi",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/457"
+    },
+    {
+      "mal_id": 39535,
+      "title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/39535"
+    },
+    {
+      "mal_id": 45576,
+      "title": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/45576"
+    },
+    {
+      "mal_id": 2926,
+      "title": "Myself; Yourself",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/2926"
+    },
+    {
+      "mal_id": 26351,
+      "title": "Nagato Yuki-chan no Shoushitsu",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/26351"
+    },
+    {
+      "mal_id": 16067,
+      "title": "Nagi no Asu kara",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/16067"
+    },
+    {
+      "mal_id": 877,
+      "title": "Nana",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/877"
+    },
+    {
+      "mal_id": 50593,
+      "title": "Natsu e no Tunnel, Sayonara no Deguchi",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/50593"
+    },
+    {
+      "mal_id": 12119,
+      "title": "Natsu-iro Kiseki",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/12119"
+    },
+    {
+      "mal_id": 12467,
+      "title": "Nazo no Kanojo X",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/12467"
+    },
+    {
+      "mal_id": 15689,
+      "title": "Nekomonogatari: Kuro",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/15689"
+    },
+    {
+      "mal_id": 36038,
+      "title": "Net-juu no Susume",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/36038"
+    },
+    {
+      "mal_id": 36043,
+      "title": "Net-juu no Susume Special",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/36043"
+    },
+    {
+      "mal_id": 31404,
+      "title": "Netoge no Yome wa Onnanoko ja Nai to Omotta?",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/31404"
+    },
+    {
+      "mal_id": 31953,
+      "title": "New Game!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/31953"
+    },
+    {
+      "mal_id": 34914,
+      "title": "New Game!!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/34914"
+    },
+    {
+      "mal_id": 1210,
+      "title": "NHK ni Youkoso!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/1210"
+    },
+    {
+      "mal_id": 51105,
+      "title": "NieR:Automata Ver1.1a",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/51105"
+    },
+    {
+      "mal_id": 56063,
+      "title": "NieR:Automata Ver1.1a Part 2",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/56063"
+    },
+    {
+      "mal_id": 57648,
+      "title": "Nihon e Youkoso Elf-san.",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/57648"
+    },
+    {
+      "mal_id": 31414,
+      "title": "Nijiiro Days",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/31414"
+    },
+    {
+      "mal_id": 18897,
+      "title": "Nisekoi",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/18897"
+    },
+    {
+      "mal_id": 11597,
+      "title": "Nisemonogatari",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/11597"
+    },
+    {
+      "mal_id": 19815,
+      "title": "No Game No Life",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/19815"
+    },
+    {
+      "mal_id": 10161,
+      "title": "No.6",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/10161"
+    },
+    {
+      "mal_id": 38814,
+      "title": "Nobunaga-sensei no Osanazuma",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/38814"
+    },
+    {
+      "mal_id": 1698,
+      "title": "Nodame Cantabile",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/1698"
+    },
+    {
+      "mal_id": 3467,
+      "title": "Nogizaka Haruka no Himitsu",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/3467"
+    },
+    {
+      "mal_id": 17549,
+      "title": "Non Non Biyori",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/17549"
+    },
+    {
+      "mal_id": 20507,
+      "title": "Noragami",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/20507"
+    },
+    {
+      "mal_id": 30503,
+      "title": "Noragami Aragoto",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/30503"
+    },
+    {
+      "mal_id": 53300,
+      "title": "Ojou to Banken-kun",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/53300"
+    },
+    {
+      "mal_id": 55842,
+      "title": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/55842"
+    },
+    {
+      "mal_id": 21557,
+      "title": "Omoide no Marnie",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/21557"
+    },
+    {
+      "mal_id": 1029,
+      "title": "Omoide Poroporo",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/1029"
+    },
+    {
+      "mal_id": 1047,
+      "title": "On Your Mark",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/1047"
+    },
+    {
+      "mal_id": 23427,
+      "title": "Oneechan ga Kita: Hajimete no… Kitaa!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/23427"
+    },
+    {
+      "mal_id": 195,
+      "title": "Onegai☆Teacher",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/195"
+    },
+    {
+      "mal_id": 196,
+      "title": "Onegai☆Twins",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/196"
+    },
+    {
+      "mal_id": 14199,
+      "title": "Oniichan dakedo Ai sae Areba Kankeinai yo ne!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/14199"
+    },
+    {
+      "mal_id": 9587,
+      "title": "Oniichan no Koto nanka Zenzen Suki ja Nai n da kara ne!!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/9587"
+    },
+    {
+      "mal_id": 51678,
+      "title": "Oniichan wa Oshimai!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/51678"
+    },
+    {
+      "mal_id": 12355,
+      "title": "Ookami Kodomo no Ame to Yuki",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/12355"
+    },
+    {
+      "mal_id": 51122,
+      "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/51122"
+    },
+    {
+      "mal_id": 7769,
+      "title": "Ookami-san to Shichinin no Nakama-tachi",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/7769"
+    },
+    {
+      "mal_id": 32729,
+      "title": "Orange",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/32729"
+    },
+    {
+      "mal_id": 28297,
+      "title": "Ore Monogatari!!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/28297"
+    },
+    {
+      "mal_id": 8769,
+      "title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/8769"
+    },
+    {
+      "mal_id": 13659,
+      "title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai.",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/13659"
+    },
+    {
+      "mal_id": 18857,
+      "title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai. Specials",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/18857"
+    },
+    {
+      "mal_id": 14749,
+      "title": "Ore no Kanojo to Osananajimi ga Shuraba Sugiru",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/14749"
+    },
+    {
+      "mal_id": 38483,
+      "title": "Ore wo Suki nano wa Omae dake ka yo",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/38483"
+    },
+    {
+      "mal_id": 43007,
+      "title": "Osananajimi ga Zettai ni Makenai Love Comedy",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/43007"
+    },
+    {
+      "mal_id": 37890,
+      "title": "Oshi ga Budoukan Ittekuretara Shinu",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/37890"
+    },
+    {
+      "mal_id": 62604,
+      "title": "Otaku ni Yasashii Gal wa Inai!?",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/62604"
+    },
+    {
+      "mal_id": 50739,
+      "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/50739"
+    },
+    {
+      "mal_id": 56876,
+      "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/56876"
+    },
+    {
+      "mal_id": 1034,
+      "title": "Ouritsu Uchuugun: Honneamise no Tsubasa",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/1034"
+    },
+    {
+      "mal_id": 26243,
+      "title": "Owari no Seraph",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/26243"
+    },
+    {
+      "mal_id": 28927,
+      "title": "Owari no Seraph: Nagoya Kessen-hen",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/28927"
+    },
+    {
+      "mal_id": 11179,
+      "title": "Papa no Iukoto wo Kikinasai!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/11179"
+    },
+    {
+      "mal_id": 437,
+      "title": "Perfect Blue",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/437"
+    },
+    {
+      "mal_id": 33091,
+      "title": "Planetarian: Chiisana Hoshi no Yume",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/33091"
+    },
+    {
+      "mal_id": 2332,
+      "title": "Plastic Little",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/2332"
+    },
+    {
+      "mal_id": 27775,
+      "title": "Plastic Memories",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/27775"
+    },
+    {
+      "mal_id": 35737,
+      "title": "Pluto",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/35737"
+    },
+    {
+      "mal_id": 61425,
+      "title": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/61425"
+    },
+    {
+      "mal_id": 39292,
+      "title": "Princess Connect! Re:Dive",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/39292"
+    },
+    {
+      "mal_id": 42670,
+      "title": "Princess Connect! Re:Dive Season 2",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/42670"
+    },
+    {
+      "mal_id": 32360,
+      "title": "Qualidea Code",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/32360"
+    },
+    {
+      "mal_id": 208,
+      "title": "R.O.D: Read or Die",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/208"
+    },
+    {
+      "mal_id": 56964,
+      "title": "Raise wa Tanin ga Ii",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/56964"
+    },
+    {
+      "mal_id": 30296,
+      "title": "Rakudai Kishi no Cavalry",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/30296"
+    },
+    {
+      "mal_id": 14921,
+      "title": "RDG: Red Data Girl",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/14921"
+    },
+    {
+      "mal_id": 38414,
+      "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/38414"
+    },
+    {
+      "mal_id": 63082,
+      "title": "Reiwa no Dara-san",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/63082"
+    },
+    {
+      "mal_id": 30015,
+      "title": "ReLIFE",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/30015"
+    },
+    {
+      "mal_id": 35466,
+      "title": "ReLIFE: Kanketsu-hen",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/35466"
+    },
+    {
+      "mal_id": 38992,
+      "title": "Rikei ga Koi ni Ochita no de Shoumei shitemita.",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/38992"
+    },
+    {
+      "mal_id": 13599,
+      "title": "Robotics;Notes",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/13599"
+    },
+    {
+      "mal_id": 59360,
+      "title": "Rock wa Lady no Tashinami deshite",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/59360"
+    },
+    {
+      "mal_id": 22865,
+      "title": "Rokujouma no Shinryakusha!?",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/22865"
+    },
+    {
+      "mal_id": 52865,
+      "title": "Romantic Killer",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/52865"
+    },
+    {
+      "mal_id": 2993,
+      "title": "Rosario to Vampire",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/2993"
+    },
+    {
+      "mal_id": 40392,
+      "title": "Runway de Waratte",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/40392"
+    },
+    {
+      "mal_id": 63188,
+      "title": "Ruri Dragon",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/63188"
+    },
+    {
+      "mal_id": 35905,
+      "title": "Ryuuou no Oshigoto!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/35905"
+    },
+    {
+      "mal_id": 573,
+      "title": "Saber Marionette J",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/573"
+    },
+    {
+      "mal_id": 23277,
+      "title": "Saenai Heroine no Sodatekata",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/23277"
+    },
+    {
+      "mal_id": 30727,
+      "title": "Saenai Heroine no Sodatekata ♭",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/30727"
+    },
+    {
+      "mal_id": 36885,
+      "title": "Saenai Heroine no Sodatekata Fine",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/36885"
+    },
+    {
+      "mal_id": 5671,
+      "title": "Saki",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/5671"
+    },
+    {
+      "mal_id": 34494,
+      "title": "Sakura Quest",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/34494"
+    },
+    {
+      "mal_id": 20047,
+      "title": "Sakura Trick",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/20047"
+    },
+    {
+      "mal_id": 13759,
+      "title": "Sakura-sou no Pet na Kanojo",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/13759"
+    },
+    {
+      "mal_id": 6203,
+      "title": "Sasameki Koto",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/6203"
+    },
+    {
+      "mal_id": 2605,
+      "title": "Sayonara Zetsubou Sensei",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/2605"
+    },
+    {
+      "mal_id": 2476,
+      "title": "School Days",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/2476"
+    },
+    {
+      "mal_id": 167,
+      "title": "Scrapped Princess",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/167"
+    },
+    {
+      "mal_id": 60371,
+      "title": "Seihantai na Kimi to Boku",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/60371"
+    },
+    {
+      "mal_id": 33836,
+      "title": "Seiren",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/33836"
+    },
+    {
+      "mal_id": 37450,
+      "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/37450"
+    },
+    {
+      "mal_id": 53129,
+      "title": "Seishun Buta Yarou wa Odekake Sister no Yume wo Minai",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/53129"
+    },
+    {
+      "mal_id": 54870,
+      "title": "Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/54870"
+    },
+    {
+      "mal_id": 38329,
+      "title": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/38329"
+    },
+    {
+      "mal_id": 8675,
+      "title": "Seitokai Yakuindomo",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/8675"
+    },
+    {
+      "mal_id": 53912,
+      "title": "Seiyuu Radio no Uraomote",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/53912"
+    },
+    {
+      "mal_id": 199,
+      "title": "Sen to Chihiro no Kamikakushi",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/199"
+    },
+    {
+      "mal_id": 5507,
+      "title": "Senjou no Valkyria",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/5507"
+    },
+    {
+      "mal_id": 21573,
+      "title": "Senki Zesshou Symphogear GX",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/21573"
+    },
+    {
+      "mal_id": 42351,
+      "title": "Senpai ga Uzai Kouhai no Hanashi",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/42351"
+    },
+    {
+      "mal_id": 54855,
+      "title": "Senpai wa Otokonoko",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/54855"
+    },
+    {
+      "mal_id": 38787,
+      "title": "Senryuu Shoujo",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/38787"
+    },
+    {
+      "mal_id": 2245,
+      "title": "Seraphim Call",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/2245"
+    },
+    {
+      "mal_id": 339,
+      "title": "Serial Experiments Lain",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/339"
+    },
+    {
+      "mal_id": 18119,
+      "title": "Servant x Service",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/18119"
+    },
+    {
+      "mal_id": 38759,
+      "title": "Sewayaki Kitsune no Senko-san",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/38759"
+    },
+    {
+      "mal_id": 49160,
+      "title": "Shachiku-san wa Youjo Yuurei ni Iyasaretai.",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/49160"
+    },
+    {
+      "mal_id": 43439,
+      "title": "Shadows House",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/43439"
+    },
+    {
+      "mal_id": 49782,
+      "title": "Shadows House 2nd Season",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/49782"
+    },
+    {
+      "mal_id": 20671,
+      "title": "Shashinkan",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/20671"
+    },
+    {
+      "mal_id": 23273,
+      "title": "Shigatsu wa Kimi no Uso",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/23273"
+    },
+    {
+      "mal_id": 58426,
+      "title": "Shikanoko Nokonoko Koshitantan",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/58426"
+    },
+    {
+      "mal_id": 7724,
+      "title": "Shiki",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/7724"
+    },
+    {
+      "mal_id": 3786,
+      "title": "Shin Evangelion Movie:||",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/3786"
+    },
+    {
+      "mal_id": 44037,
+      "title": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/44037"
+    },
+    {
+      "mal_id": 53488,
+      "title": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/53488"
+    },
+    {
+      "mal_id": 16498,
+      "title": "Shingeki no Kyojin",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/16498"
+    },
+    {
+      "mal_id": 25777,
+      "title": "Shingeki no Kyojin Season 2",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/25777"
+    },
+    {
+      "mal_id": 35760,
+      "title": "Shingeki no Kyojin Season 3",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/35760"
+    },
+    {
+      "mal_id": 38524,
+      "title": "Shingeki no Kyojin Season 3 Part 2",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/38524"
+    },
+    {
+      "mal_id": 40028,
+      "title": "Shingeki no Kyojin: The Final Season",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/40028"
+    },
+    {
+      "mal_id": 48583,
+      "title": "Shingeki no Kyojin: The Final Season Part 2",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/48583"
+    },
+    {
+      "mal_id": 47257,
+      "title": "Shinigami Bocchan to Kuro Maid",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/47257"
+    },
+    {
+      "mal_id": 49858,
+      "title": "Shinigami Bocchan to Kuro Maid 2nd Season",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/49858"
+    },
+    {
+      "mal_id": 56738,
+      "title": "Shinigami Bocchan to Kuro Maid 3rd Season",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/56738"
+    },
+    {
+      "mal_id": 23233,
+      "title": "Shinmai Maou no Testament",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/23233"
+    },
+    {
+      "mal_id": 30,
+      "title": "Shinseiki Evangelion",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/30"
+    },
+    {
+      "mal_id": 32,
+      "title": "Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/32"
+    },
+    {
+      "mal_id": 31,
+      "title": "Shinseiki Evangelion Movie: Shi to Shinsei",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/31"
+    },
+    {
+      "mal_id": 25835,
+      "title": "Shirobako",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/25835"
+    },
+    {
+      "mal_id": 46093,
+      "title": "Shiroi Suna no Aquatope",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/46093"
+    },
+    {
+      "mal_id": 58131,
+      "title": "Shiunji-ke no Kodomotachi",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/58131"
+    },
+    {
+      "mal_id": 440,
+      "title": "Shoujo Kakumei Utena",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/440"
+    },
+    {
+      "mal_id": 35838,
+      "title": "Shoujo Shuumatsu Ryokou",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/35838"
+    },
+    {
+      "mal_id": 35503,
+      "title": "Shoujo☆Kageki Revue Starlight",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/35503"
+    },
+    {
+      "mal_id": 33433,
+      "title": "Shuumatsu no Izetta",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/33433"
+    },
+    {
+      "mal_id": 53237,
+      "title": "Shy",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/53237"
+    },
+    {
+      "mal_id": 50416,
+      "title": "Skip to Loafer",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/50416"
+    },
+    {
+      "mal_id": 62068,
+      "title": "Snowball Earth",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/62068"
+    },
+    {
+      "mal_id": 6802,
+      "title": "So Ra No Wo To",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/6802"
+    },
+    {
+      "mal_id": 39575,
+      "title": "Somali to Mori no Kamisama",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/39575"
+    },
+    {
+      "mal_id": 48736,
+      "title": "Sono Bisque Doll wa Koi wo Suru",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/48736"
+    },
+    {
+      "mal_id": 53065,
+      "title": "Sono Bisque Doll wa Koi wo Suru Season 2",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/53065"
+    },
+    {
+      "mal_id": 35839,
+      "title": "Sora yori mo Tooi Basho",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/35839"
+    },
+    {
+      "mal_id": 45653,
+      "title": "Soredemo Ayumu wa Yosetekuru",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/45653"
+    },
+    {
+      "mal_id": 8726,
+      "title": "Soredemo Machi wa Mawatteiru",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/8726"
+    },
+    {
+      "mal_id": 22101,
+      "title": "Soredemo Sekai wa Utsukushii",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/22101"
+    },
+    {
+      "mal_id": 1285,
+      "title": "Soukihei MD Geist",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/1285"
+    },
+    {
+      "mal_id": 1286,
+      "title": "Soukihei MD Geist 2: Death Force",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/1286"
+    },
+    {
+      "mal_id": 39456,
+      "title": "Sounan desu ka?",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/39456"
+    },
+    {
+      "mal_id": 52991,
+      "title": "Sousou no Frieren",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/52991"
+    },
+    {
+      "mal_id": 59978,
+      "title": "Sousou no Frieren 2nd Season",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/59978"
+    },
+    {
+      "mal_id": 2452,
+      "title": "Space Adventure Cobra",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/2452"
+    },
+    {
+      "mal_id": 420,
+      "title": "Spriggan",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/420"
+    },
+    {
+      "mal_id": 50265,
+      "title": "Spy x Family",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/50265"
+    },
+    {
+      "mal_id": 50602,
+      "title": "Spy x Family Part 2",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/50602"
+    },
+    {
+      "mal_id": 35847,
+      "title": "SSSS.Gridman",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/35847"
+    },
+    {
+      "mal_id": 9253,
+      "title": "Steins;Gate",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/9253"
+    },
+    {
+      "mal_id": 30484,
+      "title": "Steins;Gate 0",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/30484"
+    },
+    {
+      "mal_id": 855,
+      "title": "Strawberry Panic",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/855"
+    },
+    {
+      "mal_id": 3667,
+      "title": "Strike Witches",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/3667"
+    },
+    {
+      "mal_id": 54234,
+      "title": "Suki na Ko ga Megane wo Wasureta",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/54234"
+    },
+    {
+      "mal_id": 14289,
+      "title": "Suki tte Ii na yo.",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/14289"
+    },
+    {
+      "mal_id": 50694,
+      "title": "Summer Pockets",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/50694"
+    },
+    {
+      "mal_id": 47194,
+      "title": "Summertime Render",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/47194"
+    },
+    {
+      "mal_id": 3989,
+      "title": "Suna no Bara: Yuki no Mokushiroku",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/3989"
+    },
+    {
+      "mal_id": 36817,
+      "title": "Sunohara-sou no Kanrinin-san",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/36817"
+    },
+    {
+      "mal_id": 40685,
+      "title": "Super Cub",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/40685"
+    },
+    {
+      "mal_id": 390,
+      "title": "Suzuka",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/390"
+    },
+    {
+      "mal_id": 849,
+      "title": "Suzumiya Haruhi no Yuuutsu",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/849"
+    },
+    {
+      "mal_id": 1577,
+      "title": "Taiho Shichau zo",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/1577"
+    },
+    {
+      "mal_id": 45055,
+      "title": "Taishou Otome Otogibanashi",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/45055"
+    },
+    {
+      "mal_id": 60969,
+      "title": "Taiyou yori mo Mabushii Hoshi",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/60969"
+    },
+    {
+      "mal_id": 48556,
+      "title": "Takt Op. Destiny",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/48556"
+    },
+    {
+      "mal_id": 21647,
+      "title": "Tamako Love Story",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/21647"
+    },
+    {
+      "mal_id": 16417,
+      "title": "Tamako Market",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/16417"
+    },
+    {
+      "mal_id": 13333,
+      "title": "Tari Tari",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/13333"
+    },
+    {
+      "mal_id": 12445,
+      "title": "Tasogare Otome x Amnesia",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/12445"
+    },
+    {
+      "mal_id": 53393,
+      "title": "Tengoku Daimakyou",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/53393"
+    },
+    {
+      "mal_id": 56735,
+      "title": "Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/56735"
+    },
+    {
+      "mal_id": 182,
+      "title": "Tenkuu no Escaflowne",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/182"
+    },
+    {
+      "mal_id": 513,
+      "title": "Tenkuu no Shiro Laputa",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/513"
+    },
+    {
+      "mal_id": 34177,
+      "title": "Tenshi no 3P!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/34177"
+    },
+    {
+      "mal_id": 23587,
+      "title": "The iDOLM@STER Cinderella Girls",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/23587"
+    },
+    {
+      "mal_id": 38480,
+      "title": "Toaru Kagaku no Accelerator",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/38480"
+    },
+    {
+      "mal_id": 6213,
+      "title": "Toaru Kagaku no Railgun",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/6213"
+    },
+    {
+      "mal_id": 16049,
+      "title": "Toaru Kagaku no Railgun S",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/16049"
+    },
+    {
+      "mal_id": 22759,
+      "title": "Toaru Kagaku no Railgun S: Daiji na Koto wa Zenbu Sentou ni Osowatta",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/22759"
+    },
+    {
+      "mal_id": 38481,
+      "title": "Toaru Kagaku no Railgun T",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/38481"
+    },
+    {
+      "mal_id": 4654,
+      "title": "Toaru Majutsu no Index",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/4654"
+    },
+    {
+      "mal_id": 8937,
+      "title": "Toaru Majutsu no Index II",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/8937"
+    },
+    {
+      "mal_id": 36432,
+      "title": "Toaru Majutsu no Index III",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/36432"
+    },
+    {
+      "mal_id": 54744,
+      "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/54744"
+    },
+    {
+      "mal_id": 1152,
+      "title": "Tokusou Senshatai Dominion",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/1152"
+    },
+    {
+      "mal_id": 16011,
+      "title": "Tokyo Ravens",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/16011"
+    },
+    {
+      "mal_id": 52305,
+      "title": "Tomo-chan wa Onnanoko!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/52305"
+    },
+    {
+      "mal_id": 47158,
+      "title": "Tomodachi no Imouto ga Ore ni dake Uzai",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/47158"
+    },
+    {
+      "mal_id": 14227,
+      "title": "Tonari no Kaibutsu-kun",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/14227"
+    },
+    {
+      "mal_id": 37579,
+      "title": "Tonari no Kyuuketsuki-san",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/37579"
+    },
+    {
+      "mal_id": 523,
+      "title": "Tonari no Totoro",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/523"
+    },
+    {
+      "mal_id": 41389,
+      "title": "Tonikaku Kawaii",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/41389"
+    },
+    {
+      "mal_id": 50307,
+      "title": "Tonikaku Kawaii 2nd Season",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/50307"
+    },
+    {
+      "mal_id": 1002,
+      "title": "Top wo Nerae 2! Diebuster",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/1002"
+    },
+    {
+      "mal_id": 949,
+      "title": "Top wo Nerae! Gunbuster",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/949"
+    },
+    {
+      "mal_id": 4224,
+      "title": "Toradora!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/4224"
+    },
+    {
+      "mal_id": 62936,
+      "title": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/62936"
+    },
+    {
+      "mal_id": 60395,
+      "title": "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/60395"
+    },
+    {
+      "mal_id": 6,
+      "title": "Trigun",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/6"
+    },
+    {
+      "mal_id": 25157,
+      "title": "Trinity Seven",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/25157"
+    },
+    {
+      "mal_id": 2129,
+      "title": "True Tears",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/2129"
+    },
+    {
+      "mal_id": 34822,
+      "title": "Tsuki ga Kirei",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/34822"
+    },
+    {
+      "mal_id": 54726,
+      "title": "Tsuma, Shougakusei ni Naru.",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/54726"
+    },
+    {
+      "mal_id": 34902,
+      "title": "Tsurezure Children",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/34902"
+    },
+    {
+      "mal_id": 53379,
+      "title": "Uchi no Kaisha no Chiisai Senpai no Hanashi",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/53379"
+    },
+    {
+      "mal_id": 37920,
+      "title": "Ueno-san wa Bukiyou",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/37920"
+    },
+    {
+      "mal_id": 35249,
+      "title": "Uma Musume: Pretty Derby",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/35249"
+    },
+    {
+      "mal_id": 49766,
+      "title": "Under Ninja",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/49766"
+    },
+    {
+      "mal_id": 41392,
+      "title": "Urasekai Picnic",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/41392"
+    },
+    {
+      "mal_id": 10162,
+      "title": "Usagi Drop",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/10162"
+    },
+    {
+      "mal_id": 55689,
+      "title": "Utagoe wa Mille-Feuille",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/55689"
+    },
+    {
+      "mal_id": 41226,
+      "title": "Uzaki-chan wa Asobitai!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/41226"
+    },
+    {
+      "mal_id": 39518,
+      "title": "Vampire in the Garden",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/39518"
+    },
+    {
+      "mal_id": 180,
+      "title": "Vandread",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/180"
+    },
+    {
+      "mal_id": 544,
+      "title": "Venus Senki",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/544"
+    },
+    {
+      "mal_id": 33352,
+      "title": "Violet Evergarden",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/33352"
+    },
+    {
+      "mal_id": 46095,
+      "title": "Vivy: Fluorite Eye's Song",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/46095"
+    },
+    {
+      "mal_id": 19151,
+      "title": "Walkure Romanze",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/19151"
+    },
+    {
+      "mal_id": 51552,
+      "title": "Watashi no Shiawase na Kekkon",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/51552"
+    },
+    {
+      "mal_id": 56701,
+      "title": "Watashi no Shiawase na Kekkon 2nd Season",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/56701"
+    },
+    {
+      "mal_id": 55889,
+      "title": "Watashi no Shiawase na Kekkon: Watashi no Shiawase na Katachi",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/55889"
+    },
+    {
+      "mal_id": 18245,
+      "title": "White Album 2",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/18245"
+    },
+    {
+      "mal_id": 21085,
+      "title": "Witch Craft Works",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/21085"
+    },
+    {
+      "mal_id": 7,
+      "title": "Witch Hunter Robin",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/7"
+    },
+    {
+      "mal_id": 59597,
+      "title": "Witch Watch",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/59597"
+    },
+    {
+      "mal_id": 935,
+      "title": "Witchblade",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/935"
+    },
+    {
+      "mal_id": 43299,
+      "title": "Wonder Egg Priority",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/43299"
+    },
+    {
+      "mal_id": 35968,
+      "title": "Wotaku ni Koi wa Muzukashii",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/35968"
+    },
+    {
+      "mal_id": 37786,
+      "title": "Yagate Kimi ni Naru",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/37786"
+    },
+    {
+      "mal_id": 14813,
+      "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru.",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/14813"
+    },
+    {
+      "mal_id": 39547,
+      "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/39547"
+    },
+    {
+      "mal_id": 46431,
+      "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan: Dakara, Shishunki wa Owarazu ni, Seishun wa Tsuzuiteiku.",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/46431"
+    },
+    {
+      "mal_id": 18753,
+      "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/18753"
+    },
+    {
+      "mal_id": 23847,
+      "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/23847"
+    },
+    {
+      "mal_id": 33161,
+      "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/33161"
+    },
+    {
+      "mal_id": 14355,
+      "title": "Yama no Susume",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/14355"
+    },
+    {
+      "mal_id": 28677,
+      "title": "Yamada-kun to 7-nin no Majo",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/28677"
+    },
+    {
+      "mal_id": 53126,
+      "title": "Yamada-kun to Lv999 no Koi wo Suru",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/53126"
+    },
+    {
+      "mal_id": 60254,
+      "title": "Yano-kun no Futsuu no Hibi",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/60254"
+    },
+    {
+      "mal_id": 57192,
+      "title": "Yeosin Gangnim",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/57192"
+    },
+    {
+      "mal_id": 39710,
+      "title": "Yesterday wo Utatte",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/39710"
+    },
+    {
+      "mal_id": 33421,
+      "title": "Yi Ren Zhi Xia",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/33421"
+    },
+    {
+      "mal_id": 50346,
+      "title": "Yofukashi no Uta",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/50346"
+    },
+    {
+      "mal_id": 58390,
+      "title": "Yofukashi no Uta Season 2",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/58390"
+    },
+    {
+      "mal_id": 32615,
+      "title": "Youjo Senki",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/32615"
+    },
+    {
+      "mal_id": 49233,
+      "title": "Youjo Senki II",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/49233"
+    },
+    {
+      "mal_id": 37055,
+      "title": "Youjo Senki Movie",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/37055"
+    },
+    {
+      "mal_id": 49236,
+      "title": "Youjo Senki: Sabaku no Pasta Daisakusen",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/49236"
+    },
+    {
+      "mal_id": 18497,
+      "title": "Yozakura Quartet: Hana no Uta",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/18497"
+    },
+    {
+      "mal_id": 55866,
+      "title": "Yubisaki to Renren",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/55866"
+    },
+    {
+      "mal_id": 53632,
+      "title": "Yumemiru Danshi wa Genjitsushugisha",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/53632"
+    },
+    {
+      "mal_id": 36726,
+      "title": "Yuragi-sou no Yuuna-san",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/36726"
+    },
+    {
+      "mal_id": 26165,
+      "title": "Yuri Kuma Arashi",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/26165"
+    },
+    {
+      "mal_id": 10495,
+      "title": "Yuru Yuri",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/10495"
+    },
+    {
+      "mal_id": 23225,
+      "title": "Yuru Yuri Nachuyachumi!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/23225"
+    },
+    {
+      "mal_id": 30902,
+      "title": "Yuru Yuri Nachuyachumi!+",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/30902"
+    },
+    {
+      "mal_id": 30279,
+      "title": "Yuru Yuri San☆Hai!",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/30279"
+    },
+    {
+      "mal_id": 12403,
+      "title": "Yuru Yuri♪♪",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/12403"
+    },
+    {
+      "mal_id": 25519,
+      "title": "Yuuki Yuuna wa Yuusha de Aru",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/25519"
+    },
+    {
+      "mal_id": 56009,
+      "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/56009"
+    },
+    {
+      "mal_id": 23283,
+      "title": "Zankyou no Terror",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/23283"
+    },
+    {
+      "mal_id": 14075,
+      "title": "Zetsuen no Tempest",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/14075"
+    },
+    {
+      "mal_id": 36999,
+      "title": "Zoku Owarimonogatari",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/36999"
+    },
+    {
+      "mal_id": 54112,
+      "title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/54112"
+    },
+    {
+      "mal_id": 37976,
+      "title": "Zombieland Saga",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/37976"
+    },
+    {
+      "mal_id": 40174,
+      "title": "Zombieland Saga Revenge",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/40174"
+    },
+    {
+      "mal_id": 52034,
+      "title": "[Oshi no Ko]",
+      "status": null,
+      "score": null,
+      "episodes_watched": null,
+      "is_rewatching": null,
+      "updated_at_mal": null,
+      "mal_url": "https://myanimelist.net/anime/52034"
+    }
+  ]
+}
