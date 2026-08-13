@@ -1,26 +1,52 @@
 import json
 import time
 import urllib.request
+import urllib.error
 from datetime import datetime, timezone
 
 USERNAME = "gryfah"
 BASE_URL = f"https://api.jikan.moe/v4/users/{USERNAME}/animelist"
+
+def fetch_json(url, retries=5):
+    delay = 5
+
+    for attempt in range(1, retries + 1):
+        req = urllib.request.Request(
+            url,
+            headers={
+                "User-Agent": "gryfah-mal-sync/1.0"
+            }
+        )
+
+        try:
+            with urllib.request.urlopen(req, timeout=60) as response:
+                return json.load(response)
+
+        except urllib.error.HTTPError as e:
+            if e.code in (429, 500, 502, 503, 504):
+                print(f"HTTP {e.code} on attempt {attempt}/{retries}")
+            else:
+                raise
+
+        except urllib.error.URLError as e:
+            print(f"Network error on attempt {attempt}/{retries}: {e}")
+
+        if attempt < retries:
+            print(f"Retrying in {delay} seconds...")
+            time.sleep(delay)
+            delay *= 2
+
+    raise RuntimeError(f"Failed to fetch {url} after {retries} attempts")
+
 
 all_entries = []
 page = 1
 
 while True:
     url = f"{BASE_URL}?page={page}"
+    print(f"Fetching page {page}...")
 
-    req = urllib.request.Request(
-        url,
-        headers={
-            "User-Agent": "gryfah-mal-sync/1.0"
-        }
-    )
-
-    with urllib.request.urlopen(req, timeout=30) as response:
-        payload = json.load(response)
+    payload = fetch_json(url)
 
     all_entries.extend(payload.get("data", []))
 
@@ -30,9 +56,8 @@ while True:
         break
 
     page += 1
+    time.sleep(2)
 
-    # Jikan limits requests; be polite.
-    time.sleep(1)
 
 anime = []
 
