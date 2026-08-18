@@ -1,8 +1,8 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-08-18T16:48:14.487428+00:00",
-  "count": 680,
+  "updated_at": "2026-08-18T22:41:42.816609+00:00",
+  "count": 681,
   "sort": "release_start_date_ascending",
   "anime": [
     {
@@ -17735,6 +17735,31 @@
         "PRA"
       ],
       "mal_url": "https://myanimelist.net/anime/58957"
+    },
+    {
+      "mal_id": 59459,
+      "title": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+      "status": "plan_to_watch",
+      "score": 0,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-08-18T18:40:30+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2025-07-05",
+      "release_end_date": "2025-10-05",
+      "release_year": 2025,
+      "release_season": "summer",
+      "media_type": "tv",
+      "num_episodes": 13,
+      "genres": [
+        "Fantasy",
+        "School"
+      ],
+      "studios": [
+        "Studio Gokumi"
+      ],
+      "mal_url": "https://myanimelist.net/anime/59459"
     },
     {
       "mal_id": 53065,
