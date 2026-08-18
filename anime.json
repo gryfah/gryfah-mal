@@ -1,8 +1,8 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-08-17T22:40:28.521672+00:00",
-  "count": 681,
+  "updated_at": "2026-08-18T04:51:39.918265+00:00",
+  "count": 680,
   "sort": "release_start_date_ascending",
   "anime": [
     {
@@ -2706,34 +2706,6 @@
         "Studio Hibari"
       ],
       "mal_url": "https://myanimelist.net/anime/667"
-    },
-    {
-      "mal_id": 849,
-      "title": "Suzumiya Haruhi no Yuuutsu",
-      "status": "plan_to_watch",
-      "score": 0,
-      "episodes_watched": 0,
-      "is_rewatching": false,
-      "updated_at_mal": "2026-02-11T05:34:27+00:00",
-      "user_start_date": null,
-      "user_finish_date": null,
-      "release_start_date": "2006-04-03",
-      "release_end_date": "2006-07-03",
-      "release_year": 2006,
-      "release_season": "spring",
-      "media_type": "tv",
-      "num_episodes": 14,
-      "genres": [
-        "Award Winning",
-        "Comedy",
-        "Mystery",
-        "School",
-        "Sci-Fi"
-      ],
-      "studios": [
-        "Kyoto Animation"
-      ],
-      "mal_url": "https://myanimelist.net/anime/849"
     },
     {
       "mal_id": 962,
