@@ -1,7 +1,7 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-08-20T10:46:56.325834+00:00",
+  "updated_at": "2026-08-20T16:24:16.277146+00:00",
   "count": 681,
   "sort": "release_start_date_ascending",
   "anime": [
@@ -5298,13 +5298,13 @@
     {
       "mal_id": 10721,
       "title": "Mawaru Penguindrum",
-      "status": "plan_to_watch",
-      "score": 0,
-      "episodes_watched": 0,
+      "status": "completed",
+      "score": 7,
+      "episodes_watched": 24,
       "is_rewatching": false,
-      "updated_at_mal": "2025-08-21T11:28:41+00:00",
+      "updated_at_mal": "2026-08-20T14:14:03+00:00",
       "user_start_date": null,
-      "user_finish_date": null,
+      "user_finish_date": "2026-08-20",
       "release_start_date": "2011-07-08",
       "release_end_date": "2011-12-23",
       "release_year": 2011,
