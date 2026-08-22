@@ -1,7 +1,7 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-08-22T19:25:55.867575+00:00",
+  "updated_at": "2026-08-22T20:27:51.515075+00:00",
   "count": 681,
   "sort": "release_start_date_ascending",
   "anime": [
@@ -2875,13 +2875,13 @@
     {
       "mal_id": 1210,
       "title": "NHK ni Youkoso!",
-      "status": "plan_to_watch",
+      "status": "dropped",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 6,
       "is_rewatching": false,
-      "updated_at_mal": "2025-08-21T11:28:41+00:00",
+      "updated_at_mal": "2026-08-22T19:54:01+00:00",
       "user_start_date": null,
-      "user_finish_date": null,
+      "user_finish_date": "2026-08-22",
       "release_start_date": "2006-07-10",
       "release_end_date": "2006-12-18",
       "release_year": 2006,
