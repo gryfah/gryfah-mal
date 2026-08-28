@@ -1,7 +1,7 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-08-28T01:23:03.797345+00:00",
+  "updated_at": "2026-08-28T14:10:50.532330+00:00",
   "count": 681,
   "sort": "release_start_date_ascending",
   "anime": [
@@ -16464,6 +16464,7 @@
       "num_episodes": 1,
       "genres": [
         "Adult Cast",
+        "Drama",
         "Fantasy",
         "Historical",
         "Romance"
