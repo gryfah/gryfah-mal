@@ -1,7 +1,7 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-08-29T17:36:22.193801+00:00",
+  "updated_at": "2026-08-29T20:43:29.930198+00:00",
   "count": 681,
   "sort": "release_start_date_ascending",
   "anime": [
@@ -2514,12 +2514,12 @@
     {
       "mal_id": 237,
       "title": "Koukyoushihen Eureka Seven",
-      "status": "plan_to_watch",
+      "status": "dropped",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 17,
       "is_rewatching": false,
-      "updated_at_mal": "2026-07-03T12:24:40+00:00",
-      "user_start_date": null,
+      "updated_at_mal": "2026-08-29T19:09:50+00:00",
+      "user_start_date": "2026-08-29",
       "user_finish_date": null,
       "release_start_date": "2005-04-17",
       "release_end_date": "2006-04-02",
