@@ -1,7 +1,7 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-08-31T01:14:27.170907+00:00",
+  "updated_at": "2026-08-31T08:25:18.279949+00:00",
   "count": 681,
   "sort": "release_start_date_ascending",
   "anime": [
@@ -2651,13 +2651,13 @@
     {
       "mal_id": 457,
       "title": "Mushishi",
-      "status": "plan_to_watch",
+      "status": "dropped",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 3,
       "is_rewatching": false,
-      "updated_at_mal": "2025-08-21T11:28:41+00:00",
+      "updated_at_mal": "2026-08-31T05:28:13+00:00",
       "user_start_date": null,
-      "user_finish_date": null,
+      "user_finish_date": "2026-08-31",
       "release_start_date": "2005-10-23",
       "release_end_date": "2006-06-19",
       "release_year": 2005,
