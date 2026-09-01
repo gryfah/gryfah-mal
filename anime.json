@@ -1,7 +1,7 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-09-01T01:07:31.510096+00:00",
+  "updated_at": "2026-09-01T07:32:34.881038+00:00",
   "count": 681,
   "sort": "release_start_date_ascending",
   "anime": [
@@ -6698,13 +6698,13 @@
     {
       "mal_id": 14669,
       "title": "Aura: Maryuuin Kouga Saigo no Tatakai",
-      "status": "plan_to_watch",
+      "status": "dropped",
       "score": 0,
       "episodes_watched": 0,
       "is_rewatching": false,
-      "updated_at_mal": "2026-07-03T12:22:02+00:00",
+      "updated_at_mal": "2026-09-01T04:11:04+00:00",
       "user_start_date": null,
-      "user_finish_date": null,
+      "user_finish_date": "2026-09-01",
       "release_start_date": "2013-04-13",
       "release_end_date": "2013-04-13",
       "release_year": 2013,
