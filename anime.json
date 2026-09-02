@@ -1,7 +1,7 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-09-02T13:26:47.458784+00:00",
+  "updated_at": "2026-09-02T17:46:09.547583+00:00",
   "count": 682,
   "sort": "release_start_date_ascending",
   "anime": [
@@ -2485,11 +2485,11 @@
     {
       "mal_id": 16,
       "title": "Hachimitsu to Clover",
-      "status": "plan_to_watch",
+      "status": "dropped",
       "score": 0,
       "episodes_watched": 0,
       "is_rewatching": false,
-      "updated_at_mal": "2025-10-07T06:03:54+00:00",
+      "updated_at_mal": "2026-09-02T13:55:03+00:00",
       "user_start_date": null,
       "user_finish_date": null,
       "release_start_date": "2005-04-15",
