@@ -1,8 +1,8 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-09-02T03:48:56.771704+00:00",
-  "count": 681,
+  "updated_at": "2026-09-02T08:37:48.844023+00:00",
+  "count": 682,
   "sort": "release_start_date_ascending",
   "anime": [
     {
@@ -5580,11 +5580,11 @@
     {
       "mal_id": 11433,
       "title": "Ano Natsu de Matteru",
-      "status": "plan_to_watch",
+      "status": "dropped",
       "score": 0,
       "episodes_watched": 0,
       "is_rewatching": false,
-      "updated_at_mal": "2026-07-03T12:21:46+00:00",
+      "updated_at_mal": "2026-09-02T04:34:20+00:00",
       "user_start_date": null,
       "user_finish_date": null,
       "release_start_date": "2012-01-10",
@@ -6475,11 +6475,11 @@
     {
       "mal_id": 14175,
       "title": "Hanasaku Iroha Movie: Home Sweet Home",
-      "status": "plan_to_watch",
+      "status": "dropped",
       "score": 0,
       "episodes_watched": 0,
       "is_rewatching": false,
-      "updated_at_mal": "2025-12-16T05:04:26+00:00",
+      "updated_at_mal": "2026-09-02T04:45:21+00:00",
       "user_start_date": null,
       "user_finish_date": null,
       "release_start_date": "2013-03-09",
@@ -7858,6 +7858,32 @@
         "Studio Ghibli"
       ],
       "mal_url": "https://myanimelist.net/anime/21557"
+    },
+    {
+      "mal_id": 23447,
+      "title": "Ano Natsu de Matteru: Bokutachi wa Koukou Saigo no Natsu wo Sugoshinagara, Ano Natsu de Matteiru.",
+      "status": "completed",
+      "score": 5,
+      "episodes_watched": 1,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-09-02T04:34:27+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2026-09-02",
+      "release_start_date": "2014-08-29",
+      "release_end_date": "2014-08-29",
+      "release_year": 2014,
+      "release_season": "summer",
+      "media_type": "special",
+      "num_episodes": 1,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "studios": [
+        "J.C.Staff"
+      ],
+      "mal_url": "https://myanimelist.net/anime/23447"
     },
     {
       "mal_id": 24031,
