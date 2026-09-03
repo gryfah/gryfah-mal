@@ -1,8 +1,8 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-09-03T03:48:30.450711+00:00",
-  "count": 682,
+  "updated_at": "2026-09-03T08:46:23.962658+00:00",
+  "count": 683,
   "sort": "release_start_date_ascending",
   "anime": [
     {
@@ -18298,6 +18298,32 @@
         "Project No.9"
       ],
       "mal_url": "https://myanimelist.net/anime/60395"
+    },
+    {
+      "mal_id": 60223,
+      "title": "Kaya-chan wa Kowakunai",
+      "status": "plan_to_watch",
+      "score": 0,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-09-03T06:58:44+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2026-01-11",
+      "release_end_date": "2026-03-29",
+      "release_year": 2026,
+      "release_season": "winter",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Horror",
+        "School",
+        "Supernatural"
+      ],
+      "studios": [
+        "East Fish Studio"
+      ],
+      "mal_url": "https://myanimelist.net/anime/60223"
     },
     {
       "mal_id": 60371,
