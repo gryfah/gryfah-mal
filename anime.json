@@ -1,7 +1,7 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-09-03T08:46:23.962658+00:00",
+  "updated_at": "2026-09-03T13:25:02.814560+00:00",
   "count": 683,
   "sort": "release_start_date_ascending",
   "anime": [
@@ -7835,13 +7835,13 @@
     {
       "mal_id": 21557,
       "title": "Omoide no Marnie",
-      "status": "plan_to_watch",
-      "score": 0,
-      "episodes_watched": 0,
+      "status": "completed",
+      "score": 8,
+      "episodes_watched": 1,
       "is_rewatching": false,
-      "updated_at_mal": "2026-07-03T12:26:31+00:00",
+      "updated_at_mal": "2026-09-03T11:49:11+00:00",
       "user_start_date": null,
-      "user_finish_date": null,
+      "user_finish_date": "2026-09-03",
       "release_start_date": "2014-07-19",
       "release_end_date": "2014-07-19",
       "release_year": 2014,
