@@ -1,8 +1,8 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-09-03T13:25:02.814560+00:00",
-  "count": 683,
+  "updated_at": "2026-09-03T17:41:53.363359+00:00",
+  "count": 682,
   "sort": "release_start_date_ascending",
   "anime": [
     {
@@ -7188,34 +7188,6 @@
         "8bit"
       ],
       "mal_url": "https://myanimelist.net/anime/16011"
-    },
-    {
-      "mal_id": 11981,
-      "title": "Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari",
-      "status": "plan_to_watch",
-      "score": 0,
-      "episodes_watched": 0,
-      "is_rewatching": false,
-      "updated_at_mal": "2025-08-21T11:28:41+00:00",
-      "user_start_date": null,
-      "user_finish_date": null,
-      "release_start_date": "2013-10-26",
-      "release_end_date": "2013-10-26",
-      "release_year": 2013,
-      "release_season": "fall",
-      "media_type": "movie",
-      "num_episodes": 1,
-      "genres": [
-        "Award Winning",
-        "Drama",
-        "Mahou Shoujo",
-        "Psychological",
-        "Suspense"
-      ],
-      "studios": [
-        "Shaft"
-      ],
-      "mal_url": "https://myanimelist.net/anime/11981"
     },
     {
       "mal_id": 20671,
