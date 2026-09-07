@@ -1,8 +1,8 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-09-07T09:09:30.255631+00:00",
-  "count": 682,
+  "updated_at": "2026-09-07T15:38:46.519317+00:00",
+  "count": 683,
   "sort": "release_start_date_ascending",
   "anime": [
     {
@@ -12793,6 +12793,34 @@
         "Brain's Base"
       ],
       "mal_url": "https://myanimelist.net/anime/39017"
+    },
+    {
+      "mal_id": 40716,
+      "title": "Kakushigoto",
+      "status": "plan_to_watch",
+      "score": 0,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-09-07T09:22:42+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2020-04-02",
+      "release_end_date": "2020-06-18",
+      "release_year": 2020,
+      "release_season": "spring",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Childcare",
+        "Comedy",
+        "Gag Humor",
+        "Otaku Culture",
+        "Shounen"
+      ],
+      "studios": [
+        "Ajia-do"
+      ],
+      "mal_url": "https://myanimelist.net/anime/40716"
     },
     {
       "mal_id": 42519,
