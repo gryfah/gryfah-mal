@@ -1,8 +1,8 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-09-11T00:58:54.626734+00:00",
-  "count": 683,
+  "updated_at": "2026-09-11T05:49:20.312106+00:00",
+  "count": 684,
   "sort": "release_start_date_ascending",
   "anime": [
     {
@@ -5655,6 +5655,34 @@
         "feel."
       ],
       "mal_url": "https://myanimelist.net/anime/11179"
+    },
+    {
+      "mal_id": 11013,
+      "title": "Inu x Boku SS",
+      "status": "plan_to_watch",
+      "score": 0,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-09-11T04:04:49+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2012-01-13",
+      "release_end_date": "2012-03-30",
+      "release_year": 2012,
+      "release_season": "winter",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Comedy",
+        "Mythology",
+        "Romance",
+        "Shounen",
+        "Supernatural"
+      ],
+      "studios": [
+        "David Production"
+      ],
+      "mal_url": "https://myanimelist.net/anime/11013"
     },
     {
       "mal_id": 11739,
