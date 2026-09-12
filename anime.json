@@ -1,7 +1,7 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-09-12T19:04:26.971327+00:00",
+  "updated_at": "2026-09-12T22:03:23.587976+00:00",
   "count": 684,
   "sort": "release_start_date_ascending",
   "anime": [
@@ -7972,13 +7972,13 @@
     {
       "mal_id": 25731,
       "title": "Cross Ange: Tenshi to Ryuu no Rondo",
-      "status": "plan_to_watch",
-      "score": 0,
-      "episodes_watched": 0,
+      "status": "completed",
+      "score": 7,
+      "episodes_watched": 25,
       "is_rewatching": false,
-      "updated_at_mal": "2026-07-03T12:22:24+00:00",
+      "updated_at_mal": "2026-09-12T20:53:42+00:00",
       "user_start_date": null,
-      "user_finish_date": null,
+      "user_finish_date": "2026-09-12",
       "release_start_date": "2014-10-05",
       "release_end_date": "2015-03-29",
       "release_year": 2014,
