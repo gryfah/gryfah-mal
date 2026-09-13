@@ -1,8 +1,8 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-09-12T22:03:23.587976+00:00",
-  "count": 684,
+  "updated_at": "2026-09-13T00:42:30.443617+00:00",
+  "count": 683,
   "sort": "release_start_date_ascending",
   "anime": [
     {
@@ -7216,31 +7216,6 @@
         "8bit"
       ],
       "mal_url": "https://myanimelist.net/anime/16011"
-    },
-    {
-      "mal_id": 20671,
-      "title": "Shashinkan",
-      "status": "plan_to_watch",
-      "score": 0,
-      "episodes_watched": 0,
-      "is_rewatching": false,
-      "updated_at_mal": "2026-07-03T12:27:40+00:00",
-      "user_start_date": null,
-      "user_finish_date": null,
-      "release_start_date": "2013-11-09",
-      "release_end_date": "2013-11-09",
-      "release_year": 2013,
-      "release_season": "fall",
-      "media_type": "movie",
-      "num_episodes": 1,
-      "genres": [
-        "Drama",
-        "Historical"
-      ],
-      "studios": [
-        "Studio Colorido"
-      ],
-      "mal_url": "https://myanimelist.net/anime/20671"
     },
     {
       "mal_id": 20507,
