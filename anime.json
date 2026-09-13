@@ -1,8 +1,8 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-09-13T21:18:14.898430+00:00",
-  "count": 683,
+  "updated_at": "2026-09-13T23:58:38.452128+00:00",
+  "count": 682,
   "sort": "release_start_date_ascending",
   "anime": [
     {
@@ -5659,13 +5659,13 @@
     {
       "mal_id": 11013,
       "title": "Inu x Boku SS",
-      "status": "plan_to_watch",
+      "status": "dropped",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 3,
       "is_rewatching": false,
-      "updated_at_mal": "2026-09-11T04:04:49+00:00",
+      "updated_at_mal": "2026-09-13T21:36:54+00:00",
       "user_start_date": null,
-      "user_finish_date": null,
+      "user_finish_date": "2026-09-13",
       "release_start_date": "2012-01-13",
       "release_end_date": "2012-03-30",
       "release_year": 2012,
@@ -7103,35 +7103,6 @@
         "Satelight"
       ],
       "mal_url": "https://myanimelist.net/anime/18245"
-    },
-    {
-      "mal_id": 18497,
-      "title": "Yozakura Quartet: Hana no Uta",
-      "status": "plan_to_watch",
-      "score": 0,
-      "episodes_watched": 0,
-      "is_rewatching": false,
-      "updated_at_mal": "2025-12-05T12:24:40+00:00",
-      "user_start_date": null,
-      "user_finish_date": null,
-      "release_start_date": "2013-10-06",
-      "release_end_date": "2013-12-29",
-      "release_year": 2013,
-      "release_season": "fall",
-      "media_type": "tv",
-      "num_episodes": 13,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Fantasy",
-        "Mythology",
-        "Shounen",
-        "Urban Fantasy"
-      ],
-      "studios": [
-        "Tatsunoko Production"
-      ],
-      "mal_url": "https://myanimelist.net/anime/18497"
     },
     {
       "mal_id": 19151,
