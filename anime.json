@@ -1,8 +1,8 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-09-17T13:14:19.205938+00:00",
-  "count": 682,
+  "updated_at": "2026-09-17T18:03:25.598473+00:00",
+  "count": 685,
   "sort": "release_start_date_ascending",
   "anime": [
     {
@@ -6315,13 +6315,13 @@
     {
       "mal_id": 14355,
       "title": "Yama no Susume",
-      "status": "plan_to_watch",
-      "score": 0,
-      "episodes_watched": 0,
+      "status": "completed",
+      "score": 6,
+      "episodes_watched": 12,
       "is_rewatching": false,
-      "updated_at_mal": "2025-09-15T04:23:02+00:00",
+      "updated_at_mal": "2026-09-17T14:54:33+00:00",
       "user_start_date": null,
-      "user_finish_date": null,
+      "user_finish_date": "2026-09-17",
       "release_start_date": "2013-01-03",
       "release_end_date": "2013-03-21",
       "release_year": 2013,
@@ -6748,6 +6748,33 @@
         "AIC ASTA"
       ],
       "mal_url": "https://myanimelist.net/anime/14669"
+    },
+    {
+      "mal_id": 17341,
+      "title": "Yama no Susume: Kabe tte Kowakunai no?",
+      "status": "completed",
+      "score": 6,
+      "episodes_watched": 1,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-09-17T14:55:03+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2026-09-17",
+      "release_start_date": "2013-05-24",
+      "release_end_date": "2013-05-24",
+      "release_year": 2013,
+      "release_season": "spring",
+      "media_type": "special",
+      "num_episodes": 1,
+      "genres": [
+        "Adventure",
+        "CGDCT",
+        "Iyashikei",
+        "Slice of Life"
+      ],
+      "studios": [
+        "8bit"
+      ],
+      "mal_url": "https://myanimelist.net/anime/17341"
     },
     {
       "mal_id": 16782,
@@ -7722,6 +7749,33 @@
         "Production I.G"
       ],
       "mal_url": "https://myanimelist.net/anime/21995"
+    },
+    {
+      "mal_id": 21435,
+      "title": "Yama no Susume Second Season",
+      "status": "completed",
+      "score": 6,
+      "episodes_watched": 24,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-09-17T14:54:47+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2026-09-17",
+      "release_start_date": "2014-07-09",
+      "release_end_date": "2014-12-24",
+      "release_year": 2014,
+      "release_season": "summer",
+      "media_type": "tv",
+      "num_episodes": 24,
+      "genres": [
+        "Adventure",
+        "CGDCT",
+        "Iyashikei",
+        "Slice of Life"
+      ],
+      "studios": [
+        "8bit"
+      ],
+      "mal_url": "https://myanimelist.net/anime/21435"
     },
     {
       "mal_id": 23283,
@@ -11087,6 +11141,33 @@
         "LIDENFILMS"
       ],
       "mal_url": "https://myanimelist.net/anime/37259"
+    },
+    {
+      "mal_id": 35672,
+      "title": "Yama no Susume Third Season",
+      "status": "dropped",
+      "score": 0,
+      "episodes_watched": 3,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-09-17T14:55:28+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2018-07-03",
+      "release_end_date": "2018-09-25",
+      "release_year": 2018,
+      "release_season": "summer",
+      "media_type": "tv",
+      "num_episodes": 13,
+      "genres": [
+        "Adventure",
+        "CGDCT",
+        "Iyashikei",
+        "Slice of Life"
+      ],
+      "studios": [
+        "8bit"
+      ],
+      "mal_url": "https://myanimelist.net/anime/35672"
     },
     {
       "mal_id": 36873,
