@@ -1,7 +1,7 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-09-17T18:03:25.598473+00:00",
+  "updated_at": "2026-09-17T21:59:25.279891+00:00",
   "count": 685,
   "sort": "release_start_date_ascending",
   "anime": [
@@ -11149,9 +11149,9 @@
       "score": 0,
       "episodes_watched": 3,
       "is_rewatching": false,
-      "updated_at_mal": "2026-09-17T14:55:28+00:00",
+      "updated_at_mal": "2026-09-17T18:41:52+00:00",
       "user_start_date": null,
-      "user_finish_date": null,
+      "user_finish_date": "2026-09-17",
       "release_start_date": "2018-07-03",
       "release_end_date": "2018-09-25",
       "release_year": 2018,
