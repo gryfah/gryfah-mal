@@ -1,7 +1,7 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-09-18T10:53:36.397505+00:00",
+  "updated_at": "2026-09-18T14:51:49.996771+00:00",
   "count": 685,
   "sort": "release_start_date_ascending",
   "anime": [
@@ -18357,11 +18357,11 @@
     {
       "mal_id": 60223,
       "title": "Kaya-chan wa Kowakunai",
-      "status": "plan_to_watch",
+      "status": "dropped",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 6,
       "is_rewatching": false,
-      "updated_at_mal": "2026-09-03T06:58:44+00:00",
+      "updated_at_mal": "2026-09-18T14:21:35+00:00",
       "user_start_date": null,
       "user_finish_date": null,
       "release_start_date": "2026-01-11",
