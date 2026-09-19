@@ -1,7 +1,7 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-09-18T21:31:22.562024+00:00",
+  "updated_at": "2026-09-19T00:01:04.719303+00:00",
   "count": 685,
   "sort": "release_start_date_ascending",
   "anime": [
@@ -10915,6 +10915,7 @@
       "genres": [
         "Anthropomorphic",
         "Racing",
+        "School",
         "Sports"
       ],
       "studios": [
