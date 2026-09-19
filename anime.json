@@ -1,8 +1,8 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-09-19T09:17:49.497870+00:00",
-  "count": 685,
+  "updated_at": "2026-09-19T13:47:45.037751+00:00",
+  "count": 686,
   "sort": "release_start_date_ascending",
   "anime": [
     {
@@ -7615,6 +7615,33 @@
         "Madhouse"
       ],
       "mal_url": "https://myanimelist.net/anime/19815"
+    },
+    {
+      "mal_id": 21273,
+      "title": "Gochuumon wa Usagi desu ka?",
+      "status": "plan_to_watch",
+      "score": 0,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-09-19T11:25:54+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2014-04-10",
+      "release_end_date": "2014-06-26",
+      "release_year": 2014,
+      "release_season": "spring",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "CGDCT",
+        "Iyashikei",
+        "Slice of Life",
+        "Workplace"
+      ],
+      "studios": [
+        "White Fox"
+      ],
+      "mal_url": "https://myanimelist.net/anime/21273"
     },
     {
       "mal_id": 22123,
