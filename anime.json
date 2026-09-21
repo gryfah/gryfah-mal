@@ -1,7 +1,7 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-09-21T10:31:44.320327+00:00",
+  "updated_at": "2026-09-21T16:54:04.068597+00:00",
   "count": 686,
   "sort": "release_start_date_ascending",
   "anime": [
@@ -9577,13 +9577,13 @@
     {
       "mal_id": 32979,
       "title": "Flip Flappers",
-      "status": "plan_to_watch",
+      "status": "dropped",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 2,
       "is_rewatching": false,
-      "updated_at_mal": "2026-07-03T12:22:39+00:00",
+      "updated_at_mal": "2026-09-21T13:24:53+00:00",
       "user_start_date": null,
-      "user_finish_date": null,
+      "user_finish_date": "2026-09-21",
       "release_start_date": "2016-10-06",
       "release_end_date": "2016-12-29",
       "release_year": 2016,
