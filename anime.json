@@ -1,7 +1,7 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-09-20T23:59:00.913995+00:00",
+  "updated_at": "2026-09-21T04:43:39.452288+00:00",
   "count": 686,
   "sort": "release_start_date_ascending",
   "anime": [
@@ -3615,13 +3615,13 @@
     {
       "mal_id": 3467,
       "title": "Nogizaka Haruka no Himitsu",
-      "status": "plan_to_watch",
-      "score": 0,
-      "episodes_watched": 0,
+      "status": "completed",
+      "score": 6,
+      "episodes_watched": 12,
       "is_rewatching": false,
-      "updated_at_mal": "2026-03-04T10:35:50+00:00",
+      "updated_at_mal": "2026-09-21T04:39:34+00:00",
       "user_start_date": null,
-      "user_finish_date": null,
+      "user_finish_date": "2026-09-21",
       "release_start_date": "2008-07-11",
       "release_end_date": "2008-09-26",
       "release_year": 2008,
