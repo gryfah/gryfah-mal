@@ -1,7 +1,7 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-09-21T04:43:39.452288+00:00",
+  "updated_at": "2026-09-21T10:31:44.320327+00:00",
   "count": 686,
   "sort": "release_start_date_ascending",
   "anime": [
@@ -17716,13 +17716,13 @@
     {
       "mal_id": 59897,
       "title": "Kobayashi-san Chi no Maid Dragon: Samishigariya no Ryuu",
-      "status": "plan_to_watch",
-      "score": 0,
-      "episodes_watched": 0,
+      "status": "completed",
+      "score": 8,
+      "episodes_watched": 1,
       "is_rewatching": false,
-      "updated_at_mal": "2025-05-24T22:31:56+00:00",
+      "updated_at_mal": "2026-09-21T09:42:54+00:00",
       "user_start_date": null,
-      "user_finish_date": null,
+      "user_finish_date": "2026-09-21",
       "release_start_date": "2025-06-27",
       "release_end_date": "2025-06-27",
       "release_year": 2025,
