@@ -1,8 +1,8 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-09-24T14:45:34.800329+00:00",
-  "count": 687,
+  "updated_at": "2026-09-24T18:54:38.789709+00:00",
+  "count": 688,
   "sort": "release_start_date_ascending",
   "anime": [
     {
@@ -18787,6 +18787,31 @@
         "Nut"
       ],
       "mal_url": "https://myanimelist.net/anime/49233"
+    },
+    {
+      "mal_id": 62476,
+      "title": "Tefuda ga Oome no Victoria",
+      "status": "plan_to_watch",
+      "score": 0,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-09-24T17:23:56+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2026-07-08",
+      "release_end_date": "2026-09-02",
+      "release_year": 2026,
+      "release_season": "summer",
+      "media_type": "tv",
+      "num_episodes": 9,
+      "genres": [
+        "Childcare",
+        "Romance"
+      ],
+      "studios": [
+        "Studio Deen"
+      ],
+      "mal_url": "https://myanimelist.net/anime/62476"
     },
     {
       "mal_id": 54440,
