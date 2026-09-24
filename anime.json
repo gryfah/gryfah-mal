@@ -1,8 +1,8 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-09-24T09:46:30.996456+00:00",
-  "count": 686,
+  "updated_at": "2026-09-24T14:45:34.800329+00:00",
+  "count": 687,
   "sort": "release_start_date_ascending",
   "anime": [
     {
@@ -17095,6 +17095,34 @@
         "Cocktail Media"
       ],
       "mal_url": "https://myanimelist.net/anime/57192"
+    },
+    {
+      "mal_id": 52080,
+      "title": "Murai no Koi",
+      "status": "plan_to_watch",
+      "score": 0,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-09-24T11:18:18+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2024-09-04",
+      "release_end_date": "2024-11-20",
+      "release_year": 2024,
+      "release_season": "summer",
+      "media_type": "ona",
+      "num_episodes": 12,
+      "genres": [
+        "Comedy",
+        "Gag Humor",
+        "Otaku Culture",
+        "Romance",
+        "School"
+      ],
+      "studios": [
+        "J.C.Staff"
+      ],
+      "mal_url": "https://myanimelist.net/anime/52080"
     },
     {
       "mal_id": 55071,
