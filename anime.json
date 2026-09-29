@@ -1,7 +1,7 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-09-28T21:43:08.728953+00:00",
+  "updated_at": "2026-09-29T01:38:27.199303+00:00",
   "count": 689,
   "sort": "release_start_date_ascending",
   "anime": [
@@ -4777,7 +4777,7 @@
     },
     {
       "mal_id": 9756,
-      "title": "Mahou Shoujo Madoka★Magica",
+      "title": "Mahou Shoujo Madoka☆Magica",
       "status": "completed",
       "score": 7,
       "episodes_watched": 12,
