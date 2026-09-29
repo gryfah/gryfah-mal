@@ -1,8 +1,8 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-09-29T01:38:27.199303+00:00",
-  "count": 689,
+  "updated_at": "2026-09-29T08:09:01.565868+00:00",
+  "count": 691,
   "sort": "release_start_date_ascending",
   "anime": [
     {
@@ -17769,6 +17769,31 @@
       "mal_url": "https://myanimelist.net/anime/58131"
     },
     {
+      "mal_id": 59848,
+      "title": "Virgin Punk: Clockwork Girl",
+      "status": "plan_to_watch",
+      "score": 0,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-09-29T07:03:38+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2025-06-27",
+      "release_end_date": "2025-06-27",
+      "release_year": 2025,
+      "release_season": "spring",
+      "media_type": "movie",
+      "num_episodes": 1,
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "studios": [
+        "Shaft"
+      ],
+      "mal_url": "https://myanimelist.net/anime/59848"
+    },
+    {
       "mal_id": 59897,
       "title": "Kobayashi-san Chi no Maid Dragon: Samishigariya no Ryuu",
       "status": "completed",
@@ -18888,6 +18913,33 @@
         "Kyoto Animation"
       ],
       "mal_url": "https://myanimelist.net/anime/63188"
+    },
+    {
+      "mal_id": 64419,
+      "title": "Nisemono no Renkinjutsushi",
+      "status": "plan_to_watch",
+      "score": 0,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-09-29T06:55:01+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": null,
+      "release_end_date": null,
+      "release_year": null,
+      "release_season": null,
+      "media_type": "tv",
+      "num_episodes": 0,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Isekai",
+        "Romance"
+      ],
+      "studios": [
+        "Passione"
+      ],
+      "mal_url": "https://myanimelist.net/anime/64419"
     }
   ]
 }
