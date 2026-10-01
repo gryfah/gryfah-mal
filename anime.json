@@ -1,7 +1,7 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-10-01T16:11:15.021653+00:00",
+  "updated_at": "2026-10-01T21:41:38.566484+00:00",
   "count": 691,
   "sort": "release_start_date_ascending",
   "anime": [
@@ -10235,13 +10235,13 @@
     {
       "mal_id": 34599,
       "title": "Made in Abyss",
-      "status": "plan_to_watch",
-      "score": 0,
-      "episodes_watched": 0,
+      "status": "completed",
+      "score": 7,
+      "episodes_watched": 13,
       "is_rewatching": false,
-      "updated_at_mal": "2026-07-03T12:25:20+00:00",
+      "updated_at_mal": "2026-10-01T20:41:20+00:00",
       "user_start_date": null,
-      "user_finish_date": null,
+      "user_finish_date": "2026-10-01",
       "release_start_date": "2017-07-07",
       "release_end_date": "2017-09-29",
       "release_year": 2017,
