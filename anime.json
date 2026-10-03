@@ -1,8 +1,8 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-10-02T20:31:38.898915+00:00",
-  "count": 691,
+  "updated_at": "2026-10-03T00:17:37.379411+00:00",
+  "count": 692,
   "sort": "release_start_date_ascending",
   "anime": [
     {
@@ -12876,6 +12876,35 @@
         "Brain's Base"
       ],
       "mal_url": "https://myanimelist.net/anime/39017"
+    },
+    {
+      "mal_id": 36862,
+      "title": "Made in Abyss Movie 3: Fukaki Tamashii no Reimei",
+      "status": "completed",
+      "score": 7,
+      "episodes_watched": 1,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-10-02T21:24:37+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2026-10-02",
+      "release_start_date": "2020-01-17",
+      "release_end_date": "2020-01-17",
+      "release_year": 2020,
+      "release_season": "winter",
+      "media_type": "movie",
+      "num_episodes": 1,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Gore",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "studios": [
+        "Kinema Citrus"
+      ],
+      "mal_url": "https://myanimelist.net/anime/36862"
     },
     {
       "mal_id": 40716,
