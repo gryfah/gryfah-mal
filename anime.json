@@ -1,8 +1,8 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-10-04T12:03:14.422102+00:00",
-  "count": 692,
+  "updated_at": "2026-10-04T17:22:10.459997+00:00",
+  "count": 693,
   "sort": "release_start_date_ascending",
   "anime": [
     {
@@ -15122,6 +15122,35 @@
         "A-1 Pictures"
       ],
       "mal_url": "https://myanimelist.net/anime/51417"
+    },
+    {
+      "mal_id": 41084,
+      "title": "Made in Abyss: Retsujitsu no Ougonkyou",
+      "status": "dropped",
+      "score": 0,
+      "episodes_watched": 5,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-10-04T12:58:21+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2026-10-04",
+      "release_start_date": "2022-07-06",
+      "release_end_date": "2022-09-28",
+      "release_year": 2022,
+      "release_season": "summer",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Gore",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "studios": [
+        "Kinema Citrus"
+      ],
+      "mal_url": "https://myanimelist.net/anime/41084"
     },
     {
       "mal_id": 49470,
