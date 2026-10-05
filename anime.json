@@ -1,8 +1,8 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-10-05T00:35:20.417034+00:00",
-  "count": 693,
+  "updated_at": "2026-10-05T06:41:27.826899+00:00",
+  "count": 694,
   "sort": "release_start_date_ascending",
   "anime": [
     {
@@ -4146,6 +4146,33 @@
         "Shaft"
       ],
       "mal_url": "https://myanimelist.net/anime/5081"
+    },
+    {
+      "mal_id": 6098,
+      "title": "Sora no Manimani",
+      "status": "plan_to_watch",
+      "score": 0,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-10-05T04:03:17+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2009-07-07",
+      "release_end_date": "2009-09-22",
+      "release_year": 2009,
+      "release_season": "summer",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "School",
+        "Seinen"
+      ],
+      "studios": [
+        "Studio Comet"
+      ],
+      "mal_url": "https://myanimelist.net/anime/6098"
     },
     {
       "mal_id": 5205,
