@@ -1,8 +1,8 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-10-05T15:43:18.932010+00:00",
-  "count": 694,
+  "updated_at": "2026-10-05T22:24:22.677999+00:00",
+  "count": 695,
   "sort": "release_start_date_ascending",
   "anime": [
     {
@@ -9464,6 +9464,31 @@
         "Shaft"
       ],
       "mal_url": "https://myanimelist.net/anime/31757"
+    },
+    {
+      "mal_id": 33190,
+      "title": "Planetarian: Hoshi no Hito",
+      "status": "completed",
+      "score": 7,
+      "episodes_watched": 1,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-10-05T20:53:18+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2026-10-05",
+      "release_start_date": "2016-09-03",
+      "release_end_date": "2016-09-03",
+      "release_year": 2016,
+      "release_season": "summer",
+      "media_type": "movie",
+      "num_episodes": 1,
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "studios": [
+        "David Production"
+      ],
+      "mal_url": "https://myanimelist.net/anime/33190"
     },
     {
       "mal_id": 33433,
