@@ -1,7 +1,7 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-10-05T06:41:27.826899+00:00",
+  "updated_at": "2026-10-05T15:43:18.932010+00:00",
   "count": 694,
   "sort": "release_start_date_ascending",
   "anime": [
@@ -9308,13 +9308,13 @@
     {
       "mal_id": 33091,
       "title": "Planetarian: Chiisana Hoshi no Yume",
-      "status": "plan_to_watch",
-      "score": 0,
-      "episodes_watched": 0,
+      "status": "completed",
+      "score": 8,
+      "episodes_watched": 5,
       "is_rewatching": false,
-      "updated_at_mal": "2026-07-03T12:26:59+00:00",
+      "updated_at_mal": "2026-10-05T14:55:22+00:00",
       "user_start_date": null,
-      "user_finish_date": null,
+      "user_finish_date": "2026-10-05",
       "release_start_date": "2016-07-07",
       "release_end_date": "2016-08-04",
       "release_year": 2016,
