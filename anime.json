@@ -1,7 +1,7 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-10-06T02:47:25.885871+00:00",
+  "updated_at": "2026-10-06T09:56:03.168459+00:00",
   "count": 695,
   "sort": "release_start_date_ascending",
   "anime": [
@@ -9469,10 +9469,10 @@
       "mal_id": 33190,
       "title": "Planetarian: Hoshi no Hito",
       "status": "completed",
-      "score": 7,
+      "score": 8,
       "episodes_watched": 1,
       "is_rewatching": false,
-      "updated_at_mal": "2026-10-05T20:53:18+00:00",
+      "updated_at_mal": "2026-10-06T04:07:04+00:00",
       "user_start_date": null,
       "user_finish_date": "2026-10-05",
       "release_start_date": "2016-09-03",
