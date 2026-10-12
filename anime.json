@@ -1,7 +1,7 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-10-11T20:03:45.804092+00:00",
+  "updated_at": "2026-10-12T00:20:37.840199+00:00",
   "count": 695,
   "sort": "release_start_date_ascending",
   "anime": [
@@ -16562,13 +16562,13 @@
     {
       "mal_id": 35737,
       "title": "Pluto",
-      "status": "plan_to_watch",
-      "score": 0,
-      "episodes_watched": 0,
+      "status": "completed",
+      "score": 9,
+      "episodes_watched": 8,
       "is_rewatching": false,
-      "updated_at_mal": "2026-07-03T12:27:07+00:00",
+      "updated_at_mal": "2026-10-11T20:55:45+00:00",
       "user_start_date": null,
-      "user_finish_date": null,
+      "user_finish_date": "2026-10-11",
       "release_start_date": "2023-10-26",
       "release_end_date": "2023-10-26",
       "release_year": 2023,
