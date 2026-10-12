@@ -1,8 +1,8 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-10-12T00:20:37.840199+00:00",
-  "count": 695,
+  "updated_at": "2026-10-12T07:07:08.692160+00:00",
+  "count": 696,
   "sort": "release_start_date_ascending",
   "anime": [
     {
@@ -18973,6 +18973,33 @@
         "Studio Deen"
       ],
       "mal_url": "https://myanimelist.net/anime/62476"
+    },
+    {
+      "mal_id": 61578,
+      "title": "Seitokai ni mo Ana wa Aru!",
+      "status": "plan_to_watch",
+      "score": 0,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-10-12T05:26:20+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2026-10-04",
+      "release_end_date": null,
+      "release_year": 2026,
+      "release_season": "fall",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "School",
+        "Shounen"
+      ],
+      "studios": [
+        "Passione"
+      ],
+      "mal_url": "https://myanimelist.net/anime/61578"
     },
     {
       "mal_id": 54440,
