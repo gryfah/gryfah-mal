@@ -1,7 +1,7 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-10-12T07:07:08.692160+00:00",
+  "updated_at": "2026-10-12T17:35:59.464228+00:00",
   "count": 696,
   "sort": "release_start_date_ascending",
   "anime": [
@@ -10817,11 +10817,11 @@
     {
       "mal_id": 35889,
       "title": "Hakata Tonkotsu Ramens",
-      "status": "plan_to_watch",
+      "status": "dropped",
       "score": 0,
       "episodes_watched": 0,
       "is_rewatching": false,
-      "updated_at_mal": "2026-08-10T08:59:32+00:00",
+      "updated_at_mal": "2026-10-12T14:15:42+00:00",
       "user_start_date": null,
       "user_finish_date": null,
       "release_start_date": "2018-01-12",
