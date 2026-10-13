@@ -1,8 +1,8 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-10-13T07:31:23.739027+00:00",
-  "count": 696,
+  "updated_at": "2026-10-13T15:44:59.942226+00:00",
+  "count": 697,
   "sort": "release_start_date_ascending",
   "anime": [
     {
@@ -4691,6 +4691,32 @@
         "Primastea"
       ],
       "mal_url": "https://myanimelist.net/anime/9014"
+    },
+    {
+      "mal_id": 9055,
+      "title": "Tamayura",
+      "status": "plan_to_watch",
+      "score": 0,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-10-13T10:02:18+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2010-09-06",
+      "release_end_date": "2010-12-06",
+      "release_year": 2010,
+      "release_season": "summer",
+      "media_type": "ova",
+      "num_episodes": 4,
+      "genres": [
+        "CGDCT",
+        "Iyashikei",
+        "Slice of Life"
+      ],
+      "studios": [
+        "HAL Film Maker"
+      ],
+      "mal_url": "https://myanimelist.net/anime/9055"
     },
     {
       "mal_id": 8769,
