@@ -1,8 +1,8 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-10-14T17:52:28.770955+00:00",
-  "count": 697,
+  "updated_at": "2026-10-14T21:26:46.394760+00:00",
+  "count": 698,
   "sort": "release_start_date_ascending",
   "anime": [
     {
@@ -9489,6 +9489,31 @@
         "Shaft"
       ],
       "mal_url": "https://myanimelist.net/anime/31757"
+    },
+    {
+      "mal_id": 32281,
+      "title": "Kimi no Na wa.",
+      "status": "dropped",
+      "score": 0,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-10-14T20:02:03+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2016-08-26",
+      "release_end_date": "2016-08-26",
+      "release_year": 2016,
+      "release_season": "summer",
+      "media_type": "movie",
+      "num_episodes": 1,
+      "genres": [
+        "Award Winning",
+        "Drama"
+      ],
+      "studios": [
+        "CoMix Wave Films"
+      ],
+      "mal_url": "https://myanimelist.net/anime/32281"
     },
     {
       "mal_id": 33190,
