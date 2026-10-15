@@ -1,8 +1,8 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-10-15T05:42:38.061933+00:00",
-  "count": 698,
+  "updated_at": "2026-10-15T11:08:11.306624+00:00",
+  "count": 699,
   "sort": "release_start_date_ascending",
   "anime": [
     {
@@ -19051,6 +19051,32 @@
         "Passione"
       ],
       "mal_url": "https://myanimelist.net/anime/61578"
+    },
+    {
+      "mal_id": 63601,
+      "title": "Hone Dragon no Mana Musume",
+      "status": "plan_to_watch",
+      "score": 0,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-10-15T06:29:33+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2027",
+      "release_end_date": null,
+      "release_year": null,
+      "release_season": null,
+      "media_type": "tv",
+      "num_episodes": 0,
+      "genres": [
+        "Adventure",
+        "Childcare",
+        "Fantasy"
+      ],
+      "studios": [
+        "Doga Kobo"
+      ],
+      "mal_url": "https://myanimelist.net/anime/63601"
     },
     {
       "mal_id": 54440,
