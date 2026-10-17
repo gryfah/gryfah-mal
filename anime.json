@@ -1,8 +1,8 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-10-17T16:13:14.592411+00:00",
-  "count": 699,
+  "updated_at": "2026-10-17T19:07:25.514033+00:00",
+  "count": 700,
   "sort": "release_start_date_ascending",
   "anime": [
     {
@@ -19051,6 +19051,31 @@
         "Passione"
       ],
       "mal_url": "https://myanimelist.net/anime/61578"
+    },
+    {
+      "mal_id": 63293,
+      "title": "Hotaru no Yomeiri",
+      "status": "plan_to_watch",
+      "score": 0,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-10-17T17:20:07+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2026-10-09",
+      "release_end_date": null,
+      "release_year": 2026,
+      "release_season": "fall",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Historical",
+        "Romance"
+      ],
+      "studios": [
+        "David Production"
+      ],
+      "mal_url": "https://myanimelist.net/anime/63293"
     },
     {
       "mal_id": 63601,
