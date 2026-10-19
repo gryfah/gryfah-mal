@@ -1,8 +1,8 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-10-19T05:58:45.086611+00:00",
-  "count": 700,
+  "updated_at": "2026-10-19T12:54:52.119825+00:00",
+  "count": 701,
   "sort": "release_start_date_ascending",
   "anime": [
     {
@@ -2225,6 +2225,35 @@
         "Daume"
       ],
       "mal_url": "https://myanimelist.net/anime/196"
+    },
+    {
+      "mal_id": 134,
+      "title": "Gunslinger Girl",
+      "status": "plan_to_watch",
+      "score": 0,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-10-19T06:49:22+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2003-10-09",
+      "release_end_date": "2004-02-19",
+      "release_year": 2003,
+      "release_season": "fall",
+      "media_type": "tv",
+      "num_episodes": 13,
+      "genres": [
+        "Action",
+        "Drama",
+        "Military",
+        "Psychological",
+        "Sci-Fi",
+        "Suspense"
+      ],
+      "studios": [
+        "Madhouse"
+      ],
+      "mal_url": "https://myanimelist.net/anime/134"
     },
     {
       "mal_id": 801,
