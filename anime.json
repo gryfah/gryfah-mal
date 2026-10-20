@@ -1,8 +1,8 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-10-20T14:51:13.890582+00:00",
-  "count": 701,
+  "updated_at": "2026-10-20T19:04:30.109420+00:00",
+  "count": 700,
   "sort": "release_start_date_ascending",
   "anime": [
     {
@@ -16610,34 +16610,6 @@
         "Yokohama Animation Lab"
       ],
       "mal_url": "https://myanimelist.net/anime/54362"
-    },
-    {
-      "mal_id": 54492,
-      "title": "Kusuriya no Hitorigoto",
-      "status": "plan_to_watch",
-      "score": 0,
-      "episodes_watched": 0,
-      "is_rewatching": false,
-      "updated_at_mal": "2026-07-03T12:25:05+00:00",
-      "user_start_date": null,
-      "user_finish_date": null,
-      "release_start_date": "2023-10-22",
-      "release_end_date": "2024-03-24",
-      "release_year": 2023,
-      "release_season": "fall",
-      "media_type": "tv",
-      "num_episodes": 24,
-      "genres": [
-        "Drama",
-        "Historical",
-        "Medical",
-        "Mystery"
-      ],
-      "studios": [
-        "OLM",
-        "TOHO animation STUDIO"
-      ],
-      "mal_url": "https://myanimelist.net/anime/54492"
     },
     {
       "mal_id": 35737,
