@@ -1,8 +1,8 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-10-21T04:02:23.801373+00:00",
-  "count": 700,
+  "updated_at": "2026-10-21T09:54:26.921155+00:00",
+  "count": 698,
   "sort": "release_start_date_ascending",
   "anime": [
     {
@@ -9110,33 +9110,6 @@
       "mal_url": "https://myanimelist.net/anime/31804"
     },
     {
-      "mal_id": 30795,
-      "title": "Bakuon!!",
-      "status": "plan_to_watch",
-      "score": 0,
-      "episodes_watched": 0,
-      "is_rewatching": false,
-      "updated_at_mal": "2025-09-24T04:11:03+00:00",
-      "user_start_date": null,
-      "user_finish_date": null,
-      "release_start_date": "2016-04-05",
-      "release_end_date": "2016-06-21",
-      "release_year": 2016,
-      "release_season": "spring",
-      "media_type": "tv",
-      "num_episodes": 12,
-      "genres": [
-        "CGDCT",
-        "School",
-        "Seinen",
-        "Slice of Life"
-      ],
-      "studios": [
-        "TMS Entertainment"
-      ],
-      "mal_url": "https://myanimelist.net/anime/30795"
-    },
-    {
       "mal_id": 31404,
       "title": "Netoge no Yome wa Onnanoko ja Nai to Omotta?",
       "status": "completed",
@@ -15605,35 +15578,6 @@
       "mal_url": "https://myanimelist.net/anime/44511"
     },
     {
-      "mal_id": 52865,
-      "title": "Romantic Killer",
-      "status": "plan_to_watch",
-      "score": 0,
-      "episodes_watched": 12,
-      "is_rewatching": false,
-      "updated_at_mal": "2026-07-03T12:27:23+00:00",
-      "user_start_date": null,
-      "user_finish_date": "2025-09-07",
-      "release_start_date": "2022-10-27",
-      "release_end_date": "2022-10-27",
-      "release_year": 2022,
-      "release_season": "fall",
-      "media_type": "ona",
-      "num_episodes": 12,
-      "genres": [
-        "Comedy",
-        "Parody",
-        "Reverse Harem",
-        "Romance",
-        "Shounen",
-        "Supernatural"
-      ],
-      "studios": [
-        "domerica"
-      ],
-      "mal_url": "https://myanimelist.net/anime/52865"
-    },
-    {
       "mal_id": 52173,
       "title": "Koori Zokusei Danshi to Cool na Douryou Joshi",
       "status": "completed",
@@ -18143,12 +18087,12 @@
     {
       "mal_id": 59161,
       "title": "Bad Girl",
-      "status": "plan_to_watch",
+      "status": "dropped",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 4,
       "is_rewatching": false,
-      "updated_at_mal": "2025-08-26T08:49:38+00:00",
-      "user_start_date": null,
+      "updated_at_mal": "2026-10-21T04:05:20+00:00",
+      "user_start_date": "2026-10-21",
       "user_finish_date": null,
       "release_start_date": "2025-07-06",
       "release_end_date": "2025-09-21",
