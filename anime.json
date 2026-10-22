@@ -1,7 +1,7 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-10-22T04:03:01.762108+00:00",
+  "updated_at": "2026-10-22T09:54:56.468278+00:00",
   "count": 698,
   "sort": "release_start_date_ascending",
   "anime": [
@@ -3284,12 +3284,12 @@
     {
       "mal_id": 2963,
       "title": "Minami-ke",
-      "status": "plan_to_watch",
+      "status": "dropped",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 5,
       "is_rewatching": false,
-      "updated_at_mal": "2025-12-09T06:28:15+00:00",
-      "user_start_date": null,
+      "updated_at_mal": "2026-10-22T07:18:58+00:00",
+      "user_start_date": "2026-10-22",
       "user_finish_date": null,
       "release_start_date": "2007-10-08",
       "release_end_date": "2007-12-31",
