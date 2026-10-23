@@ -1,7 +1,7 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-10-23T04:06:39.251311+00:00",
+  "updated_at": "2026-10-23T09:49:07.108386+00:00",
   "count": 698,
   "sort": "release_start_date_ascending",
   "anime": [
@@ -17900,7 +17900,7 @@
     },
     {
       "mal_id": 59897,
-      "title": "Kobayashi-san Chi no Maid Dragon: Samishigariya no Ryuu",
+      "title": "Kobayashi-san Chi no Maid Dragon Movie: Samishigariya no Ryuu",
       "status": "completed",
       "score": 8,
       "episodes_watched": 1,
@@ -17953,13 +17953,13 @@
     {
       "mal_id": 58390,
       "title": "Yofukashi no Uta Season 2",
-      "status": "plan_to_watch",
-      "score": 0,
-      "episodes_watched": 0,
+      "status": "completed",
+      "score": 7,
+      "episodes_watched": 12,
       "is_rewatching": false,
-      "updated_at_mal": "2026-07-03T12:30:17+00:00",
+      "updated_at_mal": "2026-10-23T05:17:18+00:00",
       "user_start_date": null,
-      "user_finish_date": null,
+      "user_finish_date": "2026-10-23",
       "release_start_date": "2025-07-04",
       "release_end_date": "2025-09-19",
       "release_year": 2025,
