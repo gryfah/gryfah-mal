@@ -1,8 +1,8 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-10-25T13:04:32.660011+00:00",
-  "count": 698,
+  "updated_at": "2026-10-25T17:31:15.348121+00:00",
+  "count": 699,
   "sort": "release_start_date_ascending",
   "anime": [
     {
@@ -18699,6 +18699,34 @@
         "Project No.9"
       ],
       "mal_url": "https://myanimelist.net/anime/56876"
+    },
+    {
+      "mal_id": 59443,
+      "title": "Reincarnation no Kaben",
+      "status": "plan_to_watch",
+      "score": 0,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-10-25T14:09:29+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2026-04-03",
+      "release_end_date": "2026-06-26",
+      "release_year": 2026,
+      "release_season": "spring",
+      "media_type": "tv",
+      "num_episodes": 13,
+      "genres": [
+        "Action",
+        "Mystery",
+        "Reincarnation",
+        "Shounen",
+        "Supernatural"
+      ],
+      "studios": [
+        "BENTEN Film"
+      ],
+      "mal_url": "https://myanimelist.net/anime/59443"
     },
     {
       "mal_id": 62068,
