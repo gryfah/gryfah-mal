@@ -1,7 +1,7 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-10-25T07:26:33.848871+00:00",
+  "updated_at": "2026-10-25T13:04:32.660011+00:00",
   "count": 698,
   "sort": "release_start_date_ascending",
   "anime": [
@@ -2229,13 +2229,13 @@
     {
       "mal_id": 134,
       "title": "Gunslinger Girl",
-      "status": "plan_to_watch",
-      "score": 0,
-      "episodes_watched": 0,
+      "status": "completed",
+      "score": 8,
+      "episodes_watched": 13,
       "is_rewatching": false,
-      "updated_at_mal": "2026-10-19T06:49:22+00:00",
+      "updated_at_mal": "2026-10-25T12:48:47+00:00",
       "user_start_date": null,
-      "user_finish_date": null,
+      "user_finish_date": "2026-10-25",
       "release_start_date": "2003-10-09",
       "release_end_date": "2004-02-19",
       "release_year": 2003,
