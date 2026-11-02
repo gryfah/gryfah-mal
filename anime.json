@@ -1,7 +1,7 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-11-02T10:44:48.047569+00:00",
+  "updated_at": "2026-11-02T19:57:28.567914+00:00",
   "count": 700,
   "sort": "release_start_date_ascending",
   "anime": [
@@ -3120,13 +3120,13 @@
     {
       "mal_id": 1887,
       "title": "Lucky☆Star",
-      "status": "plan_to_watch",
-      "score": 0,
-      "episodes_watched": 0,
+      "status": "completed",
+      "score": 7,
+      "episodes_watched": 24,
       "is_rewatching": false,
-      "updated_at_mal": "2026-06-28T19:54:09+00:00",
+      "updated_at_mal": "2026-11-02T15:13:23+00:00",
       "user_start_date": null,
-      "user_finish_date": null,
+      "user_finish_date": "2026-11-02",
       "release_start_date": "2007-04-08",
       "release_end_date": "2007-09-17",
       "release_year": 2007,
