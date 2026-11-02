@@ -3,6 +3,10 @@ name: Sync MAL
 on:
   workflow_dispatch:
 
+  # ChatGPT updates dedicated issue #1 to request an additional sync.
+  issues:
+    types: [edited]
+
   schedule:
     - cron: "43 * * * *"
       timezone: "Europe/Stockholm"
@@ -10,8 +14,14 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: sync-mal
+  cancel-in-progress: false
+
 jobs:
   sync:
+    # Ignore edits to all issues except the dedicated sync trigger.
+    if: github.event_name != 'issues' || (github.event.issue.number == 1 && github.event.changes.body != null)
     runs-on: ubuntu-latest
 
     steps:
