@@ -1,7 +1,7 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-11-03T06:18:29.780900+00:00",
+  "updated_at": "2026-11-03T07:13:57.425331+00:00",
   "count": 702,
   "sort": "release_start_date_ascending",
   "anime": [
@@ -4533,11 +4533,11 @@
     {
       "mal_id": 7647,
       "title": "Arakawa Under the Bridge",
-      "status": "plan_to_watch",
+      "status": "dropped",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 1,
       "is_rewatching": false,
-      "updated_at_mal": "2026-07-03T12:18:19+00:00",
+      "updated_at_mal": "2026-11-03T06:35:37+00:00",
       "user_start_date": null,
       "user_finish_date": null,
       "release_start_date": "2010-04-05",
