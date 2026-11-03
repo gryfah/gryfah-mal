@@ -42,6 +42,40 @@
         "https://www.nihonreview.com/anime/aria-the-natural/"
       ]
     },
+    "6098": {
+      "mal_id": 6098,
+      "title": "Sora no Manimani",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-03T23:19:26.213Z",
+      "synopsis": "Efter sju år återvänder bokälskaren Saku Ooyagi till sin gamla hemstad och återser barndomsvännen Mihoshi Akeno. Hon drar in honom i skolans astronomiklubb, trots deras besvärliga gemensamma historia. Klubbens stjärnskådning och skolliv för dem närmare varandra och andra elever.",
+      "themes": [
+        "återförening och barndomsvänskap",
+        "astronomi och nyfikenhet",
+        "gemenskap i skolklubb",
+        "romantiska missförstånd"
+      ],
+      "tone": [
+        "lättsam",
+        "komisk",
+        "vardagsnära",
+        "försiktigt romantisk"
+      ],
+      "pacing_and_structure": "Tolv avsnitt med skolklubbsaktiviteter, rekrytering, planetariumbesök och stjärnskådning; episodiska aktiviteter kombineras med återkommande relationer.",
+      "character_dynamics": "Den utåtriktade och astronomiintresserade Mihoshi kontrasterar den mer tillbakadragne bokläsaren Saku. Hime ansluter delvis på grund av sitt intresse för Saku, vilket skapar romantisk friktion.",
+      "distinctive_features": "Astronomiklubbens konkreta aktiviteter och observationer av natthimlen fungerar som samlande motiv snarare än enbart dekor.",
+      "comparison_cues": [
+        "Skolklubbskomedi med ett uttalat sakintresse",
+        "Vänskaps- och romantikdynamik kring kontrasterande temperament"
+      ],
+      "uncertainties": [
+        "Hur mycket astronomisk sakinformation som förmedlas genom hela serien är inte systematiskt verifierat."
+      ],
+      "sources": [
+        "https://www.primevideo.com/-/da/detail/0SC7EFDDE63CGM7EMFX00Y5TZ0",
+        "https://anilist.co/anime/6098/SoranoManimani",
+        "https://en.wikipedia.org/wiki/List_of_Sora_no_Manimani_episodes"
+      ]
+    },
     "9055": {
       "mal_id": 9055,
       "title": "Tamayura",
@@ -74,6 +108,38 @@
         "https://cinemaplus.shochiku.co.jp/titles/detail/830/",
         "https://www.video.unext.jp/title/SID0013564",
         "https://gigazine.net/news/20100402_tamayura_ova"
+      ]
+    },
+    "12119": {
+      "mal_id": 12119,
+      "title": "Natsu-iro Kiseki",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-03T23:19:26.213Z",
+      "synopsis": "Fyra nära vänner i Shimoda – Natsumi, Saki, Yuka och Rinko – upptäcker att en särskild sten vid en helgedom kan uppfylla önskningar de gör tillsammans. När Saki snart ska flytta får deras sista gemensamma sommar en rad övernaturliga inslag.",
+      "themes": [
+        "vänskap inför separation",
+        "förändring och avsked",
+        "gemensamma önskningar",
+        "sommarminnen"
+      ],
+      "tone": [
+        "somrig",
+        "lekfull",
+        "varm",
+        "bitvis vemodig"
+      ],
+      "pacing_and_structure": "En avgränsad sommarberättelse där önskningarnas magiska följder skapar olika situationer samtidigt som den förestående flytten ger berättelsen riktning.",
+      "character_dynamics": "Natsumi och Saki har en särskilt nära vänskap som prövas av flytten; Yuka är energisk och idolintresserad medan Rinko ofta är lugnare och stöttande. Gruppens gemensamma önskningar kräver samspel.",
+      "distinctive_features": "Magisk önskesten vid en lokal helgedom blandar vardagligt vänskapsdrama med fantastiska händelser; fyra flickors vänskap står i centrum.",
+      "comparison_cues": [
+        "Vardagsnära vänskapsserie med övernaturlig katalysator",
+        "Avsked som sammanhållande konflikt snarare än enbart episodiska upptåg"
+      ],
+      "uncertainties": [
+        "En detaljerad officiell avsnittsguide har inte verifierats; tempoangivelsen är en försiktig syntes av premissen."
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Natsuiro_Kiseki"
       ]
     },
     "21327": {
