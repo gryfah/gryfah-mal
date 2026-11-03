@@ -1,8 +1,8 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-11-03T04:20:03.895526+00:00",
-  "count": 701,
+  "updated_at": "2026-11-03T05:27:47.202841+00:00",
+  "count": 702,
   "sort": "release_start_date_ascending",
   "anime": [
     {
@@ -19051,6 +19051,32 @@
         "Studio Deen"
       ],
       "mal_url": "https://myanimelist.net/anime/62476"
+    },
+    {
+      "mal_id": 62524,
+      "title": "#Zombie Sagashitemasu",
+      "status": "plan_to_watch",
+      "score": 0,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-11-03T05:19:14+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2026-10-03",
+      "release_end_date": null,
+      "release_year": 2026,
+      "release_season": "fall",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Adventure",
+        "Shounen",
+        "Survival"
+      ],
+      "studios": [
+        "Studio Comet"
+      ],
+      "mal_url": "https://myanimelist.net/anime/62524"
     },
     {
       "mal_id": 61578,
