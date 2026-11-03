@@ -1,8 +1,8 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-11-03T15:16:23.559552+00:00",
-  "count": 702,
+  "updated_at": "2026-11-03T15:41:48.308878+00:00",
+  "count": 704,
   "sort": "release_start_date_ascending",
   "anime": [
     {
@@ -1750,6 +1750,33 @@
         "Sunrise"
       ],
       "mal_url": "https://myanimelist.net/anime/2245"
+    },
+    {
+      "mal_id": 21,
+      "title": "One Piece",
+      "status": "plan_to_watch",
+      "score": 0,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-11-03T15:40:20+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "1999-10-20",
+      "release_end_date": null,
+      "release_year": 1999,
+      "release_season": "fall",
+      "media_type": "tv",
+      "num_episodes": 0,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Shounen"
+      ],
+      "studios": [
+        "Toei Animation"
+      ],
+      "mal_url": "https://myanimelist.net/anime/21"
     },
     {
       "mal_id": 369,
@@ -19155,6 +19182,32 @@
         "Doga Kobo"
       ],
       "mal_url": "https://myanimelist.net/anime/63601"
+    },
+    {
+      "mal_id": 65302,
+      "title": "Bocchi the Rock! Movie: Hoshi no Ashiato",
+      "status": "plan_to_watch",
+      "score": 0,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-11-03T15:39:52+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2027",
+      "release_end_date": "2027",
+      "release_year": null,
+      "release_season": null,
+      "media_type": "movie",
+      "num_episodes": 1,
+      "genres": [
+        "CGDCT",
+        "Comedy",
+        "Music"
+      ],
+      "studios": [
+        "CloverWorks"
+      ],
+      "mal_url": "https://myanimelist.net/anime/65302"
     },
     {
       "mal_id": 54440,
