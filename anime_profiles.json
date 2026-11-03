@@ -1,0 +1,5 @@
+{
+  "schema_version": 1,
+  "description": "Reusable, source-backed anime profiles maintained by ChatGPT. anime.json remains the source of truth for MAL status, scores and PTW eligibility.",
+  "profiles": {}
+}
