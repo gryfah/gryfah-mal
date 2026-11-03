@@ -23,6 +23,8 @@ FIELDS = ",".join(
         "num_episodes",
         "genres",
         "studios",
+        "mean",
+        "num_scoring_users",
     ]
 )
 
@@ -59,6 +61,8 @@ def fetch_anime():
                 "title": node.get("title"),
                 "status": status.get("status"),
                 "score": status.get("score"),
+                "mal_mean_score": node.get("mean"),
+                "mal_num_scoring_users": node.get("num_scoring_users"),
                 "episodes_watched": status.get("num_episodes_watched"),
                 "is_rewatching": status.get("is_rewatching"),
                 "updated_at_mal": status.get("updated_at"),
