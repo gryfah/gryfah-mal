@@ -1,0 +1,6 @@
+{
+  "schema_version": 1,
+  "description": "Question queue, explicit user answers and evidence-graded hypotheses about anime preferences. MAL ratings and statuses remain authoritative in anime.json; anime_profiles.json describes individual works.",
+  "questions": {},
+  "insights": {}
+}
