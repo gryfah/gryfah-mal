@@ -1,5 +1,46 @@
 {
   "schema_version": 1,
   "description": "Reusable, source-backed anime profiles maintained by ChatGPT. anime.json remains the source of truth for MAL status, scores and PTW eligibility.",
-  "profiles": {}
+  "profiles": {
+    "962": {
+      "mal_id": 962,
+      "title": "Aria the Natural",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-03T18:21:19.151Z",
+      "synopsis": "Andra tv-säsongen av Aria, förlagd till kanalstaden Neo-Venezia på planeten Aqua. Akari Mizunashi fortsätter sin utbildning till professionell gondoljär och turistguide (Undine), tillsammans med Aika och Alice, och upptäcker stadens människor, traditioner och ibland gåtfulla inslag genom vardagens möten. Förutsätter viss bekantskap med Aria the Animation.",
+      "themes": [
+        "Vardagens små upptäckter och mötens betydelse",
+        "Vänskap och gemenskap trots olika arbetsgivare",
+        "Lärlingskap, vägledning och att växa i sin roll",
+        "Nostalgi, förändring och uppskattning av flyktiga ögonblick",
+        "Relationen mellan människor, plats och minnen"
+      ],
+      "tone": [
+        "Stillsam och varm",
+        "Kontemplativ och återhämtande (iyashikei)",
+        "Varsamt vemodig snarare än genomgående sorglig",
+        "Ibland lekfull och lågmält mystisk"
+      ],
+      "pacing_and_structure": "Långsamt, i huvudsak episodiskt berättande med 26 avsnitt; enskilda utflykter, möten och små vardagsproblem står i centrum. Sammanhållningen kommer främst från miljön, återkommande gestalter och huvudpersonernas gradvisa utveckling, inte från en snabb konfliktdriven huvudhandling.",
+      "character_dynamics": "Akari, Aika och Alice är nära vänner samtidigt som de utbildas vid olika gondolföretag; deras skilda temperament ger dialog och vardagsfriktion utan att deras relation domineras av rivalitet. Alicia är Akaris mentor; de mer erfarna Undine-kvinnorna fungerar som förebilder. Även relationer till tillfälliga möten och till själva staden ges stor vikt.",
+      "distinctive_features": "Framtidsmiljö som medvetet förskjuter uppmärksamheten från tekniskt spektakel till vattenvägar, årstider och vardagliga ritualer. Staden används nästan som en egen gestalt. Den stillsamma rytmen, natur- och stadsmiljöerna samt inslag av lokala mysterier skapar en poetisk vardagsfantasi.",
+      "comparison_cues": [
+        "Kontrast till handlingsintensiv science fiction: futuristisk miljö utan primärt teknik- eller actionfokus",
+        "Jämför hur lågmäld slice of life ger emotionell utdelning genom ackumulerade små erfarenheter",
+        "Lämplig vid intresse för vänskap, mentorskap och en miljö som påverkar berättelsens känslomässiga innehåll",
+        "Motpol till cynism, våld, högt tempo och starkt konfliktdriven dramatik",
+        "Utvärdera som del två i en sammanhängande serie, inte som fristående introduktion"
+      ],
+      "uncertainties": [
+        "Värderingar av musikalisk och visuell kvalitet är inte fastslagna i denna faktaprofil.",
+        "Beskrivningen är spoilerfri och fångar därför inte hela utvecklingen över de 26 avsnitten."
+      ],
+      "sources": [
+        "https://ariacompany.net/2nd/story.html",
+        "https://www.tv-tokyo.co.jp/contents/aria_natural/episodes/episodes02/",
+        "https://anilist.co/anime/962/ARIA-The-NATURAL",
+        "https://www.nihonreview.com/anime/aria-the-natural/"
+      ]
+    }
+  }
 }
