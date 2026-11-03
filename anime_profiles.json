@@ -41,6 +41,73 @@
         "https://anilist.co/anime/962/ARIA-The-NATURAL",
         "https://www.nihonreview.com/anime/aria-the-natural/"
       ]
+    },
+    "9055": {
+      "mal_id": 9055,
+      "title": "Tamayura",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-03T22:13:34.735Z",
+      "synopsis": "Efter att ha flyttat till Takehara, staden där hennes avlidne far växte upp, återupptar gymnasieflickan Fuu Sawatari sitt intresse för fotografering med hans gamla kamera. Hon lär känna nya vänner och upptäcker vardagens små glädjeämnen i kuststaden.",
+      "themes": [
+        "Sorg och minnen efter en förälder",
+        "Fotografi som sätt att bevara och upptäcka ögonblick",
+        "Vänskap och tillhörighet på en ny plats",
+        "Vardagens små glädjeämnen"
+      ],
+      "tone": [
+        "Varm",
+        "Stillsam",
+        "Varsamt nostalgisk",
+        "Tröstande"
+      ],
+      "pacing_and_structure": "Kort OVA i fyra avsnitt, huvudsakligen vardagliga möten och små upplevelser snarare än en konfliktdriven intrig. Fotografiet binder samman miljö, minnen och nya relationer.",
+      "character_dynamics": "Den något blyga Fuu har barndomsvännen Kaoru som trygg punkt i Takehara och möter även Maon och Norie. Faderns frånvaro och hans kamera har en viktig emotionell roll.",
+      "distinctive_features": "Verkliga kuststaden Takehara och den ärvda analoga Rollei 35S-kameran står i centrum. Regissören Junichi Sato och flera medarbetare från Aria återförenades för produktionen.",
+      "comparison_cues": [
+        "Jämför hur stillsam vardagsskildring använder plats och minnen snarare än dramatisk konflikt",
+        "Fotografiets funktion kan jämföras med andra verk där en vardaglig hobby får emotionell betydelse"
+      ],
+      "uncertainties": [
+        "Hur varje enskilt avsnitt fördelar fokus mellan de olika vänskapsrelationerna är inte fullständigt kartlagt."
+      ],
+      "sources": [
+        "https://cinemaplus.shochiku.co.jp/titles/detail/830/",
+        "https://www.video.unext.jp/title/SID0013564",
+        "https://gigazine.net/news/20100402_tamayura_ova"
+      ]
+    },
+    "21327": {
+      "mal_id": 21327,
+      "title": "Isshuukan Friends.",
+      "profile_status": "partial",
+      "researched_at_utc": "2026-11-03T22:13:34.735Z",
+      "synopsis": "Gymnasieeleven Yuuki Hase vill bli vän med den tillbakadragna klasskamraten Kaori Fujimiya. Hon berättar att hennes minnen av vänner försvinner varje vecka. Yuuki försöker därför bygga upp vänskapen igen, gång på gång.",
+      "themes": [
+        "Vänskap och tillit",
+        "Minne och kontinuitet i relationer",
+        "Uthållighet och emotionell sårbarhet",
+        "Social isolering"
+      ],
+      "tone": [
+        "Ömsint",
+        "Melankolisk",
+        "Vardagsnära"
+      ],
+      "pacing_and_structure": "Tolv avsnitt med en återkommande veckocykel som grundläggande berättargrepp. Vänskapens upprepade nystart skapar både vardaglig episodik och en längre relationsutveckling.",
+      "character_dynamics": "Yuuki tar initiativ till vänskap trots Kaoris rädsla för att förlora minnen av dem hon står nära. Relationen präglas av asymmetrin mellan den som minns och den som glömmer.",
+      "distinctive_features": "Det veckovisa minnesbortfallet ger en konkret struktur åt en skildring av hur förtroende och vänskap byggs. TV-anime från 2014 baserad på manga.",
+      "comparison_cues": [
+        "Jämför om ett återkommande berättargrepp skapar känslomässig fördjupning eller upplevs repetitivt",
+        "Relationer där minne och identitet påverkar närhet kan vara relevanta jämförelseankare"
+      ],
+      "uncertainties": [
+        "Detaljer om biroller och seriens senare dramaturgiska förändringar är inte verifierade i tillräcklig grad.",
+        "Den exakta förklaringen till minnesproblemet utelämnas för att undvika spoilers."
+      ],
+      "sources": [
+        "https://theanimelist.net/anime/isshuukan-friends",
+        "https://kg-portal.ru/anime/isshuukanfriends/"
+      ]
     }
   }
 }
