@@ -508,6 +508,40 @@
         "https://www.crunchyroll.com/series/GYE5K3GQR/konosuba-gods-blessing-on-this-wonderful-world"
       ]
     },
+    "31414": {
+      "mal_id": 31414,
+      "title": "Nijiiro Days",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-04T14:09:56.546Z",
+      "synopsis": "Fyra gymnasievänner – Natsuki, Tomoya, Keiichi och Tsuyoshi – tillbringar fritiden tillsammans snarare än i skolklubbar. Natsuki är förälskad i Anna från en annan klass, och hans försök att närma sig henne påverkas ständigt av vännernas skämt och inblandning. Serien följer vänskap och romantiska förvecklingar i skolvardagen.",
+      "themes": [
+        "Vänskap mellan fyra pojkar",
+        "Förälskelse och osäkerhet",
+        "Skolvardag och ungdomsrelationer",
+        "Gruppdynamik kring romantik"
+      ],
+      "tone": [
+        "Lättsam",
+        "Romantisk",
+        "Vardagshumor",
+        "Lekfull"
+      ],
+      "pacing_and_structure": "24 korta tv-avsnitt om cirka 13 minuter. Episodisk skolvardag med återkommande romantisk utveckling snarare än en enda sammanhängande dramatisk konflikt.",
+      "character_dynamics": "Natsukis försiktiga uppvaktning av Anna är en central tråd. Vännerna Tomoya, Keiichi och Tsuyoshi fungerar både som stöd och som störningsmoment; serien skildrar gruppens olika sätt att förhålla sig till kärlek.",
+      "distinctive_features": "Romantisk skildring med en fyrmannagrupp av manliga gymnasievänner som utgångspunkt, kortavsnittsformat och fokus på samspelet mellan pojkarnas vänskap och deras kärleksliv.",
+      "comparison_cues": [
+        "Kan jämföras med andra skolromantiska serier utifrån hur mycket plats vänkretsen får jämfört med huvudparet.",
+        "Kortavsnittsformat och humoristisk gruppdynamik kan vara relevanta strukturella jämförelsepunkter."
+      ],
+      "uncertainties": [
+        "De tillgängliga introduktionerna beskriver inte tillräckligt detaljerat seriens senare emotionella upplösning eller hur mycket varje biroll utvecklas."
+      ],
+      "sources": [
+        "https://www.tkma.co.jp/jpop_top/id%3D7094",
+        "https://www.yte.co.jp/program/list/rainbowdays/",
+        "https://tv.apple.com/jp/show/%E8%99%B9%E8%89%B2%E3%83%86%E3%82%A4%E3%82%B9/umc.cmc.1vpnadcqrxcjwsq7rosigncd0"
+      ]
+    },
     "31771": {
       "mal_id": 31771,
       "title": "Amanchu!",
