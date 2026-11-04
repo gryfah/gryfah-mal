@@ -235,6 +235,70 @@
         "https://theanimelist.net/anime/isshuukan-friends",
         "https://kg-portal.ru/anime/isshuukanfriends/"
       ]
+    },
+    "35677": {
+      "mal_id": 35677,
+      "title": "Liz to Aoi Tori",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-04T04:20:22.731Z",
+      "synopsis": "Mizore Yoroizuka och Nozomi Kasaki spelar oboe respektive flöjt i skolans blåsorkester. När de övar en duett ur stycket Liz and the Blue Bird speglas deras vänskap och osäkerhet inför framtiden i styckets saga om Liz och en blå fågel.",
+      "themes": [
+        "vänskap och separation",
+        "förändring inför examen",
+        "konstnärligt uttryck och kommunikation",
+        "närhet och självständighet"
+      ],
+      "tone": [
+        "stillsam",
+        "melankolisk",
+        "intim",
+        "eftertänksam"
+      ],
+      "pacing_and_structure": "En koncentrerad långfilm med återhållsamt tempo; skolvardag och musikaliska repetitioner varvas med en sagoberättelse som speglar relationen.",
+      "character_dynamics": "Mizore är tillbakadragen och starkt fäst vid den mer utåtriktade Nozomi. Skillnaderna i deras sätt att relatera och kommunicera ger duetten en personlig laddning.",
+      "distinctive_features": "Musik för oboe och flöjt fungerar som berättande parallell till flickornas relation; sagosekvenserna har en annan visuell gestaltning än skolmiljön. Film från Kyoto Animation, regisserad av Naoko Yamada.",
+      "comparison_cues": [
+        "Relationsdrama där subtila gester och musik bär mer av handlingen än yttre konflikter.",
+        "Kan jämföras med andra skol- och musikdramer utifrån berättartempo och hur relationer uttrycks indirekt; ingen personlig matchningsbedömning."
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://liz-bluebird.com/",
+        "https://www.kyotoanimation.co.jp/en/works/liz/",
+        "https://theanimelist.net/anime/liz-to-aoi-tori"
+      ]
+    },
+    "41025": {
+      "mal_id": 41025,
+      "title": "Fumetsu no Anata e",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-04T04:20:22.731Z",
+      "synopsis": "En mystisk odödlig varelse skickas till jorden som en sfär och kan anta former efter kontakt med sin omgivning. Den blir först sten, sedan varg och därefter människa. Under namnet Fushi lär den sig gradvis språk, känslor och mänskliga band genom möten med människor på sin resa.",
+      "themes": [
+        "identitet och mänsklighet",
+        "liv, död och sorg",
+        "anknytning och förlust",
+        "lärande genom erfarenhet",
+        "överlevnad"
+      ],
+      "tone": [
+        "emotionell",
+        "allvarlig",
+        "melankolisk",
+        "äventyrlig"
+      ],
+      "pacing_and_structure": "En episodiskt förgrenad fantasyresa där nya miljöer och relationer successivt utvecklar huvudpersonen. Den första tv-säsongen omfattar 20 avsnitt; personliga möten och större faror driver handlingen framåt.",
+      "character_dynamics": "Fushi börjar utan mänsklig erfarenhet och formas av dem som visar omsorg, ger vägledning eller utmanar varelsens sätt att förstå världen. Relationerna förändras i takt med Fushis växande självmedvetande.",
+      "distinctive_features": "Huvudpersonen är en formskiftande, regenererande varelse snarare än en vanlig människa; serien kombinerar existentiell utveckling med en konkret fantasyvärld och återkommande möten över tid.",
+      "comparison_cues": [
+        "Jämförbar med andra karaktärsdrivna fantasyberättelser utifrån förlust, identitet och långsiktig personlig utveckling.",
+        "Flera berättelsebågar ger möjlighet att jämföra emotionell intensitet och struktur utan att förutsätta användarens reaktion."
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://www.hulu.jp/to-your-eternity",
+        "https://tv.apple.com/es/show/to-your-eternity/umc.cmc.316v4yoxk1hgfadyox552fr5r"
+      ]
     }
   }
 }
