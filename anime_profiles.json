@@ -42,6 +42,37 @@
         "https://www.nihonreview.com/anime/aria-the-natural/"
       ]
     },
+    "2993": {
+      "mal_id": 2993,
+      "title": "Rosario to Vampire",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-04T03:15:26.547Z",
+      "synopsis": "Tsukune, som har svårt att bli antagen till en vanlig skola, börjar på en internatskola där eleverna i hemlighet är övernaturliga varelser. Han blir vän med Moka, som visar sig vara vampyr, medan hans egen mänskliga identitet gör skolmiljön riskabel.",
+      "themes": [
+        "utanförskap och tillhörighet",
+        "hemlig identitet",
+        "vänskap och romantisk uppvaktning"
+      ],
+      "tone": [
+        "övernaturlig skoldagskomedi",
+        "romantisk och lättsam",
+        "sexualiserad humor",
+        "inslag av fara och slagsmål"
+      ],
+      "pacing_and_structure": "Skolvardag och nya övernaturliga bekantskaper varvas med konflikter och episodiska situationer; seriens första avsnitt etablerar skolan och Moka.",
+      "character_dynamics": "Tsukune är en vanlig människa bland monster; Moka blir hans första nära kontakt. Andra elever, bland annat en succubus och en ung häxa, komplicerar relationerna.",
+      "distinctive_features": "Monsterinternat där mänsklighet måste döljas; romantisk ensemble och uttalat fanserviceinnehåll.",
+      "comparison_cues": [
+        "Kan jämföras med andra övernaturliga skolkomedier vad gäller balans mellan relationshumor, fanservice och konflikt."
+      ],
+      "uncertainties": [
+        "Den officiella serienbeskrivningen ger begränsat stöd för övergripande dramaturgisk utveckling."
+      ],
+      "sources": [
+        "https://www.crunchyroll.com/series/GY8VPDE0Y/rosario--vampire",
+        "https://tv.apple.com/es/show/rosario--vampire/umc.cmc.2ykxlbxi27om3znh712bg5y31"
+      ]
+    },
     "6098": {
       "mal_id": 6098,
       "title": "Sora no Manimani",
@@ -108,6 +139,36 @@
         "https://cinemaplus.shochiku.co.jp/titles/detail/830/",
         "https://www.video.unext.jp/title/SID0013564",
         "https://gigazine.net/news/20100402_tamayura_ova"
+      ]
+    },
+    "10719": {
+      "mal_id": 10719,
+      "title": "Boku wa Tomodachi ga Sukunai",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-04T03:15:26.547Z",
+      "synopsis": "Kodaka och Yozora har svårt att få vänner på skolan och grundar Neighbors Club för socialt missanpassade elever. Sena ansluter, och motsättningarna mellan henne och Yozora blir en central del av gruppens samspel.",
+      "themes": [
+        "ensamhet och social tillhörighet",
+        "vänskap och social osäkerhet",
+        "rivalitet"
+      ],
+      "tone": [
+        "skolkomedi",
+        "romantisk komedi",
+        "fräck och suggestiv humor"
+      ],
+      "pacing_and_structure": "Klubbcentrerad situationskomedi med återkommande sociala aktiviteter och relationsfriktion snarare än en enskild äventyrsintrig.",
+      "character_dynamics": "Kodaka och Yozora bildar klubben; Sena blir en tredje huvudperson vars rivalitet med Yozora driver återkommande konflikter.",
+      "distinctive_features": "En skolklubb med det uttalade syftet att lära sig få vänner; kontrast mellan medlemmarnas önskan om gemenskap och deras svårigheter att umgås.",
+      "comparison_cues": [
+        "Kan jämföras med andra skolklubbsserier i fråga om hur vardagsaktiviteter, romantisk spänning och rivalitet vägs mot vänskapstemat."
+      ],
+      "uncertainties": [
+        "Den officiella synopsistexten specificerar inte enskilda avsnitts dramaturgi eller slutets upplösning."
+      ],
+      "sources": [
+        "https://www.crunchyroll.com/series/GYX0PN4MR/haganai",
+        "https://www.crunchyroll.com/watch/GR192E506/we-cant-make-any-friends"
       ]
     },
     "12119": {
