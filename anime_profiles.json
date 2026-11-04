@@ -1048,6 +1048,42 @@
         "https://www.hulu.jp/days-with-my-stepsister"
       ]
     },
+    "52588": {
+      "mal_id": 52588,
+      "title": "Kaijuu 8-gou",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-04T22:08:13.947Z",
+      "synopsis": "I ett Japan som regelbundet drabbas av jättemonster arbetar Kafka Hibino med att röja upp rester efter försvarsstyrkornas strider. Han har övergett sin gamla ambition att själv gå med i försvarsstyrkan, där barndomsvännen Mina Ashiro nu är befäl. Den yngre kollegan Reno Ichikawa får honom att försöka igen, men Kafka förvandlas oväntat själv till en kraftfull kaiju och måste förena drömmen om att försvara människor med sin farliga nya identitet.",
+      "themes": [
+        "Att återuppta en övergiven livsdröm",
+        "Mänsklig identitet kontra monstruös kropp",
+        "Kamratskap och förtroende under press",
+        "Att vara en sen nybörjare i en prestationsinriktad organisation"
+      ],
+      "tone": [
+        "Actionbetonad",
+        "Dramatisk",
+        "Kamratlig",
+        "Humoristiska kontraster i vardag och strid"
+      ],
+      "pacing_and_structure": "Seriell actionberättelse med upptakt kring Kafkas arbete och nya rekryteringsförsök, följd av militära prov, gruppdynamik och eskalerande monsterkonflikter. Växlar mellan personlig motivation och stridssekvenser.",
+      "character_dynamics": "Kafka och Mina binds samman av ett barndomslöfte men befinner sig på mycket olika karriärnivåer. Reno fungerar som yngre kollega och katalysator för Kafkas återvunna ambition; deras samarbete kontrasterar mot den institutionella risken med Kafkas hemliga förvandling.",
+      "distinctive_features": "Huvudpersonen börjar som anställd i saneringsledet efter kaijustrider snarare än som ung elitkrigare. Hans egen kaijukropp gör honom samtidigt till en potentiell resurs och ett hot i försvarsstyrkans ögon. TV-anime från 2024 producerad av Production I.G med kaijudesignarbete från Studio Khara.",
+      "comparison_cues": [
+        "Vuxen huvudperson som försöker börja om",
+        "Dubbel identitet och organisatorisk misstro",
+        "Lagbaserad monsteraction snarare än renodlad ensam hjälte",
+        "Kontrast mellan arbetsvardag och storskaliga strider"
+      ],
+      "uncertainties": [
+        "Tempo och ton är övergripande beskrivningar utifrån officiella synopsis och avsnittsstruktur, inte en scen-för-scen-granskning."
+      ],
+      "sources": [
+        "https://www.production-ig.co.jp/works/kaiju-no8/",
+        "https://www.kaiju-no8.net/en/",
+        "https://www.crunchyroll.com/series/GG5H5XQ7D/kaiju-no-8"
+      ]
+    },
     "53621": {
       "mal_id": 53621,
       "title": "Jijou wo Shiranai Tenkousei ga Guigui Kuru.",
