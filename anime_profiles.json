@@ -304,6 +304,41 @@
         "https://www.tvguide.or.jp/db/anime/date_a_live/season1/"
       ]
     },
+    "18095": {
+      "mal_id": 18095,
+      "title": "Nourin",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-04T21:02:57.586Z",
+      "synopsis": "På jordbruksgymnasiet Tamo går Kousaku Hata, som dyrkar popidolen Yuka Kusakabe. När hon oväntat lämnar artistlivet blir han förkrossad, men återvänder till skolan med kamraternas hjälp. Där börjar den tidigare idolen som ny elev under namnet Ringo Kinoshita. Kousaku försöker lära känna henne och förstå varför hon valt just denna skola.",
+      "themes": [
+        "Idoldyrkan kontra vardagsliv",
+        "Jordbruk och praktiskt skolarbete",
+        "Vänskap och romantisk förväntan",
+        "Omställning efter ett offentligt liv"
+      ],
+      "tone": [
+        "Högljudd skolkomedi",
+        "Romantisk fars",
+        "Parodisk och absurd humor",
+        "Ecchi-inslag"
+      ],
+      "pacing_and_structure": "En 12-avsnitts skolkomedi som varvar relationsintriger med jordbruksövningar och fristående komiska situationer. Avsnittsbeskrivningarna visar bland annat odlingsutmaningar, problem med djur och marknadsföring av jordbruksprodukter.",
+      "character_dynamics": "Kousakus idealiserade bild av Yuka ställs mot den verkliga klasskamraten Ringo. Hans barndomsvän Minori och övriga elever bidrar med rivalitet, stöd och komiska konflikter.",
+      "distinctive_features": "En idol som byter till jordbruksgymnasium ger upphov till en ovanlig kombination av skolromantik, lantbrukspraktik och skruvad parodi. Serien utspelas i en uttalat jordbruksinriktad utbildningsmiljö.",
+      "comparison_cues": [
+        "Kan kontrasteras mot mer lågmälda vardagsskildringar genom sin uttalade fars och ecchi-humor.",
+        "Idolens offentliga persona kontra privatlivet är ett användbart jämförelsetema utan att ange någon personlig matchningspoäng."
+      ],
+      "uncertainties": [
+        "Hur stor andel av avsnitten som ägnas åt faktisk jordbruksundervisning kontra komedi har inte kvantifierats.",
+        "Ingen egen bedömning av komedins kvalitet eller av hur relationerna avslutas görs."
+      ],
+      "sources": [
+        "https://tv.apple.com/us/show/no-rin/umc.cmc.2y6kj81z7w6kr8dt27rjdvbid",
+        "https://www.video.unext.jp/title/SID0002277",
+        "https://www.animesc.com/es/details/1cloyV/nourin"
+      ]
+    },
     "18507": {
       "mal_id": 18507,
       "title": "Free!",
