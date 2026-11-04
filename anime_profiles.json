@@ -909,6 +909,39 @@
         "https://edomae-elf.com/",
         "https://intl.nikkatsu.com/sales/447.html"
       ]
+    },
+    "54112": {
+      "mal_id": 54112,
+      "title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-04T19:09:20.927Z",
+      "synopsis": "Akira Tendou är utmattad efter tre år på en exploaterande arbetsplats. När en zombieepidemi slår till ser han paradoxalt nog möjligheten att äntligen leva på egna villkor. Han skriver en lista över hundra saker han vill göra innan han själv blir zombie och försöker förverkliga dem i ett sammanfallande samhälle.",
+      "themes": [
+        "arbetslivets exploatering och utbrändhet",
+        "frihet och självbestämmande",
+        "livsglädje under katastrof",
+        "risk kontra personlig utveckling"
+      ],
+      "tone": [
+        "svart komedi",
+        "energisk och absurd",
+        "optimistisk mitt i skräck och fara"
+      ],
+      "pacing_and_structure": "Handlingen drivs av konkreta punkter på Akiras önskelista och kontrasten mellan zombieöverlevnad och självförverkligande. Premissen växlar mellan komiska infall, faror och reflektion över tidigare livsval.",
+      "character_dynamics": "Akiras impulsiva livslust kontrasteras särskilt mot Shizukas metodiska riskhantering. Hans gamle vän Kencho och den Japanintresserade Beatrix tillför andra perspektiv på hur man kan leva under katastrofen.",
+      "distinctive_features": "Vänder på zombiegenrens vanliga förtvivlan: huvudpersonen upplever samhällets kollaps som en befrielse från kontorslivet. Önskelistan ger berättelsen en tydlig episodisk motor.",
+      "comparison_cues": [
+        "Jämför hur humor och existentiella frågor balanseras, snarare än enbart zombieinslag.",
+        "Kan kontrasteras mot mer konsekvent dystra överlevnadsberättelser."
+      ],
+      "uncertainties": [
+        "Den exakta fördelningen mellan episodiska inslag och längre berättelsebågar är inte fullständigt dokumenterad av de använda introduktionskällorna."
+      ],
+      "sources": [
+        "https://zom100.com/en/",
+        "https://www.viz.com/zom-100",
+        "https://www.crunchyroll.com/series/GJ0H7QGQK/zom-100-bucket-list-of-the-dead"
+      ]
     }
   }
 }
