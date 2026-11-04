@@ -779,6 +779,38 @@
         "https://www.cwfilms.jp/products/article/suzume.html",
         "https://www.crunchyroll.com/series/GP5HJ8425/suzume"
       ]
+    },
+    "52081": {
+      "mal_id": 52081,
+      "title": "Edomae Elf",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-04T15:07:50.240Z",
+      "synopsis": "I stadsdelen Tsukishima i Tokyo tjänstgör tonåringen Koito Koganei som den femtonde generationens miko vid Takamimi-helgedomen. Där vördas Elda, en långlivad alv som kallades från en annan värld under Edoperioden. Elda föredrar spel, samlarprylar och att stanna inomhus framför sina uppgifter som lokal gudom. Koito försöker få henne att delta i helgedomens och grannskapets vardag, samtidigt som Elda delar minnen av äldre tiders Tokyo.",
+      "themes": [
+        "Vänskap och ansvar mellan generationer",
+        "Lokalhistoria och förändring över århundraden",
+        "Tradition i möte med modern otakukultur",
+        "Gemenskap och tillhörighet i ett bostadsområde"
+      ],
+      "tone": [
+        "Varm",
+        "Avslappnad",
+        "Vardagshumoristisk",
+        "Lätt nostalgisk"
+      ],
+      "pacing_and_structure": "Lågmäld, huvudsakligen episodisk vardagskomedi med små händelser kring helgedomen, lokalsamhället och Eldas intressen. Historiska anekdoter ger kontrast till dagens Tokyo snarare än att driva en stor äventyrsintrig.",
+      "character_dynamics": "Koito är den utåtriktade, ansvarstagande och ofta frustrerade motparten till den tillbakadragna, spelintresserade Elda. Deras komiska motsättningar kombineras med omsorg. Familj, grannar och andra par av alver och helgedomsflickor vidgar relationerna.",
+      "distinctive_features": "Omvänd isekai där en alv sedan århundraden lever som helgedomens gudom i ett verkligt Tokyo-kvarter. Edohistoriska återblickar och modern spel-/samlarkultur blandas med traditionell helgedomsvardag.",
+      "comparison_cues": [
+        "För jämförelser med episodisk slice-of-life: vardaglig samvaro och miljö snarare än dramatisk huvudkonflikt",
+        "För kontrast mot mer konfliktorienterad fantasy: övernaturlig huvudfigur i vardagsmiljö",
+        "För jämförelser med historiska motiv: lokala minnen och tidsförändring i lätt komisk form"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://edomae-elf.com/",
+        "https://intl.nikkatsu.com/sales/447.html"
+      ]
     }
   }
 }
