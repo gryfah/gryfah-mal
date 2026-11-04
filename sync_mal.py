@@ -33,7 +33,7 @@ def fetch_anime():
     client_id = os.environ["MAL_CLIENT_ID"]
     url = (
         f"https://api.myanimelist.net/v2/users/{USERNAME}/animelist"
-        f"?fields={FIELDS}&limit=1000"
+        f"?fields={FIELDS}&limit=1000&nsfw=true"
     )
     all_entries = []
     while url:
@@ -200,7 +200,13 @@ def main():
         raise RuntimeError("Suspiciously incomplete MAL response; old data preserved")
 
     now = datetime.now(timezone.utc)
-    events, pending = find_events(previous_anime, current_anime, pending, now)
+    # The first NSFW-inclusive fetch repairs a previously incomplete baseline.
+    # Do not report the recovered historical entries as newly completed shows.
+    if previous_document.get("nsfw_included") is True:
+        events, pending = find_events(previous_anime, current_anime, pending, now)
+    else:
+        events = []
+        print("NSFW-inclusive baseline initialized; transition detection skipped once")
     results = prepare_results(previous_results, events, pending, now)
     current_document = {
         "mal_user": USERNAME,
@@ -208,6 +214,7 @@ def main():
         "updated_at": now.isoformat(),
         "count": len(current_anime),
         "sort": "release_start_date_ascending",
+        "nsfw_included": True,
         "anime": current_anime,
     }
     # The backup is the exact previous snapshot, not the freshly fetched list.
