@@ -843,6 +843,41 @@
         "https://www.crunchyroll.com/series/GP5HJ8425/suzume"
       ]
     },
+    "51105": {
+      "mal_id": 51105,
+      "title": "NieR:Automata Ver1.1a",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-04T18:02:01.176Z",
+      "synopsis": "I en avlägsen framtid har mänskligheten flytt till månen efter en invasion av utomjordingar och deras maskinlivsformer. På jorden utkämpar människoskapade androider ett utdraget krig. Elitförbandet YoRHa skickar 2B och 9S till jorden för ett återerövringsuppdrag, där de möter en konflikt som är mer komplicerad än en enkel kamp mot maskiner.",
+      "themes": [
+        "Krig och plikt",
+        "Identitet och artificiellt liv",
+        "Mänsklighet och existens",
+        "Lojalitet och självbestämmande"
+      ],
+      "tone": [
+        "Mörk science fiction",
+        "Melankolisk",
+        "Actiondriven",
+        "Existentiell"
+      ],
+      "pacing_and_structure": "Handlingsdriven science fiction med stridsuppdrag, utforskning av en övergiven jord och successivt fördjupade frågor om krigets mening. Berättelsen använder bland annat stödenheternas uppdragsrapporter som inramning.",
+      "character_dynamics": "2B och 9S samarbetar som YoRHa-androider med olika uppgifter; deras respektive stödenheter Pod 042 och Pod 153 rapporterar om uppdragen. Relationer mellan androider, motståndsrörelsen och maskinlivsformerna komplicerar konfliktens ursprungliga uppdelning.",
+      "distinctive_features": "Animeadaption av Square Enix actionrollspel med Yoko Taro som medansvarig för seriesammansättningen. A-1 Pictures står för animationen. En postapokalyptisk jord, androidsoldater och maskinlivsformer förenar militär action med filosofisk science fiction.",
+      "comparison_cues": [
+        "Jämförbart med annan filosofiskt orienterad science fiction om artificiella varelser och människolikhet",
+        "Kontrast mellan militär uppdragsstruktur och existentiell tematik",
+        "Relevant som exempel på speladaption med eget episodiskt berättarformat"
+      ],
+      "uncertainties": [
+        "Detaljerad fördelning mellan action, filosofiska samtal och senare narrativa vändningar har inte värderats genom egen genomgång av hela serien."
+      ],
+      "sources": [
+        "https://www.aniplex.co.jp/lineup/NieR/",
+        "https://www.aniplex.co.jp/lineup/NieR/story/",
+        "https://tv.apple.com/jp/show/nierautomata-ver11a/umc.cmc.2bj2ebv9hfq0ouicyd7h573l6"
+      ]
+    },
     "52081": {
       "mal_id": 52081,
       "title": "Edomae Elf",
