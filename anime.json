@@ -1,9 +1,10 @@
 {
   "mal_user": "gryfah",
   "source": "MyAnimeList API v2",
-  "updated_at": "2026-11-04T06:06:17.084677+00:00",
-  "count": 703,
+  "updated_at": "2026-11-04T06:40:28.622072+00:00",
+  "count": 775,
   "sort": "release_start_date_ascending",
+  "nsfw_included": true,
   "anime": [
     {
       "mal_id": 2452,
@@ -574,7 +575,7 @@
       "status": "completed",
       "score": 5,
       "mal_mean_score": 7.11,
-      "mal_num_scoring_users": 6727,
+      "mal_num_scoring_users": 6728,
       "episodes_watched": 6,
       "is_rewatching": false,
       "updated_at_mal": "2025-05-08T11:59:08+00:00",
@@ -717,6 +718,36 @@
         "Studio Ghibli"
       ],
       "mal_url": "https://myanimelist.net/anime/1029"
+    },
+    {
+      "mal_id": 13715,
+      "title": "Kennel Tokorozawa",
+      "status": "completed",
+      "score": 5,
+      "mal_mean_score": 3.71,
+      "mal_num_scoring_users": 2485,
+      "episodes_watched": 1,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-02-18T19:52:47+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2025-02-18",
+      "release_start_date": "1992-02-21",
+      "release_end_date": "1992-02-21",
+      "release_year": 1992,
+      "release_season": "winter",
+      "media_type": "ova",
+      "num_episodes": 1,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Pets",
+        "School",
+        "Seinen"
+      ],
+      "studios": [
+        "Animation 21"
+      ],
+      "mal_url": "https://myanimelist.net/anime/13715"
     },
     {
       "mal_id": 416,
@@ -1512,6 +1543,36 @@
       "mal_url": "https://myanimelist.net/anime/440"
     },
     {
+      "mal_id": 366,
+      "title": "AIKa",
+      "status": "dropped",
+      "score": 0,
+      "mal_mean_score": 5.97,
+      "mal_num_scoring_users": 16269,
+      "episodes_watched": 3,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-06-03T05:45:29+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "1997-04-25",
+      "release_end_date": "1999-04-25",
+      "release_year": 1997,
+      "release_season": "spring",
+      "media_type": "ova",
+      "num_episodes": 7,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Ecchi",
+        "Sci-Fi"
+      ],
+      "studios": [
+        "Studio Fantasia"
+      ],
+      "mal_url": "https://myanimelist.net/anime/366"
+    },
+    {
       "mal_id": 458,
       "title": "Buttobi!! CPU",
       "status": "dropped",
@@ -1600,6 +1661,35 @@
         "Production I.G"
       ],
       "mal_url": "https://myanimelist.net/anime/32"
+    },
+    {
+      "mal_id": 320,
+      "title": "A Kite",
+      "status": "completed",
+      "score": 6,
+      "mal_mean_score": 6.55,
+      "mal_num_scoring_users": 42307,
+      "episodes_watched": 2,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-10-02T20:25:06+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2025-10-02",
+      "release_start_date": "1998-02-25",
+      "release_end_date": "1998-10-25",
+      "release_year": 1998,
+      "release_season": "winter",
+      "media_type": "ova",
+      "num_episodes": 2,
+      "genres": [
+        "Action",
+        "Drama",
+        "Gore",
+        "Hentai"
+      ],
+      "studios": [
+        "Arms"
+      ],
+      "mal_url": "https://myanimelist.net/anime/320"
     },
     {
       "mal_id": 437,
@@ -1906,6 +1996,35 @@
         "Madhouse"
       ],
       "mal_url": "https://myanimelist.net/anime/369"
+    },
+    {
+      "mal_id": 221,
+      "title": "Mezzo Forte",
+      "status": "completed",
+      "score": 7,
+      "mal_mean_score": 6.66,
+      "mal_num_scoring_users": 18347,
+      "episodes_watched": 2,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-08-11T09:04:48+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2026-01-09",
+      "release_start_date": "2000-05-25",
+      "release_end_date": "2001-06-25",
+      "release_year": 2000,
+      "release_season": "spring",
+      "media_type": "ova",
+      "num_episodes": 2,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Hentai",
+        "Sci-Fi"
+      ],
+      "studios": [
+        "Arms"
+      ],
+      "mal_url": "https://myanimelist.net/anime/221"
     },
     {
       "mal_id": 180,
@@ -2809,6 +2928,38 @@
       "mal_url": "https://myanimelist.net/anime/390"
     },
     {
+      "mal_id": 79,
+      "title": "Shuffle!",
+      "status": "dropped",
+      "score": 0,
+      "mal_mean_score": 7,
+      "mal_num_scoring_users": 140129,
+      "episodes_watched": 9,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-07-26T20:31:08+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2026-07-26",
+      "release_start_date": "2005-07-08",
+      "release_end_date": "2006-01-06",
+      "release_year": 2005,
+      "release_season": "summer",
+      "media_type": "tv",
+      "num_episodes": 24,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Fantasy",
+        "Harem",
+        "Romance",
+        "School",
+        "Urban Fantasy"
+      ],
+      "studios": [
+        "asread."
+      ],
+      "mal_url": "https://myanimelist.net/anime/79"
+    },
+    {
       "mal_id": 488,
       "title": "Ichigo Mashimaro",
       "status": "completed",
@@ -3574,6 +3725,35 @@
       "mal_url": "https://myanimelist.net/anime/2963"
     },
     {
+      "mal_id": 2403,
+      "title": "Kodomo no Jikan (TV)",
+      "status": "completed",
+      "score": 6,
+      "mal_mean_score": 6.69,
+      "mal_num_scoring_users": 56584,
+      "episodes_watched": 12,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-08-09T09:39:22+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2025-08-09",
+      "release_start_date": "2007-10-12",
+      "release_end_date": "2007-12-28",
+      "release_year": 2007,
+      "release_season": "fall",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Ecchi",
+        "School"
+      ],
+      "studios": [
+        "Studio Barcelona"
+      ],
+      "mal_url": "https://myanimelist.net/anime/2403"
+    },
+    {
       "mal_id": 3456,
       "title": "Candy☆Boy: Side Story For Archive",
       "status": "completed",
@@ -3754,6 +3934,38 @@
       "mal_url": "https://myanimelist.net/anime/2129"
     },
     {
+      "mal_id": 3342,
+      "title": "Mnemosyne: Mnemosyne no Musume-tachi",
+      "status": "completed",
+      "score": 8,
+      "mal_mean_score": 7.23,
+      "mal_num_scoring_users": 77962,
+      "episodes_watched": 6,
+      "is_rewatching": false,
+      "updated_at_mal": "2024-10-15T21:03:06+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2024-10-15",
+      "release_start_date": "2008-02-04",
+      "release_end_date": "2008-07-07",
+      "release_year": 2008,
+      "release_season": "winter",
+      "media_type": "tv",
+      "num_episodes": 6,
+      "genres": [
+        "Action",
+        "Adult Cast",
+        "Girls Love",
+        "Gore",
+        "Horror",
+        "Sci-Fi",
+        "Supernatural"
+      ],
+      "studios": [
+        "Xebec"
+      ],
+      "mal_url": "https://myanimelist.net/anime/3342"
+    },
+    {
       "mal_id": 3783,
       "title": "Kara no Kyoukai Movie 3: Tsuukaku Zanryuu",
       "status": "completed",
@@ -3790,7 +4002,7 @@
       "status": "completed",
       "score": 6,
       "mal_mean_score": 6.21,
-      "mal_num_scoring_users": 16754,
+      "mal_num_scoring_users": 16756,
       "episodes_watched": 1,
       "is_rewatching": false,
       "updated_at_mal": "2025-10-03T07:02:40+00:00",
@@ -3812,6 +4024,37 @@
         "Arms"
       ],
       "mal_url": "https://myanimelist.net/anime/3323"
+    },
+    {
+      "mal_id": 3503,
+      "title": "Kanokon",
+      "status": "completed",
+      "score": 6,
+      "mal_mean_score": 6.35,
+      "mal_num_scoring_users": 124373,
+      "episodes_watched": 12,
+      "is_rewatching": false,
+      "updated_at_mal": "2024-06-14T20:24:07+00:00",
+      "user_start_date": "2024-06-11",
+      "user_finish_date": "2024-06-14",
+      "release_start_date": "2008-04-05",
+      "release_end_date": "2008-06-21",
+      "release_year": 2008,
+      "release_season": "spring",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Love Polygon",
+        "Romance",
+        "School",
+        "Supernatural"
+      ],
+      "studios": [
+        "Xebec"
+      ],
+      "mal_url": "https://myanimelist.net/anime/3503"
     },
     {
       "mal_id": 3731,
@@ -3992,7 +4235,7 @@
       "status": "completed",
       "score": 7,
       "mal_mean_score": 6.75,
-      "mal_num_scoring_users": 15606,
+      "mal_num_scoring_users": 15605,
       "episodes_watched": 1,
       "is_rewatching": false,
       "updated_at_mal": "2025-05-12T21:32:19+00:00",
@@ -4136,7 +4379,7 @@
       "status": "completed",
       "score": 7,
       "mal_mean_score": 7.33,
-      "mal_num_scoring_users": 409512,
+      "mal_num_scoring_users": 409514,
       "episodes_watched": 24,
       "is_rewatching": false,
       "updated_at_mal": "2025-05-08T13:10:59+00:00",
@@ -4248,6 +4491,37 @@
       "mal_url": "https://myanimelist.net/anime/5204"
     },
     {
+      "mal_id": 5042,
+      "title": "Kiss x Sis",
+      "status": "completed",
+      "score": 6,
+      "mal_mean_score": 6.77,
+      "mal_num_scoring_users": 194954,
+      "episodes_watched": 12,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-01-16T16:22:42+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2025-01-16",
+      "release_start_date": "2008-12-22",
+      "release_end_date": "2015-04-06",
+      "release_year": 2008,
+      "release_season": "fall",
+      "media_type": "ova",
+      "num_episodes": 12,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Harem",
+        "Romance",
+        "School",
+        "Seinen"
+      ],
+      "studios": [
+        "feel."
+      ],
+      "mal_url": "https://myanimelist.net/anime/5042"
+    },
+    {
       "mal_id": 4811,
       "title": "Ichigo Mashimaro Encore",
       "status": "completed",
@@ -4338,7 +4612,7 @@
       "status": "dropped",
       "score": 0,
       "mal_mean_score": 7.46,
-      "mal_num_scoring_users": 39823,
+      "mal_num_scoring_users": 39824,
       "episodes_watched": 12,
       "is_rewatching": false,
       "updated_at_mal": "2025-03-27T20:20:50+00:00",
@@ -4599,7 +4873,7 @@
       "status": "completed",
       "score": 7,
       "mal_mean_score": 7.65,
-      "mal_num_scoring_users": 305369,
+      "mal_num_scoring_users": 305375,
       "episodes_watched": 24,
       "is_rewatching": false,
       "updated_at_mal": "2025-05-08T13:08:57+00:00",
@@ -4686,7 +4960,7 @@
       "status": "completed",
       "score": 9,
       "mal_mean_score": 8.01,
-      "mal_num_scoring_users": 532760,
+      "mal_num_scoring_users": 532766,
       "episodes_watched": 25,
       "is_rewatching": false,
       "updated_at_mal": "2024-06-17T19:52:17+00:00",
@@ -4744,7 +5018,7 @@
       "status": "completed",
       "score": 7,
       "mal_mean_score": 7.54,
-      "mal_num_scoring_users": 58796,
+      "mal_num_scoring_users": 58797,
       "episodes_watched": 12,
       "is_rewatching": false,
       "updated_at_mal": "2024-06-22T20:43:24+00:00",
@@ -4775,7 +5049,7 @@
       "status": "completed",
       "score": 7,
       "mal_mean_score": 7.86,
-      "mal_num_scoring_users": 106468,
+      "mal_num_scoring_users": 106470,
       "episodes_watched": 1,
       "is_rewatching": false,
       "updated_at_mal": "2025-10-14T06:35:26+00:00",
@@ -4804,7 +5078,7 @@
       "status": "completed",
       "score": 7,
       "mal_mean_score": 8.09,
-      "mal_num_scoring_users": 55759,
+      "mal_num_scoring_users": 55760,
       "episodes_watched": 7,
       "is_rewatching": false,
       "updated_at_mal": "2025-05-08T12:55:43+00:00",
@@ -4857,12 +5131,43 @@
       "mal_url": "https://myanimelist.net/anime/6547"
     },
     {
+      "mal_id": 7593,
+      "title": "Kiss x Sis (TV)",
+      "status": "completed",
+      "score": 7,
+      "mal_mean_score": 6.54,
+      "mal_num_scoring_users": 353968,
+      "episodes_watched": 12,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-01-08T21:12:59+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2025-01-08",
+      "release_start_date": "2010-04-05",
+      "release_end_date": "2010-06-21",
+      "release_year": 2010,
+      "release_season": "spring",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Harem",
+        "Romance",
+        "School",
+        "Seinen"
+      ],
+      "studios": [
+        "feel."
+      ],
+      "mal_url": "https://myanimelist.net/anime/7593"
+    },
+    {
       "mal_id": 7647,
       "title": "Arakawa Under the Bridge",
       "status": "dropped",
       "score": 0,
       "mal_mean_score": 7.56,
-      "mal_num_scoring_users": 161702,
+      "mal_num_scoring_users": 161700,
       "episodes_watched": 1,
       "is_rewatching": false,
       "updated_at_mal": "2026-11-03T06:35:37+00:00",
@@ -4950,7 +5255,7 @@
       "status": "dropped",
       "score": 0,
       "mal_mean_score": 7.15,
-      "mal_num_scoring_users": 133953,
+      "mal_num_scoring_users": 133951,
       "episodes_watched": 2,
       "is_rewatching": false,
       "updated_at_mal": "2025-03-27T20:19:53+00:00",
@@ -4978,7 +5283,7 @@
       "status": "dropped",
       "score": 0,
       "mal_mean_score": 7.27,
-      "mal_num_scoring_users": 169251,
+      "mal_num_scoring_users": 169253,
       "episodes_watched": 9,
       "is_rewatching": false,
       "updated_at_mal": "2025-04-15T20:39:30+00:00",
@@ -5034,7 +5339,7 @@
       "status": "dropped",
       "score": 0,
       "mal_mean_score": 7.54,
-      "mal_num_scoring_users": 231502,
+      "mal_num_scoring_users": 231501,
       "episodes_watched": 3,
       "is_rewatching": false,
       "updated_at_mal": "2025-03-27T20:21:10+00:00",
@@ -5063,7 +5368,7 @@
       "status": "dropped",
       "score": 0,
       "mal_mean_score": 7.72,
-      "mal_num_scoring_users": 279077,
+      "mal_num_scoring_users": 279078,
       "episodes_watched": 8,
       "is_rewatching": false,
       "updated_at_mal": "2025-10-23T13:42:24+00:00",
@@ -5096,7 +5401,7 @@
       "status": "completed",
       "score": 6,
       "mal_mean_score": 5.96,
-      "mal_num_scoring_users": 23057,
+      "mal_num_scoring_users": 23056,
       "episodes_watched": 2,
       "is_rewatching": false,
       "updated_at_mal": "2025-05-14T05:04:19+00:00",
@@ -5153,7 +5458,7 @@
       "status": "completed",
       "score": 7,
       "mal_mean_score": 6.92,
-      "mal_num_scoring_users": 405061,
+      "mal_num_scoring_users": 405055,
       "episodes_watched": 12,
       "is_rewatching": false,
       "updated_at_mal": "2025-05-09T07:42:43+00:00",
@@ -5175,12 +5480,41 @@
       "mal_url": "https://myanimelist.net/anime/8769"
     },
     {
+      "mal_id": 8861,
+      "title": "Yosuga no Sora",
+      "status": "completed",
+      "score": 6,
+      "mal_mean_score": 5.98,
+      "mal_num_scoring_users": 290640,
+      "episodes_watched": 12,
+      "is_rewatching": false,
+      "updated_at_mal": "2024-07-18T20:16:55+00:00",
+      "user_start_date": "2024-07-09",
+      "user_finish_date": "2024-07-18",
+      "release_start_date": "2010-10-04",
+      "release_end_date": "2010-12-20",
+      "release_year": 2010,
+      "release_season": "fall",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Drama",
+        "Ecchi",
+        "Harem",
+        "Romance"
+      ],
+      "studios": [
+        "feel."
+      ],
+      "mal_url": "https://myanimelist.net/anime/8861"
+    },
+    {
       "mal_id": 8525,
       "title": "Kami nomi zo Shiru Sekai",
       "status": "completed",
       "score": 7,
       "mal_mean_score": 7.63,
-      "mal_num_scoring_users": 350204,
+      "mal_num_scoring_users": 350208,
       "episodes_watched": 12,
       "is_rewatching": false,
       "updated_at_mal": "2024-11-14T05:34:14+00:00",
@@ -5240,7 +5574,7 @@
       "status": "completed",
       "score": 7,
       "mal_mean_score": 7.51,
-      "mal_num_scoring_users": 263714,
+      "mal_num_scoring_users": 263715,
       "episodes_watched": 24,
       "is_rewatching": false,
       "updated_at_mal": "2025-05-08T13:11:41+00:00",
@@ -5300,7 +5634,7 @@
       "status": "completed",
       "score": 5,
       "mal_mean_score": 6.07,
-      "mal_num_scoring_users": 43154,
+      "mal_num_scoring_users": 43155,
       "episodes_watched": 10,
       "is_rewatching": false,
       "updated_at_mal": "2025-10-21T20:01:25+00:00",
@@ -5360,7 +5694,7 @@
       "status": "completed",
       "score": 8,
       "mal_mean_score": 7.97,
-      "mal_num_scoring_users": 326409,
+      "mal_num_scoring_users": 326415,
       "episodes_watched": 12,
       "is_rewatching": false,
       "updated_at_mal": "2024-06-20T05:18:29+00:00",
@@ -5445,7 +5779,7 @@
       "status": "completed",
       "score": 7,
       "mal_mean_score": 7.86,
-      "mal_num_scoring_users": 78054,
+      "mal_num_scoring_users": 78055,
       "episodes_watched": 1,
       "is_rewatching": false,
       "updated_at_mal": "2025-10-17T19:41:27+00:00",
@@ -5501,7 +5835,7 @@
       "status": "completed",
       "score": 8,
       "mal_mean_score": 9.07,
-      "mal_num_scoring_users": 1546642,
+      "mal_num_scoring_users": 1546647,
       "episodes_watched": 24,
       "is_rewatching": false,
       "updated_at_mal": "2024-08-06T21:01:30+00:00",
@@ -5559,7 +5893,7 @@
       "status": "completed",
       "score": 5,
       "mal_mean_score": 6.46,
-      "mal_num_scoring_users": 72764,
+      "mal_num_scoring_users": 72765,
       "episodes_watched": 12,
       "is_rewatching": false,
       "updated_at_mal": "2025-03-24T10:37:09+00:00",
@@ -5591,7 +5925,7 @@
       "status": "completed",
       "score": 7,
       "mal_mean_score": 7.86,
-      "mal_num_scoring_users": 250938,
+      "mal_num_scoring_users": 250942,
       "episodes_watched": 12,
       "is_rewatching": false,
       "updated_at_mal": "2024-11-14T05:34:25+00:00",
@@ -5623,7 +5957,7 @@
       "status": "completed",
       "score": 7,
       "mal_mean_score": 7.11,
-      "mal_num_scoring_users": 132658,
+      "mal_num_scoring_users": 132659,
       "episodes_watched": 12,
       "is_rewatching": false,
       "updated_at_mal": "2024-08-18T08:30:52+00:00",
@@ -5677,7 +6011,7 @@
       "status": "completed",
       "score": 6,
       "mal_mean_score": 7.13,
-      "mal_num_scoring_users": 724483,
+      "mal_num_scoring_users": 724493,
       "episodes_watched": 12,
       "is_rewatching": false,
       "updated_at_mal": "2024-06-11T05:31:54+00:00",
@@ -5710,7 +6044,7 @@
       "status": "completed",
       "score": 6,
       "mal_mean_score": 7.47,
-      "mal_num_scoring_users": 1229144,
+      "mal_num_scoring_users": 1229159,
       "episodes_watched": 25,
       "is_rewatching": false,
       "updated_at_mal": "2025-05-08T12:47:45+00:00",
@@ -5740,7 +6074,7 @@
       "status": "completed",
       "score": 7,
       "mal_mean_score": 7.56,
-      "mal_num_scoring_users": 159252,
+      "mal_num_scoring_users": 159251,
       "episodes_watched": 12,
       "is_rewatching": false,
       "updated_at_mal": "2025-05-09T07:39:12+00:00",
@@ -5771,7 +6105,7 @@
       "status": "completed",
       "score": 6,
       "mal_mean_score": 7.55,
-      "mal_num_scoring_users": 217671,
+      "mal_num_scoring_users": 217672,
       "episodes_watched": 11,
       "is_rewatching": false,
       "updated_at_mal": "2025-09-02T06:47:53+00:00",
@@ -5800,7 +6134,7 @@
       "status": "completed",
       "score": 8,
       "mal_mean_score": 8.31,
-      "mal_num_scoring_users": 257248,
+      "mal_num_scoring_users": 257247,
       "episodes_watched": 11,
       "is_rewatching": false,
       "updated_at_mal": "2024-09-06T21:16:45+00:00",
@@ -5822,6 +6156,38 @@
         "Production I.G"
       ],
       "mal_url": "https://myanimelist.net/anime/10162"
+    },
+    {
+      "mal_id": 10490,
+      "title": "Blood-C",
+      "status": "plan_to_watch",
+      "score": 0,
+      "mal_mean_score": 6.53,
+      "mal_num_scoring_users": 175164,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-11-04T06:19:59+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2011-07-08",
+      "release_end_date": "2011-09-30",
+      "release_year": 2011,
+      "release_season": "summer",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Action",
+        "Gore",
+        "Horror",
+        "Mystery",
+        "School",
+        "Supernatural",
+        "Vampire"
+      ],
+      "studios": [
+        "Production I.G"
+      ],
+      "mal_url": "https://myanimelist.net/anime/10490"
     },
     {
       "mal_id": 10721,
@@ -5981,7 +6347,7 @@
       "status": "completed",
       "score": 8,
       "mal_mean_score": 7.37,
-      "mal_num_scoring_users": 1289452,
+      "mal_num_scoring_users": 1289459,
       "episodes_watched": 26,
       "is_rewatching": false,
       "updated_at_mal": "2024-08-30T05:52:59+00:00",
@@ -6043,7 +6409,7 @@
       "status": "completed",
       "score": 8,
       "mal_mean_score": 8.37,
-      "mal_num_scoring_users": 212694,
+      "mal_num_scoring_users": 212698,
       "episodes_watched": 1,
       "is_rewatching": false,
       "updated_at_mal": "2025-10-19T21:10:19+00:00",
@@ -6101,7 +6467,7 @@
       "status": "completed",
       "score": 7,
       "mal_mean_score": 7.46,
-      "mal_num_scoring_users": 1067580,
+      "mal_num_scoring_users": 1067593,
       "episodes_watched": 12,
       "is_rewatching": false,
       "updated_at_mal": "2025-05-08T12:47:27+00:00",
@@ -6187,7 +6553,7 @@
       "status": "completed",
       "score": 6,
       "mal_mean_score": 7.24,
-      "mal_num_scoring_users": 105447,
+      "mal_num_scoring_users": 105446,
       "episodes_watched": 12,
       "is_rewatching": false,
       "updated_at_mal": "2025-02-11T18:45:23+00:00",
@@ -6215,7 +6581,7 @@
       "status": "dropped",
       "score": 0,
       "mal_mean_score": 7.35,
-      "mal_num_scoring_users": 245511,
+      "mal_num_scoring_users": 245512,
       "episodes_watched": 3,
       "is_rewatching": false,
       "updated_at_mal": "2026-09-13T21:36:54+00:00",
@@ -6267,6 +6633,38 @@
         "J.C.Staff"
       ],
       "mal_url": "https://myanimelist.net/anime/11739"
+    },
+    {
+      "mal_id": 11499,
+      "title": "Sankarea",
+      "status": "completed",
+      "score": 6,
+      "mal_mean_score": 7.26,
+      "mal_num_scoring_users": 337499,
+      "episodes_watched": 12,
+      "is_rewatching": false,
+      "updated_at_mal": "2024-08-12T21:31:23+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2024-08-12",
+      "release_start_date": "2012-04-06",
+      "release_end_date": "2012-06-29",
+      "release_year": 2012,
+      "release_season": "spring",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Horror",
+        "Love Polygon",
+        "Romance",
+        "Shounen",
+        "Supernatural"
+      ],
+      "studios": [
+        "Studio Deen"
+      ],
+      "mal_url": "https://myanimelist.net/anime/11499"
     },
     {
       "mal_id": 12119,
@@ -7764,6 +8162,35 @@
       "mal_url": "https://myanimelist.net/anime/18679"
     },
     {
+      "mal_id": 18677,
+      "title": "Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita.",
+      "status": "completed",
+      "score": 6,
+      "mal_mean_score": 6.79,
+      "mal_num_scoring_users": 142540,
+      "episodes_watched": 12,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-11-26T18:35:23+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2025-11-26",
+      "release_start_date": "2013-10-05",
+      "release_end_date": "2013-12-21",
+      "release_year": 2013,
+      "release_season": "fall",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Fantasy",
+        "Romance"
+      ],
+      "studios": [
+        "asread."
+      ],
+      "mal_url": "https://myanimelist.net/anime/18677"
+    },
+    {
       "mal_id": 18245,
       "title": "White Album 2",
       "status": "completed",
@@ -8056,6 +8483,36 @@
       "mal_url": "https://myanimelist.net/anime/20047"
     },
     {
+      "mal_id": 18095,
+      "title": "Nourin",
+      "status": "plan_to_watch",
+      "score": 0,
+      "mal_mean_score": 6.74,
+      "mal_num_scoring_users": 84390,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-09-21T11:21:39+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2014-01-11",
+      "release_end_date": "2014-03-29",
+      "release_year": 2014,
+      "release_season": "winter",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Parody",
+        "Romance",
+        "School"
+      ],
+      "studios": [
+        "SILVER LINK."
+      ],
+      "mal_url": "https://myanimelist.net/anime/18095"
+    },
+    {
       "mal_id": 18897,
       "title": "Nisekoi",
       "status": "plan_to_watch",
@@ -8196,6 +8653,37 @@
         "Sunrise"
       ],
       "mal_url": "https://myanimelist.net/anime/19111"
+    },
+    {
+      "mal_id": 21431,
+      "title": "Gokukoku no Brynhildr",
+      "status": "plan_to_watch",
+      "score": 0,
+      "mal_mean_score": 6.84,
+      "mal_num_scoring_users": 174938,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-11-04T06:20:28+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2014-04-06",
+      "release_end_date": "2014-06-29",
+      "release_year": 2014,
+      "release_season": "spring",
+      "media_type": "tv",
+      "num_episodes": 13,
+      "genres": [
+        "Drama",
+        "Gore",
+        "Mystery",
+        "Sci-Fi",
+        "Seinen",
+        "Super Power"
+      ],
+      "studios": [
+        "Arms"
+      ],
+      "mal_url": "https://myanimelist.net/anime/21431"
     },
     {
       "mal_id": 22101,
@@ -9294,6 +9782,36 @@
       "mal_url": "https://myanimelist.net/anime/24997"
     },
     {
+      "mal_id": 28819,
+      "title": "Okusama ga Seitokaichou!",
+      "status": "completed",
+      "score": 5,
+      "mal_mean_score": 6.54,
+      "mal_num_scoring_users": 160410,
+      "episodes_watched": 12,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-02-18T08:30:54+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2025-02-18",
+      "release_start_date": "2015-07-02",
+      "release_end_date": "2015-09-17",
+      "release_year": 2015,
+      "release_season": "summer",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Romance",
+        "School",
+        "Shounen"
+      ],
+      "studios": [
+        "Seven"
+      ],
+      "mal_url": "https://myanimelist.net/anime/28819"
+    },
+    {
       "mal_id": 21573,
       "title": "Senki Zesshou Symphogear GX",
       "status": "plan_to_watch",
@@ -9653,6 +10171,66 @@
         "Wit Studio"
       ],
       "mal_url": "https://myanimelist.net/anime/28927"
+    },
+    {
+      "mal_id": 30385,
+      "title": "Valkyrie Drive: Mermaid",
+      "status": "completed",
+      "score": 5,
+      "mal_mean_score": 6.06,
+      "mal_num_scoring_users": 60870,
+      "episodes_watched": 12,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-05-09T07:37:08+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2024-07-22",
+      "release_start_date": "2015-10-10",
+      "release_end_date": "2015-12-26",
+      "release_year": 2015,
+      "release_season": "fall",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Action",
+        "Erotica",
+        "Fantasy",
+        "Girls Love"
+      ],
+      "studios": [
+        "Arms"
+      ],
+      "mal_url": "https://myanimelist.net/anime/30385"
+    },
+    {
+      "mal_id": 31442,
+      "title": "Musaigen no Phantom World",
+      "status": "dropped",
+      "score": 0,
+      "mal_mean_score": 6.85,
+      "mal_num_scoring_users": 259984,
+      "episodes_watched": 1,
+      "is_rewatching": false,
+      "updated_at_mal": "2024-05-30T19:37:36+00:00",
+      "user_start_date": "2024-05-30",
+      "user_finish_date": null,
+      "release_start_date": "2016-01-07",
+      "release_end_date": "2016-03-31",
+      "release_year": 2016,
+      "release_season": "winter",
+      "media_type": "tv",
+      "num_episodes": 13,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Ecchi",
+        "Fantasy",
+        "School",
+        "Urban Fantasy"
+      ],
+      "studios": [
+        "Kyoto Animation"
+      ],
+      "mal_url": "https://myanimelist.net/anime/31442"
     },
     {
       "mal_id": 9260,
@@ -10323,6 +10901,36 @@
       "mal_url": "https://myanimelist.net/anime/33433"
     },
     {
+      "mal_id": 32603,
+      "title": "Okusama ga Seitokaichou!+!",
+      "status": "completed",
+      "score": 5,
+      "mal_mean_score": 6.56,
+      "mal_num_scoring_users": 96786,
+      "episodes_watched": 12,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-02-18T08:30:43+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2025-02-18",
+      "release_start_date": "2016-10-02",
+      "release_end_date": "2016-12-18",
+      "release_year": 2016,
+      "release_season": "fall",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Romance",
+        "School",
+        "Shounen"
+      ],
+      "studios": [
+        "Seven"
+      ],
+      "mal_url": "https://myanimelist.net/anime/32603"
+    },
+    {
       "mal_id": 33003,
       "title": "Mahou Shoujo Ikusei Keikaku",
       "status": "completed",
@@ -10817,6 +11425,39 @@
       "mal_url": "https://myanimelist.net/anime/32949"
     },
     {
+      "mal_id": 33581,
+      "title": "Trinity Seven Movie 1: Eternity Library to Alchemic Girl",
+      "status": "completed",
+      "score": 5,
+      "mal_mean_score": 7.22,
+      "mal_num_scoring_users": 98908,
+      "episodes_watched": 1,
+      "is_rewatching": false,
+      "updated_at_mal": "2024-04-10T21:04:08+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2024-04-10",
+      "release_start_date": "2017-02-25",
+      "release_end_date": "2017-02-25",
+      "release_year": 2017,
+      "release_season": "winter",
+      "media_type": "movie",
+      "num_episodes": 1,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Ecchi",
+        "Fantasy",
+        "Harem",
+        "Romance",
+        "School",
+        "Shounen"
+      ],
+      "studios": [
+        "Seven Arcs Pictures"
+      ],
+      "mal_url": "https://myanimelist.net/anime/33581"
+    },
+    {
       "mal_id": 25777,
       "title": "Shingeki no Kyojin Season 2",
       "status": "completed",
@@ -11143,6 +11784,33 @@
         "Studio Gokumi"
       ],
       "mal_url": "https://myanimelist.net/anime/34902"
+    },
+    {
+      "mal_id": 34383,
+      "title": "Netsuzou TRap",
+      "status": "completed",
+      "score": 8,
+      "mal_mean_score": 5.3,
+      "mal_num_scoring_users": 79520,
+      "episodes_watched": 12,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-05-08T13:05:06+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2024-11-29",
+      "release_start_date": "2017-07-05",
+      "release_end_date": "2017-09-20",
+      "release_year": 2017,
+      "release_season": "summer",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Drama",
+        "Girls Love"
+      ],
+      "studios": [
+        "Creators in Pack"
+      ],
+      "mal_url": "https://myanimelist.net/anime/34383"
     },
     {
       "mal_id": 34599,
@@ -11490,6 +12158,37 @@
         "Signal.MD"
       ],
       "mal_url": "https://myanimelist.net/anime/36038"
+    },
+    {
+      "mal_id": 35712,
+      "title": "Boku no Kanojo ga Majimesugiru Sho-bitch na Ken",
+      "status": "plan_to_watch",
+      "score": 0,
+      "mal_mean_score": 6.19,
+      "mal_num_scoring_users": 135909,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-03-05T08:02:37+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2017-10-12",
+      "release_end_date": "2017-12-14",
+      "release_year": 2017,
+      "release_season": "fall",
+      "media_type": "tv",
+      "num_episodes": 10,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Harem",
+        "Romance",
+        "School"
+      ],
+      "studios": [
+        "Diomedéa",
+        "Studio Blanc."
+      ],
+      "mal_url": "https://myanimelist.net/anime/35712"
     },
     {
       "mal_id": 35180,
@@ -12606,6 +13305,33 @@
       "mal_url": "https://myanimelist.net/anime/37579"
     },
     {
+      "mal_id": 37722,
+      "title": "Uchi no Maid ga Uzasugiru!",
+      "status": "completed",
+      "score": 6,
+      "mal_mean_score": 6.84,
+      "mal_num_scoring_users": 54414,
+      "episodes_watched": 12,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-05-09T07:35:56+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2024-07-03",
+      "release_start_date": "2018-10-05",
+      "release_end_date": "2018-12-21",
+      "release_year": 2018,
+      "release_season": "fall",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Comedy",
+        "Girls Love"
+      ],
+      "studios": [
+        "Doga Kobo"
+      ],
+      "mal_url": "https://myanimelist.net/anime/37722"
+    },
+    {
       "mal_id": 37786,
       "title": "Yagate Kimi ni Naru",
       "status": "completed",
@@ -12785,6 +13511,34 @@
         "Lesprit"
       ],
       "mal_url": "https://myanimelist.net/anime/37920"
+    },
+    {
+      "mal_id": 37993,
+      "title": "Watashi ni Tenshi ga Maiorita!",
+      "status": "completed",
+      "score": 6,
+      "mal_mean_score": 7.25,
+      "mal_num_scoring_users": 90639,
+      "episodes_watched": 12,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-02-20T20:38:30+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2025-02-20",
+      "release_start_date": "2019-01-08",
+      "release_end_date": "2019-03-26",
+      "release_year": 2019,
+      "release_season": "winter",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "CGDCT",
+        "Comedy",
+        "Otaku Culture"
+      ],
+      "studios": [
+        "Doga Kobo"
+      ],
+      "mal_url": "https://myanimelist.net/anime/37993"
     },
     {
       "mal_id": 37956,
@@ -13178,6 +13932,35 @@
       "mal_url": "https://myanimelist.net/anime/38091"
     },
     {
+      "mal_id": 38397,
+      "title": "Nande Koko ni Sensei ga!?",
+      "status": "completed",
+      "score": 6,
+      "mal_mean_score": 6.49,
+      "mal_num_scoring_users": 197196,
+      "episodes_watched": 12,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-05-09T07:44:24+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2024-06-04",
+      "release_start_date": "2019-04-08",
+      "release_end_date": "2019-06-24",
+      "release_year": 2019,
+      "release_season": "spring",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "School",
+        "Seinen"
+      ],
+      "studios": [
+        "Tear Studio"
+      ],
+      "mal_url": "https://myanimelist.net/anime/38397"
+    },
+    {
       "mal_id": 38759,
       "title": "Sewayaki Kitsune no Senko-san",
       "status": "completed",
@@ -13236,6 +14019,33 @@
         "Wit Studio"
       ],
       "mal_url": "https://myanimelist.net/anime/38524"
+    },
+    {
+      "mal_id": 38935,
+      "title": "Miru Tights",
+      "status": "plan_to_watch",
+      "score": 0,
+      "mal_mean_score": 6.37,
+      "mal_num_scoring_users": 57241,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-03-03T11:57:07+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2019-05-11",
+      "release_end_date": "2019-07-27",
+      "release_year": 2019,
+      "release_season": "spring",
+      "media_type": "ona",
+      "num_episodes": 12,
+      "genres": [
+        "Ecchi",
+        "School"
+      ],
+      "studios": [
+        "Yokohama Animation Lab"
+      ],
+      "mal_url": "https://myanimelist.net/anime/38935"
     },
     {
       "mal_id": 36999,
@@ -13503,6 +14313,36 @@
       "mal_url": "https://myanimelist.net/anime/39071"
     },
     {
+      "mal_id": 37773,
+      "title": "Yuru Yuri,",
+      "status": "completed",
+      "score": 5,
+      "mal_mean_score": 7.7,
+      "mal_num_scoring_users": 14263,
+      "episodes_watched": 1,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-03-11T07:43:58+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2026-03-11",
+      "release_start_date": "2019-09-18",
+      "release_end_date": "2019-09-18",
+      "release_year": 2019,
+      "release_season": "summer",
+      "media_type": "ova",
+      "num_episodes": 1,
+      "genres": [
+        "CGDCT",
+        "Comedy",
+        "Gag Humor",
+        "Girls Love",
+        "School"
+      ],
+      "studios": [
+        "Lay-duce"
+      ],
+      "mal_url": "https://myanimelist.net/anime/37773"
+    },
+    {
       "mal_id": 38816,
       "title": "Hello World",
       "status": "dropped",
@@ -13712,6 +14552,65 @@
       "mal_url": "https://myanimelist.net/anime/38414"
     },
     {
+      "mal_id": 39545,
+      "title": "Fragtime",
+      "status": "completed",
+      "score": 8,
+      "mal_mean_score": 6.57,
+      "mal_num_scoring_users": 22472,
+      "episodes_watched": 1,
+      "is_rewatching": false,
+      "updated_at_mal": "2024-12-25T21:24:39+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2024-12-25",
+      "release_start_date": "2019-11-22",
+      "release_end_date": "2019-11-22",
+      "release_year": 2019,
+      "release_season": "fall",
+      "media_type": "movie",
+      "num_episodes": 1,
+      "genres": [
+        "Girls Love",
+        "School",
+        "Super Power",
+        "Supernatural"
+      ],
+      "studios": [
+        "Tear Studio",
+        "East Fish Studio"
+      ],
+      "mal_url": "https://myanimelist.net/anime/39545"
+    },
+    {
+      "mal_id": 39689,
+      "title": "Nande Koko ni Sensei ga!? Nande Koko ni Sensei-tachi ga!?",
+      "status": "completed",
+      "score": 6,
+      "mal_mean_score": 6.83,
+      "mal_num_scoring_users": 38640,
+      "episodes_watched": 1,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-10-21T17:40:19+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2025-10-21",
+      "release_start_date": "2019-12-11",
+      "release_end_date": "2019-12-11",
+      "release_year": 2019,
+      "release_season": "fall",
+      "media_type": "special",
+      "num_episodes": 1,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "School",
+        "Seinen"
+      ],
+      "studios": [
+        "Tear Studio"
+      ],
+      "mal_url": "https://myanimelist.net/anime/39689"
+    },
+    {
       "mal_id": 39388,
       "title": "Koisuru Asteroid",
       "status": "completed",
@@ -13800,6 +14699,35 @@
         "NAZ"
       ],
       "mal_url": "https://myanimelist.net/anime/40046"
+    },
+    {
+      "mal_id": 40483,
+      "title": "Murenase! Seton Gakuen",
+      "status": "completed",
+      "score": 7,
+      "mal_mean_score": 6.9,
+      "mal_num_scoring_users": 110177,
+      "episodes_watched": 12,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-12-11T10:11:14+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2025-12-11",
+      "release_start_date": "2020-01-07",
+      "release_end_date": "2020-03-24",
+      "release_year": 2020,
+      "release_season": "winter",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Anthropomorphic",
+        "Comedy",
+        "Ecchi",
+        "School"
+      ],
+      "studios": [
+        "Studio Gokumi"
+      ],
+      "mal_url": "https://myanimelist.net/anime/40483"
     },
     {
       "mal_id": 37890,
@@ -14314,6 +15242,37 @@
       "mal_url": "https://myanimelist.net/anime/41226"
     },
     {
+      "mal_id": 40708,
+      "title": "Monster Musume no Oishasan",
+      "status": "completed",
+      "score": 6,
+      "mal_mean_score": 6.52,
+      "mal_num_scoring_users": 115232,
+      "episodes_watched": 12,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-02-03T06:46:12+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2025-02-03",
+      "release_start_date": "2020-07-12",
+      "release_end_date": "2020-09-27",
+      "release_year": 2020,
+      "release_season": "summer",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Anthropomorphic",
+        "Comedy",
+        "Ecchi",
+        "Fantasy",
+        "Harem",
+        "Romance"
+      ],
+      "studios": [
+        "Arvo Animation"
+      ],
+      "mal_url": "https://myanimelist.net/anime/40708"
+    },
+    {
       "mal_id": 41006,
       "title": "Higurashi no Naku Koro ni Gou",
       "status": "completed",
@@ -14397,6 +15356,60 @@
         "Tezuka Productions"
       ],
       "mal_url": "https://myanimelist.net/anime/39790"
+    },
+    {
+      "mal_id": 42571,
+      "title": "Dogeza de Tanondemita",
+      "status": "dropped",
+      "score": 0,
+      "mal_mean_score": 5.53,
+      "mal_num_scoring_users": 31621,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-01-08T07:21:31+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2020-10-14",
+      "release_end_date": "2020-12-30",
+      "release_year": 2020,
+      "release_season": "fall",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Comedy",
+        "Ecchi"
+      ],
+      "studios": [
+        "Adonero"
+      ],
+      "mal_url": "https://myanimelist.net/anime/42571"
+    },
+    {
+      "mal_id": 40747,
+      "title": "Dounika Naru Hibi",
+      "status": "plan_to_watch",
+      "score": 0,
+      "mal_mean_score": 5.41,
+      "mal_num_scoring_users": 8006,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-11-14T05:48:12+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2020-10-23",
+      "release_end_date": "2020-10-23",
+      "release_year": 2020,
+      "release_season": "fall",
+      "media_type": "movie",
+      "num_episodes": 1,
+      "genres": [
+        "Boys Love",
+        "Girls Love"
+      ],
+      "studios": [
+        "LIDENFILMS"
+      ],
+      "mal_url": "https://myanimelist.net/anime/40747"
     },
     {
       "mal_id": 40028,
@@ -15423,12 +16436,42 @@
       "mal_url": "https://myanimelist.net/anime/41169"
     },
     {
+      "mal_id": 41812,
+      "title": "Megami-ryou no Ryoubo-kun.",
+      "status": "completed",
+      "score": 6,
+      "mal_mean_score": 6.48,
+      "mal_num_scoring_users": 91439,
+      "episodes_watched": 10,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-03-10T09:43:46+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2025-03-10",
+      "release_start_date": "2021-07-14",
+      "release_end_date": "2021-09-15",
+      "release_year": 2021,
+      "release_season": "summer",
+      "media_type": "tv",
+      "num_episodes": 10,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Harem",
+        "Romance",
+        "Shounen"
+      ],
+      "studios": [
+        "asread."
+      ],
+      "mal_url": "https://myanimelist.net/anime/41812"
+    },
+    {
       "mal_id": 48753,
       "title": "Jahy-sama wa Kujikenai!",
       "status": "dropped",
       "score": 0,
       "mal_mean_score": 7,
-      "mal_num_scoring_users": 95086,
+      "mal_num_scoring_users": 95089,
       "episodes_watched": 2,
       "is_rewatching": false,
       "updated_at_mal": "2025-03-27T20:19:03+00:00",
@@ -15449,6 +16492,64 @@
         "SILVER LINK."
       ],
       "mal_url": "https://myanimelist.net/anime/48753"
+    },
+    {
+      "mal_id": 49605,
+      "title": "Ganbare Douki-chan",
+      "status": "completed",
+      "score": 6,
+      "mal_mean_score": 6.49,
+      "mal_num_scoring_users": 52607,
+      "episodes_watched": 12,
+      "is_rewatching": false,
+      "updated_at_mal": "2024-12-05T12:22:21+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2024-12-05",
+      "release_start_date": "2021-09-20",
+      "release_end_date": "2021-12-06",
+      "release_year": 2021,
+      "release_season": "summer",
+      "media_type": "ona",
+      "num_episodes": 12,
+      "genres": [
+        "Adult Cast",
+        "Comedy",
+        "Ecchi",
+        "Love Status Quo",
+        "Romance",
+        "Workplace"
+      ],
+      "studios": [
+        "Atelier Pontdarc"
+      ],
+      "mal_url": "https://myanimelist.net/anime/49605"
+    },
+    {
+      "mal_id": 49854,
+      "title": "Getsuyoubi no Tawawa 2",
+      "status": "completed",
+      "score": 6,
+      "mal_mean_score": 6.6,
+      "mal_num_scoring_users": 32803,
+      "episodes_watched": 12,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-01-01T23:46:19+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2025-01-02",
+      "release_start_date": "2021-09-20",
+      "release_end_date": "2021-12-06",
+      "release_year": 2021,
+      "release_season": "summer",
+      "media_type": "ona",
+      "num_episodes": 12,
+      "genres": [
+        "Ecchi",
+        "Slice of Life"
+      ],
+      "studios": [
+        "Cloud Hearts"
+      ],
+      "mal_url": "https://myanimelist.net/anime/49854"
     },
     {
       "mal_id": 49913,
@@ -15484,7 +16585,7 @@
       "status": "completed",
       "score": 6,
       "mal_mean_score": 7.37,
-      "mal_num_scoring_users": 261159,
+      "mal_num_scoring_users": 261167,
       "episodes_watched": 12,
       "is_rewatching": false,
       "updated_at_mal": "2025-05-09T05:17:42+00:00",
@@ -15541,7 +16642,7 @@
       "status": "completed",
       "score": 8,
       "mal_mean_score": 8.59,
-      "mal_num_scoring_users": 740082,
+      "mal_num_scoring_users": 740103,
       "episodes_watched": 12,
       "is_rewatching": false,
       "updated_at_mal": "2025-05-09T05:20:40+00:00",
@@ -15836,7 +16937,7 @@
       "status": "completed",
       "score": 8,
       "mal_mean_score": 8.78,
-      "mal_num_scoring_users": 969933,
+      "mal_num_scoring_users": 969958,
       "episodes_watched": 12,
       "is_rewatching": false,
       "updated_at_mal": "2025-05-09T05:30:41+00:00",
@@ -15975,6 +17076,35 @@
         "TMS Entertainment"
       ],
       "mal_url": "https://myanimelist.net/anime/49310"
+    },
+    {
+      "mal_id": 47162,
+      "title": "Shokei Shoujo no Virgin Road",
+      "status": "completed",
+      "score": 7,
+      "mal_mean_score": 6.77,
+      "mal_num_scoring_users": 67094,
+      "episodes_watched": 12,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-04-30T14:18:24+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2025-04-30",
+      "release_start_date": "2022-04-02",
+      "release_end_date": "2022-06-18",
+      "release_year": 2022,
+      "release_season": "spring",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Isekai"
+      ],
+      "studios": [
+        "J.C.Staff"
+      ],
+      "mal_url": "https://myanimelist.net/anime/47162"
     },
     {
       "mal_id": 49520,
@@ -16363,12 +17493,38 @@
       "mal_url": "https://myanimelist.net/anime/49722"
     },
     {
+      "mal_id": 50709,
+      "title": "Lycoris Recoil",
+      "status": "completed",
+      "score": 8,
+      "mal_mean_score": 8.13,
+      "mal_num_scoring_users": 299209,
+      "episodes_watched": 13,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-05-09T05:13:42+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2024-09-09",
+      "release_start_date": "2022-07-02",
+      "release_end_date": "2022-09-24",
+      "release_year": 2022,
+      "release_season": "summer",
+      "media_type": "tv",
+      "num_episodes": 13,
+      "genres": [
+        "Action"
+      ],
+      "studios": [
+        "A-1 Pictures"
+      ],
+      "mal_url": "https://myanimelist.net/anime/50709"
+    },
+    {
       "mal_id": 51417,
       "title": "Engage Kiss",
       "status": "completed",
       "score": 6,
       "mal_mean_score": 6.78,
-      "mal_num_scoring_users": 110095,
+      "mal_num_scoring_users": 110098,
       "episodes_watched": 13,
       "is_rewatching": false,
       "updated_at_mal": "2025-05-08T14:04:07+00:00",
@@ -16594,6 +17750,35 @@
       "mal_url": "https://myanimelist.net/anime/50593"
     },
     {
+      "mal_id": 42962,
+      "title": "Uzaki-chan wa Asobitai! Double",
+      "status": "completed",
+      "score": 7,
+      "mal_mean_score": 7.23,
+      "mal_num_scoring_users": 102762,
+      "episodes_watched": 13,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-12-21T23:16:45+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2024-07-30",
+      "release_start_date": "2022-10-01",
+      "release_end_date": "2022-12-24",
+      "release_year": 2022,
+      "release_season": "fall",
+      "media_type": "tv",
+      "num_episodes": 13,
+      "genres": [
+        "Adult Cast",
+        "Comedy",
+        "Love Status Quo",
+        "Romance"
+      ],
+      "studios": [
+        "ENGI"
+      ],
+      "mal_url": "https://myanimelist.net/anime/42962"
+    },
+    {
       "mal_id": 50602,
       "title": "Spy x Family Part 2",
       "status": "completed",
@@ -16768,6 +17953,34 @@
       "mal_url": "https://myanimelist.net/anime/44511"
     },
     {
+      "mal_id": 50594,
+      "title": "Suzume no Tojimari",
+      "status": "plan_to_watch",
+      "score": 0,
+      "mal_mean_score": 8.23,
+      "mal_num_scoring_users": 295573,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-07-03T12:28:28+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2022-11-11",
+      "release_end_date": "2022-11-11",
+      "release_year": 2022,
+      "release_season": "fall",
+      "media_type": "movie",
+      "num_episodes": 1,
+      "genres": [
+        "Adventure",
+        "Mythology",
+        "Supernatural"
+      ],
+      "studios": [
+        "CoMix Wave Films"
+      ],
+      "mal_url": "https://myanimelist.net/anime/50594"
+    },
+    {
       "mal_id": 52173,
       "title": "Koori Zokusei Danshi to Cool na Douryou Joshi",
       "status": "completed",
@@ -16799,6 +18012,35 @@
         "Liber"
       ],
       "mal_url": "https://myanimelist.net/anime/52173"
+    },
+    {
+      "mal_id": 52736,
+      "title": "Tensei Oujo to Tensai Reijou no Mahou Kakumei",
+      "status": "completed",
+      "score": 7,
+      "mal_mean_score": 7.46,
+      "mal_num_scoring_users": 113127,
+      "episodes_watched": 12,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-08-18T21:07:56+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2025-08-18",
+      "release_start_date": "2023-01-04",
+      "release_end_date": "2023-03-22",
+      "release_year": 2023,
+      "release_season": "winter",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Fantasy",
+        "Girls Love",
+        "Isekai",
+        "Reincarnation"
+      ],
+      "studios": [
+        "Diomedéa"
+      ],
+      "mal_url": "https://myanimelist.net/anime/52736"
     },
     {
       "mal_id": 51678,
@@ -17036,7 +18278,7 @@
       "status": "completed",
       "score": 9,
       "mal_mean_score": 7.74,
-      "mal_num_scoring_users": 308769,
+      "mal_num_scoring_users": 308784,
       "episodes_watched": 13,
       "is_rewatching": false,
       "updated_at_mal": "2025-05-08T13:15:37+00:00",
@@ -17329,7 +18571,7 @@
       "status": "completed",
       "score": 7,
       "mal_mean_score": 7.77,
-      "mal_num_scoring_users": 102685,
+      "mal_num_scoring_users": 102700,
       "episodes_watched": 1,
       "is_rewatching": false,
       "updated_at_mal": "2025-06-13T13:08:56+00:00",
@@ -17358,7 +18600,7 @@
       "status": "completed",
       "score": 9,
       "mal_mean_score": 8.11,
-      "mal_num_scoring_users": 224499,
+      "mal_num_scoring_users": 224516,
       "episodes_watched": 13,
       "is_rewatching": false,
       "updated_at_mal": "2025-05-08T12:59:26+00:00",
@@ -17588,6 +18830,37 @@
       "mal_url": "https://myanimelist.net/anime/54112"
     },
     {
+      "mal_id": 51179,
+      "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+      "status": "completed",
+      "score": 8,
+      "mal_mean_score": 8.18,
+      "mal_num_scoring_users": 479919,
+      "episodes_watched": 12,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-05-09T05:21:21+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2024-12-16",
+      "release_start_date": "2023-07-10",
+      "release_end_date": "2023-09-25",
+      "release_year": 2023,
+      "release_season": "summer",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Isekai",
+        "Reincarnation",
+        "School"
+      ],
+      "studios": [
+        "Studio Bind"
+      ],
+      "mal_url": "https://myanimelist.net/anime/51179"
+    },
+    {
       "mal_id": 49303,
       "title": "Alice to Therese no Maboroshi Koujou",
       "status": "plan_to_watch",
@@ -17703,6 +18976,37 @@
       "mal_url": "https://myanimelist.net/anime/53237"
     },
     {
+      "mal_id": 53833,
+      "title": "Watashi no Oshi wa Akuyaku Reijou.",
+      "status": "completed",
+      "score": 6,
+      "mal_mean_score": 7.37,
+      "mal_num_scoring_users": 77303,
+      "episodes_watched": 12,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-11-20T10:09:36+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2025-11-20",
+      "release_start_date": "2023-10-03",
+      "release_end_date": "2023-12-19",
+      "release_year": 2023,
+      "release_season": "fall",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Girls Love",
+        "Isekai",
+        "School",
+        "Villainess"
+      ],
+      "studios": [
+        "Platinum Vision"
+      ],
+      "mal_url": "https://myanimelist.net/anime/53833"
+    },
+    {
       "mal_id": 49766,
       "title": "Under Ninja",
       "status": "completed",
@@ -17762,7 +19066,7 @@
       "status": "completed",
       "score": 7,
       "mal_mean_score": 6.99,
-      "mal_num_scoring_users": 59498,
+      "mal_num_scoring_users": 59500,
       "episodes_watched": 12,
       "is_rewatching": false,
       "updated_at_mal": "2025-05-08T14:17:25+00:00",
@@ -17785,6 +19089,37 @@
         "SynergySP"
       ],
       "mal_url": "https://myanimelist.net/anime/53040"
+    },
+    {
+      "mal_id": 53887,
+      "title": "Spy x Family Season 2",
+      "status": "completed",
+      "score": 7,
+      "mal_mean_score": 8.05,
+      "mal_num_scoring_users": 357260,
+      "episodes_watched": 12,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-11-06T07:33:15+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2025-11-06",
+      "release_start_date": "2023-10-07",
+      "release_end_date": "2023-12-23",
+      "release_year": 2023,
+      "release_season": "fall",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Action",
+        "Childcare",
+        "Comedy",
+        "Shounen",
+        "Super Power"
+      ],
+      "studios": [
+        "Wit Studio",
+        "CloverWorks"
+      ],
+      "mal_url": "https://myanimelist.net/anime/53887"
     },
     {
       "mal_id": 54362,
@@ -17816,6 +19151,35 @@
         "Yokohama Animation Lab"
       ],
       "mal_url": "https://myanimelist.net/anime/54362"
+    },
+    {
+      "mal_id": 53262,
+      "title": "Hoshikuzu Telepath",
+      "status": "completed",
+      "score": 8,
+      "mal_mean_score": 7.17,
+      "mal_num_scoring_users": 18183,
+      "episodes_watched": 12,
+      "is_rewatching": false,
+      "updated_at_mal": "2024-05-13T20:51:36+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2024-05-13",
+      "release_start_date": "2023-10-09",
+      "release_end_date": "2023-12-25",
+      "release_year": 2023,
+      "release_season": "fall",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "CGDCT",
+        "Comedy",
+        "School",
+        "Super Power"
+      ],
+      "studios": [
+        "Studio Gokumi"
+      ],
+      "mal_url": "https://myanimelist.net/anime/53262"
     },
     {
       "mal_id": 35737,
@@ -17934,6 +19298,35 @@
       "mal_url": "https://myanimelist.net/anime/53488"
     },
     {
+      "mal_id": 55690,
+      "title": "Boku no Kokoro no Yabai Yatsu 2nd Season",
+      "status": "completed",
+      "score": 8,
+      "mal_mean_score": 8.67,
+      "mal_num_scoring_users": 188649,
+      "episodes_watched": 13,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-09-05T10:43:52+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2025-09-05",
+      "release_start_date": "2024-01-07",
+      "release_end_date": "2024-03-31",
+      "release_year": 2024,
+      "release_season": "winter",
+      "media_type": "tv",
+      "num_episodes": 13,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "School",
+        "Shounen"
+      ],
+      "studios": [
+        "Shin-Ei Animation"
+      ],
+      "mal_url": "https://myanimelist.net/anime/55690"
+    },
+    {
       "mal_id": 54794,
       "title": "Metallic Rouge",
       "status": "completed",
@@ -17959,6 +19352,65 @@
         "Bones"
       ],
       "mal_url": "https://myanimelist.net/anime/54794"
+    },
+    {
+      "mal_id": 55973,
+      "title": "30-sai made Doutei dato Mahoutsukai ni Nareru Rashii",
+      "status": "plan_to_watch",
+      "score": 0,
+      "mal_mean_score": 7.64,
+      "mal_num_scoring_users": 49205,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-07-03T12:21:16+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2024-01-11",
+      "release_end_date": "2024-03-28",
+      "release_year": 2024,
+      "release_season": "winter",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Adult Cast",
+        "Boys Love",
+        "Comedy",
+        "Workplace"
+      ],
+      "studios": [
+        "Satelight"
+      ],
+      "mal_url": "https://myanimelist.net/anime/55973"
+    },
+    {
+      "mal_id": 56175,
+      "title": "Oomuro-ke: Dear Sisters",
+      "status": "plan_to_watch",
+      "score": 0,
+      "mal_mean_score": 7.83,
+      "mal_num_scoring_users": 5137,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-11-11T17:19:16+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2024-02-02",
+      "release_end_date": "2024-02-02",
+      "release_year": 2024,
+      "release_season": "winter",
+      "media_type": "movie",
+      "num_episodes": 1,
+      "genres": [
+        "CGDCT",
+        "Comedy",
+        "Girls Love",
+        "School"
+      ],
+      "studios": [
+        "Passione",
+        "Studio Lings"
+      ],
+      "mal_url": "https://myanimelist.net/anime/56175"
     },
     {
       "mal_id": 55889,
@@ -17989,6 +19441,32 @@
         "Kinema Citrus"
       ],
       "mal_url": "https://myanimelist.net/anime/55889"
+    },
+    {
+      "mal_id": 53356,
+      "title": "Shuumatsu Train Doko e Iku?",
+      "status": "completed",
+      "score": 7,
+      "mal_mean_score": 7.36,
+      "mal_num_scoring_users": 35072,
+      "episodes_watched": 12,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-12-23T23:21:43+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2025-12-24",
+      "release_start_date": "2024-04-01",
+      "release_end_date": "2024-06-24",
+      "release_year": 2024,
+      "release_season": "spring",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Adventure"
+      ],
+      "studios": [
+        "EMT Squared"
+      ],
+      "mal_url": "https://myanimelist.net/anime/53356"
     },
     {
       "mal_id": 51122,
@@ -18078,6 +19556,37 @@
       "mal_url": "https://myanimelist.net/anime/56738"
     },
     {
+      "mal_id": 55888,
+      "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+      "status": "plan_to_watch",
+      "score": 0,
+      "mal_mean_score": 8.36,
+      "mal_num_scoring_users": 369413,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-08-21T11:28:41+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2024-04-08",
+      "release_end_date": "2024-07-01",
+      "release_year": 2024,
+      "release_season": "spring",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Isekai",
+        "Reincarnation",
+        "School"
+      ],
+      "studios": [
+        "Studio Bind"
+      ],
+      "mal_url": "https://myanimelist.net/anime/55888"
+    },
+    {
       "mal_id": 53912,
       "title": "Seiyuu Radio no Uraomote",
       "status": "plan_to_watch",
@@ -18139,6 +19648,35 @@
       "mal_url": "https://myanimelist.net/anime/52588"
     },
     {
+      "mal_id": 54233,
+      "title": "Sasayaku You ni Koi wo Utau",
+      "status": "completed",
+      "score": 7,
+      "mal_mean_score": 6.73,
+      "mal_num_scoring_users": 26424,
+      "episodes_watched": 12,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-08-01T22:49:13+00:00",
+      "user_start_date": null,
+      "user_finish_date": "2025-08-02",
+      "release_start_date": "2024-04-14",
+      "release_end_date": "2024-12-29",
+      "release_year": 2024,
+      "release_season": "spring",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Drama",
+        "Girls Love",
+        "School"
+      ],
+      "studios": [
+        "Yokohama Animation Lab",
+        "Cloud Hearts"
+      ],
+      "mal_url": "https://myanimelist.net/anime/54233"
+    },
+    {
       "mal_id": 58883,
       "title": "Dead Dead Demons Dededede Destruction (ONA)",
       "status": "plan_to_watch",
@@ -18166,6 +19704,36 @@
         "Production +h."
       ],
       "mal_url": "https://myanimelist.net/anime/58883"
+    },
+    {
+      "mal_id": 57993,
+      "title": "Oomuro-ke: Dear Friends",
+      "status": "plan_to_watch",
+      "score": 0,
+      "mal_mean_score": 7.81,
+      "mal_num_scoring_users": 3427,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-11-11T17:19:24+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2024-06-21",
+      "release_end_date": "2024-06-21",
+      "release_year": 2024,
+      "release_season": "spring",
+      "media_type": "movie",
+      "num_episodes": 1,
+      "genres": [
+        "CGDCT",
+        "Comedy",
+        "Girls Love",
+        "School"
+      ],
+      "studios": [
+        "Passione",
+        "Studio Lings"
+      ],
+      "mal_url": "https://myanimelist.net/anime/57993"
     },
     {
       "mal_id": 58272,
@@ -18249,6 +19817,37 @@
         "Studio Deen"
       ],
       "mal_url": "https://myanimelist.net/anime/52481"
+    },
+    {
+      "mal_id": 53802,
+      "title": "2.5-jigen no Ririsa",
+      "status": "dropped",
+      "score": 0,
+      "mal_mean_score": 7.4,
+      "mal_num_scoring_users": 58939,
+      "episodes_watched": 1,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-07-28T21:22:40+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2024-07-05",
+      "release_end_date": "2024-12-13",
+      "release_year": 2024,
+      "release_season": "summer",
+      "media_type": "tv",
+      "num_episodes": 24,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Harem",
+        "Otaku Culture",
+        "School",
+        "Shounen"
+      ],
+      "studios": [
+        "J.C.Staff"
+      ],
+      "mal_url": "https://myanimelist.net/anime/53802"
     },
     {
       "mal_id": 54855,
@@ -18337,6 +19936,32 @@
         "A-1 Pictures"
       ],
       "mal_url": "https://myanimelist.net/anime/56063"
+    },
+    {
+      "mal_id": 57099,
+      "title": "Na Nare Hana Nare",
+      "status": "plan_to_watch",
+      "score": 0,
+      "mal_mean_score": 6.37,
+      "mal_num_scoring_users": 10409,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-08-21T11:28:41+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2024-07-07",
+      "release_end_date": "2024-09-22",
+      "release_year": 2024,
+      "release_season": "summer",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Drama"
+      ],
+      "studios": [
+        "P.A. Works"
+      ],
+      "mal_url": "https://myanimelist.net/anime/57099"
     },
     {
       "mal_id": 58426,
@@ -18487,7 +20112,7 @@
       "status": "completed",
       "score": 7,
       "mal_mean_score": 8.4,
-      "mal_num_scoring_users": 47533,
+      "mal_num_scoring_users": 47537,
       "episodes_watched": 5,
       "is_rewatching": false,
       "updated_at_mal": "2025-09-23T07:13:25+00:00",
@@ -18661,12 +20286,39 @@
       "mal_url": "https://myanimelist.net/anime/57181"
     },
     {
+      "mal_id": 59425,
+      "title": "NegaPosi Angler",
+      "status": "plan_to_watch",
+      "score": 0,
+      "mal_mean_score": 7.38,
+      "mal_num_scoring_users": 27391,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-08-21T11:28:41+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2024-10-03",
+      "release_end_date": "2024-12-19",
+      "release_year": 2024,
+      "release_season": "fall",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Adult Cast",
+        "Slice of Life"
+      ],
+      "studios": [
+        "Nut"
+      ],
+      "mal_url": "https://myanimelist.net/anime/59425"
+    },
+    {
       "mal_id": 57334,
       "title": "Dandadan",
       "status": "completed",
       "score": 8,
       "mal_mean_score": 8.38,
-      "mal_num_scoring_users": 640118,
+      "mal_num_scoring_users": 640167,
       "episodes_watched": 12,
       "is_rewatching": false,
       "updated_at_mal": "2025-11-09T21:52:09+00:00",
@@ -18830,6 +20482,39 @@
       "mal_url": "https://myanimelist.net/anime/59135"
     },
     {
+      "mal_id": 58473,
+      "title": "S-Rank Monster no \"Behemoth\" dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu",
+      "status": "plan_to_watch",
+      "score": 0,
+      "mal_mean_score": 5.78,
+      "mal_num_scoring_users": 32096,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-10-25T11:04:07+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2025-01-04",
+      "release_end_date": "2025-03-22",
+      "release_year": 2025,
+      "release_season": "winter",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Ecchi",
+        "Fantasy",
+        "Reincarnation",
+        "Seinen"
+      ],
+      "studios": [
+        "Zero-G",
+        "Saber Works"
+      ],
+      "mal_url": "https://myanimelist.net/anime/58473"
+    },
+    {
       "mal_id": 55842,
       "title": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru",
       "status": "plan_to_watch",
@@ -18975,6 +20660,36 @@
       "mal_url": "https://myanimelist.net/anime/58259"
     },
     {
+      "mal_id": 59457,
+      "title": "Haite Kudasai, Takamine-san",
+      "status": "plan_to_watch",
+      "score": 0,
+      "mal_mean_score": 6.16,
+      "mal_num_scoring_users": 50854,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-08-21T11:28:41+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2025-04-02",
+      "release_end_date": "2025-06-18",
+      "release_year": 2025,
+      "release_season": "spring",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Romance",
+        "School",
+        "Shounen"
+      ],
+      "studios": [
+        "LIDENFILMS"
+      ],
+      "mal_url": "https://myanimelist.net/anime/59457"
+    },
+    {
       "mal_id": 60293,
       "title": "Ballpark de Tsukamaete!",
       "status": "plan_to_watch",
@@ -19039,7 +20754,7 @@
       "status": "plan_to_watch",
       "score": 0,
       "mal_mean_score": 6.49,
-      "mal_num_scoring_users": 73686,
+      "mal_num_scoring_users": 73693,
       "episodes_watched": 0,
       "is_rewatching": false,
       "updated_at_mal": "2025-08-21T11:28:41+00:00",
@@ -19148,6 +20863,33 @@
       "mal_url": "https://myanimelist.net/anime/59597"
     },
     {
+      "mal_id": 59744,
+      "title": "Maebashi Witches",
+      "status": "plan_to_watch",
+      "score": 0,
+      "mal_mean_score": 7.1,
+      "mal_num_scoring_users": 4158,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-08-21T11:28:41+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2025-04-06",
+      "release_end_date": "2025-06-22",
+      "release_year": 2025,
+      "release_season": "spring",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "studios": [
+        "Sunrise"
+      ],
+      "mal_url": "https://myanimelist.net/anime/59744"
+    },
+    {
       "mal_id": 50694,
       "title": "Summer Pockets",
       "status": "plan_to_watch",
@@ -19232,6 +20974,34 @@
         "Doga Kobo"
       ],
       "mal_url": "https://myanimelist.net/anime/58131"
+    },
+    {
+      "mal_id": 58492,
+      "title": "Mono",
+      "status": "plan_to_watch",
+      "score": 0,
+      "mal_mean_score": 7.72,
+      "mal_num_scoring_users": 20899,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-10-14T12:27:59+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2025-04-13",
+      "release_end_date": "2025-06-29",
+      "release_year": 2025,
+      "release_season": "spring",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "CGDCT",
+        "Comedy",
+        "Visual Arts"
+      ],
+      "studios": [
+        "Soigne"
+      ],
+      "mal_url": "https://myanimelist.net/anime/58492"
     },
     {
       "mal_id": 59848,
@@ -19544,6 +21314,35 @@
       "mal_url": "https://myanimelist.net/anime/60508"
     },
     {
+      "mal_id": 60326,
+      "title": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)",
+      "status": "plan_to_watch",
+      "score": 0,
+      "mal_mean_score": 7.7,
+      "mal_num_scoring_users": 44945,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-07-03T12:29:35+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2025-07-08",
+      "release_end_date": "2025-09-23",
+      "release_year": 2025,
+      "release_season": "summer",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Comedy",
+        "Girls Love",
+        "Harem",
+        "School"
+      ],
+      "studios": [
+        "studio MOTHER"
+      ],
+      "mal_url": "https://myanimelist.net/anime/60326"
+    },
+    {
       "mal_id": 59207,
       "title": "Mikadono Sanshimai wa Angai, Choroi.",
       "status": "plan_to_watch",
@@ -19601,12 +21400,40 @@
       "mal_url": "https://myanimelist.net/anime/55689"
     },
     {
+      "mal_id": 57969,
+      "title": "Nukitashi the Animation",
+      "status": "plan_to_watch",
+      "score": 0,
+      "mal_mean_score": 6.91,
+      "mal_num_scoring_users": 24331,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-09-26T09:08:29+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2025-07-19",
+      "release_end_date": "2025-09-27",
+      "release_year": 2025,
+      "release_season": "summer",
+      "media_type": "tv",
+      "num_episodes": 11,
+      "genres": [
+        "Comedy",
+        "Erotica",
+        "School"
+      ],
+      "studios": [
+        "Passione"
+      ],
+      "mal_url": "https://myanimelist.net/anime/57969"
+    },
+    {
       "mal_id": 60254,
       "title": "Yano-kun no Futsuu no Hibi",
       "status": "plan_to_watch",
       "score": 0,
       "mal_mean_score": 7.28,
-      "mal_num_scoring_users": 26120,
+      "mal_num_scoring_users": 26123,
       "episodes_watched": 0,
       "is_rewatching": false,
       "updated_at_mal": "2026-07-03T12:29:49+00:00",
@@ -19634,7 +21461,7 @@
       "status": "plan_to_watch",
       "score": 0,
       "mal_mean_score": 7.3,
-      "mal_num_scoring_users": 17453,
+      "mal_num_scoring_users": 17457,
       "episodes_watched": 0,
       "is_rewatching": false,
       "updated_at_mal": "2026-07-03T12:28:35+00:00",
@@ -19682,6 +21509,33 @@
         "Toei Animation"
       ],
       "mal_url": "https://myanimelist.net/anime/59817"
+    },
+    {
+      "mal_id": 61917,
+      "title": "Towa no Yuugure",
+      "status": "plan_to_watch",
+      "score": 0,
+      "mal_mean_score": 6.56,
+      "mal_num_scoring_users": 26551,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-07-03T12:29:11+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2025-10-03",
+      "release_end_date": "2025-12-19",
+      "release_year": 2025,
+      "release_season": "fall",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Romance",
+        "Sci-Fi"
+      ],
+      "studios": [
+        "P.A. Works"
+      ],
+      "mal_url": "https://myanimelist.net/anime/61917"
     },
     {
       "mal_id": 47158,
@@ -19740,6 +21594,35 @@
         "Studio Flad"
       ],
       "mal_url": "https://myanimelist.net/anime/60781"
+    },
+    {
+      "mal_id": 61142,
+      "title": "Sawaranaide Kotesashi-kun",
+      "status": "plan_to_watch",
+      "score": 0,
+      "mal_mean_score": 6.11,
+      "mal_num_scoring_users": 17852,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-10-24T18:14:34+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2025-10-06",
+      "release_end_date": "2025-12-22",
+      "release_year": 2025,
+      "release_season": "fall",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Ecchi",
+        "Harem",
+        "School",
+        "Sports"
+      ],
+      "studios": [
+        "Quad"
+      ],
+      "mal_url": "https://myanimelist.net/anime/61142"
     },
     {
       "mal_id": 59517,
@@ -19980,6 +21863,34 @@
       "mal_url": "https://myanimelist.net/anime/60395"
     },
     {
+      "mal_id": 61694,
+      "title": "Android wa Keiken Ninzuu ni Hairimasu ka??",
+      "status": "plan_to_watch",
+      "score": 0,
+      "mal_mean_score": 6.21,
+      "mal_num_scoring_users": 8037,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-01-18T07:58:53+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2026-01-10",
+      "release_end_date": "2026-02-28",
+      "release_year": 2026,
+      "release_season": "winter",
+      "media_type": "ona",
+      "num_episodes": 8,
+      "genres": [
+        "Erotica",
+        "Girls Love",
+        "Sci-Fi"
+      ],
+      "studios": [
+        "Nyan Pollution"
+      ],
+      "mal_url": "https://myanimelist.net/anime/61694"
+    },
+    {
       "mal_id": 60223,
       "title": "Kaya-chan wa Kowakunai",
       "status": "dropped",
@@ -20218,7 +22129,7 @@
       "status": "plan_to_watch",
       "score": 0,
       "mal_mean_score": 7.59,
-      "mal_num_scoring_users": 31184,
+      "mal_num_scoring_users": 31190,
       "episodes_watched": 0,
       "is_rewatching": false,
       "updated_at_mal": "2026-04-17T04:12:19+00:00",
@@ -20240,6 +22151,36 @@
         "Zero-G"
       ],
       "mal_url": "https://myanimelist.net/anime/61425"
+    },
+    {
+      "mal_id": 63248,
+      "title": "Ookii Onnanoko wa Suki desu ka?",
+      "status": "plan_to_watch",
+      "score": 0,
+      "mal_mean_score": 6.16,
+      "mal_num_scoring_users": 3256,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-11-04T06:21:20+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2026-04-06",
+      "release_end_date": "2026-06-22",
+      "release_year": 2026,
+      "release_season": "spring",
+      "media_type": "ona",
+      "num_episodes": 12,
+      "genres": [
+        "Harem",
+        "Hentai",
+        "Seinen",
+        "Sports",
+        "Team Sports"
+      ],
+      "studios": [
+        "Studio Hokiboshi"
+      ],
+      "mal_url": "https://myanimelist.net/anime/63248"
     },
     {
       "mal_id": 53732,
@@ -20302,12 +22243,73 @@
       "mal_url": "https://myanimelist.net/anime/62604"
     },
     {
+      "mal_id": 60444,
+      "title": "Yowayowa Sensei",
+      "status": "plan_to_watch",
+      "score": 0,
+      "mal_mean_score": 6.6,
+      "mal_num_scoring_users": 13969,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-05-07T05:11:47+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2026-04-11",
+      "release_end_date": "2026-06-27",
+      "release_year": 2026,
+      "release_season": "spring",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Love Status Quo",
+        "Romance",
+        "School",
+        "Shounen"
+      ],
+      "studios": [
+        "Brain's Base"
+      ],
+      "mal_url": "https://myanimelist.net/anime/60444"
+    },
+    {
+      "mal_id": 61186,
+      "title": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
+      "status": "plan_to_watch",
+      "score": 0,
+      "mal_mean_score": 8.12,
+      "mal_num_scoring_users": 22090,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-04-11T19:17:35+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2026-04-11",
+      "release_end_date": "2026-06-27",
+      "release_year": 2026,
+      "release_season": "spring",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Adult Cast",
+        "CGDCT",
+        "Girls Love",
+        "Gourmet",
+        "Slice of Life"
+      ],
+      "studios": [
+        "Soigne"
+      ],
+      "mal_url": "https://myanimelist.net/anime/61186"
+    },
+    {
       "mal_id": 63082,
       "title": "Reiwa no Dara-san",
       "status": "plan_to_watch",
       "score": 0,
       "mal_mean_score": 7.58,
-      "mal_num_scoring_users": 11176,
+      "mal_num_scoring_users": 11178,
       "episodes_watched": 0,
       "is_rewatching": false,
       "updated_at_mal": "2026-07-02T18:58:02+00:00",
@@ -20330,12 +22332,41 @@
       "mal_url": "https://myanimelist.net/anime/63082"
     },
     {
+      "mal_id": 62051,
+      "title": "Grow Up Show: Himawari no Circus-dan",
+      "status": "plan_to_watch",
+      "score": 0,
+      "mal_mean_score": 7.39,
+      "mal_num_scoring_users": 6523,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-07-08T20:22:06+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2026-07-05",
+      "release_end_date": "2026-09-27",
+      "release_year": 2026,
+      "release_season": "summer",
+      "media_type": "tv",
+      "num_episodes": 13,
+      "genres": [
+        "Historical",
+        "Performing Arts",
+        "Slice of Life"
+      ],
+      "studios": [
+        "A-1 Pictures",
+        "Psyde Kick Studio"
+      ],
+      "mal_url": "https://myanimelist.net/anime/62051"
+    },
+    {
       "mal_id": 56735,
       "title": "Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken",
       "status": "plan_to_watch",
       "score": 0,
       "mal_mean_score": 6.61,
-      "mal_num_scoring_users": 25738,
+      "mal_num_scoring_users": 25741,
       "episodes_watched": 0,
       "is_rewatching": false,
       "updated_at_mal": "2026-07-29T07:13:08+00:00",
@@ -20356,6 +22387,35 @@
         "Project No.9"
       ],
       "mal_url": "https://myanimelist.net/anime/56735"
+    },
+    {
+      "mal_id": 58878,
+      "title": "Sayonara Lara",
+      "status": "plan_to_watch",
+      "score": 0,
+      "mal_mean_score": 7.62,
+      "mal_num_scoring_users": 20353,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-07-10T15:47:38+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2026-07-06",
+      "release_end_date": "2026-09-21",
+      "release_year": 2026,
+      "release_season": "summer",
+      "media_type": "tv",
+      "num_episodes": 12,
+      "genres": [
+        "Drama",
+        "Reincarnation",
+        "Romance",
+        "Supernatural"
+      ],
+      "studios": [
+        "Kinema Citrus"
+      ],
+      "mal_url": "https://myanimelist.net/anime/58878"
     },
     {
       "mal_id": 62936,
@@ -20386,12 +22446,41 @@
       "mal_url": "https://myanimelist.net/anime/62936"
     },
     {
+      "mal_id": 61126,
+      "title": "Kimi ga Shinu made Koi wo Shitai",
+      "status": "plan_to_watch",
+      "score": 0,
+      "mal_mean_score": 7.54,
+      "mal_num_scoring_users": 23836,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2025-09-05T12:04:04+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2026-07-07",
+      "release_end_date": "2026-09-29",
+      "release_year": 2026,
+      "release_season": "summer",
+      "media_type": "tv",
+      "num_episodes": 13,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Girls Love",
+        "School"
+      ],
+      "studios": [
+        "ROLL2"
+      ],
+      "mal_url": "https://myanimelist.net/anime/61126"
+    },
+    {
       "mal_id": 49233,
       "title": "Youjo Senki II",
       "status": "plan_to_watch",
       "score": 0,
       "mal_mean_score": 8.1,
-      "mal_num_scoring_users": 53794,
+      "mal_num_scoring_users": 53799,
       "episodes_watched": 0,
       "is_rewatching": false,
       "updated_at_mal": "2025-08-21T11:28:41+00:00",
@@ -20476,7 +22565,7 @@
       "status": "plan_to_watch",
       "score": 0,
       "mal_mean_score": 7.64,
-      "mal_num_scoring_users": 8894,
+      "mal_num_scoring_users": 8898,
       "episodes_watched": 0,
       "is_rewatching": false,
       "updated_at_mal": "2026-10-12T05:26:20+00:00",
@@ -20505,7 +22594,7 @@
       "status": "plan_to_watch",
       "score": 0,
       "mal_mean_score": 7.75,
-      "mal_num_scoring_users": 8305,
+      "mal_num_scoring_users": 8307,
       "episodes_watched": 0,
       "is_rewatching": false,
       "updated_at_mal": "2026-10-17T17:20:07+00:00",
@@ -20581,6 +22670,33 @@
         "CloverWorks"
       ],
       "mal_url": "https://myanimelist.net/anime/65302"
+    },
+    {
+      "mal_id": 61035,
+      "title": "Kininatteru Hito ga Otoko ja Nakatta",
+      "status": "plan_to_watch",
+      "score": 0,
+      "mal_mean_score": null,
+      "mal_num_scoring_users": 2,
+      "episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at_mal": "2026-10-09T05:36:54+00:00",
+      "user_start_date": null,
+      "user_finish_date": null,
+      "release_start_date": "2027-01-08",
+      "release_end_date": null,
+      "release_year": 2027,
+      "release_season": "winter",
+      "media_type": "tv",
+      "num_episodes": 0,
+      "genres": [
+        "Girls Love",
+        "Music"
+      ],
+      "studios": [
+        "CloverWorks"
+      ],
+      "mal_url": "https://myanimelist.net/anime/61035"
     },
     {
       "mal_id": 54440,
