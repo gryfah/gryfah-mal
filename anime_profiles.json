@@ -910,6 +910,39 @@
         "https://intl.nikkatsu.com/sales/447.html"
       ]
     },
+    "52211": {
+      "mal_id": 52211,
+      "title": "Mashle",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-04T19:09:33.543Z",
+      "synopsis": "I en värld där magi är norm saknar Mash Burnedead helt magisk förmåga. Han lever avskilt med sin adoptivfar Regro och tränar sin kropp. När hans situation avslöjas måste han söka sig till den prestigefyllda magiskolan Easton och sikta på utmärkelsen Divine Visionary för att kunna leva tryggt med sin familj. Han försöker lösa magiska utmaningar med ren fysisk styrka.",
+      "themes": [
+        "utanförskap i ett hierarkiskt samhälle",
+        "familjeband och trygghet",
+        "vänskap och rivalitet",
+        "fysisk styrka kontra magisk status"
+      ],
+      "tone": [
+        "absurd och surrealistisk humor",
+        "actionbetonad",
+        "lättsam men med reella hot"
+      ],
+      "pacing_and_structure": "Skolmiljö med inträdesprov, tävlingar, prövningar och konfrontationer; skämtet om att muskler övertrumfar magi återkommer som strukturerande grepp. Action och komik avlöser varandra.",
+      "character_dynamics": "Mash drivs av viljan att skydda sitt stillsamma liv med adoptivfadern Regro. Vid skolan möter han bland andra Lemon under ett inträdesprov och får relationer till andra elever genom prövningar och rivalitet.",
+      "distinctive_features": "Den magilöse hjälten löser uppgifter som normalt kräver trollkonst genom extrem fysisk förmåga. En medvetet absurd kombination av magiskolans regler, träningshumor och stridsberättelse.",
+      "comparison_cues": [
+        "Jämför tolerans för ett återkommande centralt skämt mot uppskattning av progression i strider och relationer.",
+        "Kontrast mellan regelstyrd magivärld och en huvudperson som kringgår reglerna med fysisk kraft."
+      ],
+      "uncertainties": [
+        "De officiella introduktionerna ger begränsat underlag för att bedöma hur karaktärsrelationerna utvecklas över hela första säsongen."
+      ],
+      "sources": [
+        "https://mashle.pw/",
+        "https://www.aniplex.co.jp/lineup/mashle/",
+        "https://www.aniplex.co.jp/lineup/mashle/story/"
+      ]
+    },
     "54112": {
       "mal_id": 54112,
       "title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
