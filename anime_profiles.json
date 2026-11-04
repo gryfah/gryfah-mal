@@ -469,6 +469,40 @@
         "https://kg-portal.ru/anime/isshuukanfriends/"
       ]
     },
+    "21431": {
+      "mal_id": 21431,
+      "title": "Gokukoku no Brynhildr",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-04T21:02:46.761Z",
+      "synopsis": "Ryouta Murakami fortsätter att studera stjärnhimlen efter att hans barndomsvän Kuroneko dött i en olycka. När den nya eleven Neko Kuroha dyker upp, påfallande lik Kuroneko, dras han in i en konflikt kring unga kvinnor med övernaturliga förmågor som flytt från ett forskningslaboratorium.",
+      "themes": [
+        "Sorg och skuld efter en barndomsförlust",
+        "Identitet och igenkänning",
+        "Vetenskapliga experiment och utsatthet",
+        "Skydd, förtroende och överlevnad"
+      ],
+      "tone": [
+        "Mörk science fiction-mystik",
+        "Dramatisk",
+        "Romantiska inslag",
+        "Våld och hotfulla situationer"
+      ],
+      "pacing_and_structure": "En följetong där ett mysterium om en ny klasskamrat övergår i en farlig konflikt med ett forskningslaboratorium. Serien har 13 TV-avsnitt; detaljer om exakt fördelning av berättelsebågar är inte verifierade.",
+      "character_dynamics": "Ryoutas minne av Kuroneko präglar hans relation till Neko, vars likhet med den döda vännen väcker frågor. Han försöker hjälpa henne och andra förrymda unga kvinnor som jagas av forskare.",
+      "distinctive_features": "Kombinerar skolmiljö och astronomiklubb med övernaturliga krafter, laboratorieexperiment och en uttalad överlevnadskonflikt. Innehållsvarning för våld och sexualiserade bilder enligt distributören.",
+      "comparison_cues": [
+        "Kan jämföras med andra serier som blandar ungdomsrelationer med mörka experimentmiljöer; detta är en strukturell jämförelse, inte en förutsägelse om personlig uppskattning.",
+        "Spänningen mellan ett personligt förlustmotiv och en större science fiction-konspiration är ett möjligt analysankare."
+      ],
+      "uncertainties": [
+        "Detaljer om adaptionens täckning av mangan och slutets utformning har inte verifierats och ingår inte i profilen.",
+        "Tonalitetsbeskrivningen bygger på distributörens genre- och innehållsuppgifter samt synopsis, inte en fullständig episodgranskning."
+      ],
+      "sources": [
+        "https://www.crunchyroll.com/es/series/G6WEMP106/brynhildr-in-the-darkness",
+        "https://www.animesc.com/en/details/04UO5T/gokukoku-no-brynhildr"
+      ]
+    },
     "25519": {
       "mal_id": 25519,
       "title": "Yuuki Yuuna wa Yuusha de Aru",
