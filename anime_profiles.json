@@ -141,6 +141,40 @@
         "https://gigazine.net/news/20100402_tamayura_ova"
       ]
     },
+    "10490": {
+      "mal_id": 10490,
+      "title": "Blood-C",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-04T07:00:52.366Z",
+      "synopsis": "Saya Kisaragi lever som skolflicka och arbetar vid sin fars shintohelgedom i en stillsam stad vid en sjö. I hemlighet använder hon helgedomens svärd för att bekämpa människojagande varelser som kallas de gamla. Hennes uppdrag att skydda familjen, vännerna och staden ställs mot växande frågor om varelsernas ursprung och ett löfte hon förväntas hålla.",
+      "themes": [
+        "Plikt och löften",
+        "Skydd av närstående",
+        "Hemligheter och osäker verklighetsbild",
+        "Människan och det monstruösa"
+      ],
+      "tone": [
+        "Vardagligt och till synes idylliskt mellan konflikterna",
+        "Mörk övernaturlig skräck",
+        "Våldsamt och hotfullt"
+      ],
+      "pacing_and_structure": "TV-serie i 12 avsnitt. Kontrasterar skola och vardag med återkommande nattliga strider; det övergripande mysteriet kring Saya och varelserna driver berättelsen framåt.",
+      "character_dynamics": "Saya har en nära relation till sin far vid helgedomen och försöker samtidigt upprätthålla ett vanligt skolliv med vänner. Hennes skyddsuppdrag sätter dessa band i centrum, medan varelsernas tal om ett löfte väcker tvivel.",
+      "distinctive_features": "Originalprojekt i Blood-serien genom samarbete mellan Production I.G och CLAMP; CLAMP stod för berättelse- och karaktärskoncept, Tsutomu Mizushima regisserade TV-serien. En fortsättande långfilm, The Last Dark, följde 2012.",
+      "comparison_cues": [
+        "Kontrast mellan vardagsmiljö och explicit övernaturligt våld",
+        "Mysteriedriven berättelse med pliktbunden huvudperson",
+        "Kan jämföras med andra Blood-verk utan att anta identisk kontinuitet eller ton"
+      ],
+      "uncertainties": [
+        "Exakt upplevelse av tempot och graden av grafiskt våld är inte kvantifierade av de använda officiella introduktionerna."
+      ],
+      "sources": [
+        "https://www.production-ig.co.jp/works/blood-c/",
+        "https://production-ig.com/contents/works_sp/87_/s01_/001093.html",
+        "https://www.blood-c.jp/blpedia/01.html"
+      ]
+    },
     "10719": {
       "mal_id": 10719,
       "title": "Boku wa Tomodachi ga Sukunai",
