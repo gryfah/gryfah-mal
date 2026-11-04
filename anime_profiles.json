@@ -269,6 +269,40 @@
         "https://anilist.co/anime/14811/GJbu"
       ]
     },
+    "21273": {
+      "mal_id": 21273,
+      "title": "Gochuumon wa Usagi desu ka?",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-04T08:06:55.964Z",
+      "synopsis": "Cocoa flyttar till en ny stad för att börja gymnasiet och hamnar på kaféet Rabbit House, som också visar sig vara hennes nya bostad. Hon börjar arbeta där tillsammans med den reserverade Chino och den militäriskt präglade Rize och lär känna flickor från andra kaféer.",
+      "themes": [
+        "Vänskap och vardaglig gemenskap",
+        "Att hitta en plats i en ny miljö",
+        "Informella systerrelationer",
+        "Kaféarbete och små vardagsäventyr"
+      ],
+      "tone": [
+        "Varm",
+        "Lättsam",
+        "Lekfull",
+        "Mysig vardagskomedi"
+      ],
+      "pacing_and_structure": "Episodisk vardagsberättelse med kaféarbete, skolvardag och sociala småhändelser snarare än en stark övergripande intrig. Serien bygger på en fyrpanelsmanga.",
+      "character_dynamics": "Cocoas utåtriktade, nästan storasysteraktiga tillgivenhet kontrasterar mot Chinos försiktighet; Rizes mer strikta, militärinfluerade sätt ger en annan komisk motpol. Vänkretsen utvidgas över flera kaféer.",
+      "distinctive_features": "Kafé- och bostadsmiljön Rabbit House, en småstad med europeiskt inspirerad estetik, kaninmotivet och den uttalade vardagsorienteringen.",
+      "comparison_cues": [
+        "Kan jämföras med andra episodiska ensembledrivna vardagskomedier utifrån hur mycket humor respektive relationsvärme som bär avsnitten.",
+        "Kaféarbetsplatsen ger en annan social ram än renodlade skolkomedier."
+      ],
+      "uncertainties": [
+        "Exakt fördelning mellan episodiska sketcher och längre utvecklingslinjer har inte kontrollerats avsnitt för avsnitt."
+      ],
+      "sources": [
+        "https://www.sentaifilmworks.com/blogs/catalog/is-the-order-a-rabbit",
+        "https://tv.apple.com/us/show/is-the-order-a-rabbit/umc.cmc.63mb7j7658z2i80yt8bjeq5cr",
+        "https://theanimelist.net/anime/gochuumon-wa-usagi-desu-ka"
+      ]
+    },
     "21327": {
       "mal_id": 21327,
       "title": "Isshuukan Friends.",
