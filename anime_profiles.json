@@ -269,6 +269,41 @@
         "https://anilist.co/anime/14811/GJbu"
       ]
     },
+    "15583": {
+      "mal_id": 15583,
+      "title": "Date A Live",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-04T12:04:37.524Z",
+      "synopsis": "Gymnasieeleven Shido Itsuka lever i en värld där katastrofala rymdskalv inträffar när mystiska varelser kallade andar visar sig. Efter ett möte med en sådan ande får han veta att hans syster Kotori leder en organisation som vill stoppa katastroferna utan att döda andarna. Shidos uppdrag blir att få dem att förälska sig i honom och därigenom kunna försegla deras krafter.",
+      "themes": [
+        "Konfliktlösning genom relationer snarare än våld",
+        "Romantik och ansvar under katastrofhot",
+        "Att möta människor som betraktas som hot",
+        "Hemlig organisation och dubbla roller"
+      ],
+      "tone": [
+        "Romantisk komedi",
+        "Action och övernaturlig science fiction",
+        "Haremsituationer och skolförvecklingar",
+        "Återkommande allvar kring katastrofhot"
+      ],
+      "pacing_and_structure": "Första tv-säsongen omfattar tolv avsnitt. Handlingen växlar mellan möten med olika andar, Shidos försök att vinna deras förtroende och konflikter med aktörer som föredrar våld. Komiska dejtingsituationer kombineras med övernaturliga konfrontationer.",
+      "character_dynamics": "Shido blir en förmedlare mellan andarna och den mänskliga världen. Kotori fungerar både som hans lillasyster och som operativ ledare; Tohka är en central ande vars möte med Shido etablerar seriens relationsmodell. Origami representerar ett mer stridsinriktat perspektiv och bidrar till romantiska och ideologiska motsättningar.",
+      "distinctive_features": "Serien gör dejting till en bokstavlig räddningsmetod: kärleksrelationer kopplas mekaniskt till att neutralisera övernaturliga katastrofer. Första säsongen är en lättromanadaption producerad av AIC PLUS+.",
+      "comparison_cues": [
+        "Undersök balansen mellan actionhot och romantisk komedi",
+        "Jämför hur haremupplägget ger eller begränsar karaktärsutveckling",
+        "Kontrast mellan episodiska möten med nya gestalter och en sammanhängande världsmytologi"
+      ],
+      "uncertainties": [
+        "Tempo- och tonalitetsbeskrivningen är en övergripande strukturbedömning baserad på officiell synopsis och publicerade avsnittsbeskrivningar, inte ett påstående om tittarupplevelse."
+      ],
+      "sources": [
+        "https://www.hulu.jp/date-a-live",
+        "https://tv.apple.com/us/show/date-a-live/umc.cmc.2hn7av812mcvb6htlxxhpmonk",
+        "https://www.tvguide.or.jp/db/anime/date_a_live/season1/"
+      ]
+    },
     "18507": {
       "mal_id": 18507,
       "title": "Free!",
