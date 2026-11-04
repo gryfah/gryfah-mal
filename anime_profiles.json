@@ -404,6 +404,40 @@
         "https://kg-portal.ru/anime/isshuukanfriends/"
       ]
     },
+    "30831": {
+      "mal_id": 30831,
+      "title": "Kono Subarashii Sekai ni Shukufuku wo!",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-04T10:08:31.401Z",
+      "synopsis": "Efter en oväntad död får den spelintresserade Kazuma Satou erbjudandet att återfödas i en fantasyvärld och ta med sig en valfri sak. Han väljer gudinnan Aqua själv. Det efterlängtade äventyrarlivet blir snart en kamp med försörjning, skulder och en grupp kraftfulla men opraktiska följeslagare.",
+      "themes": [
+        "Parodi på isekai- och rollspelskonventioner",
+        "Grupparbete mellan oförenliga personligheter",
+        "Vardaglig ekonomi kontra hjälteideal",
+        "Misslyckanden och improvisation"
+      ],
+      "tone": [
+        "Komisk",
+        "Ironisk",
+        "Absurd",
+        "Fräck och stundtals sexualiserad"
+      ],
+      "pacing_and_structure": "Kort tv-säsong med återkommande uppdrag och komiska missöden, där episodiska problem knyts samman av gruppens ekonomi och möten med demonkungens styrkor. Dialog och personlighetskrockar är centrala.",
+      "character_dynamics": "Kazuma försöker hålla ihop gruppen trots att Aqua skapar problem, Megumin specialiserar sig på en extremt kraftfull men begränsad explosionsbesvärjelse och Darkness har stridsförmåga som kompliceras av hennes egenheter. Friktionen mellan medlemmarna driver humorn snarare än en idealiserad hjältegrupp.",
+      "distinctive_features": "Fantasy-RPG-regler används som grund för en antihjältekomedi: låg nivå, fattigdom, opraktiska specialförmågor och gruppmedlemmar som gör uppdragen svårare. Den officiella säsongssidan beskriver uttryckligen dessa figurers begränsningar.",
+      "comparison_cues": [
+        "Jämför hur serien använder rollspelsvärldens mekanik som komiskt hinder snarare än som ren maktfantasi.",
+        "Skilj mellan uppskattning av karaktärsbaserad gruppkomedi och tolerans för sexualiserade skämt; ingen personlig slutsats utan betyg eller kommentarer."
+      ],
+      "uncertainties": [
+        "Den exakta balansen mellan humorstilar och personlig upplevelse kan inte avgöras enbart från officiella sammanfattningar."
+      ],
+      "sources": [
+        "https://konosuba.com/1st/introduction/",
+        "https://konosuba.com/1st/story/",
+        "https://www.crunchyroll.com/series/GYE5K3GQR/konosuba-gods-blessing-on-this-wonderful-world"
+      ]
+    },
     "31771": {
       "mal_id": 31771,
       "title": "Amanchu!",
