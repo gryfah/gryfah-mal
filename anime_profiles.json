@@ -269,6 +269,40 @@
         "https://anilist.co/anime/14811/GJbu"
       ]
     },
+    "18507": {
+      "mal_id": 18507,
+      "title": "Free!",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-04T09:01:30.923Z",
+      "synopsis": "Haruka Nanase älskar att simma och vann som barn en stafett tillsammans med Makoto, Nagisa och Rin. Efter att vännerna gått skilda vägar återkommer Rin under gymnasietiden och utmanar Haruka. Haruka, Makoto och Nagisa återbildar ett simlag vid Iwatobi-gymnasiet tillsammans med nykomlingen Rei, medan den gamla vänskapen och rivaliteten med Rin åter aktualiseras.",
+      "themes": [
+        "Vänskap och återförening",
+        "Rivalitet och tävlingsidrott",
+        "Samarbete och tillhörighet",
+        "Ungdomstid och personlig utveckling"
+      ],
+      "tone": [
+        "Ungdomsdrama",
+        "Sportinriktad",
+        "Kamratlig",
+        "Tävlingsladdad"
+      ],
+      "pacing_and_structure": "En sammanhängande sportsäsong där återbildandet av simklubben och tävlingsrelationen till Rin driver handlingen. Träning, lagbygge och personliga konflikter kombineras med vardagsscener; inte en renodlat episodisk skolkomedi.",
+      "character_dynamics": "Haruka har ett starkt personligt förhållande till simning. Makoto och Nagisa är gamla lagkamrater som söker återknyta gruppen, medan Rei tillkommer som ny medlem. Rin står både för en tidigare vänskapsrelation och en utmanande rivalitet.",
+      "distinctive_features": "Simning och stafettlag är berättelsens konkreta sammanhållande verksamhet. Kyoto Animations TV-serie från sommaren 2013; kontrasten mellan individuell tävlingsdrivkraft och gemenskap är central.",
+      "comparison_cues": [
+        "Kan användas som kontrast till skolklubbsserier utan tydligt tävlingsmål: här finns både sportprestationer och återkommande relationskonflikter.",
+        "Relevant jämförelse med andra ungdomsdramer där tidigare vänskap påverkas av rivalitet, utan antagande om personlig uppskattning."
+      ],
+      "uncertainties": [
+        "Den officiella sammanfattningen fastslår grundkonflikten men inte hur väl varje enskild relation utvecklas genom hela säsongen.",
+        "Inga slutsatser om tittarens preferens eller seriens kvalitet kan dras från denna profil."
+      ],
+      "sources": [
+        "https://www.kyotoanimation.co.jp/en/works/free/",
+        "https://tm.iwatobi-sc.com/story/"
+      ]
+    },
     "18897": {
       "mal_id": 18897,
       "title": "Nisekoi",
