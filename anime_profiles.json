@@ -1185,6 +1185,40 @@
         "https://www.viz.com/zom-100",
         "https://www.crunchyroll.com/series/GJ0H7QGQK/zom-100-bucket-list-of-the-dead"
       ]
+    },
+    "54855": {
+      "mal_id": 54855,
+      "title": "Senpai wa Otokonoko",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-04T23:07:52.920Z",
+      "synopsis": "Gymnasieeleven Makoto Hanaoka klär sig i feminina kläder. När den yngre eleven Saki Aoi förklarar sin kärlek och får veta att Makoto är en pojke avskräcks hon inte. Makotos barndomsvän Ryuji har också romantiska känslor för honom, vilket skapar en kärlekstriangel där vänskap, självbild och förälskelse måste samsas.",
+      "themes": [
+        "identitet och självacceptans",
+        "kärlek bortom könsförväntningar",
+        "vänskap och romantiska gränser",
+        "ungdomlig osäkerhet"
+      ],
+      "tone": [
+        "känslosam",
+        "varsamt humoristisk",
+        "romantisk",
+        "introspektiv"
+      ],
+      "pacing_and_structure": "Relationsdrivet skoldrama i tolv avsnitt. Utgångspunkten är en kärleksförklaring, varefter de tre huvudpersonernas känslor och val driver en fortlöpande utveckling snarare än fristående episoder.",
+      "character_dynamics": "Saki är öppen och målmedveten i sin förälskelse; Makoto är mer tveksam inför hur andra uppfattar honom. Ryuji känner Makoto sedan barndomen och måste förhålla sig till egna känslor samtidigt som han är vän med de andra.",
+      "distinctive_features": "En romantisk triangel med två personer som är förälskade i samma pojke; könsuttryck och social acceptans är integrerade i relationskonflikten. TV-anime från 2024, producerad av Project No.9 efter poms manga.",
+      "comparison_cues": [
+        "Jämför om triangeldramat utvecklar alla tre personerna eller främst skapar romantiska förvecklingar.",
+        "Kontrast till skolromantik där könsuttryck inte är en central del av huvudpersonens vardag."
+      ],
+      "uncertainties": [
+        "Källorna styrker premiss och huvudrelationer men inte en detaljerad bedömning av tempot i varje avsnitt."
+      ],
+      "sources": [
+        "https://www.crunchyroll.com/it/series/GW4HM7WP9/senpai-is-an-otokonoko",
+        "https://www.crunchyroll.com/news/latest/2024/2/10/senpai-is-an-otokonoko-anime-reveals-main-cast-and-more",
+        "https://tv.apple.com/us/show/senpai-is-an-otokonoko/umc.cmc.52z4xi7ynqdgqz4rqr1jpkpis"
+      ]
     }
   }
 }
