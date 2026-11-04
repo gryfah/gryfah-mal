@@ -943,6 +943,41 @@
         "https://www.aniplex.co.jp/lineup/mashle/story/"
       ]
     },
+    "53621": {
+      "mal_id": 53621,
+      "title": "Jijou wo Shiranai Tenkousei ga Guigui Kuru.",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-04T20:04:26.543Z",
+      "synopsis": "Akane Nishimura går i femte klass och hålls utanför gemenskapen av klasskamrater som kallar henne 'Dödsängeln'. När den nyinflyttade Taiyou Takada hör öknamnet uppfattar han det som något häftigt snarare än elakt. Hans rättframma nyfikenhet och vänskap rubbar klassens invanda sociala mönster och ger Akane nya möjligheter att delta i skolvardagen.",
+      "themes": [
+        "Mobbning och social uteslutning",
+        "Vänskap som motvikt till grupptryck",
+        "Barnslig uppriktighet och perspektivskifte",
+        "Självkänsla och tillhörighet"
+      ],
+      "tone": [
+        "Varm",
+        "Lättsam komedi",
+        "Ömsint",
+        "Bitvis allvarlig kring utsatthet"
+      ],
+      "pacing_and_structure": "Episodisk skolvardag med korta situationer kring raster, klassaktiviteter, sommarlov och vänskapskretsen; relationernas utveckling binder ihop vardagsepisoderna snarare än en stor yttre konflikt.",
+      "character_dynamics": "Akane är tillbakadragen efter klasskamraternas hån; Taiyou är entusiastisk och tolkar hennes stigmatiserande öknamn positivt. Deras asymmetriska sociala erfarenheter skapar både humor och en gradvis fördjupad vänskap. Andra barn och Taiyous syster breddar samspelet.",
+      "distinctive_features": "Konfliktens centrala grepp är att Taiyou omtolkar mobbarnas språk bokstavligt och positivt, så att ett försök att isolera Akane tappar sin verkan. Berättelsen följer lågstadienära skolvardag snarare än övernaturliga händelser trots 'Dödsängeln'-smeknamnet.",
+      "comparison_cues": [
+        "Kan jämföras med andra skolvardagsserier efter hur humor kombineras med utsatthet och emotionell utveckling",
+        "Undersök om den episodiska strukturen ger tillräcklig relationsutveckling, utan att förutsätta en personlig matchning"
+      ],
+      "uncertainties": [
+        "Den exakta balansen mellan humor och allvar över hela säsongen är inte fastställd enbart av synopsis och episodbeskrivningar."
+      ],
+      "sources": [
+        "https://guiguikuru.com/intro/",
+        "https://guiguikuru.com/story/ep01/",
+        "https://www.crunchyroll.com/series/GMEHME8K8/my-clueless-first-friend",
+        "https://tv.apple.com/us/show/my-clueless-first-friend/umc.cmc.70dd681oijy6gubcingg1qz6w"
+      ]
+    },
     "54112": {
       "mal_id": 54112,
       "title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
