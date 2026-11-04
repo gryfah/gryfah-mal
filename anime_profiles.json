@@ -646,6 +646,40 @@
         "https://www.tvguide.com/tvshows/iroduku-the-world-in-colors/1030201635/"
       ]
     },
+    "39730": {
+      "mal_id": 39730,
+      "title": "Houkago Teibou Nisshi",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-04T13:09:30.260Z",
+      "synopsis": "Hina Tsurugi flyttar till en kuststad och vill helst ägna sig åt handarbete. Efter ett möte med den äldre eleven Yuki Kuroiwa hamnar hon motvilligt i skolans fiskeklubb, trots att hon ogillar många havsdjur. Genom klubbens utflykter lär hon sig gradvis fiske och börjar uppskatta både aktiviteten och gemenskapen.",
+      "themes": [
+        "Att pröva en oväntad hobby",
+        "Vänskap och samarbete i skolklubb",
+        "Praktisk inlärning och naturkontakt",
+        "Mat och förhållandet till fångsten"
+      ],
+      "tone": [
+        "Vardagsnära",
+        "Lättsam",
+        "Humoristisk",
+        "Avslappnad"
+      ],
+      "pacing_and_structure": "Episodiskt vardagsberättande över 12 TV-avsnitt. Klubbens fisketurer, olika fiskemetoder och tillagning av fångst ger återkommande avsnittsramar snarare än en stor sammanhängande konflikt.",
+      "character_dynamics": "Den försiktiga nybörjaren Hina kontrasterar mot den mer erfarna och pådrivande klubbledaren Yuki. Övriga klubbmedlemmar bidrar med kunskap, hjälp och vänskap medan Hina blir alltmer självständig.",
+      "distinctive_features": "Konkreta fiskemetoder, utrustning, arter och hantering av fångst vävs in i skollivskomedin. Kustmiljö och lärande genom praktiska försök är centrala.",
+      "comparison_cues": [
+        "Jämförbar med andra hobbycentrerade slice-of-life-serier i graden av praktisk detaljkunskap.",
+        "Skiljer sig från renodlad mysserie genom återkommande moment med levande fisk, bete och tillagning; ingen slutsats om användarens preferens."
+      ],
+      "uncertainties": [
+        "Hur ingående enskilda fisketekniker förklaras varierar mellan avsnitten och har inte granskats fullständigt."
+      ],
+      "sources": [
+        "https://tv.apple.com/us/show/diary-of-our-days-at-the-breakwater/umc.cmc.785gbl2cm0ooga4afd2jmqd2v",
+        "https://thetvdb.com/series/afterschool-embankment-journal",
+        "https://www.animesc.com/en/details/22VZiU/houkago-teibou-nisshi"
+      ]
+    },
     "41025": {
       "mal_id": 41025,
       "title": "Fumetsu no Anata e",
