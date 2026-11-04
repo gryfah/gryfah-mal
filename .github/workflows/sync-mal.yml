@@ -7,8 +7,10 @@ on:
   issues:
     types: [edited]
 
+  # Backup sync only: issue #1 is the primary hourly trigger.
+  # Avoid running a redundant scheduled sync every hour.
   schedule:
-    - cron: "43 * * * *"
+    - cron: "43 */2 * * *"
       timezone: "Europe/Stockholm"
 
 permissions:
@@ -27,6 +29,15 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v5
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Refresh baseline before reading MAL
+        run: |
+          # A queued job must compare against the latest committed list.
+          git fetch origin main
+          git checkout -B main origin/main
 
       - name: Set up Python
         uses: actions/setup-python@v6
@@ -38,16 +49,40 @@ jobs:
           MAL_CLIENT_ID: ${{ secrets.MAL_CLIENT_ID }}
         run: python sync_mal.py
 
-      - name: Commit updated list
+      - name: Publish updated list safely
         run: |
+          set -euo pipefail
           git config user.name "mal-sync-bot"
           git config user.email "mal-sync-bot@users.noreply.github.com"
 
-          git add anime.json anime_backup.json results.json
+          git add -- anime.json anime_backup.json results.json
 
           if git diff --cached --quiet; then
             echo "No MAL changes"
-          else
-            git commit -m "Update MAL list"
-            git push
+            exit 0
           fi
+
+          git commit -m "Update MAL list"
+
+          # Profile commits can land while MAL is fetched. Rebase the MAL
+          # commit over them before pushing; never force-push or overwrite
+          # unrelated changes. A conflict in MAL-owned files fails safely.
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            if ! git rebase origin/main; then
+              git rebase --abort || true
+              echo "::error::Conflict with remote MAL changes; leaving the remote untouched."
+              exit 1
+            fi
+
+            if git push origin HEAD:main; then
+              echo "MAL snapshot and event log committed successfully."
+              exit 0
+            fi
+
+            echo "::warning::Push race on attempt $attempt; retrying safely."
+            sleep "$((attempt * 2))"
+          done
+
+          echo "::error::Unable to publish MAL snapshot after five safe attempts."
+          exit 1
