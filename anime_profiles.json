@@ -404,6 +404,41 @@
         "https://kg-portal.ru/anime/isshuukanfriends/"
       ]
     },
+    "25519": {
+      "mal_id": 25519,
+      "title": "Yuuki Yuuna wa Yuusha de Aru",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-04T11:03:18.568Z",
+      "synopsis": "I den fiktiva tidsräkningen Shinseiki 300 lever högstadieeleven Yuuna ett vanligt skol- och klubbliv. Hennes klubb, Yuusha-bu, hjälper andra i vardagen, men flickorna dras också in i ett försvar mot de mystiska varelserna Vertex som hotar mänskligheten. Berättelsen förenar vardaglig vänskap med ett alltmer allvarligt hjälteuppdrag.",
+      "themes": [
+        "vänskap och solidaritet",
+        "ansvar och uppoffring",
+        "vardagsliv kontra existentiellt hot",
+        "hjälterollens pris"
+      ],
+      "tone": [
+        "inledningsvis varm och vardagsnära",
+        "actionbetonad",
+        "successivt allvarlig och dramatisk"
+      ],
+      "pacing_and_structure": "En tv-serie om tolv avsnitt där klubbens vardag och relationer kontrasteras mot magiska strider och gradvis fördjupad konflikt. Utan att avslöja senare vändningar är kontrasten mellan de två berättelselägena central.",
+      "character_dynamics": "Yuuna och de övriga flickorna i Sanshu Middle Schools hjälteklubb fungerar som ett sammansvetsat lag; deras hjälpsamhet i vardagen får en annan innebörd när de ställs inför verkliga faror.",
+      "distinctive_features": "Magical-girl-liknande hjälteberättelse med mobilanknuten transformation, monster kallade Vertex och en uttrycklig spänning mellan skolklubbens vardag och uppdraget att skydda mänskligheten. Utspelas under den egna tidsräkningen Shinseiki 300.",
+      "comparison_cues": [
+        "Kontrast mellan lätt skolklubbsvardag och mörkare dramatik",
+        "Grupprelationer och ansvar snarare än enbart strider",
+        "Kan jämföras strukturellt med andra serier där en till synes lättsam premiss får allvarligare följder; ingen personlig smakslutsats"
+      ],
+      "uncertainties": [
+        "Detaljer om den senare dramaturgin och konsekvenserna av hjältesystemet utelämnas av spoilerskäl.",
+        "Bedömningen av tonalitet och stegring är en försiktig strukturtolkning av officiell introduktion och seriens premiss."
+      ],
+      "sources": [
+        "https://yuyuyu.tv/season1/story/index.php",
+        "https://bs.tbs.co.jp/anime/yuukiyuuna/",
+        "https://www.bs4.jp/yuyuyu/"
+      ]
+    },
     "30831": {
       "mal_id": 30831,
       "title": "Kono Subarashii Sekai ni Shukufuku wo!",
