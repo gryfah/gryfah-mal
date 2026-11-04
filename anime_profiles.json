@@ -504,6 +504,40 @@
         "https://www.hulu.jp/to-your-eternity",
         "https://tv.apple.com/es/show/to-your-eternity/umc.cmc.316v4yoxk1hgfadyox552fr5r"
       ]
+    },
+    "50594": {
+      "mal_id": 50594,
+      "title": "Suzume no Tojimari",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-04T10:08:06.483Z",
+      "synopsis": "Sjuttonåriga Suzume möter en ung man som söker efter märkliga dörrar. I ruinerna av en övergiven plats hittar hon en dörr som förbinder världen med en övernaturlig fara. När fler sådana dörrar öppnas runtom i Japan ger hon sig ut på en resa för att stänga dem och förhindra katastrofer.",
+      "themes": [
+        "Sorg och minnen av katastrofer",
+        "Att förhålla sig till det förflutna",
+        "Mänskliga möten och avsked",
+        "Ansvar och hopp"
+      ],
+      "tone": [
+        "Äventyrlig",
+        "Övernaturligt hotfull",
+        "Emotionell",
+        "Hoppfull"
+      ],
+      "pacing_and_structure": "Sammanhållen långfilm med en geografisk resa genom Japan, återkommande möten och dörrstängningar samt en successivt mer personlig konflikt.",
+      "character_dynamics": "Suzume samarbetar med Souta, en ung man som arbetar med att stänga farliga dörrar. Deras gemensamma uppdrag förändras av den mystiska katten Daijins ingripande. Människor som Suzume möter längs resan bidrar med tillfällig hjälp och nya perspektiv.",
+      "distinctive_features": "En vägfilmsstruktur kombineras med övernaturlig katastroffantasy; övergivna platser och dörrar binder samman geografiska miljöer och minnen. Soutas förvandling till en liten stol ger ett ovanligt fantastiskt och stundtals komiskt inslag. Makoto Shinkai står för originalberättelse, manus och storyboard.",
+      "comparison_cues": [
+        "Jämför hur vardagliga relationer och storskaliga övernaturliga hot vävs ihop i Shinkais andra filmer, utan att förutsätta liknande personlig uppskattning.",
+        "Jämför vägfilmsstruktur och sorgbearbetning med andra fantasyfilmer i listan."
+      ],
+      "uncertainties": [
+        "Ton- och tempobeskrivningarna är analytiska sammanfattningar av officiella synopsis och kan inte ensamma fastställa tittarupplevelsen."
+      ],
+      "sources": [
+        "https://www.cwfilms.jp/en/products/article/suzume.html",
+        "https://www.cwfilms.jp/products/article/suzume.html",
+        "https://www.crunchyroll.com/series/GP5HJ8425/suzume"
+      ]
     }
   }
 }
