@@ -268,6 +268,43 @@
         "https://kg-portal.ru/anime/isshuukanfriends/"
       ]
     },
+    "31771": {
+      "mal_id": 31771,
+      "title": "Amanchu!",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-04T06:06:44.169Z",
+      "synopsis": "Efter flytten från Tokyo till en kuststad på Izuhalvön har den tillbakadragna Futaba Ooki svårt att finna sig till rätta. Hon möter den utåtriktade Hikari Kohinata, vars entusiasm för sportdykning leder dem till skolans dykklubb. Genom träning, nya vänner och upplevelser vid havet vågar Futaba gradvis ta egna initiativ och möta sådant som först känns skrämmande.",
+      "themes": [
+        "Vänskap och ömsesidigt stöd",
+        "Personlig utveckling genom nya erfarenheter",
+        "Naturupplevelser och vardagsglädje",
+        "Att hantera osäkerhet och förändring"
+      ],
+      "tone": [
+        "Lugn",
+        "Varm",
+        "Optimistisk",
+        "Eftertänksam"
+      ],
+      "pacing_and_structure": "Tolv avsnitt i första säsongen. Vardagliga skol- och kustmiljöer varvas med successiva steg i Futabas dykutbildning; serien har en tydlig men lågmäld utvecklingslinje snarare än högt tempo eller ständiga dramatiska konflikter.",
+      "character_dynamics": "Den impulsiva och sociala Hikari fungerar som katalysator för den försiktiga Futaba, men deras relation utvecklas till ett ömsesidigt kamratskap. Dykklubbens lärare och andra medlemmar ger praktisk handledning och en trygg gemenskap. Dykningens buddy-princip speglar deras växande tillit.",
+      "distinctive_features": "Sportdykningens övningar och säkerhetsmoment är en konkret del av berättelsens utveckling. Izus havsmiljö och natur fungerar både som vardagskuliss och som symbol för Futabas nya möjligheter. Anime från J.C.Staff efter Kozue Amanos manga.",
+      "comparison_cues": [
+        "Kan jämföras med andra lugna vardagsskildringar där miljö och små personliga framsteg är viktigare än yttre konflikt.",
+        "Kontrast mot rena skolklubbskomedier: här finns ett tydligt praktiskt lärandemål och ett perspektivskifte hos huvudpersonen.",
+        "Relationen mellan två kvinnliga huvudpersoner är central; källorna fastställer inte att den ska tolkas romantiskt."
+      ],
+      "uncertainties": [
+        "Hur stor del av enskilda avsnitt som ägnas åt dykteknik respektive vardagskomedi är inte kvantifierat i källorna.",
+        "Ingen säker slutsats om romantisk underton eller personlig tittarmatchning."
+      ],
+      "sources": [
+        "https://sh-anime.shochiku.co.jp/amanchu-anime/story.html",
+        "https://tv.apple.com/jp/show/amanchu/umc.cmc.6tmuotz0bplqqnu64smz57bzq?l=en",
+        "https://www.tvmaze.com/shows/15917/amanchu/episodeguide",
+        "https://anilist.co/anime/21406/Amanchu/"
+      ]
+    },
     "35677": {
       "mal_id": 35677,
       "title": "Liz to Aoi Tori",
