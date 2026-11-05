@@ -1358,6 +1358,41 @@
         "https://tv.apple.com/ch/show/a-condition-called-love/umc.cmc.17q72peh8u6tf9p2f4zbnqa30",
         "https://mubi.com/en/us/films/a-condition-called-love"
       ]
+    },
+    "57947": {
+      "mal_id": 57947,
+      "title": "Mayonaka Punch",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-05T02:02:01.597Z",
+      "synopsis": "Masaki förlorar sin plats i en populär videokanal efter en konflikt och försöker återupprätta sin ställning som innehållsskapare. Hon slår sig ihop med vampyren Live och hennes huskamrater för att nå en miljon prenumeranter. Deras samarbete bygger på ett ovanligt utbyte: Live hjälper kanalen att växa i utbyte mot möjligheten att dricka Masakis blod.",
+      "themes": [
+        "rykte och offentlig skam i nätkulturen",
+        "skapande och publikens uppmärksamhet",
+        "samarbete trots motstridiga drivkrafter",
+        "hemlig övernaturlig identitet"
+      ],
+      "tone": [
+        "energisk komedi",
+        "övernaturlig fars",
+        "inslag av personliga konflikter"
+      ],
+      "pacing_and_structure": "Tolv avsnitt med ett tydligt övergripande mål om en miljon prenumeranter. Videoproduktion, kanalens utveckling och gruppens problem ger utrymme för skiftande delkonflikter; de officiella avsnittsbeskrivningarna visar både vardagliga inspelningar och större kriser.",
+      "character_dynamics": "Masaki står främst för idéer, filmning och redigering, medan Live drivs av sitt intresse för Masaki och hennes blod. Vampyrerna Ichiko, Fuu och Tokage tillför skilda personligheter till ett samarbete där en mänsklig innehållsskapare behöver dölja sina medverkandes natur.",
+      "distinctive_features": "Originalanime från P.A.WORKS som kombinerar vampyrer med en satiriskt färgad skildring av videoplattformar och viral berömmelse. Den centrala konflikten rör både kanalens tillväxt och risken att vampyrernas identitet avslöjas.",
+      "comparison_cues": [
+        "Kan jämföras med ensemblekomedier där samarbete uppstår ur oförenliga personliga mål.",
+        "Skiljer sig från traditionell vampyrromantik genom fokus på nätkultur och videoproduktion; romantisk tolkning är inte fastslagen."
+      ],
+      "uncertainties": [
+        "Exakt fördelning mellan komedi och allvar genom hela serien har inte verifierats genom fullständig avsnittsgranskning.",
+        "Ingen slutsats om användarens personliga uppskattning eller om en entydig romantisk relation."
+      ],
+      "sources": [
+        "https://mayopan.jp/character/",
+        "https://mayopan.jp/story/",
+        "https://anilist.co/anime/174044/Mayonaka-Punch",
+        "https://tv.apple.com/gb/show/mayonaka-punch/umc.cmc.1l76z0iozm6sjt67o8rf2luxr"
+      ]
     }
   }
 }
