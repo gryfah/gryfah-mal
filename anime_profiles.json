@@ -1499,6 +1499,39 @@
         "https://anilist.co/anime/174044/Mayonaka-Punch",
         "https://tv.apple.com/gb/show/mayonaka-punch/umc.cmc.1l76z0iozm6sjt67o8rf2luxr"
       ]
+    },
+    "59425": {
+      "mal_id": 59425,
+      "title": "NegaPosi Angler",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-05T04:07:41.607Z",
+      "synopsis": "Tsunehiro Sasaki är en skuldsatt universitetsstudent som fått beskedet att han har omkring två år kvar att leva. När han faller i havet under flykten från fordringsägare räddas han av fiskeentusiasten Hana och hennes vänner, däribland Takaaki. Han börjar fiska, får arbete i den närbutik där de andra arbetar och utvecklar nya vänskaper samtidigt som han försöker hitta en riktning i livet.",
+      "themes": [
+        "Livskris och dödlighet",
+        "Ekonomisk utsatthet",
+        "Gemenskap och vänskap",
+        "Att återfinna livslust genom en hobby"
+      ],
+      "tone": [
+        "Vardaglig och stundtals lättsam",
+        "Melankolisk grundton",
+        "Försiktigt hoppfull"
+      ],
+      "pacing_and_structure": "Originalserie i tolv tv-avsnitt. En personlig kris fungerar som ram för vardagliga fiskeutflykter, lärande och relationer inom en ny vänkrets; de exakta dramatiska vändningarna beskrivs inte här.",
+      "character_dynamics": "Den nedstämde nybörjaren Tsunehiro möter den entusiastiska Hana och den stöttande Takaaki. Gruppen introducerar honom till både fiske och ett socialt sammanhang genom arbetet i närbutiken.",
+      "distinctive_features": "Fiske skildras både som praktisk aktivitet med egna redskap och begrepp och som en möjlig väg ur social isolering. Kontrasten mellan allvarlig sjukdom, skulder och vardaglig hobbygemenskap bär premissen.",
+      "comparison_cues": [
+        "Kan jämföras med vardagsdramer där en gemensam aktivitet skapar nya relationer",
+        "Skiljer sig från renodlad avslappnande hobbyanime genom huvudpersonens uttalade livskris"
+      ],
+      "uncertainties": [
+        "Ingen verifierad bedömning av hur seriens slut hanterar sjukdomsfrågan; undviks för att bevara spoilerfrihet."
+      ],
+      "sources": [
+        "https://www.hulu.jp/negative-positive-angler",
+        "https://www.crunchyroll.com/news/latest/2024/9/6/negative-positive-angler-anime-october-3-premiere-main-trailer",
+        "https://tv.apple.com/no/show/negative-positive-angler/umc.cmc.6mojhf15e95qvraf0n8caryf0"
+      ]
     }
   }
 }
