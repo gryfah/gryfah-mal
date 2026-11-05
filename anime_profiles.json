@@ -601,6 +601,39 @@
         "https://watch.plex.tv/ja/show/log-horizon/season/2"
       ]
     },
+    "23587": {
+      "mal_id": 23587,
+      "title": "The iDOLM@STER Cinderella Girls",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-05T10:10:13.764Z",
+      "synopsis": "På talangagenturen 346 Production startas Cinderella Project, där flickor utan tidigare idolkarriär rekryteras och får pröva livet som blivande artister. Berättelsen följer hur de lär känna branschen, tränar och tar sig an sina första framträdanden, med bland andra Uzuki Shimamura, Rin Shibuya och Mio Honda i centrum.",
+      "themes": [
+        "Att hitta sin plats i en ny yrkesvärld",
+        "Samarbete och individuella ambitioner",
+        "Scenframträdanden och vägen mot en artistkarriär"
+      ],
+      "tone": [
+        "Hoppfull",
+        "Vardagsnära inom idolmiljön",
+        "Periodvis prestationsinriktad"
+      ],
+      "pacing_and_structure": "Ensembleberättelse med introduktion av flera rekryter och gradvis utveckling genom träning, möten och framträdanden. Serien från januari 2015 utgör den första delen av en tvådelad TV-produktion.",
+      "character_dynamics": "De nya medlemmarna i Cinderella Project har olika personligheter och förutsättningar; relationerna utvecklas både i gruppen och i samarbetet med produktionen. Uzuki, Rin och Mio är särskilt framträdande i inledningen.",
+      "distinctive_features": "Utspelar sig på den etablerade agenturen 346 Production snarare än kring en fristående skolklubb. Musik- och idolproduktion är integrerade i handlingen. Animerad av A-1 Pictures och regisserad av Noriko Takao.",
+      "comparison_cues": [
+        "Ensemble med många parallella karaktärsbågar",
+        "Jämför hur musikframträdanden vävs in i karaktärsutvecklingen",
+        "Kontrast mellan yrkesinriktad idolmiljö och skolbaserade musikserier"
+      ],
+      "uncertainties": [
+        "Den exakta fördelningen av dramatiska och lättsamma avsnitt är inte belagd av de använda översiktskällorna."
+      ],
+      "sources": [
+        "https://www.aniplex.co.jp/lineup/imas-cinderella/",
+        "https://a1p.jp/works/imas-cg/",
+        "https://tv.apple.com/be/show/the-idolmster-cinderella-girls/umc.cmc.5k4quckubcu3lfvtjy2d8m70l"
+      ]
+    },
     "25519": {
       "mal_id": 25519,
       "title": "Yuuki Yuuna wa Yuusha de Aru",
