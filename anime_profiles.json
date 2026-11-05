@@ -2098,6 +2098,41 @@
         "https://www.crunchyroll.com/series/G5PHNM9P0/witch-watch",
         "https://www.crunchyroll.com/watch/G0DUMWJKJ/witchs-return"
       ]
+    },
+    "60293": {
+      "mal_id": 60293,
+      "title": "Ballpark de Tsukamaete!",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-05T14:10:14.761Z",
+      "synopsis": "På den fiktiva professionella basebollarenan Chiba MotorSuns möter den utarbetade kontorsanställde Murata den nyanställda ölförsäljaren Ruriko. Hans regelbundna besök på arenan blir en del av hennes arbetsvardag. Serien följer också andra anställda, spelare och besökare vars liv korsas på läktarna och bakom kulisserna.",
+      "themes": [
+        "Gemenskap kring sport som social mötesplats",
+        "Arbetsliv och vardagliga möten",
+        "Kontrasten mellan offentlig fasad och privat osäkerhet",
+        "Små relationer som växer fram över tid"
+      ],
+      "tone": [
+        "Varm humor",
+        "Vardagsnära",
+        "Romantiska antydningar",
+        "Ömsint ensemblekomedi"
+      ],
+      "pacing_and_structure": "Episodiskt berättande med flera perspektiv från arenans personal, publik och spelare; snarare vardagsögonblick och relationer än enbart matchresultat eller sammanhängande tävlingsdramaturgi.",
+      "character_dynamics": "Ruriko uppträder utåtriktat och kaxigt i sin försäljarroll men är egentligen blyg och oerfaren. Murata finner avkoppling från kontorsarbetet på arenan och blir hennes första stamkund. Deras möten fungerar som ingång till en större ensemble.",
+      "distinctive_features": "En professionell basebollarena fungerar som ett litet samhälle; berättelsen skildrar såväl försäljare och åskådare som spelare. Sporten är framför allt en miljö för människors vardagsrelationer.",
+      "comparison_cues": [
+        "Ensemblebaserad arbetsplatskomedi i ovanlig idrottsmiljö",
+        "Lågmäld relationsutveckling genom återkommande vardagsmöten",
+        "Sportanknytning utan att tävlingsmomentet behöver dominera"
+      ],
+      "uncertainties": [
+        "Den relativa tyngden mellan Murata–Ruriko-relationen och sidokaraktärernas berättelser varierar mellan avsnitt och har inte kartlagts fullständigt."
+      ],
+      "sources": [
+        "https://animeanime.jp/article/2025/04/01/90183.html",
+        "https://www.crunchyroll.com/news/latest/2024/11/14/the-catcher-in-the-ballpark-anime-announced-2025-staff-cast-visual",
+        "https://www.at-s.com/media/articles/anime/20250324_anime_ballpark_keyvl"
+      ]
     }
   }
 }
