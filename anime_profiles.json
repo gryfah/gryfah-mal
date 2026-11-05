@@ -878,6 +878,42 @@
         "https://tv.apple.com/es/show/to-your-eternity/umc.cmc.316v4yoxk1hgfadyox552fr5r"
       ]
     },
+    "41169": {
+      "mal_id": 41169,
+      "title": "Love Live! Superstar!!",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-05T03:05:11.003Z",
+      "synopsis": "På det nyöppnade flickgymnasiet Yuigaoka i Tokyo möts fem förstaårselever som börjar bygga en school-idol-grupp från grunden. Kanon Shibuya älskar att sjunga men har svårt att uppträda inför andra; Tang Kekes entusiasm för school idols ger henne en ny anledning att försöka. Deras gemensamma projekt växer fram samtidigt som skolan ännu saknar traditioner och etablerad identitet.",
+      "themes": [
+        "Att återfinna modet att framträda",
+        "Vänskap och gemensamma ambitioner",
+        "Att skapa en tradition från grunden",
+        "Individuella drömmar kontra gruppens mål"
+      ],
+      "tone": [
+        "Hoppfull",
+        "Varm",
+        "Energisk",
+        "Periodvis känslomässigt allvarlig"
+      ],
+      "pacing_and_structure": "En ensemblebaserad skol- och musikberättelse där rekrytering, övning och framträdanden varvas med personliga hinder och utveckling av gruppen. Sångnummer är centrala berättelseinslag.",
+      "character_dynamics": "Kanon och Keke bildar en viktig tidig drivkraft: Kanons sångintresse och osäkerhet möter Kekes initiativkraft. Övriga medlemmar ansluter med skilda förhållanden till musik, dans och skolans verksamhet; samarbete kräver att olika mål förenas.",
+      "distinctive_features": "Till skillnad från en etablerad skolmiljö startar Yuigaoka utan äldre årskurser eller traditioner. Första säsongens kärngrupp består av fem flickor och knyter skolans tillblivelse till idolgruppens.",
+      "comparison_cues": [
+        "Jämför med andra ensembleberättelser där gemensamt skapande driver individuell utveckling",
+        "Undersök hur musikframträdanden fungerar som emotionell berättelse snarare än enbart uppvisning",
+        "Kontrastera med skolserier som redan har etablerade klubbar och traditioner"
+      ],
+      "uncertainties": [
+        "Ton och tempo är analytiska sammanfattningar av premiss och säsongsupplägg, inte verifierade publikomdömen.",
+        "Profilen avser första TV-säsongen 2021, inte senare säsongers utökade ensemble."
+      ],
+      "sources": [
+        "https://www.lovelive-anime.jp/yuigaoka/story/",
+        "https://tv.apple.com/jp/show/%E3%83%A9%E3%83%95%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC/umc.cmc.6zkq0ev79uzjkagn0kk5g68jd",
+        "https://thetvdb.com/series/love-live-superstar"
+      ]
+    },
     "49303": {
       "mal_id": 49303,
       "title": "Alice to Therese no Maboroshi Koujou",
