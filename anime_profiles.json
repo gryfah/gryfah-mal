@@ -1324,6 +1324,40 @@
         "https://www.crunchyroll.com/news/latest/2024/2/10/senpai-is-an-otokonoko-anime-reveals-main-cast-and-more",
         "https://tv.apple.com/us/show/senpai-is-an-otokonoko/umc.cmc.52z4xi7ynqdgqz4rqr1jpkpis"
       ]
+    },
+    "55597": {
+      "mal_id": 55597,
+      "title": "Hananoi-kun to Koi no Yamai",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-05T01:01:57.161Z",
+      "synopsis": "Hotaru Hinase är en gymnasieelev med nära vänner och familj men utan erfarenhet av att vara förälskad. När hon räcker ett paraply till skolkamraten Saki Hananoi efter att han blivit lämnad ber han henne att bli hans flickvän. Hon är osäker på vad kärlek innebär men går med på att pröva en relation för att förstå sina känslor.",
+      "themes": [
+        "Att upptäcka och formulera romantiska känslor",
+        "Olika förväntningar på närhet och engagemang",
+        "Kommunikation och gränser i en första relation",
+        "Självkännedom genom vardagliga möten"
+      ],
+      "tone": [
+        "Romantisk och vardagsnära",
+        "Ömsint men ibland obekväm i huvudpersonernas olikheter",
+        "Reflekterande om kärlekens innebörd"
+      ],
+      "pacing_and_structure": "En relationsdriven skolromans som utvecklas genom en prövoperiod som par, dejter, högtider och samtal om känslor. Tidiga avsnitt kretsar kring Hotarus stegvisa försök att förstå sin relation snarare än ett stort yttre äventyr.",
+      "character_dynamics": "Hotaru är omtänksam men osäker på romantisk kärlek; Hananoi är mycket intensiv i sina kärleksyttringar. Spänningen mellan hennes försiktiga utforskande och hans starka engagemang bär relationen. Vänner och skolmiljö ger sociala sammanhang för hur paret lär känna varandra.",
+      "distinctive_features": "Utgångspunkten är inte två redan förälskade personer utan en överenskommen prövoperiod. Serien lägger särskild vikt vid asymmetri i romantisk erfarenhet och intensitet, samt små milstolpar som första dejten och högtider.",
+      "comparison_cues": [
+        "Användbar kontrast till romantiska serier där ömsesidig förälskelse är etablerad från början.",
+        "Möjlig jämförelse med andra skolromansers behandling av kommunikation, gränser och obalanserat engagemang."
+      ],
+      "uncertainties": [
+        "Karaktärstolkning och tempo bygger på officiellt distribuerade serie- och episodbeskrivningar, inte en fullständig visning.",
+        "Ingen värdering görs av om Hananois intensitet uppfattas positivt eller negativt av användaren."
+      ],
+      "sources": [
+        "https://tv.apple.com/fr/show/a-condition-called-love/umc.cmc.17q72peh8u6tf9p2f4zbnqa30",
+        "https://tv.apple.com/ch/show/a-condition-called-love/umc.cmc.17q72peh8u6tf9p2f4zbnqa30",
+        "https://mubi.com/en/us/films/a-condition-called-love"
+      ]
     }
   }
 }
