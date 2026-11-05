@@ -809,6 +809,40 @@
         "https://www.aniplex.co.jp/lineup/kiznaiver/story/"
       ]
     },
+    "33948": {
+      "mal_id": 33948,
+      "title": "Hinako Note",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-05T14:10:02.985Z",
+      "synopsis": "Hinako Sakuragi flyttar från landsbygden till Tokyo för att övervinna sin svårighet att tala inför andra genom att ägna sig åt teater. När hon upptäcker att skolans teaterklubb ligger nere hjälper hyresvärdinnan Chiaki henne att bilda en egen teatergrupp tillsammans med de andra boende på Hitotose.",
+      "themes": [
+        "Blyghet och social utveckling",
+        "Scenkonst som övning i självförtroende",
+        "Vänskap och samarbete",
+        "Vardag i ett kollektiv"
+      ],
+      "tone": [
+        "Varm vardagskomedi",
+        "Lättsam",
+        "Lekfull och stundtals absurd"
+      ],
+      "pacing_and_structure": "Episodisk skol- och vardagskomedi med en sammanhållande riktning mot teaterövningar och uppträdanden; återkommande komiska situationer kring Hinakos blyghet.",
+      "character_dynamics": "Hinako får stöd av Chiaki, som tar initiativ till en ny ensemble, och av de andra boende Kuina och Mayuki. Teaterarbetet ger också möten med skolkamraten Yua, som har en rivalitetspräglad relation till Hinako.",
+      "distinctive_features": "Hinako stelnar bokstavligen i en fågelskrämmeliknande pose när hon blir nervös; hennes förhållande till djur används som komiskt motiv. Teaterambitionen ger vardagsskildringen ett konkret mål.",
+      "comparison_cues": [
+        "Ensemblebaserad vardagskomedi där en gemensam aktivitet ger struktur",
+        "Personlig utveckling genom en stödjande grupp snarare än dramatisk konflikt",
+        "Teaterinslag skiljer serien från renodlade skolvardagskomedier"
+      ],
+      "uncertainties": [
+        "Den exakta balansen mellan teaterutveckling och fristående komiska scener har inte verifierats genom fullständig genomgång av alla avsnitt."
+      ],
+      "sources": [
+        "https://www.crunchyroll.com/zh-tw/series/G6E58N5VY/hinako-note",
+        "https://tv.apple.com/us/show/hinako-note/umc.cmc.6k7nnzcdw91kb1g9our38gwo9",
+        "https://www.primevideo.com/-/nl/detail/0MI7GPLYKI5M7LN6PN1EQ0WC8R"
+      ]
+    },
     "34636": {
       "mal_id": 34636,
       "title": "Ballroom e Youkoso",
