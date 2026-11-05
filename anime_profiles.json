@@ -947,6 +947,40 @@
         "https://tv.apple.com/jp/show/nierautomata-ver11a/umc.cmc.2bj2ebv9hfq0ouicyd7h573l6"
       ]
     },
+    "51122": {
+      "mal_id": 51122,
+      "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-05T00:01:38.160Z",
+      "synopsis": "Den kringresande köpmannen Kraft Lawrence möter Holo, en varggudom som länge förknippats med en bys skördar men nu vill återvända till sin hemtrakt i norr. De reser tillsammans mellan handelsstäder, där affärer, förhandlingar och risker vävs samman med en växande personlig relation.",
+      "themes": [
+        "Handel, förtroende och ekonomiska risker",
+        "Ensamhet, tillhörighet och längtan hem",
+        "Förhållandet mellan gamla föreställningar och en föränderlig värld",
+        "Ömsesidigt beroende och förtroende"
+      ],
+      "tone": [
+        "Varm och dialogdriven",
+        "Lekfullt retsam i huvudpersonernas samspel",
+        "Bitvis spänningsfylld kring affärsuppgörelser"
+      ],
+      "pacing_and_structure": "Reseskildring med etapper i olika städer och handelsmiljöer; återkommande affärsförhandlingar och sociala komplikationer driver handlingen snarare än ständig fysisk action. Den personliga relationen utvecklas över resans gång.",
+      "character_dynamics": "Lawrence är en pragmatisk men inte känslokall handelsman; Holo är erfaren, skarpsinnig och ofta retsam. De kompletterar och utmanar varandra i såväl förhandlingar som frågor om tillit och närhet.",
+      "distinctive_features": "2024 års nyadaption av berättelsen; medeltidsinspirerad handelsfantasy där valuta, varor och förhandlingar är centrala dramaturgiska inslag. Holo har övernaturliga vargegenskaper, men serien förankrar mycket av konflikten i mänsklig ekonomi och relationer.",
+      "comparison_cues": [
+        "Jämför dialogburen relationsutveckling med actiondrivna fantasyserier",
+        "Jämför handels- och samhällsinriktad problemlösning med äventyr som främst använder strid",
+        "Kan kontrasteras med den äldre animeadaptionen utan antaganden om vilken version användaren föredrar"
+      ],
+      "uncertainties": [
+        "Tempo- och tonbeskrivningen är en försiktig syntes av officiell premiss och episodbeskrivningar, inte en scen-för-scen-granskning."
+      ],
+      "sources": [
+        "https://www.crunchyroll.com/pt-pt/series/G1XHJV08M/spice-and-wolf-merchant-meets-the-wise-wolf",
+        "https://spice-and-wolf.com/",
+        "https://tv.apple.com/us/show/spice-and-wolf-merchant-meets-the-wise-wolf/umc.cmc.6rbprer8bwacvmu3j0v573sx4"
+      ]
+    },
     "52081": {
       "mal_id": 52081,
       "title": "Edomae Elf",
