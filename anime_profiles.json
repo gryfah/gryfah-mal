@@ -538,6 +538,37 @@
         "https://www.animesc.com/en/details/04UO5T/gokukoku-no-brynhildr"
       ]
     },
+    "23321": {
+      "mal_id": 23321,
+      "title": "Log Horizon 2nd Season",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-05T06:08:06.681Z",
+      "synopsis": "Sex månader efter att spelarna fastnat i Elder Tale har Akihabara återfått viss stabilitet. Shiroe undersöker världens ekonomi och nya möjligheter medan äventyrarna försöker avgöra hur de ska leva i den förändrade spelvärlden och om återvändandet till verkligheten är möjligt.",
+      "themes": [
+        "Samhällsbyggande och styre",
+        "Ekonomi och makt",
+        "Gruppsamarbete och ansvar",
+        "Identitet och tillhörighet i en spelvärld"
+      ],
+      "tone": [
+        "Äventyrlig",
+        "Strategisk",
+        "Bitvis allvarlig",
+        "Ensembleorienterad"
+      ],
+      "pacing_and_structure": "En fortsättningssäsong på 25 avsnitt med parallella berättelsespår: Shiroes förhandlingar och gruppuppdrag, Akihabaras interna problem och yngre äventyrares erfarenheter. Växlar mellan dialogdrivna strategiska partier och organiserade strider.",
+      "character_dynamics": "Shiroe fungerar som planerare och förhandlare; Akatsuki utvecklar sitt samarbete med andra i Akihabara, medan yngre medlemmar prövar större självständighet. Relationerna påverkas av skillnader mellan äventyrare och världens ursprungliga invånare.",
+      "distinctive_features": "Spelmekanik, raidstrategi och ekonomiska institutioner behandlas som delar av en fungerande samhällsordning snarare än enbart som kuliss för strider. Kräver kännedom om första säsongen.",
+      "comparison_cues": [
+        "Jämför med andra spelvärldsanime utifrån fokus på institutioner snarare än individuell styrkeutveckling",
+        "Jämför ensembleberättande och förhandlingar med mer actiondrivna fantasyserier"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://www.crunchyroll.com/watch/GVWU8XV0J/shiroe-of-the-northern-lands",
+        "https://watch.plex.tv/ja/show/log-horizon/season/2"
+      ]
+    },
     "25519": {
       "mal_id": 25519,
       "title": "Yuuki Yuuna wa Yuusha de Aru",
