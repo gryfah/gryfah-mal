@@ -1078,6 +1078,38 @@
         "https://thetvdb.com/series/love-live-superstar"
       ]
     },
+    "49160": {
+      "mal_id": 49160,
+      "title": "Shachiku-san wa Youjo Yuurei ni Iyasaretai.",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-05T10:10:24.083Z",
+      "synopsis": "Kontorsanställda Fushihara arbetar långt in på nätterna. Ett litet spökflickebarn oroar sig för hennes hälsa och försöker skrämma hem henne genom att säga åt henne att gå. Fushihara blir i stället förtjust i spöket, som fortsätter försöka hjälpa henne med omtanke och små vardagliga gester.",
+      "themes": [
+        "Överarbete och behovet av vila",
+        "Omsorg och oväntad vänskap",
+        "Tröst i vardagen"
+      ],
+      "tone": [
+        "Varm",
+        "Mild komedi",
+        "Lugn och gullig"
+      ],
+      "pacing_and_structure": "Vardagsorienterad övernaturlig komedi där utgångspunkten är återkommande omsorgssituationer snarare än en stor sammanhängande konflikt. TV-serien omfattar tolv avsnitt från 2022.",
+      "character_dynamics": "Den överarbetade vuxna Fushihara och det omtänksamma lilla spöket får en omvänd vårdrelation: spöket försöker få den vuxna att ta hand om sig själv, medan Fushihara finner tröst i spökets närvaro.",
+      "distinctive_features": "Kontrasten mellan japansk övertidskultur och ett vänligt barnspöke driver premissen. Övernaturliga inslag används för vardaglig värme snarare än skräck. Animerad av Project No.9.",
+      "comparison_cues": [
+        "Jämför med andra lugna iyashikei-berättelser",
+        "Kontrast mellan arbetslivsmiljö och skolbaserad vardagskomedi",
+        "Omsorgsrelation där den till synes svagare parten hjälper den vuxna"
+      ],
+      "uncertainties": [
+        "Detaljerad variation mellan senare avsnitt och sidofigurernas utrymme har inte verifierats i de använda källorna."
+      ],
+      "sources": [
+        "https://www.thetvdb.com/series/shachiku-san-wa-youjo-yuurei-ni-iyasaretai",
+        "https://theanimelist.net/anime/shachiku-san-wa-youjo-yuurei-ni-iyasaretai"
+      ]
+    },
     "49303": {
       "mal_id": 49303,
       "title": "Alice to Therese no Maboroshi Koujou",
