@@ -437,6 +437,42 @@
         "https://tv.apple.com/it/show/nisekoi/umc.cmc.4060839xiche4ftmbraovg6kh"
       ]
     },
+    "19193": {
+      "mal_id": 19193,
+      "title": "Koukaku Kidoutai Arise: Ghost in the Shell - Border:3 Ghost Tears",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-05T15:02:09.464Z",
+      "synopsis": "I den tredje delen av Ghost in the Shell: Arise avbryts Motoko Kusanagis privata tillvaro av ett bombattentat. Spår från terroristerna pekar mot manipulerade minnen och en äldre separatistkonflikt. Samtidigt utreder polisen Togusa en dödlig explosion vid en damm, där fynd av cybernetiska benproteser öppnar ett annat spår. Berättelsen följer de parallella utredningarna utan att avslöja hur de hänger samman.",
+      "themes": [
+        "Cybernetisk identitet och manipulerade minnen",
+        "Terrorism och politiska konflikter",
+        "Brottsutredning och teknologiskt maktmissbruk",
+        "Privatliv kontra yrkesplikt"
+      ],
+      "tone": [
+        "Allvarlig",
+        "Teknologisk thriller",
+        "Politisk spänning",
+        "Actionorienterad"
+      ],
+      "pacing_and_structure": "En sammanhängande film/OVA-del i en större berättelse, med två parallella utredningsspår, terroristaktioner och kriminaltekniska ledtrådar. Förutsätter viss orientering i Arise-seriens personer och sammanhang.",
+      "character_dynamics": "Kusanagi samarbetar med Batou och andra blivande medlemmar av Section 9 samtidigt som hennes relation med cybernetikteknikern José visar en privat sida. Togusa arbetar i ett separat polisiärt utredningsspår. Kontakterna mellan Kusanagi, Batou och Togusa är centrala för seriens gradvisa lagbildning.",
+      "distinctive_features": "Tredje delen av Arise-projektet från 2014, producerad av Production I.G. Kombinerar cyberhjärnors falska minnen med terrorism, protesrelaterad kriminalteknik och ett separatistiskt historiskt motiv. En kortfilm snarare än en TV-säsong.",
+      "comparison_cues": [
+        "Jämförelseankare för cyberpunk där identitet och minnesmanipulation är del av kriminalintrigen.",
+        "Kan kontrasteras mot mer filosofiskt kontemplativa science fiction-verk genom sitt utrednings- och actionupplägg."
+      ],
+      "uncertainties": [
+        "Källorna beskriver premiss och huvudspår men räcker inte för att värdera hur väl de dramatiska trådarna knyts ihop.",
+        "Olika kataloger anger något olika speltid; ingen exakt längd används som analysgrund."
+      ],
+      "sources": [
+        "https://theghostintheshell.jp/en/series/arise",
+        "https://www.b-ch.com/titles/3659/003",
+        "https://jfdb.jp/title/4018",
+        "https://www.crunchyroll.com/watch/G6EX54VGR/border-3-ghost-tears"
+      ]
+    },
     "21273": {
       "mal_id": 21273,
       "title": "Gochuumon wa Usagi desu ka?",
