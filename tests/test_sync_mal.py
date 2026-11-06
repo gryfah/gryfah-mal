@@ -65,6 +65,15 @@ class ClassificationTests(unittest.TestCase):
         self.assertIsNone(changes[3]["score"])
         self.assertEqual(find_events(after, after, NOW), [])
 
+    def test_metadata_only_edit_has_no_event(self):
+        before = entry(90, "plan_to_watch", 0)
+        after = entry(90, "plan_to_watch", 8)
+        after[0]["title"] = "Updated display title"
+        self.assertEqual(find_events(before, after, NOW), [])
+        completed = entry(91, "completed", 7)
+        rescored = entry(91, "completed", 9)
+        self.assertEqual(find_events(completed, rescored, NOW), [])
+
     def test_created_completed_and_dropped(self):
         for status, expected in (
             ("completed", ["next_up", "post_watch"]),
