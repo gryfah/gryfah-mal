@@ -2383,6 +2383,39 @@
         "https://anilist.co/anime/167144"
       ]
     },
+    "56009": {
+      "mal_id": 56009,
+      "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+      "profile_status": "complete",
+      "synopsis": "I en värld där hjältestatus är ett straff tvingas dömda brottslingar slåss i frontlinjen mot demoniska fiender. De återupplivas när de dör, så straffet kan fortsätta utan slut. Xylo Forbartz, dömd för att ha dödat en gudinna, leder straffenheten 9004. När han möter gudinnan Teoritta uppstår en oväntad allians som kan utmana hela systemet.",
+      "themes": [
+        "Hjältemod som tvång och straff",
+        "Institutionell grymhet och exploatering",
+        "Död utan befrielse",
+        "Misstro, uppror och oväntade allianser"
+      ],
+      "tone": [
+        "Mörk och brutal fantasy",
+        "Militär action med cynisk världsbild",
+        "Spänd och stundvis trotsig"
+      ],
+      "pacing_and_structure": "Berättelsen kombinerar återkommande stridsuppdrag för en straffenhet med ett större mysterium kring systemet som håller dess medlemmar fångna. Återuppståndelsen tar bort döden som utväg och gör varje strid till en del av ett fortgående straff.",
+      "character_dynamics": "Xylo är en desillusionerad befälhavare som redan har dömts av samhället. Teoritta är en gudinna vars samarbete med honom bryter mot den ordning han förväntas tjäna. Deras växande allians sätter både hans skuld och straffsystemets legitimitet i spel.",
+      "distinctive_features": "Begreppet hjälte är en juridisk påföljd snarare än en ära. Enhet 9004 strider och återupplivas i en cykel utan möjlighet till vanlig frigivning; en dömd gudinnedödare blir central i ett möjligt uppror.",
+      "comparison_cues": [
+        "Militär fantasy med tvångsrekryterade soldater",
+        "Återuppståndelse som tortyr i stället för belöning",
+        "Moralisk konflikt mellan samhällsordning och rättvisa",
+        "Mörkt systemdrama med gudomlig allians"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/56009",
+        "https://www.crunchyroll.com/fr/news/announcements/2026/1/3/regarder-sentenced-to-be-a-hero-vf-streaming-cruchyroll",
+        "https://www.crunchyroll.com/hi/news/latest/2026/3/28/sentenced-to-be-a-hero-anime-season-2-announced-stream-crunchyroll"
+      ],
+      "researched_at_utc": "2026-11-06T13:12:50.303Z"
+    },
     "56063": {
       "mal_id": 56063,
       "title": "NieR:Automata Ver1.1a Part 2",
@@ -2451,6 +2484,41 @@
         "https://www.unext.co.jp/ja/press-room/ohmuroke-dear-sisters-announce-2024-03-29",
         "https://jfdb.jp/title/9933"
       ]
+    },
+    "56876": {
+      "mal_id": 56876,
+      "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2",
+      "profile_status": "complete",
+      "synopsis": "Amane Fujimiya och Mahiru Shiina fortsätter sin försiktigt framväxande romantiska relation efter att vardagliga tjänster mellan två grannar utvecklats till djup ömsesidig tillit. Deras gemensamma måltider och närhet får nu en annan innebörd när relationen rör sig vidare från den första säsongens trevande förälskelse.",
+      "themes": [
+        "Ömsesidig omsorg som grund för romantik",
+        "Att våga uttrycka känslor",
+        "Vardaglig intimitet och tillit",
+        "Förändring från försiktig vänskap till parrelation"
+      ],
+      "tone": [
+        "Mjuk och tillgiven",
+        "Vardagsromantisk",
+        "Lågmält humoristisk"
+      ],
+      "pacing_and_structure": "Direkt fortsättning på första säsongens relationsdrivna skol- och hemmavardag. Förlagans och seriens centrala utvecklingslinje är att närheten mellan Amane och Mahiru blir tydligare; de exakta avsnittsförloppen beskrivs inte för att undvika obekräftade eller avslöjande detaljer.",
+      "character_dynamics": "Amane är tillbakadragen och slarvig med sin vardag medan Mahiru utåt uppfattas som skolans perfekta 'ängel'. Deras relation har byggts upp genom konkret hjälp, matlagning och förtroende, och fortsättningen utforskar hur deras ömsesidiga känslor får större utrymme.",
+      "distinctive_features": "En andra säsong av en utpräglat mjuk grannromans där vardagsomsorg fungerar som kärleksspråk. Fokus ligger på ett redan etablerat par snarare än en ny konkurrerande romantisk ensemble.",
+      "comparison_cues": [
+        "Romantisk fortsättning med etablerad relation",
+        "Hemmiljö och små omsorgshandlingar som dramaturgiskt centrum",
+        "Låg konfliktnivå och hög vardagsintimitet",
+        "Jämför relationens utveckling mot första säsongens långsamma uppbyggnad"
+      ],
+      "uncertainties": [
+        "Exakt fördelning av romanmaterial mellan animeavsnitten anges inte; profilen håller sig till bekräftad premiss och fortsättningsrelation."
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/56876",
+        "https://www.crunchyroll.com/news/latest/2026/3/16/the-angel-next-door-spoils-me-rotten-season-2-anime-opening-theme-trailer",
+        "https://www.crunchyroll.com/news/latest/2026/2/27/the-angel-next-door-spoils-me-rotten-season-2-anime-four-new-character-visuals"
+      ],
+      "researched_at_utc": "2026-11-06T13:12:50.303Z"
     },
     "56964": {
       "mal_id": 56964,
