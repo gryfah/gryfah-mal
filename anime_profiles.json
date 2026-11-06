@@ -3433,6 +3433,37 @@
         "https://tv.apple.com/no/show/negative-positive-angler/umc.cmc.6mojhf15e95qvraf0n8caryf0"
       ]
     },
+    "59443": {
+      "mal_id": 59443,
+      "title": "Reincarnation no Kaben",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-06T20:14:25.229Z",
+      "synopsis": "Touya Senji känner sig talanglös i skuggan av sin framgångsrike äldre bror trots höga skolresultat. När han bevittnar klasskamraten Haito Luo Buffett kämpa mot en seriemördare får han kännedom om en gren som kan väcka talanger från tidigare liv. För att aktivera förmågan krävs dock en farlig ritual där användaren skär sig över halsen.",
+      "themes": [
+        "talang och mindervärde",
+        "identitet och tidigare liv",
+        "maktens pris",
+        "jämförelse med andra"
+      ],
+      "tone": [
+        "mörk",
+        "actionbetonad",
+        "övernaturlig",
+        "intensiv"
+      ],
+      "pacing_and_structure": "En personlig konflikt om otillräcklighet övergår i övernaturliga strider där tidigare livs förmågor kan framkallas genom en våldsam ritual.",
+      "character_dynamics": "Touyas önskan att hitta en egen förmåga driver honom mot Haito, som redan behärskar reinkarnationsgrenen och introducerar honom till en farlig värld.",
+      "distinctive_features": "Talanger från tidigare liv frigörs med en gren vars aktivering kräver ett sår över halsen; den brutala mekaniken gör talangfantasin konkret och riskfylld.",
+      "comparison_cues": [
+        "Action om en huvudperson vars mindervärdeskomplex driver sökandet efter makt.",
+        "Kontrast mellan hårt förvärvad prestation och övernaturligt tilldelad begåvning."
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://www.hulu.jp/petals-of-reincarnation",
+        "https://www.anime2you.de/news/972539/start-von-petals-of-reincarnation/"
+      ]
+    },
     "59459": {
       "mal_id": 59459,
       "title": "Silent Witch: Chinmoku no Majo no Kakushigoto",
@@ -4480,6 +4511,37 @@
         "https://www.viz.com/manga-books/manga/ruridragon-volume-1/product/8137"
       ],
       "researched_at_utc": "2026-11-06T13:12:24.432Z"
+    },
+    "63293": {
+      "mal_id": 63293,
+      "title": "Hotaru no Yomeiri",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-06T20:14:25.229Z",
+      "synopsis": "Under Meijiperioden lever adelsdottern Satoko Kirigaya med en allvarlig hjärtsjukdom och vill hinna ingå ett äktenskap som gynnar hennes familj. När hon hotas av lönnmördaren Shinpei Gotou erbjuder hon honom desperat giftermål för att rädda sitt liv. Hennes falska frieri blir farligt när Shinpei visar en intensiv och besatt hängivenhet.",
+      "themes": [
+        "äktenskap som överlevnadsstrategi",
+        "klass och familjeplikt",
+        "besatthet och tillit",
+        "sjukdom och begränsad framtid"
+      ],
+      "tone": [
+        "mörkromantisk",
+        "spänningsfylld",
+        "intensiv",
+        "historisk"
+      ],
+      "pacing_and_structure": "En historisk romantisk thriller där en akut flyktsituation leder till en relation präglad av hot, sociala förväntningar och osäker tillit.",
+      "character_dynamics": "Satoko försöker använda ett falskt frieri för att överleva, medan Shinpeis extrema hängivenhet gör honom till både beskyddare och ett hot mot hennes självbestämmande.",
+      "distinctive_features": "En hjärtsjuk adelskvinna och hennes tilltänkte mördare binds samman av ett improviserat äktenskapslöfte i Meijitidens klassamhälle.",
+      "comparison_cues": [
+        "Romantiskt drama där maktobalans och tvång komplicerar samtycke och förtroende.",
+        "Kontrast mot relationer som börjar i trygghet och ömsesidig respekt."
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://www.viz.com/firefly-wedding",
+        "https://www.viz.com/manga-books/manga/firefly-wedding-volume-1-0/product/8158"
+      ]
     }
   }
 }
