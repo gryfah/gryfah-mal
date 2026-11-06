@@ -1144,6 +1144,42 @@
         "https://www.tvguide.com/tvshows/iroduku-the-world-in-colors/1030201635/"
       ]
     },
+    "38414": {
+      "mal_id": 38414,
+      "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-06T09:01:21.185Z",
+      "synopsis": "En förhistoria till Re:Zero som följer Emilia när hon lever isolerad i den snö- och istäckta Eliorskogen. Hennes likhet med den fruktade Avundsjukans häxa gör att omvärlden misstror henne. Den kattliknande anden Puck blir en närvarande men till en början inte formellt bunden följeslagare. Berättelsen skildrar hur deras relation växer fram under hot utifrån och leder mot situationen före tv-seriens början.",
+      "themes": [
+        "Utanförskap och fördomar utifrån utseende",
+        "Ensamhet och tillhörighet",
+        "Tillit, omsorg och att skapa band",
+        "Skuld, öde och självbestämmande",
+        "Skydd och ansvar"
+      ],
+      "tone": [
+        "Melankolisk och sagolik",
+        "Varm i relationen mellan huvudgestalterna",
+        "Hotfull och dramatisk när omvärlden tränger sig på"
+      ],
+      "pacing_and_structure": "En sammanhängande OVA-berättelse med fokus på en avgränsad förhistoria snarare än tv-seriens breda ensemble och tidsloopstruktur. Lugnare relationsbyggande i den frusna skogen kontrasteras mot övernaturliga hot och konflikter.",
+      "character_dynamics": "Emilia är misstänkliggjord och isolerad; Puck uppträder som en omtänksam, ibland beskyddande ande. Deras relation börjar utan det kontrakt som senare definierar dem i tv-serien. Den gradvisa närheten mellan två gestalter som bär på skuld och ansvar är berättelsens kärna.",
+      "distinctive_features": "Ett Emilia-centrerat prequelverk där Eliors frusna skog fungerar både som fysisk miljö och som uttryck för isolering. Ger bakgrund till Pucks och Emilias relation utan att följa Subaru som huvudperson. Baserat på en tidigare utgiven förhistorienovell och producerat av White Fox.",
+      "comparison_cues": [
+        "Kontrast mot huvudseriens intensiva återkommande kriser: en mer avgränsad bakgrundsberättelse",
+        "Användbar jämförelse för skildringar av fördomar, isolering och gradvis uppbyggd tillit",
+        "Förutsätter viss kännedom om Re:Zero-världen för maximal kontext"
+      ],
+      "uncertainties": [
+        "Detaljer om upplösningen och senare konsekvenser är avsiktligt utelämnade för spoilerfrihet.",
+        "Ingen bedömning av animations- eller musikaliskt utförande görs."
+      ],
+      "sources": [
+        "https://re-zero-anime.jp/hyoketsu/",
+        "https://re-zero-anime.jp/memorysnow/news/",
+        "https://www.crunchyroll.com/watch/G0DUMX93Z/the-frozen-bond"
+      ]
+    },
     "38619": {
       "mal_id": 38619,
       "title": "Joshikousei no Mudazukai",
