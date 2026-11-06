@@ -1455,6 +1455,38 @@
         "https://tv.apple.com/us/show/spice-and-wolf-merchant-meets-the-wise-wolf/umc.cmc.6rbprer8bwacvmu3j0v573sx4"
       ]
     },
+    "52080": {
+      "mal_id": 52080,
+      "title": "Murai no Koi",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-06T02:09:47.924Z",
+      "synopsis": "Gymnasieeleven Murai är förälskad i sin lärare Tanaka, som i sin tur är starkt fäst vid en figur i ett otome-spel. När hon avvisar hans kärleksförklaring förändrar han sin frisyr och råkar likna just hennes favoritfigur. Det sätter i gång en överdriven romantisk komedi om hans envisa uppvaktning och hennes förvirring.",
+      "themes": [
+        "Förälskelse kontra parasocial idealisering",
+        "Identitet och yttre förvandling",
+        "Otome-spelskultur och fandom",
+        "Gränser mellan lärare och elev"
+      ],
+      "tone": [
+        "Utpräglat komisk",
+        "Överdriven och energisk",
+        "Romantiskt absurd"
+      ],
+      "pacing_and_structure": "Seriens officiella presentation bygger på en omedelbar kärleksförklaring, avvisning och dramatisk utseendeförändring som driver en eskalerande romantisk komedi. Närmare episodtempo är inte självständigt verifierat.",
+      "character_dynamics": "Murai försöker ihärdigt vinna sin lärare Tanakas uppmärksamhet; Tanakas starka anknytning till spelfiguren Hitotose gör hans nya utseende särskilt förvirrande för henne. Relationens lärare–elev-asymmetri är en central premiss, inte en verifierad värdering av hur serien hanterar den.",
+      "distinctive_features": "En skolromcom där en elevs nya frisyr får honom att likna lärarens favorit från ett otome-spel; fanidentifikation och romantisk förväxling driver intrigen. Animeadaption 2024.",
+      "comparison_cues": [
+        "Jämförbar med romantiska komedier som använder otakuintressen som konkret intrigmotor",
+        "Skiljer sig från stillsamma skolromaner genom en avsiktligt extrem och uppdriven grundpremiss"
+      ],
+      "uncertainties": [
+        "Hur serien utvecklar de etiska gränserna kring lärare–elev-relationen och dess slutliga upplösning har inte kontrollerats."
+      ],
+      "sources": [
+        "https://murainokoi-anime.com/",
+        "https://www.bs4.jp/murainokoi/"
+      ]
+    },
     "52081": {
       "mal_id": 52081,
       "title": "Edomae Elf",
