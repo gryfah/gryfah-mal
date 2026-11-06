@@ -750,6 +750,34 @@
         "https://watch.plex.tv/ja/show/log-horizon/season/2"
       ]
     },
+    "23427": {
+      "mal_id": 23427,
+      "title": "Oneechan ga Kita: Hajimete no… Kitaa!",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-06T21:14:23.925Z",
+      "synopsis": "Kort OVA som visar hur Ichika som åttaåring möter den vilsekomne Tomoya på en lekplats, långt innan deras föräldrar gifter sig och de blir styvsyskon. Avsnittet fungerar som en tillbakablick till relationens ursprung i huvudserien Onee-chan ga Kita.",
+      "themes": [
+        "ett första möte som får senare betydelse",
+        "familjeband genom omgifte",
+        "barndomsminnen"
+      ],
+      "tone": [
+        "lättsam",
+        "vardagskomisk"
+      ],
+      "pacing_and_structure": "Ett fristående kort specialavsnitt som återger ett tidigare möte snarare än att fortsätta huvudseriens kronologi.",
+      "character_dynamics": "Ichika hjälper den yngre Tomoya när de ännu inte känner till att de senare kommer att bli styvsyskon.",
+      "distinctive_features": "OVA-tillägg till Onee-chan ga Kita; fokuserar på bakgrunden till den centrala styvsyskonrelationen.",
+      "comparison_cues": [
+        "Jämför med huvudserien utifrån hur en tillbakablick förändrar förståelsen av Ichikas anknytning till Tomoya.",
+        "En mycket kort familjekomisk ursprungshistoria, inte ett självständigt längre relationsdrama."
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Oneechan_ga_Kita",
+        "https://hianime.ms/details/onee-chan-ga-kita-hajimete-no-kitaa-a52e1"
+      ]
+    },
     "23587": {
       "mal_id": 23587,
       "title": "The iDOLM@STER Cinderella Girls",
@@ -3167,6 +3195,35 @@
       "sources": [
         "https://www.anime-shikanoko.jp/",
         "https://anilist.co/anime/175977"
+      ]
+    },
+    "58473": {
+      "mal_id": 58473,
+      "title": "S-Rank Monster no \"Behemoth\" dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-06T21:14:23.925Z",
+      "synopsis": "En stolt riddare dör i strid och återföds som en mäktig behemoth, men i sin unga form ser monstret ut som en vanlig kattunge. Alvflickan Aria tar hand om honom som husdjur, medan han försöker leva upp till sin riddarheder genom att skydda henne med sin dolda styrka.",
+      "themes": [
+        "återfödelse och förändrad identitet",
+        "skillnaden mellan yttre och verklig styrka",
+        "lojalitet och beskydd"
+      ],
+      "tone": [
+        "lekfull fantasy",
+        "äventyrsinriktad",
+        "komisk"
+      ],
+      "pacing_and_structure": "Äventyrsfantasy byggd kring kontrasten mellan huvudpersonens obetydliga kattutseende och hans egentliga stridsförmåga; detaljer om säsongens fullständiga dramaturgi är inte fastställda.",
+      "character_dynamics": "Aria betraktar den återfödde riddaren som en katt och skyddsling, medan han själv ser sig som hennes beskyddare; asymmetrin i deras uppfattning driver grundpremissen.",
+      "distinctive_features": "En behemoth-unge ser ut som en kattunge; riddarens identitet och stolthet består trots en kropp som andra underskattar.",
+      "comparison_cues": [
+        "Jämför med andra återfödelsefantasier där kropp och tidigare identitet står i konflikt.",
+        "Skyddsrelation med omvänd maktbalans: den till synes svaga följeslagaren är egentligen mycket stark."
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://www.crunchyroll.com/news/latest/2025/2/26/beheneko-anime-opening-song-music-video-nonoka-obuchi",
+        "https://www.crunchyroll.com/pt-br/news/latest/2024/7/4/anime-im-a-behemoth-an-s-ranked-monster-but-mistaken-for-a-cat-i-live-as-an-elf-girls-pet-trailer"
       ]
     },
     "58492": {
