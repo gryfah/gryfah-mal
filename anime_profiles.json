@@ -2236,6 +2236,43 @@
         "https://anilist.co/anime/167144"
       ]
     },
+    "56063": {
+      "mal_id": 56063,
+      "title": "NieR:Automata Ver1.1a Part 2",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-06T09:01:05.861Z",
+      "synopsis": "Andra delen av science fiction-serien om YoRHa-androiderna 2B och 9S, som kämpar på en av människor övergiven jord mot utomjordiskt skapade maskinlivsformer. Efter den första delens uppdrag trappas konflikten upp när androidstyrkorna försöker bryta det långvariga dödläget. Berättelsen fortsätter att utforska vad de stridande egentligen försvarar och vad deras uppdrag kostar.",
+      "themes": [
+        "Identitet och personskap hos artificiella varelser",
+        "Krigets mening och pris",
+        "Lojalitet, plikt och självbestämmande",
+        "Mänsklighet och empati bortom biologiskt liv",
+        "Sanning, minne och existentiell osäkerhet"
+      ],
+      "tone": [
+        "Mörk och melankolisk",
+        "Existentiell och filosofisk",
+        "Actionbetonad med tragiska undertoner",
+        "Mystisk"
+      ],
+      "pacing_and_structure": "Direkt fortsättning på första seriens tolv avsnitt; tolv avsnitt i andra delen. En fortlöpande, eskalerande berättelse med stridsuppdrag, avslöjanden och perspektiv på olika android- och maskingrupper snarare än fristående vardagsepisoder.",
+      "character_dynamics": "2B och 9S står i centrum som två YoRHa-enheter med olika roller och sätt att förhålla sig till sina order. Kontakter med androidmotståndet och maskiner som inte passar den enkla fiendebilden komplicerar relationen mellan plikt, tillit och medkänsla. A2 är en annan viktig YoRHa-gestalt.",
+      "distinctive_features": "Bygger på actionspelet NieR:Automata men berättas i animeformat. Den postapokalyptiska miljön, militära androidorganisationen YoRHa och maskinlivsformer med varierande beteenden ger utrymme för att ifrågasätta en till synes tydlig konflikt. Andra delen förutsätter den första.",
+      "comparison_cues": [
+        "Jämför moraliska gråzoner och androiders personskap med andra science fiction-berättelser",
+        "Kontrast mellan intensiv action och eftertänksam existentiell dramatik",
+        "Bedöm som fortsättning snarare än fristående introduktion"
+      ],
+      "uncertainties": [
+        "Enskilda vändningar och relationernas senare utveckling utelämnas för att undvika spoilers.",
+        "Kvalitativa omdömen om animation och musik har inte fastställts."
+      ],
+      "sources": [
+        "https://www.bs11.jp/anime/nierautomata2/",
+        "https://www.aniplex.co.jp/lineup/NieR/story/",
+        "https://theanimelist.net/anime/nierautomata-ver11a-part-2"
+      ]
+    },
     "56175": {
       "mal_id": 56175,
       "title": "Oomuro-ke: Dear Sisters",
