@@ -544,34 +544,46 @@
     "21327": {
       "mal_id": 21327,
       "title": "Isshuukan Friends.",
-      "profile_status": "partial",
-      "researched_at_utc": "2026-11-03T22:13:34.735Z",
-      "synopsis": "Gymnasieeleven Yuuki Hase vill bli vän med den tillbakadragna klasskamraten Kaori Fujimiya. Hon berättar att hennes minnen av vänner försvinner varje vecka. Yuuki försöker därför bygga upp vänskapen igen, gång på gång.",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-06T12:00:03.462Z",
+      "synopsis": "Gymnasieeleven Yuuki Hase vill bli vän med Kaori Fujimiya, en klasskamrat som håller sig undan andra. Hon berättar att hennes minnen av vänner försvinner varje måndag, och Hase börjar därför om med vänskapen vecka efter vecka. En dagbok blir ett sätt för Kaori att bevara spår av deras gemensamma tid. Efter hand vidgas kretsen till bland andra Hases mer reserverade vän Shougo Kiryuu och den spontana Saki Yamagishi, så att berättelsen inte enbart handlar om två personer utan också om hur tillit kan bestå och förändras i en grupp.",
       "themes": [
-        "Vänskap och tillit",
-        "Minne och kontinuitet i relationer",
-        "Uthållighet och emotionell sårbarhet",
-        "Social isolering"
+        "Vänskap och tillit som kräver återkommande arbete",
+        "Minne, kontinuitet och personliga band",
+        "Social isolering och rädslan för att såra andra",
+        "Dagboken som konkret stöd för identitet och relation",
+        "Att vilja vara någons särskilda person samtidigt som den andre får fler vänner",
+        "Sårbarhet, svartsjuka och omtanke utan enkla lösningar"
       ],
       "tone": [
-        "Ömsint",
-        "Melankolisk",
-        "Vardagsnära"
+        "Ömsint och melankolisk",
+        "Stillsamt vardagsnära ungdomsdrama",
+        "Försiktigt hoppfull med små komiska lättnader",
+        "Bitvis känslomässigt smärtsam utan att vara en ren tragedi"
       ],
-      "pacing_and_structure": "Tolv avsnitt med en återkommande veckocykel som grundläggande berättargrepp. Vänskapens upprepade nystart skapar både vardaglig episodik och en längre relationsutveckling.",
-      "character_dynamics": "Yuuki tar initiativ till vänskap trots Kaoris rädsla för att förlora minnen av dem hon står nära. Relationen präglas av asymmetrin mellan den som minns och den som glömmer.",
-      "distinctive_features": "Det veckovisa minnesbortfallet ger en konkret struktur åt en skildring av hur förtroende och vänskap byggs. TV-anime från 2014 baserad på manga.",
+      "pacing_and_structure": "De tolv avsnitten använder måndagens minnesförlust som återkommande rytm, men gör inte varje vecka till en identisk återställning: dagboksskrivande och en växande vänkrets skapar kontinuitet och nya konflikter. Berättelsen växlar mellan nära samtal och enkla skolvardagssituationer som luncher, studier och lovaktiviteter. När Kaori börjar umgås med fler personer påverkas även Hases känsla av att deras relation är unik. De sena avsnitten prövar den uppbyggda tilliten hårdare, utan att den spoilerfria profilen behöver avslöja varför.",
+      "character_dynamics": "Hase är envis och öppen i sin vilja att nå Kaori, medan hon drar sig undan av rädsla för att glömma människor som betyder något för henne. Skillnaden mellan den som minns och den som glömmer skapar en asymmetrisk närhet. Shougo Kiryuu är en fåordig, pragmatisk vän som inledningsvis är skeptisk men blir ett stöd och en kontrast till Hases känslostyrda envishet. Saki Yamagishi närmar sig Kaori mer spontant och bidrar till att relationerna utvecklas från en tvåpersonsstruktur till en liten vänkrets. Hase måste också förhålla sig till att Kaoris öppnare sociala liv inte alltid innebär mer exklusiv närhet till honom.",
+      "distinctive_features": "Selektiv minnesförlust av vänskapsrelationer vid veckoskiftet formar både intrigen och själva sättet karaktärerna måste vårda sina band. Dagboken är ett praktiskt motmedel som ger berättelsen en konkret symbol för bevarad närhet. Styrkan ligger i små variationer inom ett upprepat skeende, med ett växande fyrpersonsgäng och en lågmäld skildring av vad ömsesidig vänskap kostar. TV-anime med 12 avsnitt från Brain's Base 2014, baserad på Matcha Hazukis manga.",
       "comparison_cues": [
-        "Jämför om ett återkommande berättargrepp skapar känslomässig fördjupning eller upplevs repetitivt",
-        "Relationer där minne och identitet påverkar närhet kan vara relevanta jämförelseankare"
+        "Återkommande minnesproblem som både relationshinder och berättelsestruktur",
+        "Jämför om repetitiva omstarter leder till fördjupning snarare än stagnation",
+        "Vänskap som gradvis vidgas från ett särskilt band till en grupp",
+        "Ömhet och vardagliga gester snarare än stora yttre konflikter",
+        "Spänning mellan omsorg, svartsjuka och önskan att vara oumbärlig",
+        "Emotionell kontinuitet trots bruten explicit minneskontinuitet"
       ],
       "uncertainties": [
-        "Detaljer om biroller och seriens senare dramaturgiska förändringar är inte verifierade i tillräcklig grad.",
-        "Den exakta förklaringen till minnesproblemet utelämnas för att undvika spoilers."
+        "Den bakomliggande förklaringen till Kaoris minnesproblem och senare avslöjanden beskrivs avsiktligt inte, för att undvika spoilers. Det hindrar inte en sakligt användbar spoilerfri profil."
       ],
       "sources": [
-        "https://theanimelist.net/anime/isshuukan-friends",
-        "https://kg-portal.ru/anime/isshuukanfriends/"
+        "https://myanimelist.net/anime/21327",
+        "https://oneweekfriends.com/introduction.html",
+        "https://oneweekfriends.com/story.html",
+        "https://oneweekfriends.com/story02.html",
+        "https://oneweekfriends.com/story_sp.html",
+        "https://oneweekfriends.com/staffcast_sp.html",
+        "https://www.crunchyroll.com/news/latest/2014/4/3/crunchyroll-to-stream-one-week-friends-anime",
+        "https://play.google.com/store/tv/show?id=MjhWZ2xyb24"
       ]
     },
     "21431": {
