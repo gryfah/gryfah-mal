@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-06T16:00:48.074920Z",
+  "updated_at": "2026-11-06T17:06:49.151553Z",
   "events": [
     {
       "event_id": "20261103T161523963051Z-21-plan_to_watch-to-dropped",
@@ -29,6 +29,5 @@
       ],
       "mal_url": "https://myanimelist.net/anime/52481"
     }
-  ],
-  "ptw_exits_pending": {}
+  ]
 }
