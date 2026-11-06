@@ -2435,6 +2435,39 @@
         "https://www.crunchyroll.com/watch/G0DUMWJKJ/witchs-return"
       ]
     },
+    "59619": {
+      "mal_id": 59619,
+      "title": "Ame to Kimi to",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-06T00:04:18.048Z",
+      "synopsis": "En ung kvinna hittar en genomblöt, övergiven djurliknande varelse i en låda en regnig dag. Djuret ser ut som en tanuki men hävdar skriftligen att det är en hund. Hon tar med sig det hem och deras gemensamma vardag utvecklas genom promenader, små utflykter och möten med andra människor.",
+      "themes": [
+        "Omsorg och samlevnad med ett sällskapsdjur",
+        "Vardagens små ögonblick",
+        "Acceptans av det ovanliga",
+        "Ensamhet och sällskap"
+      ],
+      "tone": [
+        "Mild och varm",
+        "Lågmält humoristisk",
+        "Avkopplande och stillsam"
+      ],
+      "pacing_and_structure": "Tolv tv-avsnitt med episodiska vardagssituationer snarare än en stor konfliktbåge. Små möten och vardagliga aktiviteter står i centrum.",
+      "character_dynamics": "Kvinnan och det intelligenta djuret bygger en nära relation. Djuret kan kommunicera genom skrivna meddelanden och insisterar på att det är en hund trots sitt tanuki-liknande utseende; den kontrasten driver mycket av den lågmälda humorn.",
+      "distinctive_features": "En vardagsskildring där ett skrivkunnigt, tanuki-liknande djur behandlas som en hund. Fantastiskt inslag integrerat i ordinära vardagsmiljöer utan att bli ett storskaligt fantasyäventyr.",
+      "comparison_cues": [
+        "Jämför med andra iyashikei-serier där vardagsritualer är viktigare än handling",
+        "Särskilj relationsskildring mellan människa och djur från romantik eller gruppcentrerad skolkomedi",
+        "Observera hur ett enda absurt grundantagande bär en lågmäld berättelse"
+      ],
+      "uncertainties": [
+        "Detaljer om samtliga enskilda avsnitt har inte verifierats; strukturbeskrivningen bygger på seriens dokumenterade vardagspremiss."
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/With_You_and_the_Rain",
+        "https://fr.wikipedia.org/wiki/Sous_la_pluie_avec_toi"
+      ]
+    },
     "59675": {
       "mal_id": 59675,
       "title": "Apocalypse Hotel",
