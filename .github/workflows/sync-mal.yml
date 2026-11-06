@@ -44,6 +44,9 @@ jobs:
         with:
           python-version: "3.13"
 
+      - name: Verify MAL transition rules
+        run: python -m unittest discover -s tests -v
+
       - name: Fetch MAL list
         env:
           MAL_CLIENT_ID: ${{ secrets.MAL_CLIENT_ID }}
