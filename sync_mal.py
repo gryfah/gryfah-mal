@@ -10,7 +10,7 @@ USERNAME = "gryfah"
 ANIME_FILE = Path("anime.json")
 BACKUP_FILE = Path("anime_backup.json")
 EVENTS_FILE = Path("results.json")
-MAX_EVENTS = 30
+MAX_EVENTS = 200
 EVENT_MAX_AGE = timedelta(days=7)
 
 FIELDS = ",".join(
