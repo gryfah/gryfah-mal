@@ -3451,6 +3451,39 @@
         "https://theanimelist.net/anime/seihantai-na-kimi-to-boku"
       ]
     },
+    "60395": {
+      "mal_id": 60395,
+      "title": "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari",
+      "profile_status": "complete",
+      "synopsis": "Akira Tounome är en osynlig man som driver en detektivbyrå. Där arbetar den blinda receptionisten Shizuka Yakou, som märkligt nog alltid märker var han befinner sig. Deras vardag på byrån och möten med dess ovanliga medarbetare blir utgångspunkt för en stillsam romans där osynlighet inte hindrar att någon faktiskt blir sedd.",
+      "themes": [
+        "Att bli uppmärksammad bortom det synliga",
+        "Tillgänglighet och annorlunda sätt att uppfatta andra",
+        "Vuxen romantik på arbetsplatsen",
+        "Ömsesidig hänsyn och tillit"
+      ],
+      "tone": [
+        "Mjuk och romantisk",
+        "Lättsam kontorskomedi",
+        "Ömsint övernaturlig vardag"
+      ],
+      "pacing_and_structure": "Romantisk arbetsplatsberättelse som bygger på återkommande möten i detektivbyrån och en långsamt växande närhet mellan chef och medarbetare. Den övernaturliga premissen är en del av deras vardag och ger komiska situationer, men relationens utveckling är berättelsens huvudspår.",
+      "character_dynamics": "Tounome är en artig, osynlig detektiv som vill komma närmare Yakou. Hon är blind men uppfattar honom med en självklarhet som andra saknar. Deras relation vänder därmed på det väntade förhållandet mellan synlighet och förmågan att lägga märke till en annan människa.",
+      "distinctive_features": "Den osynlige mannen är inte osynlig i praktisk mening för den blinda kvinnan. Kombinationen av vuxna huvudpersoner, detektivkontor och en övernaturlig egenskap ger ett tydligt annat perspektiv än skolromantik.",
+      "comparison_cues": [
+        "Vuxen kontorsromans med lågmäld utveckling",
+        "Fantasyegenskap som metafor för att bli sedd",
+        "Omsorgsfull kommunikation snarare än missförstånd som huvudsaklig drivkraft",
+        "Funktionsvariation skildrad genom ömsesidigt erkännande"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/60395",
+        "https://www.crunchyroll.com/news/latest/2025/10/10/the-invisible-man-and-his-soon-to-be-wife-anime-first-key-visual-january-8-premiere",
+        "https://www.crunchyroll.com/fr/news/latest/2026/2/15/the-invisible-man-and-his-soon-to-be-wife-visuel-calin"
+      ],
+      "researched_at_utc": "2026-11-06T13:12:24.432Z"
+    },
     "60508": {
       "mal_id": 60508,
       "title": "Food Court de, Mata Ashita.",
@@ -3616,6 +3649,75 @@
       ],
       "profile_status": "complete",
       "researched_at_utc": "2026-11-06T12:19:45.353Z"
+    },
+    "62068": {
+      "mal_id": 62068,
+      "title": "Snowball Earth",
+      "profile_status": "complete",
+      "synopsis": "Den tillbakadragne Tetsuo kämpade tillsammans med sin enda vän, den jättelika roboten Yukio, mot monster som hotade jorden. När deras sista strid skiljer dem åt hamnar Tetsuo i en flyktkapsel. Efter år i dvala återvänder han till en jord som har blivit en nästan helt frusen ödemark. Han försöker förstå vad som hänt och leva upp till löftet han gav Yukio om att söka mänskliga vänner.",
+      "themes": [
+        "Ensamhet och behovet av mänsklig gemenskap",
+        "Löften och sorg efter en förlorad vän",
+        "Överlevnad i en omvandlad värld",
+        "Människa och robot som jämbördiga kamrater",
+        "Vad som finns kvar efter en katastrof"
+      ],
+      "tone": [
+        "Postapokalyptisk och äventyrlig",
+        "Melankolisk men med hoppfull riktning",
+        "Storskalig science fiction med personligt centrum"
+      ],
+      "pacing_and_structure": "Berättelsen börjar med ett mecha- och monsterkrig men skiftar efter tidsförskjutningen till utforskning och överlevnad på en nedfrusen jord. Frågan om planetens öde löper parallellt med Tetsuos försök att hålla ett personligt löfte.",
+      "character_dynamics": "Tetsuo har svårt för mänskliga relationer och har knutit sitt viktigaste band till roboten Yukio. Robotens sista önskan driver honom att söka kontakt med människor, trots att han befinner sig i en värld där sådan kontakt blivit långt svårare.",
+      "distinctive_features": "En mechapilot överlever den sista monsterstriden men återvänder till en planet täckt av is. Robotvänskapens efterverkningar och ett löfte om mänskliga vänner förskjuter fokus från stridsmaskinens kraft till pilotens sociala utveckling.",
+      "comparison_cues": [
+        "Mecha som emotionellt band snarare än enbart vapen",
+        "Postapokalyptiskt mysterium och överlevnad",
+        "Socialt tillbakadragen protagonist med ett uttalat relationsmål",
+        "Storskalig katastrof med intim personlig drivkraft"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/62068",
+        "https://www.crunchyroll.com/series/GT00371869/snowball-earth",
+        "https://www.crunchyroll.com/news/latest/2026/1/15/snowball-earth-anime-april-3-2026-release-date"
+      ],
+      "researched_at_utc": "2026-11-06T13:12:24.432Z"
+    },
+    "63188": {
+      "mal_id": 63188,
+      "title": "Ruri Dragon",
+      "profile_status": "complete",
+      "synopsis": "Ruri Aoki vaknar med horn på huvudet. Hennes mamma förklarar att Ruris pappa är en drake och att hon själv är till hälften drake. Samtidigt måste hon fortsätta gå i skolan och förhålla sig till klasskamraternas reaktioner, medan fler oväntade förmågor gör den vanliga tonårsvardagen svårare att upprätthålla.",
+      "themes": [
+        "Tonårsidentitet och kroppslig förändring",
+        "Tillhörighet och social uppmärksamhet",
+        "Familjens hemligheter och acceptans",
+        "Att vara annorlunda i en vardaglig skolmiljö"
+      ],
+      "tone": [
+        "Vardaglig och lågmäld",
+        "Varmt humoristisk",
+        "Försiktigt eftertänksam"
+      ],
+      "pacing_and_structure": "Utgångspunkten är en vardaglig skolberättelse där fantastiska förändringar av Ruris kropp och förmågor stör enkla rutiner. Den publicerade mangans fokus ligger på hennes gradvisa anpassning och klasskamraternas respons, snarare än en traditionell kamp mellan drakar. Animeversionens exakta avsnittsdramaturgi är ännu inte fastställd i de kontrollerade källorna.",
+      "character_dynamics": "Ruri försöker förstå sig själv utan att bli ett spektakel. Mamman förklarar det märkliga ursprunget förvånansvärt odramatiskt, medan klasskamraternas nyfikenhet ställer Ruri inför frågor om hur mycket uppmärksamhet och gemenskap hon vill ha.",
+      "distinctive_features": "En tonårstjej får drakhorn och eldrelaterade förmågor, men den centrala berättelsemiljön är ett vanligt klassrum och de sociala följderna av att sticka ut. Fantasyinslaget används som konkret bild för att växa upp.",
+      "comparison_cues": [
+        "Lågmäld slice of life med ett enda genomgripande fantasyinslag",
+        "Social acceptans snarare än stridsorienterad fantasy",
+        "Kroppslig förändring som identitetsfråga",
+        "Skolklassens gruppdynamik kring en avvikande elev"
+      ],
+      "uncertainties": [
+        "Animeadaptionens avsnittsurval och exakta struktur är inte fastställda; beskrivningen av dramaturgin bygger på förlagets presentation av förlagan."
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/63188",
+        "https://www.viz.com/ruridragon",
+        "https://www.viz.com/manga-books/manga/ruridragon-volume-1/product/8137"
+      ],
+      "researched_at_utc": "2026-11-06T13:12:24.432Z"
     }
   }
 }
