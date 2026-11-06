@@ -116,11 +116,14 @@ def parse_time(value):
     return datetime.fromisoformat(value.replace("Z", "+00:00"))
 
 
-def find_events(previous, current, pending, now):
-    """Return event records and updated PTW-exit state (no metadata-only noise)."""
+def find_events(previous, current, now):
+    """Classify MAL changes by destination: PTW, completed, dropped, removed.
+
+    Each changed mal_id produces one event with the corresponding action signals.
+    No intermediary 'watching' state or PTW-exit bookkeeping is required.
+    """
     old = index_by_mal_id(previous)
     new = index_by_mal_id(current)
-    pending = dict(pending)
     events = []
     detected_at = now.isoformat().replace("+00:00", "Z")
     event_prefix = now.strftime("%Y%m%dT%H%M%S%fZ")
@@ -133,15 +136,16 @@ def find_events(previous, current, pending, now):
         if prior_status == status:
             continue
 
-        leaving_ptw = prior_status == "plan_to_watch" and status != "plan_to_watch"
-        completed = status == "completed" and prior_status != "completed"
-        event_signals = []
-        if leaving_ptw or (completed and str(mal_id) not in pending):
-            event_signals.append("next_up")
-        if completed:
-            event_signals.append("post_watch")
+        signals = []
+        if status == "plan_to_watch":
+            # Profile builder still discovers missing briefs by scanning anime.json.
+            signals.append("brief_needed")
+        if status in ("completed", "dropped") or after is None:
+            signals.append("next_up")
+        if status == "completed":
+            signals.append("post_watch")
 
-        if event_signals:
+        if signals:
             source = after or before
             events.append(
                 {
@@ -152,22 +156,14 @@ def find_events(previous, current, pending, now):
                     "previous_status": prior_status,
                     "status": status,
                     "score": after.get("score") if after else None,
-                    "signals": event_signals,
+                    "signals": signals,
                     "mal_url": source.get("mal_url"),
                 }
             )
 
-        # An earlier PTW exit already triggered Next-up for this viewing.
-        # Remember it even after the short event history is pruned.
-        if status == "plan_to_watch" or status in ("completed", "dropped", None):
-            pending.pop(str(mal_id), None)
-        elif leaving_ptw:
-            pending[str(mal_id)] = detected_at
+    return events
 
-    return events, pending
-
-
-def prepare_results(existing, additions, pending, now):
+def prepare_results(existing, additions, now):
     cutoff = now - EVENT_MAX_AGE
     kept = []
     for event in existing.get("events", []):
@@ -181,9 +177,7 @@ def prepare_results(existing, additions, pending, now):
         "schema_version": 1,
         "updated_at": now.isoformat().replace("+00:00", "Z"),
         "events": kept[-MAX_EVENTS:],
-        "ptw_exits_pending": pending,
     }
-
 
 def main():
     if not ANIME_FILE.is_file():
@@ -193,7 +187,6 @@ def main():
     index_by_mal_id(previous_anime)
 
     previous_results = read_json(EVENTS_FILE) if EVENTS_FILE.is_file() else {}
-    pending = previous_results.get("ptw_exits_pending", {})
     current_anime = fetch_anime()
     index_by_mal_id(current_anime)
     if not current_anime or (previous_anime and len(current_anime) < len(previous_anime) * 0.8):
@@ -203,11 +196,11 @@ def main():
     # The first NSFW-inclusive fetch repairs a previously incomplete baseline.
     # Do not report the recovered historical entries as newly completed shows.
     if previous_document.get("nsfw_included") is True:
-        events, pending = find_events(previous_anime, current_anime, pending, now)
+        events = find_events(previous_anime, current_anime, now)
     else:
         events = []
         print("NSFW-inclusive baseline initialized; transition detection skipped once")
-    results = prepare_results(previous_results, events, pending, now)
+    results = prepare_results(previous_results, events, now)
     current_document = {
         "mal_user": USERNAME,
         "source": "MyAnimeList API v2",
