@@ -2551,6 +2551,37 @@
         "https://jfdb.jp/title/9933"
       ]
     },
+    "56693": {
+      "mal_id": 56693,
+      "title": "Watari-kun no xx ga Houkai Sunzen",
+      "synopsis": "Sedan föräldrarnas död ägnar Naoto Watari stora delar av sitt liv åt att skydda sin lillasyster Suzushiro. Hans sköra vardagsordning rubbas när barndomsvännen Satsuki Tachibana, förknippad med en smärtsam händelse i det förflutna, plötsligt återkommer till hans skola. Gamla känslor och outredda minnen gör det svårt för Naoto att hålla fast vid den trygghet han byggt.",
+      "themes": [
+        "Syskonansvar efter förlust",
+        "Barndomsminnen och oläkta konflikter",
+        "Romantisk osäkerhet och tillit",
+        "Kontrollbehov och rädsla för förändring"
+      ],
+      "tone": [
+        "Relationsdrama",
+        "Romantisk spänning",
+        "Vardagskomik med orolig underton"
+      ],
+      "pacing_and_structure": "En längre relationsberättelse där barndomsvännens återkomst stör huvudpersonens etablerade familjerutin. Hemligheter kring det förflutna och flera relationer skapar fortlöpande dramatik.",
+      "character_dynamics": "Naoto prioriterar lillasysterns trygghet framför egna behov. Satsukis återkomst tvingar honom att ompröva sin negativa bild av henne och konfrontera känslor han helst skulle hålla undan.",
+      "distinctive_features": "Romantiken är sammanflätad med huvudpersonens självvalda vårdnadsroll för sin yngre syster och en tidigare vänskapskonflikt som ännu påverkar hans liv.",
+      "comparison_cues": [
+        "Barndomsvän som återkommer med olöst konflikt",
+        "Romantik kontra familjeansvar",
+        "Traumatiskt förflutet som driver nutida relationer"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/56693",
+        "https://en.wikipedia.org/wiki/Watari-kun%27s_%2A%2A%2A%2A%2A%2A_Is_About_to_Collapse"
+      ],
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-06T15:16:00.967Z"
+    },
     "56876": {
       "mal_id": 56876,
       "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2",
@@ -3951,6 +3982,70 @@
       ],
       "profile_status": "complete",
       "researched_at_utc": "2026-11-06T14:20:21.625Z"
+    },
+    "62432": {
+      "mal_id": 62432,
+      "title": "Jingai Kyoushitsu no Ningengirai Kyoushi",
+      "synopsis": "Efter en svår erfarenhet har läraren Rei Hitoma tappat förtroendet för människor och lämnat sitt yrke. Han tar ändå en tjänst på en avlägsen skola, bara för att upptäcka att eleverna är icke-människor som vill lära sig att bli människor. Undervisningen tvingar honom att möta både deras längtan och sin egen misstro.",
+      "themes": [
+        "Misantropi och återvunnet förtroende",
+        "Vad det innebär att vara människa",
+        "Utbildning och ömsesidig utveckling",
+        "Tillhörighet och självbild"
+      ],
+      "tone": [
+        "Varmt vardagsdrama",
+        "Övernaturlig skolmiljö",
+        "Eftertänksam humor"
+      ],
+      "pacing_and_structure": "Skolvardag och elevcentrerade problem ger en episodisk grund, medan lärarens återkomst till yrket ger en sammanhängande personlig utveckling.",
+      "character_dynamics": "Rei ska undervisa elever som idealiserar just det mänskliga han själv föraktar. Skillnaden mellan lärarens cynism och elevernas nyfikenhet driver både konflikter och möjligheten till ömsesidig förståelse.",
+      "distinctive_features": "En desillusionerad mänsklig lärare undervisar demi-människor i mänsklighet; utbildningsmålet vänder på den vanliga fantasyrelationen mellan människa och monster.",
+      "comparison_cues": [
+        "Lärarroll som personlig rehabilitering",
+        "Icke-mänskliga elever som spegel för mänskliga normer",
+        "Skolvardag med existentiell premiss"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/62432",
+        "https://anilist.co/anime/198374/Jingai-Kyoushitsu-no-Ningengirai-Kyoushi",
+        "https://www.anica.jp/anime/12936/jingai-kyoushitsu-no-ningengirai-kyoushi"
+      ],
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-06T15:16:00.967Z"
+    },
+    "62604": {
+      "mal_id": 62604,
+      "title": "Otaku ni Yasashii Gal wa Inai!?",
+      "synopsis": "Gymnasisten Takuya Seo håller sitt intresse för barninriktad anime hemligt, eftersom han tror att klasskamraterna ska döma honom. När han råkar avslöja sin kunskap inför de till synes helt annorlunda gyaru-tjejerna Kotoko Ijichi och Kei Amane upptäcker han oväntade gemensamma intressen. Ett samtal om en favoritserie blir början på en ny vänskap.",
+      "themes": [
+        "Otakuidentitet och social skam",
+        "Gemensamma intressen över gruppgränser",
+        "Fördomar om yttre stil",
+        "Vänskap och romantisk osäkerhet"
+      ],
+      "tone": [
+        "Lättsam skolromantik",
+        "Vänlig kulturkrockskomedi",
+        "Otakupräglad vardagshumor"
+      ],
+      "pacing_and_structure": "Skolvardagskomedi där samtal om populärkultur bryter ner huvudpersonernas förutfattade meningar. De små sociala mötena väger tyngre än en yttre äventyrsintrig.",
+      "character_dynamics": "Takuya förväntar sig att Ijichi och Amane ska avfärda honom, men den ena visar oväntad detaljkunskap och den andra blir delaktig. Triangeln bygger på skillnaden mellan social image och faktiskt intresse.",
+      "distinctive_features": "Den fiktiva barnanime-serien Glittermon fungerar som konkret gemensamt språk mellan en blyg otaku och två gyaru-klasskamrater.",
+      "comparison_cues": [
+        "Romcom byggd på delad nördkultur",
+        "Social mask kontra privat entusiasm",
+        "Vänskap över förmodade statusgränser"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/62604",
+        "https://sibly.fr/en/catalogue/otaku-ni-yasashii-gal-wa-inai",
+        "https://ani-track.com/en/anime/199588-gals-can-t-be-kind-to-otaku"
+      ],
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-06T15:16:00.967Z"
     },
     "63188": {
       "mal_id": 63188,
