@@ -2229,6 +2229,34 @@
         "https://www.crunchyroll.com/series/GJ0H7QGQK/zom-100-bucket-list-of-the-dead"
       ]
     },
+    "54440": {
+      "mal_id": 54440,
+      "title": "Lycoris Recoil (Shinsaku Animation)",
+      "profile_status": "partial",
+      "researched_at_utc": "2026-11-07T01:20:00Z",
+      "synopsis": "Ett annonserat nytt animationsprojekt knutet till Lycoris Recoil, serien om unga agenter i den hemliga organisationen DA och deras uppdrag samt vardag kring caféet LycoReco. Det är ännu inte verifierat vilken specifik handling, vilka konflikter eller vilken berättelseform just detta MAL-ID avser.",
+      "themes": [
+        "Hemlig säkerhetsverksamhet och vardagsliv (moderserien)",
+        "Vänskap och samarbete (moderserien)"
+      ],
+      "tone": [
+        "Actionorienterad (moderserien)"
+      ],
+      "pacing_and_structure": "Projektets format och berättelsestruktur är inte fastställda i den tillgängliga MAL-snapshoten; den har media_type unknown och num_episodes 0. Ingen slutsats om tempo eller episodisk form för detta projekt.",
+      "character_dynamics": "Moderseriens relation mellan Chisato Nishikigi och Takina Inoue är en central jämförelsepunkt, men deras roll i detta specifika nya projekt är inte bekräftad.",
+      "distinctive_features": "Ett separat MAL-ID för ett nytt animationsprojekt, inte en automatiskt verifierad andra säsong. Premiss och form måste uppdateras när officiell information om exakt projekt finns.",
+      "comparison_cues": [
+        "Jämför först när det står klart om projektet fortsätter huvudseriens agent- och cafévardag",
+        "Skilj annonserad franchiseanknytning från verifierad ny handling"
+      ],
+      "uncertainties": [
+        "Projektets faktiska synopsis, premiär, format, avsnittsantal och rollfördelning är ännu inte verifierade.",
+        "Teman och dynamik ovan beskriver endast moderserien, inte säkra egenskaper hos den nya produktionen."
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/54440"
+      ]
+    },
     "54726": {
       "mal_id": 54726,
       "title": "Tsuma, Shougakusei ni Naru.",
@@ -4887,6 +4915,40 @@
       "sources": [
         "https://myanimelist.net/anime/63601",
         "https://animefans.com.br/anime/hone-dragon-no-mana-musume-trailer-estreia-2027/"
+      ]
+    },
+    "65302": {
+      "mal_id": 65302,
+      "title": "Bocchi the Rock! Movie: Hoshi no Ashiato",
+      "profile_status": "partial",
+      "researched_at_utc": "2026-11-07T01:20:00Z",
+      "synopsis": "En fristående förhistoria till Bocchi the Rock! som följer systrarna Seika och Nijika Ijichi före bildandet av Kessoku Band. Filmen kretsar kring deras gemensamma förflutna, en separation och drömmarna som leder fram mot den musikmiljö där seriens band senare uppstår.",
+      "themes": [
+        "Syskonrelationer och gemensam historia",
+        "Musikaliska ambitioner",
+        "Separation, drömmar och livsval"
+      ],
+      "tone": [
+        "Familjedrama",
+        "Musikpräglad",
+        "Tillbakablickande"
+      ],
+      "pacing_and_structure": "En långfilmsberättelse som utspelas före TV-seriens händelser; filmens faktiska rytm, humorbalans och dramatiska upplägg kan ännu inte bedömas eftersom premiären är planerad till 2027.",
+      "character_dynamics": "Fokus ligger på äldre systern Seika och yngre systern Nijika, snarare än Hitori Gotohs inträde i Kessoku Band. Deras olika drömmar och förflutna utgör berättelsens relationella kärna enligt förhandsinformationen.",
+      "distinctive_features": "Ny förhistoria snarare än återklippsfilm. Bygger på ett förhistoriskt material från mangans femte volym. Shin Wakabayashi regisserar, Erika Yoshida skriver manus och CloverWorks animerar.",
+      "comparison_cues": [
+        "Familjerelation och drömmar före bandgemenskapen i huvudserien",
+        "Skillnaden mellan etablerad musikkomedi och ett förannonserat systercentrerat drama",
+        "En förhistoria vars effekt kan bero på tidigare kännedom om Nijika och Seika"
+      ],
+      "uncertainties": [
+        "Filmen har ännu inte haft premiär; faktiskt tempo, sceninnehåll, humor och känslomässig upplösning kan inte verifieras.",
+        "De förannonserade temana ska inte behandlas som belägg för exakt hur filmens dramatiska konflikter löses."
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/65302",
+        "https://bocchi.rocks/hoshinoashiato/news/?article_id=71600",
+        "https://www.crunchyroll.com/news/latest/2026/11/1/bocchi-the-rock-prequel-anime-film-announced-for-2027"
       ]
     }
   }
