@@ -267,6 +267,37 @@
         "https://ghibli-goods.net/jiblog/data-grave-of-the-fireflies/"
       ]
     },
+    "937": {
+      "mal_id": 937,
+      "title": "Appleseed",
+      "synopsis": "I den högteknologiska staden Olympus arbetar Deunan Knute och cyborgen Briareos med säkerhetsuppdrag. Stadens ordnade samhälle, där människor och konstruerade bioroider lever sida vid sida, utmanas av ett våldsamt angrepp mot dess styrsystem.",
+      "themes": [
+        "utopins pris",
+        "människor och bioroider",
+        "säkerhet kontra frihet",
+        "teknikberoende samhälle"
+      ],
+      "tone": [
+        "cyberpunk",
+        "militär action",
+        "samhällskritisk"
+      ],
+      "pacing_and_structure": "Fristående OVA-film som sammanför polisaktion, cybernetiska konflikter och en koncentrerad samhällsintrig i Olympus.",
+      "character_dynamics": "Deunan och hennes cyborgpartner Briareos bildar ett etablerat operativt par; deras samarbete ställs mot en motståndare som ifrågasätter stadens samhällsmodell.",
+      "distinctive_features": "1988 års traditionellt animerade tolkning av Masamune Shirows Appleseed; fokus på Olympus, bioroider och beväpnade insatsstyrkor.",
+      "comparison_cues": [
+        "cyberpunk med samhällsfrågor",
+        "partnerskap mellan människa och cyborg",
+        "utopikritik via säkerhetsintrig"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/937/Appleseed",
+        "https://en.wikipedia.org/wiki/Appleseed_(1988_film)"
+      ],
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T10:16:26.963Z"
+    },
     "949": {
       "mal_id": 949,
       "title": "Top wo Nerae! Gunbuster",
@@ -402,6 +433,67 @@
         "https://www.animehistory.org/anime/macross/lore/life-aboard-macross/",
         "https://www.animehistory.org/anime/macross/lore/character-arcs-love-triangle/"
       ]
+    },
+    "1095": {
+      "mal_id": 1095,
+      "title": "Kidou Keisatsu Patlabor the Movie",
+      "synopsis": "När arbetsrobotar, så kallade Labors, plötsligt uppför sig farligt i ett Tokyo präglat av omfattande byggprojekt får polisens specialsektion SV2 utreda incidenterna. Spåren leder mot ett nytt operativsystem och en möjlig större teknisk katastrof.",
+      "themes": [
+        "systemrisker i urban teknik",
+        "polisutredning",
+        "moderniseringens kostnader",
+        "ansvar i komplexa organisationer"
+      ],
+      "tone": [
+        "undersökande",
+        "spänningsdriven",
+        "reflekterande"
+      ],
+      "pacing_and_structure": "Spelfilmslång teknothriller som växlar mellan utredningsarbete, vardaglig polisgruppsdynamik och insatser med stora robotar.",
+      "character_dynamics": "Kapten Gotoh samordnar gruppens arbete medan Asuma, Noa och teknikerna bidrar med olika perspektiv på maskinerna och problemen bakom incidenterna.",
+      "distinctive_features": "Mamoru Oshiis film från 1989 förenar polisiära procedurer med urban infrastruktur och mjukvarusäkerhet snarare än att bara skildra robotdueller.",
+      "comparison_cues": [
+        "mecha som arbetsredskap",
+        "teknisk mysterietriller",
+        "polisensemble och samhällsinfrastruktur"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/1095/Kidou_Keisatsu_Patlabor_the_Movie",
+        "https://patlabor.tokyo/story/222/"
+      ],
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T10:16:26.963Z"
+    },
+    "1270": {
+      "mal_id": 1270,
+      "title": "Black Magic M-66",
+      "synopsis": "Frilansjournalisten Sybel hamnar mitt i en militär insats när två experimentella stridsandroider försvinner efter en transportolycka. En av maskinerna söker upp Ferris, barnbarn till konstruktören, och Sybel försöker skydda henne medan militären försöker återta kontrollen.",
+      "themes": [
+        "militär teknik utan kontroll",
+        "journalistik kontra sekretess",
+        "överlevnad under förföljelse"
+      ],
+      "tone": [
+        "intensiv",
+        "teknologisk thriller",
+        "actionbetonad"
+      ],
+      "pacing_and_structure": "Kompakt OVA som förvandlar ett nyhetsuppslag till en sammanhängande jakt och räddningsinsats, med teknisk action snarare än lång karaktärsutveckling.",
+      "character_dynamics": "Sybel går från nyfiken observatör till aktiv beskyddare av Ferris; militären försöker samtidigt begränsa konsekvenserna av sitt eget experiment.",
+      "distinctive_features": "Masamune Shirows fristående kortformat om autonoma stridsmaskiner, där journalistens civila perspektiv kontrasterar mot militärens säkerhetstänkande.",
+      "comparison_cues": [
+        "civil huvudperson i militär sci-fi",
+        "kompakt robotjakt",
+        "sekretess och ansvar"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/1270/Black_Magic_M-66",
+        "https://www.lavanguardia.com/peliculas-series/peliculas/black-magic-m-66-66045"
+      ],
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T10:16:26.963Z"
     },
     "1288": {
       "mal_id": 1288,
