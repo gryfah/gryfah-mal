@@ -2,6 +2,40 @@
   "schema_version": 1,
   "description": "Reusable, source-backed anime profiles maintained by ChatGPT. anime.json remains the source of truth for MAL status, scores and PTW eligibility.",
   "profiles": {
+    "572": {
+      "mal_id": 572,
+      "title": "Kaze no Tani no Nausicaä",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T04:20:43.390Z",
+      "synopsis": "I en värld som ödelagts av en gammal katastrof lever människor i små samhällen intill en växande giftig skog med väldiga insekter. Prinsessan Nausicaä i Vindarnas dal försöker förstå ekosystemet och förhindra att rivaliserande stater använder krig och uråldriga vapen för att utrota det de fruktar.",
+      "themes": [
+        "Ekologi och samexistens",
+        "Antimilitarism och våldets kretslopp",
+        "Empati över artgränser",
+        "Teknikens arv och människans ansvar",
+        "Ledarskap under existentiellt hot"
+      ],
+      "tone": [
+        "Storslagen och allvarlig",
+        "Humanistisk",
+        "Äventyrlig med melankoliska undertoner"
+      ],
+      "pacing_and_structure": "Sammanhållen långfilm från 1984 på cirka 116 minuter. Bygger ett postapokalyptiskt samhälle genom upptäcktsfärder, politiska konflikter och luftburna äventyr; spänningen kretsar kring hur hotet från skogen och människornas militära reaktioner samverkar.",
+      "character_dynamics": "Nausicaä försöker förena sin omsorg om dalens invånare med förståelse för skogens varelser. Den krigiska prinsessan Kushana fungerar som en ideologisk kontrast, medan läraren Yupa och den unge Asbel bidrar med andra perspektiv på konflikten.",
+      "distinctive_features": "Hayao Miyazakis filmatisering av sin egen manga, producerad av Topcraft före Studio Ghiblis grundande. Kännetecknas av glidflygplanet Mehve, de enorma Ohmu-insekterna, den giftiga skogen och Joe Hisaishis musik.",
+      "comparison_cues": [
+        "Empatiskt naturperspektiv i kontrast till militaristiska lösningar",
+        "Självständig kvinnlig huvudperson med politiskt och moraliskt ansvar",
+        "En filmisk, sammanhållen ekologisk konflikt snarare än episodisk äventyrsstruktur",
+        "Skilj filmens komprimerade berättelse från den längre mangan"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/572",
+        "https://www.ghibli.jp/works/nausicaa/",
+        "https://en.wikipedia.org/wiki/Nausica%C3%A4_of_the_Valley_of_the_Wind_%28film%29"
+      ]
+    },
     "962": {
       "mal_id": 962,
       "title": "Aria the Natural",
@@ -40,6 +74,40 @@
         "https://www.tv-tokyo.co.jp/contents/aria_natural/episodes/episodes02/",
         "https://anilist.co/anime/962/ARIA-The-NATURAL",
         "https://www.nihonreview.com/anime/aria-the-natural/"
+      ]
+    },
+    "1088": {
+      "mal_id": 1088,
+      "title": "Macross",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T04:20:43.390Z",
+      "synopsis": "När ett ombyggt utomjordiskt rymdskepp lämnar jorden angrips det av de jättelika Zentradi. Ombord på SDF-1 Macross lever militär och civila tillsammans i en isolerad stad, medan piloten Hikaru Ichijyo dras in i kriget och i ett triangeldrama med sångerskan Lynn Minmay och officeren Misa Hayase. Musik och mänsklig kultur blir lika avgörande som robotstriderna.",
+      "themes": [
+        "Krig och civilbefolkning",
+        "Musik och kultur som kommunikation",
+        "Kärlekstriangel och mognad",
+        "Militärt ansvar och vardagsliv",
+        "Möte mellan främmande civilisationer"
+      ],
+      "tone": [
+        "Storskalig rymdopera",
+        "Romantiskt melodrama",
+        "Vardagskomedi blandad med krigstragedi"
+      ],
+      "pacing_and_structure": "TV-serie om 36 avsnitt från 1982–83. Växlar mellan rymdstrider, livet ombord på den stadsstora farkosten och karaktärernas romantiska utveckling; serien fortsätter också med efterverkningarna av den stora konflikten snarare än att bara avslutas med dess första kulmen.",
+      "character_dynamics": "Hikaru är en ung pilot som växer in i militära förpliktelser. Minmay representerar hans förbindelse med sång, berömmelse och ett tidigare mer sorglöst liv; Misa är en ansvarstagande officer vars relation till Hikaru utvecklas genom gemensamma erfarenheter. Triangeln kopplas till de större frågorna om krig och framtid.",
+      "distinctive_features": "Transformationsbara Valkyrie-stridsflygplan, ett rymdskepp med en hel civil stad, idolmusik som påverkar den främmande fienden och en kärlekstriangel som bär en betydande del av en mecha-krigsberättelse.",
+      "comparison_cues": [
+        "Kombination av militär science fiction, idolmusik och romantik",
+        "Vardagliga relationer under en utdragen kris",
+        "Jämför den ursprungliga 36-avsnittsserien med filmversionen Do You Remember Love?, som är en separat bearbetning",
+        "Hur kärlekstriangeln utvecklas i förhållande till karaktärernas mognad"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/1088",
+        "https://www.animehistory.org/anime/macross/lore/life-aboard-macross/",
+        "https://www.animehistory.org/anime/macross/lore/character-arcs-love-triangle/"
       ]
     },
     "2993": {
