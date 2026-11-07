@@ -66,6 +66,38 @@
         "https://theanimelist.net/anime/shinseiki-evangelion"
       ]
     },
+    "43": {
+      "mal_id": 43,
+      "synopsis": "År 2029 utreder major Motoko Kusanagi och säkerhetssektion 9 intrång i cybernetiska hjärnor. Jakten på hackaren Puppet Master ställer frågor om medvetande, identitet och gränsen mellan människa och maskin.",
+      "themes": [
+        "Medvetandets identitet",
+        "Kropp och självbestämmande",
+        "Statlig övervakning och informationsmakt"
+      ],
+      "tone": [
+        "Filosofisk",
+        "Kylig",
+        "Kontemplativ",
+        "Spänningsfylld"
+      ],
+      "pacing_and_structure": "Långfilm som växlar mellan koncentrerad cyberkriminalutredning, korta våldsamma insatser och långsamma urbana betraktelser.",
+      "character_dynamics": "Kusanagis existentiella frågor kontrasteras mot kollegan Batous praktiska lojalitet och sektionens institutionella uppdrag.",
+      "distinctive_features": "Mamoru Oshiis filmatisering från 1995; cyberpunkmiljö med kroppsliga proteser, hjärnhackning och ett uttryck som låter tystnad och stadsmiljö bära filosofiska frågor.",
+      "comparison_cues": [
+        "Identitet och medvetande snarare än enbart teknisk action",
+        "Filosofiska pauser mitt i polisthriller",
+        "Professionell relation mellan Kusanagi och Batou"
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/43/",
+        "https://www.imdb.com/title/tt0113568/plotsummary/",
+        "https://www.wired.com/story/original-ghost-in-the-shell-cinema-release"
+      ],
+      "title": "Koukaku Kidoutai",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T16:14:50.411Z",
+      "uncertainties": []
+    },
     "47": {
       "mal_id": 47,
       "title": "Akira",
@@ -430,6 +462,37 @@
         "https://anilist.co/anime/585/Whisper-of-the-Heart/"
       ]
     },
+    "650": {
+      "mal_id": 650,
+      "synopsis": "I Chicago driver prisjägarna Rally Vincent och Minnie May Hopkins en vapenbutik. När en federal agent pressar dem att hjälpa till med ett fall blir deras skicklighet med skjutvapen och sprängämnen avgörande i en farlig jakt.",
+      "themes": [
+        "Partnerskap under press",
+        "Brott och brottsbekämpning",
+        "Självständighet och yrkesskicklighet"
+      ],
+      "tone": [
+        "Actionbetonad",
+        "Skämtsam",
+        "Rappt kriminalbetonad"
+      ],
+      "pacing_and_structure": "Tredelad OVA med sammanhållen kriminalintrig, biljakter och handlingsdriven komik.",
+      "character_dynamics": "Rallys precision och kontroll kompletteras av Minnie Mays explosivexpertis och impulsivare temperament; de tvingas samarbeta med agenten Bill Collins.",
+      "distinctive_features": "Amerikansk Chicagomiljö, detaljintresse för fordon och vapen och ett tydligt kvinnligt prisjägarduo i 1990-talets OVA-format.",
+      "comparison_cues": [
+        "Handlingsdriven action med partnerdynamik",
+        "Chicago och amerikansk kriminalestetik",
+        "Kort, sammanhängande OVA snarare än lång serie"
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/650/",
+        "https://myanimepulse.com/anime/650/gunsmith-cats",
+        "https://waifulist.moe/anime/650"
+      ],
+      "title": "Gunsmith Cats",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T16:14:50.411Z",
+      "uncertainties": []
+    },
     "937": {
       "mal_id": 937,
       "title": "Appleseed",
@@ -661,6 +724,37 @@
         "https://myanimelist.net/anime/1034",
         "https://www.rottentomatoes.com/m/wings_of_honneamise_1987"
       ]
+    },
+    "1047": {
+      "mal_id": 1047,
+      "synopsis": "I en framtida stad finner två poliser en bevingad flicka under ett tillslag. Deras försök att rädda henne skildras i en kort, dialoglös musikvideo där händelser återkommer i alternativa förlopp.",
+      "themes": [
+        "Frihet och instängdhet",
+        "Medkänsla mot institutionell kontroll",
+        "Hopp i en förgiftad miljö"
+      ],
+      "tone": [
+        "Drömlik",
+        "Melankolisk",
+        "Hoppfull"
+      ],
+      "pacing_and_structure": "Cirka sju minuters musikvideo utan dialog, med icke-linjär klippning och upprepade eller alternativa händelseförlopp.",
+      "character_dynamics": "Två poliser förenas i beslutet att skydda en utsatt bevingad flicka; relationerna uttrycks främst visuellt utan tal.",
+      "distinctive_features": "Hayao Miyazakis Studio Ghibli-video från 1995 till Chage and Askas låt; koncentrerad bildberättelse med postapokalyptiska motiv.",
+      "comparison_cues": [
+        "Känslomässig berättelse utan dialog",
+        "Icke-linjär kortform",
+        "Räddningsmotiv och ekologisk underton"
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/1047/",
+        "https://www.ghiblipedia.it/anime/on-your-mark/",
+        "https://en.wikipedia.org/wiki/On_Your_Mark_%28music_video%29"
+      ],
+      "title": "On Your Mark",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T16:14:50.411Z",
+      "uncertainties": []
     },
     "1088": {
       "mal_id": 1088,
@@ -950,6 +1044,38 @@
       ],
       "profile_status": "complete",
       "researched_at_utc": "2026-11-07T09:19:34.089Z"
+    },
+    "1457": {
+      "mal_id": 1457,
+      "synopsis": "Tokiko Mima, kallad Key, tror att hon är en robot. Efter sin farfars död får hon veta att hon kan bli människa om hon vinner 30 000 människors tillgivenhet, och söker sig till idolindustrin medan ett mörkare mysterium kring hennes ursprung växer fram.",
+      "themes": [
+        "Mänsklighet och självbild",
+        "Berömmelse och exploatering",
+        "Vänskap och tillhörighet",
+        "Teknik och makt"
+      ],
+      "tone": [
+        "Oroväckande",
+        "Melankolisk",
+        "Mystisk"
+      ],
+      "pacing_and_structure": "Femtondelad OVA med gradvis mysteriefördjupning; de avslutande två avsnitten är betydligt längre än de föregående.",
+      "character_dynamics": "Keys återhållna sätt och hennes relation till barndomsvännen Sakura står mot idolindustrins och robotforskningens mer instrumentella intressen.",
+      "distinctive_features": "Korsning mellan robot-/identitetsmysterium och 1990-talets idolmiljö; seriens ovanliga avslutningsformat ändrar rytmen.",
+      "comparison_cues": [
+        "Sökande efter mänsklighet genom social tillhörighet",
+        "Idolbransch som berättelsemiljö snarare än ren musikserie",
+        "Långsamt utvecklad konspiration och annorlunda avsnittslängder"
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/1457/",
+        "https://www.imdb.com/title/tt0122129/plotsummary/",
+        "https://theanimelist.net/anime/key-the-metal-idol"
+      ],
+      "title": "Key the Metal Idol",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T16:14:50.411Z",
+      "uncertainties": []
     },
     "1887": {
       "mal_id": 1887,
