@@ -2,6 +2,70 @@
   "schema_version": 1,
   "description": "Reusable, source-backed anime profiles maintained by ChatGPT. anime.json remains the source of truth for MAL status, scores and PTW eligibility.",
   "profiles": {
+    "1": {
+      "mal_id": 1,
+      "title": "Cowboy Bebop",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T05:16:27.873Z",
+      "synopsis": "År 2071 försöker prisjägarna Spike Spiegel och Jet Black försörja sig genom att jaga brottslingar i ett koloniserat solsystem. Ombord på Bebop ansluter efter hand Faye, Edward och hunden Ein. Till synes fristående uppdrag blottlägger besättningens skilda förflutna.",
+      "themes": [
+        "Förflutet som inte släpper taget",
+        "Vald gemenskap",
+        "Frihet och ekonomisk utsatthet",
+        "Identitet och förlust"
+      ],
+      "tone": [
+        "Melankolisk",
+        "Torrt humoristisk",
+        "Noirpräglad"
+      ],
+      "pacing_and_structure": "Övervägande episodiska prisjaktsberättelser med återkommande personliga konflikter; växlar mellan action, komedi och stillsamt drama.",
+      "character_dynamics": "Den tillbakadragne Spike och den mer jordnära Jet fungerar som en motvillig arbetsduo; Faye och Edward skapar friktion och en tillfällig familjekänsla utan att personernas olösta liv försvinner.",
+      "distinctive_features": "Rymdwestern med jazz, blues, film noir och en musikalisk berättarrytm; animation från Sunrise under Shinichirou Watanabe.",
+      "comparison_cues": [
+        "Episodiska äventyr med gradvis fördjupat persondrama",
+        "Vuxna karaktärer med ouppklarade liv",
+        "Musik och genreblandning som berättarverktyg"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/1/Cowboy_Bebop",
+        "https://www.animeista.com/anime/946",
+        "https://sakuracentral.net/series/cowboy-bebop/"
+      ]
+    },
+    "30": {
+      "mal_id": 30,
+      "title": "Shinseiki Evangelion",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T05:16:27.873Z",
+      "synopsis": "Efter en global katastrof hotas Tokyo-3 av gåtfulla änglar. Den fjortonårige Shinji Ikari kallas av sin frånvarande far till organisationen NERV för att styra en Evangelion, ett humanoidt försvarsvapen. Uppdraget innebär både strider och ett svårt möte med hans egna relationer och rädslor.",
+      "themes": [
+        "Föräldrarelationer och övergivenhet",
+        "Identitet och självbild",
+        "Plikt kontra egen vilja",
+        "Närhet och isolering"
+      ],
+      "tone": [
+        "Psykologiskt intensiv",
+        "Oroväckande",
+        "Existentiell"
+      ],
+      "pacing_and_structure": "Inledande monster- och mechakonflikter får successivt större psykologisk och introspektiv tyngd; stark kontrast mellan yttre kris och inre konflikter.",
+      "character_dynamics": "Shinjis relation till fadern Gendo präglas av distans och förväntningar; Misato erbjuder en mer vardaglig men komplicerad omsorg, medan Rei och Asuka ger olika kontraster till hans självbild.",
+      "distinctive_features": "Kombinerar apokalyptisk mecha med psykologiskt relationsdrama och experimentellt bildspråk; originalserie på 26 avsnitt från 1995.",
+      "comparison_cues": [
+        "Psykologiskt tryck på unga huvudpersoner",
+        "Genreövergång från action till introspektion",
+        "Föräldra- och anknytningskonflikter"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/30/Shinseiki_Evangelion",
+        "https://www.what-anime.com/shows/neon-genesis-evangelion",
+        "https://theanimelist.net/anime/shinseiki-evangelion"
+      ]
+    },
     "572": {
       "mal_id": 572,
       "title": "Kaze no Tani no Nausicaä",
@@ -108,6 +172,37 @@
         "https://myanimelist.net/anime/1088",
         "https://www.animehistory.org/anime/macross/lore/life-aboard-macross/",
         "https://www.animehistory.org/anime/macross/lore/character-arcs-love-triangle/"
+      ]
+    },
+    "1887": {
+      "mal_id": 1887,
+      "title": "Lucky☆Star",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T05:16:27.873Z",
+      "synopsis": "Konata Izumi och hennes skolkamrater Kagami, Tsukasa och Miyuki samtalar om vardagliga detaljer, skola, populärkultur och otakuintressen. Små meningsskiljaktigheter och återkommande skämt bär serien snarare än ett traditionellt dramatiskt mål.",
+      "themes": [
+        "Vänskap och vardagsrutiner",
+        "Otakukultur",
+        "Sociala kontraster",
+        "Populärkulturell självreferens"
+      ],
+      "tone": [
+        "Avslappnad",
+        "Lekfull",
+        "Vardagshumoristisk"
+      ],
+      "pacing_and_structure": "Löst sammanhängande korta samtal, situationsskämt och observationer; få stora konflikter eller övergripande berättelsevändningar.",
+      "character_dynamics": "Konatas skämtsamma, nördiga infall kontrasterar mot Kagamis mer rättframma och lättretliga sätt; Tsukasa och Miyuki bidrar med andra vardagliga perspektiv.",
+      "distinctive_features": "Kyoto Animations dialogdrivna skolkomedi från 2007 med omfattande anime- och spelreferenser och meta-humor.",
+      "comparison_cues": [
+        "Slice-of-life utan tydlig dramatisk huvudhandling",
+        "Komik ur vänskapsgruppens personlighetskontraster",
+        "Tät populärkulturell metahumor"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/1887/Lucky%E2%98%86Star",
+        "https://theanimelist.net/anime/luckystar"
       ]
     },
     "2993": {
