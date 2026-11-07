@@ -66,6 +66,38 @@
         "https://theanimelist.net/anime/shinseiki-evangelion"
       ]
     },
+    "32": {
+      "mal_id": 32,
+      "title": "Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni",
+      "profile_status": "complete",
+      "synopsis": "En alternativ och kompletterande skildring av TV-serien Neon Genesis Evangelions avslutning. När NERV angrips av SEELE står Shinji handlingsförlamad inför en katastrof, medan Asuka och Misato försöker agera under alltmer extrema omständigheter.",
+      "themes": [
+        "Närhet och isolering",
+        "Självbild och sårbarhet",
+        "Individens gränser kontra kollektiv upplösning",
+        "Trauma och val"
+      ],
+      "tone": [
+        "Apokalyptisk",
+        "Psykologiskt intensiv",
+        "Surrealistisk",
+        "Dyster"
+      ],
+      "pacing_and_structure": "Långfilm i två tydliga delar; en våldsam, konkret belägring övergår i en mer abstrakt och introspektiv avslutning.",
+      "character_dynamics": "Shinjis oförmåga att agera kontrasteras mot Asukas kamp och Misatos försök att nå honom; relationerna präglas av beroende, skuld och bristande kommunikation.",
+      "distinctive_features": "Gainax/Production I.G-film från 1997 som återbesöker och omformulerar TV-seriens slut genom blandning av action, psykologi och experimentell gestaltning.",
+      "comparison_cues": [
+        "TV-serie och film med olika presentationssätt för ett slut",
+        "Skifte från fysisk konflikt till subjektiv psykologisk skildring",
+        "Relationell upplösning utan konventionell försoningsdramaturgi"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://anilist.co/anime/32",
+        "https://lufas.won.fyi/anime/32/shinseiki-evangelion-movie-air-magokoro-wo-kimi-ni"
+      ],
+      "researched_at_utc": "2026-11-07T19:13:25.349Z"
+    },
     "43": {
       "mal_id": 43,
       "synopsis": "År 2029 utreder major Motoko Kusanagi och säkerhetssektion 9 intrång i cybernetiska hjärnor. Jakten på hackaren Puppet Master ställer frågor om medvetande, identitet och gränsen mellan människa och maskin.",
@@ -294,6 +326,38 @@
       ],
       "profile_status": "complete",
       "researched_at_utc": "2026-11-07T18:13:04.713Z"
+    },
+    "440": {
+      "mal_id": 440,
+      "title": "Shoujo Kakumei Utena",
+      "profile_status": "complete",
+      "synopsis": "Efter ett barndomsmöte med en prins bestämmer sig Utena Tenjou för att själv bli en prins. På Ohtori-akademin dras hon in i ritualiserade dueller där vinnaren får en särskild relation till Anthy Himemiya, den så kallade Rosenbruden.",
+      "themes": [
+        "Könsroller och ideal",
+        "Makt och objektifiering",
+        "Identitet och självbestämmande",
+        "Idealiserad räddning kontra faktisk autonomi"
+      ],
+      "tone": [
+        "Symbolisk",
+        "Teatralisk",
+        "Psykologiskt laddad",
+        "Bitvis absurd"
+      ],
+      "pacing_and_structure": "39-avsnittsserie med återkommande duellstruktur, stiliserade ritualer och successivt fördjupade relationer och symboler.",
+      "character_dynamics": "Utenas önskan att skydda Anthy möter ett system där Anthy behandlas som en ägodel; deras relation ställer välmenande hjälparideal mot Anthys egen handlingsfrihet.",
+      "distinctive_features": "Originalserie från J.C.Staff, 1997, som förenar skolmiljö, sagomotiv, återkommande dueller och utpräglat symboliskt bildspråk.",
+      "comparison_cues": [
+        "Relationsdrama uttryckt genom ritual och symbolik",
+        "Kritik av prins- och räddarroller",
+        "Repetitiv episodform med långsamt fördjupade motiv"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://anilist.co/anime/440/shoujo-kakumei-utena",
+        "https://lufas.won.fyi/anime/440/shoujo-kakumei-utena"
+      ],
+      "researched_at_utc": "2026-11-07T19:13:25.349Z"
     },
     "474": {
       "mal_id": 474,
@@ -851,6 +915,37 @@
       "profile_status": "complete",
       "researched_at_utc": "2026-11-07T16:14:50.411Z",
       "uncertainties": []
+    },
+    "1079": {
+      "mal_id": 1079,
+      "title": "Armitage III",
+      "profile_status": "complete",
+      "synopsis": "I en marskoloni år 2046 får polisen Ross Sylibus den impulsiva Naomi Armitage som partner. Mord på kvinnor som visar sig vara människolika androider leder dem till en konspiration om robotarnas existens och rättigheter.",
+      "themes": [
+        "Mänsklighet och artificiellt liv",
+        "Fördomar mot androider",
+        "Institutionell makt och kontroll",
+        "Identitet och tillit"
+      ],
+      "tone": [
+        "Cyberpunkpräglad",
+        "Spänningsdriven",
+        "Bitvis melankolisk"
+      ],
+      "pacing_and_structure": "Fyra OVA-avsnitt med en sammanhängande kriminalintrig; action och utredning driver gradvis fram frågor om androiders ställning.",
+      "character_dynamics": "Ross och Armitage börjar som kontrastrika poliskollegor och utvecklar förtroende när utredningen blir personlig; Ross bär på misstro mot robotar.",
+      "distinctive_features": "1995 års marsförlagda cyberpunk-OVA med polisthriller, människolika 'Third'-androider och teknologiskt betingade identitetskonflikter.",
+      "comparison_cues": [
+        "Kriminalmysterium som väg in i AI-identitet",
+        "Partnerskap mellan misstänksam polis och hemlighetsfull kollega",
+        "Kompakt OVA-form med action och samhällsfrågor"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://anilist.co/anime/1079/Armitage-III",
+        "https://anihub.cc/anime/1079/armitage_iii"
+      ],
+      "researched_at_utc": "2026-11-07T19:13:25.349Z"
     },
     "1088": {
       "mal_id": 1088,
