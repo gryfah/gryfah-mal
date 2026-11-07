@@ -66,6 +66,72 @@
         "https://theanimelist.net/anime/shinseiki-evangelion"
       ]
     },
+    "513": {
+      "mal_id": 513,
+      "title": "Tenkuu no Shiro Laputa",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T07:20:37.315Z",
+      "synopsis": "Gruvarbetarpojken Pazu hjälper Sheeta, en flicka vars mystiska kristall eftersöks av luftpirater och militären. Tillsammans försöker de finna det legendariska svävande slottet Laputa.",
+      "themes": [
+        "Tillit och vänskap",
+        "Teknik och makt",
+        "Natur och industrialisering",
+        "Arv och självbestämmande"
+      ],
+      "tone": [
+        "Äventyrlig",
+        "Varm",
+        "Spänningsfylld"
+      ],
+      "pacing_and_structure": "En långfilm med tydlig jakt- och äventyrsdramaturgi, växlande mellan intensiv rörelse och upptäckande stillhet.",
+      "character_dynamics": "Pazu och Sheeta utvecklar ömsesidig tillit och samarbete. Dola och hennes luftpirater ger en bullrig och mänsklig kontrast till militärens maktanspråk.",
+      "distinctive_features": "Luftskepp, maskiner och ett flygande slott förenar teknikromantik med kritik av destruktiv makt.",
+      "comparison_cues": [
+        "Aktivt samarbete mellan två unga huvudpersoner",
+        "Klassisk äventyrsstruktur",
+        "Teknikens dubbelhet",
+        "Stark miljö- och naturkontrast"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/513",
+        "https://studioghibli.jp/films/castle-in-the-sky/"
+      ]
+    },
+    "523": {
+      "mal_id": 523,
+      "title": "Tonari no Totoro",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T07:20:37.315Z",
+      "synopsis": "Systrarna Satsuki och Mei flyttar med sin far till landsbygden för att komma närmare sin sjuka mor. De upptäcker märkliga skogsväsen och den vänliga anden Totoro i naturen runt det nya hemmet.",
+      "themes": [
+        "Syskonband",
+        "Barndomens fantasi",
+        "Familjeoro",
+        "Natur och vardag"
+      ],
+      "tone": [
+        "Varsam",
+        "Lekfull",
+        "Stillsam",
+        "Vemodig"
+      ],
+      "pacing_and_structure": "Långfilm uppbyggd kring vardagsögonblick och små upptäckter snarare än en antagonist eller en konventionell konfliktstegring.",
+      "character_dynamics": "Satsuki tar ansvar för den yngre och mer impulsiva Mei. Fadern tar flickornas upplevelser på allvar; Totoro är en tystlåten och välvillig naturvarelse snarare än en traditionell mentor.",
+      "distinctive_features": "Den japanska landsbygdens vardagsdetaljer och skogsandar behandlas som delar av samma upplevda värld.",
+      "comparison_cues": [
+        "Lågmäld dramaturgi utan skurk",
+        "Barnperspektiv på sjukdomsoro",
+        "Syskonrelationens vardagsrealism",
+        "Naturmystik utan detaljerat regelsystem"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/523",
+        "https://studioghibli.jp/films/my-neighbor-totoro/",
+        "https://totoroshow.com/synopsis/"
+      ]
+    },
     "572": {
       "mal_id": 572,
       "title": "Kaze no Tani no Nausicaä",
