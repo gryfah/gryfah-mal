@@ -134,6 +134,39 @@
         "https://www.hjg.com.ar/ghibli/porco_rosso/index.html"
       ]
     },
+    "435": {
+      "mal_id": 435,
+      "title": "Magic Knight Rayearth",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T15:11:52.594Z",
+      "synopsis": "Hikaru, Umi och Fuu förs från ett besök vid Tokyo Tower till fantasyvärlden Cephiro, där de får uppdraget att rädda prinsessan Emeraude. De måste lära sig magi och samarbete för att kunna återvända hem.",
+      "themes": [
+        "Vänskap och samarbete",
+        "Plikt och självbestämmande",
+        "Viljans betydelse",
+        "Ansvar i en främmande värld"
+      ],
+      "tone": [
+        "Äventyrlig",
+        "Humoristisk",
+        "Dramatisk",
+        "Magisk"
+      ],
+      "pacing_and_structure": "En tv-serie med quest-struktur där de tre huvudpersonerna successivt lär sig sina förmågor och möter hinder på vägen mot ett uttalat räddningsuppdrag.",
+      "character_dynamics": "Hikaru, Umi och Fuu har olika temperament och kommer från skilda skolor; deras relation utvecklas från främlingskap till ömsesidigt beroende och samarbete.",
+      "distinctive_features": "CLAMP:s shoujo-fantasy kombinerar magiska elementkrafter, en främmande världs regelsystem och mecha-liknande Rune-Gods.",
+      "comparison_cues": [
+        "Tre jämbördiga huvudpersoner med kontrasterande personligheter",
+        "Isekai-quest med tydligt uppdrag",
+        "Magisk fantasy med mecha-inslag",
+        "Gruppsamspel och personlig utveckling"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/435",
+        "https://waifulist.moe/anime/435"
+      ]
+    },
     "474": {
       "mal_id": 474,
       "title": "Macross Plus",
@@ -364,6 +397,39 @@
         "https://ghibli-goods.net/jiblog/data-grave-of-the-fireflies/"
       ]
     },
+    "585": {
+      "mal_id": 585,
+      "title": "Mimi wo Sumaseba",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T15:11:52.594Z",
+      "synopsis": "Den bokälskande tonåringen Shizuku upptäcker att pojken Seiji ofta lånat samma böcker som hon. Deras bekantskap, en märklig katt och ett antikvariat får henne att fundera över sin egen skaparlust och vad hon vill åstadkomma.",
+      "themes": [
+        "Konstnärligt självförtroende",
+        "Ung kärlek och ömsesidig inspiration",
+        "Identitet och framtidsval",
+        "Vardagens möte med fantasin"
+      ],
+      "tone": [
+        "Varm",
+        "Eftertänksam",
+        "Romantisk",
+        "Vardagsnära"
+      ],
+      "pacing_and_structure": "Lågmäld långfilm med gradvis utveckling från vardagsobservationer och nyfikenhet till Shizukus prövning av egna ambitioner.",
+      "character_dynamics": "Seijis tydliga mål blir en kontrast till Shizukus osäkerhet; deras växande relation fungerar också som en drivkraft för hennes självprövning.",
+      "distinctive_features": "Bibliotekslånekort, en katt på tåget och en antikaffär kopplar ett realistiskt ungdomsdrama till berättarglädje och fantasibilder.",
+      "comparison_cues": [
+        "Romantik som katalysator för personlig utveckling",
+        "Kreativ ambition och osäkerhet snarare än yttre hot",
+        "Lågmäld vardagsdramaturgi",
+        "Fantasi inbäddad i realistisk miljö"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/585",
+        "https://anilist.co/anime/585/Whisper-of-the-Heart/"
+      ]
+    },
     "937": {
       "mal_id": 937,
       "title": "Appleseed",
@@ -531,6 +597,39 @@
         "https://myanimelist.net/anime/1029/Omoide_Poroporo",
         "https://nausicaa.net/wiki/Only_Yesterday",
         "https://www.imdb.com/title/tt0102587/plotsummary/"
+      ]
+    },
+    "1030": {
+      "mal_id": 1030,
+      "title": "Heisei Tanuki Gassen Ponpoko",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T15:11:52.594Z",
+      "synopsis": "När Tokyos förorter breder ut sig hotas en grupp tanukis skogsmiljö. De försöker använda sina traditionella förvandlingsförmågor för att stoppa exploateringen, men tvingas hantera både mänsklig envishet och oenighet inom den egna gruppen.",
+      "themes": [
+        "Urbanisering och ekologisk förlust",
+        "Tradition mot modernisering",
+        "Gemenskap och interna motsättningar",
+        "Motstånd och anpassning"
+      ],
+      "tone": [
+        "Satirisk",
+        "Lekfull",
+        "Bitvis vemodig",
+        "Samhällskritisk"
+      ],
+      "pacing_and_structure": "En episodiskt uppbyggd ensemblefilm där kollektiva planer, misslyckanden och nya försök driver konflikten snarare än en enskild hjältes resa.",
+      "character_dynamics": "Tanukiernas äldre och yngre företrädare försöker enas om hur de ska försvara sin livsmiljö; skilda temperament och strategier skapar interna slitningar.",
+      "distinctive_features": "Japansk tanuki-folklore och formskiftning används för att gestalta en konkret konflikt om mark, stadsutbyggnad och djurens livsmiljö.",
+      "comparison_cues": [
+        "Kollektiv huvudperson snarare än individuellt hjältefokus",
+        "Folkloristisk komedi med miljöpolitisk konflikt",
+        "Växling mellan fars och vemod",
+        "Naturförlust som konkret berättelsedrivkraft"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/1030",
+        "https://anilist.co/anime/1030/Pom-Poko/"
       ]
     },
     "1034": {
