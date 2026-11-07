@@ -259,6 +259,39 @@
         "https://otakuden.gg/anime/182"
       ]
     },
+    "199": {
+      "mal_id": 199,
+      "title": "Sen to Chihiro no Kamikakushi",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T22:15:18.993Z",
+      "synopsis": "Tioåriga Chihiro hamnar med sina föräldrar i en värld av andar. När föräldrarna förvandlas till grisar måste hon ta arbete i häxan Yubabas badhus, lära sig dess regler och finna en väg att befria familjen.",
+      "themes": [
+        "Identitet och namn",
+        "Mognad genom ansvar",
+        "Arbete, makt och girighet",
+        "Omsorg och ömsesidig hjälp"
+      ],
+      "tone": [
+        "Förunderlig",
+        "Oroväckande",
+        "Varm",
+        "Drömlik"
+      ],
+      "pacing_and_structure": "Fristående fantasyfilm där en tydlig räddningsuppgift utvecklas genom episodiska möten och arbetsuppgifter i badhuset snarare än en traditionell kamp mot en enda fiende.",
+      "character_dynamics": "Chihiro går från beroende barn till självständig aktör; Haku vägleder henne, Yubaba kontrollerar arbetsplatsen och de andra arbetarna blir både hinder och möjliga bundsförvanter.",
+      "distinctive_features": "Hayao Miyazakis andevärld med badhuset som socialt mikrokosmos; namnbyte och anställningskontrakt är konkreta mekanismer för kontroll och identitet.",
+      "comparison_cues": [
+        "Barnets självständighet genom arbete och ansvar",
+        "Andevärldens sociala regler snarare än stridsmagi",
+        "Miljö- och identitetsmotiv inbäddade i räddningsberättelsen"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/199",
+        "https://gkids.com/films/spirited-away/",
+        "https://studioghibli.jp/films/spirited-away/"
+      ]
+    },
     "339": {
       "mal_id": 339,
       "synopsis": "Efter att en död klasskamrat tycks skicka e-post dras den tillbakadragna Lain Iwakura in i kommunikationsnätverket Wired. Gränserna mellan hennes vardag, nätets identiteter och den upplevda verkligheten blir allt svårare att skilja åt.",
@@ -548,6 +581,37 @@
       "sources": [
         "https://myanimelist.net/anime/513",
         "https://studioghibli.jp/films/castle-in-the-sky/"
+      ]
+    },
+    "522": {
+      "mal_id": 522,
+      "title": "Metropolis",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T22:15:18.993Z",
+      "synopsis": "I en skiktad framtidsstad där robotar och människor lever under ojämlika villkor dras detektiven Shunsaku Ban och hans brorson Kenichi in i en konflikt kring den mäktige Duke Red och den människolika roboten Tima. Kenichis vänskap med Tima utmanar stadens gränser mellan människa och maskin.",
+      "themes": [
+        "Mänsklighet och artificiell identitet",
+        "Klasskillnader och diskriminering",
+        "Teknisk makt och politisk kontroll",
+        "Vänskap över sociala gränser"
+      ],
+      "tone": [
+        "Storslagen",
+        "Melankolisk",
+        "Dystopisk"
+      ],
+      "pacing_and_structure": "Fristående långfilm där detektivintrig och två ungdomars flykt vävs samman med en eskalerande samhällskonflikt i en vertikalt uppdelad stad.",
+      "character_dynamics": "Kenichi närmar sig Tima som en person snarare än ett tekniskt objekt, medan Duke Red ser henne som del av sitt maktprojekt och hans son Rock motsätter sig robotarnas ställning.",
+      "distinctive_features": "Rintaros filmatisering av Osamu Tezukas manga, med manus av Katsuhiro Otomo; retrofuturistisk stadsmiljö och tydlig kontrast mellan mjukt tecknade figurer och monumentala urbana rum.",
+      "comparison_cues": [
+        "Artificiell personlighet genom relationen Kenichi–Tima",
+        "Maktkonflikt och klasshierarki i futuristisk stad",
+        "Fristående film med både detektiv- och flyktberättelse"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/522",
+        "https://www.sonypictures.com/movies/osamutezukasmetropolis"
       ]
     },
     "523": {
