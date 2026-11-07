@@ -134,6 +134,39 @@
         "https://www.hjg.com.ar/ghibli/porco_rosso/index.html"
       ]
     },
+    "474": {
+      "mal_id": 474,
+      "title": "Macross Plus",
+      "synopsis": "År 2040 tävlar de gamla vännerna Isamu Dyson och Guld Goa Bowman som testpiloter för rivaliserande stridsflygplan på planeten Eden. När deras gemensamma vän Myung återvänder som producent för den virtuella sångaren Sharon Apple väcks gamla konflikter, samtidigt som gränsen mellan mänskliga känslor och artificiell underhållning sätts på prov.",
+      "themes": [
+        "Vänskap och olösta konflikter",
+        "Mänsklig kontra artificiell kreativitet",
+        "Teknik och kontroll",
+        "Rivalitet och förflutet"
+      ],
+      "tone": [
+        "Intensiv",
+        "Melankolisk",
+        "Teknikromantisk",
+        "Dramatisk"
+      ],
+      "pacing_and_structure": "Fyra avsnitts OVA där flygtester, musikframträdanden och ett gammalt relationsdrama vävs samman med ett växande AI-hot.",
+      "character_dynamics": "Isamu och Guld är både professionella rivaler och tidigare vänner; Myungs återkomst blottlägger en gemensam historia som ingen av dem helt har bearbetat. Sharon Apple fungerar som en teknologisk spegel för mänskliga känslor.",
+      "distinctive_features": "Kombinerar detaljerade luftstrider, Yoko Kannos musik, virtuellt idolkoncept och ett vuxet triangeldrama inom Macross-universumet.",
+      "comparison_cues": [
+        "Vuxen relationstriangel snarare än skolförälskelse",
+        "Musik och AI som sammanlänkade berättelseelement",
+        "Flygaction som förlängning av personlig rivalitet"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/474",
+        "https://www.animehistory.org/anime/macross-plus/lore/",
+        "https://en.wikipedia.org/wiki/Macross_Plus"
+      ],
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T13:11:03.718Z"
+    },
     "512": {
       "mal_id": 512,
       "title": "Majo no Takkyuubin",
@@ -234,6 +267,37 @@
         "https://studioghibli.jp/films/my-neighbor-totoro/",
         "https://totoroshow.com/synopsis/"
       ]
+    },
+    "544": {
+      "mal_id": 544,
+      "title": "Venus Senki",
+      "synopsis": "På en koloniserad Venus lever den unge Hiro genom riskfyllda motorcykeltävlingar i Aphrodia. När rivalstaten Ishtar invaderar förlorar han och vännerna sin vardag och dras in i ett krig som de inte själva har valt.",
+      "themes": [
+        "Civilbefolkning i krig",
+        "Ungdomligt motstånd och förlorad vardag",
+        "Krigets intrång i idrott och gemenskap"
+      ],
+      "tone": [
+        "Energisk",
+        "Krigspräglad",
+        "Ungdomligt upprorisk"
+      ],
+      "pacing_and_structure": "Långfilm som övergår från etablering av motorcykelkultur och sociala band till militär invasion och actionbetonat motstånd.",
+      "character_dynamics": "Hiro och hans motorcykelkamrater ställs inför olika sätt att reagera på ockupationen; gemenskapen prövas när den fredliga tävlingsmiljön försvinner.",
+      "distinctive_features": "Militär science fiction på Venus med motorcykeltävlingar och stora pansarfordon; regisserad av Yoshikazu Yasuhiko.",
+      "comparison_cues": [
+        "Krigsskildring genom ungdomar snarare än yrkessoldater",
+        "Motorcykelaction som kontrast till mekaniserad krigföring",
+        "Äventyr med socialt pris för konflikterna"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/544",
+        "https://www.hulu.jp/the-venus-wars",
+        "https://www.rottentomatoes.com/m/venus_wars"
+      ],
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T13:11:03.718Z"
     },
     "572": {
       "mal_id": 572,
@@ -563,6 +627,39 @@
       ],
       "profile_status": "complete",
       "researched_at_utc": "2026-11-07T10:16:26.963Z"
+    },
+    "1096": {
+      "mal_id": 1096,
+      "title": "Kidou Keisatsu Patlabor 2 the Movie",
+      "synopsis": "Flera år efter specialpolisens tidigare uppdrag leder en attack som misstänkliggör flygvapnet till växande spänningar mellan japansk polis, militär och politiska institutioner. Goto och Nagumo måste förstå vem som manipulerar krisen medan Tokyo närmar sig undantagstillstånd.",
+      "themes": [
+        "Fredsillusion och krigets närvaro",
+        "Statlig legitimitet och politiskt ansvar",
+        "Militär makt och samhällelig sårbarhet",
+        "Verklighet kontra iscensatt hot"
+      ],
+      "tone": [
+        "Allvarlig",
+        "Politisk",
+        "Eftertänksam",
+        "Spänningsfylld"
+      ],
+      "pacing_and_structure": "Långsamt uppbyggd politisk thriller med utredning och institutionella samtal snarare än konstant mecha-action; eskalerar mot en akut säkerhetskris.",
+      "character_dynamics": "Goto och Nagumo bär huvudperspektivet, medan andra välbekanta medlemmar i andra sektionen träder tillbaka. Deras professionella lojaliteter och olika sätt att hantera krisen driver handlingen.",
+      "distinctive_features": "Mamoru Oshiis andra Patlabor-långfilm; förskjuter fokus från vardaglig polis-mecha till en diskussion om efterkrigstidens Japan och säkerhetspolitik.",
+      "comparison_cues": [
+        "Politisk thriller framför robotstrid",
+        "Tidigare ensemble finns men Goto/Nagumo står i centrum",
+        "Institutionell kritik och lågmäld spänningsuppbyggnad"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/1096",
+        "https://patlabor.tokyo/story/1220/",
+        "https://www.imdb.com/title/tt0124770/plotsummary/"
+      ],
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T13:11:03.718Z"
     },
     "1151": {
       "mal_id": 1151,
