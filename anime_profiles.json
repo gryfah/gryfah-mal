@@ -101,6 +101,39 @@
         "https://lufas.won.fyi/anime/47/akira"
       ]
     },
+    "416": {
+      "mal_id": 416,
+      "title": "Kurenai no Buta",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T11:18:30.551Z",
+      "synopsis": "Mellan världskrigen flyger den före detta italienska stridspiloten Porco Rosso över Adriatiska havet och försörjer sig på att jaga luftpirater. Förvandlad till en gris och desillusionerad av kriget lever han på avstånd från andra, men utmanas av en amerikansk rival och får hjälp av den unga flygmekanikern Fio.",
+      "themes": [
+        "Krigstrauma och desillusion",
+        "Frihet kontra politisk auktoritarism",
+        "Självvald isolering och närhet",
+        "Hantverk och yrkesstolthet"
+      ],
+      "tone": [
+        "Äventyrlig",
+        "Melankolisk",
+        "Ironiskt humoristisk",
+        "Romantisk"
+      ],
+      "pacing_and_structure": "Flygäventyr och rivalitet varvas med lugnare möten, verkstadsscener och reflektioner över ett liv efter kriget.",
+      "character_dynamics": "Porcos cynism och självständighet utmanas av Fios tekniska kompetens och framtidstro, medan hans relation till Gina bär på ett äldre känslomässigt band.",
+      "distinctive_features": "Hayao Miyazakis flygromantik och detaljerade sjöflygplan förenas med mellankrigstidens italienska miljö och en huvudperson med grisgestalt.",
+      "comparison_cues": [
+        "Äldre desillusionerad huvudperson i historisk äventyrsmiljö",
+        "Flygmaskiner som både tekniskt intresse och känslomässig symbol",
+        "Balans mellan komiska pirater och melankolisk efterkrigsstämning"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/416/Kurenai_no_Buta",
+        "https://studioghibli.jp/films/porco-rosso/",
+        "https://www.hjg.com.ar/ghibli/porco_rosso/index.html"
+      ]
+    },
     "512": {
       "mal_id": 512,
       "title": "Majo no Takkyuubin",
@@ -370,6 +403,39 @@
         "https://www.nihonreview.com/anime/aria-the-natural/"
       ]
     },
+    "1029": {
+      "mal_id": 1029,
+      "title": "Omoide Poroporo",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T11:18:30.551Z",
+      "synopsis": "Den 27-åriga kontorsanställda Taeko lämnar Tokyo för en vistelse på landsbygden 1982. Arbetet med skörden och mötet med Toshio väcker minnen från hennes skolår 1966, vilket får henne att ompröva sina vuxna livsval och förhållandet mellan barndomens förväntningar och nuets möjligheter.",
+      "themes": [
+        "Minnets påverkan på identitet",
+        "Barndomens sociala förväntningar",
+        "Stadsliv och landsbygd",
+        "Vuxenblivande och självbestämmande"
+      ],
+      "tone": [
+        "Eftertänksam",
+        "Nostalgisk",
+        "Vardagsrealistisk",
+        "Varmt vemodig"
+      ],
+      "pacing_and_structure": "Långsamt vardagsdrama som växlar mellan Taekos vuxna nutid och detaljerade barndomsminnen, utan konventionell actionintrig.",
+      "character_dynamics": "Taekos samtal med den jordnära Toshio ger en kontrast till hennes uppväxtminnen och hjälper henne att formulera egna önskemål om framtiden.",
+      "distinctive_features": "Isao Takahatas film från Studio Ghibli väver samman två tidsplan och skildrar vuxna livsval genom konkreta minnen av skolgång och familj.",
+      "comparison_cues": [
+        "Vuxen kvinnlig huvudperson med två sammanflätade tidsplan",
+        "Lågmäld självprövning snarare än melodram",
+        "Landsbygdsvistelse som katalysator för livsbeslut"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/1029/Omoide_Poroporo",
+        "https://nausicaa.net/wiki/Only_Yesterday",
+        "https://www.imdb.com/title/tt0102587/plotsummary/"
+      ]
+    },
     "1034": {
       "mal_id": 1034,
       "title": "Ouritsu Uchuugun: Honneamise no Tsubasa",
@@ -464,6 +530,38 @@
       ],
       "profile_status": "complete",
       "researched_at_utc": "2026-11-07T10:16:26.963Z"
+    },
+    "1151": {
+      "mal_id": 1151,
+      "title": "Dominion",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T11:18:30.551Z",
+      "synopsis": "I den svårt förorenade framtidsstaden New-Port City tar polisen till pansarfordon mot brottsligheten. Leona Ozaki ansluter till den ökända stridsvagnspolisen och bygger med kollegan Al en mindre tank, Bonaparte. Hennes entusiasm kolliderar med avdelningens redan våldsamma arbetsmetoder medan brottslingen Buaku och Puma-systrarna ställer till problem.",
+      "themes": [
+        "Militariserad ordningsmakt och övervåld",
+        "Miljöförstöring som vardagsvillkor",
+        "Arbetslag och lojalitet",
+        "Teknik som personlig identitet"
+      ],
+      "tone": [
+        "Burlesk",
+        "Satirisk",
+        "Actionkomisk"
+      ],
+      "pacing_and_structure": "Fyra OVA-avsnitt med brottsbekämpning, kaotiska fordonsinsatser och slapstick; mer polisiär fars än realistiskt procedurdrama.",
+      "character_dynamics": "Leonas intensiva förhållande till sin tank kontrasterar mot den lugnare partnern Al och en överdrivet hårdför poliskår; Buaku och Puma-systrarna fungerar som återkommande motståndare.",
+      "distinctive_features": "Masamune Shirows cyberpunkfärgade polisvärld förenar små pansarfordon, miljödystopi och absurda följdskador av polisinsatser.",
+      "comparison_cues": [
+        "Militariserad polis skildrad som satir snarare än hjälteepos",
+        "En kvinnlig tankförare vars maskin är central för karaktären",
+        "Kort, episodisk 1980-tals-OVA med hög komedifaktor"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/1151/Dominion",
+        "https://animesc.com/en/details/1l2PgN/dominion",
+        "https://thetvdb.com/series/dominion-tank-police"
+      ]
     },
     "1270": {
       "mal_id": 1270,
