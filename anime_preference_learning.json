@@ -505,6 +505,28 @@
         "anime_snapshot_at": "2026-11-07T09:00:33.200484+00:00",
         "observed_at_utc": "2026-11-07T09:19:44.567Z"
       },
+      "1289": {
+        "mal_id": 1289,
+        "title": "Kidou Keisatsu Patlabor: New OVA",
+        "observed_status": "completed",
+        "user_score": 6,
+        "mal_mean_score": 7.63,
+        "mal_num_scoring_users": 4556,
+        "mal_genres": [
+          "Adult Cast",
+          "Comedy",
+          "Mecha",
+          "Sci-Fi",
+          "Workplace"
+        ],
+        "profile_ref": 1289,
+        "rating_band": "neutral",
+        "score_minus_mal": -1.63,
+        "baseline_median_offset": -0.2999999999999998,
+        "consensus_residual": -1.33,
+        "anime_snapshot_at": "2026-11-07T14:07:30.465676+00:00",
+        "observed_at_utc": "2026-11-07T14:11:05.754Z"
+      },
       "1347": {
         "mal_id": 1347,
         "title": "Bubblegum Crisis",
@@ -571,6 +593,29 @@
         "anime_snapshot_at": "2026-11-07T06:03:48.327423+00:00",
         "observed_at_utc": "2026-11-07T06:16:11.561Z"
       },
+      "6016": {
+        "mal_id": 6016,
+        "title": "Kyoushoku Soukou Guyver (1989)",
+        "observed_status": "completed",
+        "user_score": 5,
+        "mal_mean_score": 7.11,
+        "mal_num_scoring_users": 6730,
+        "mal_genres": [
+          "Action",
+          "Gore",
+          "Horror",
+          "Sci-Fi",
+          "Shounen",
+          "Super Power"
+        ],
+        "profile_ref": 6016,
+        "rating_band": "neutral",
+        "score_minus_mal": -2.11,
+        "baseline_median_offset": -0.2999999999999998,
+        "consensus_residual": -1.81,
+        "anime_snapshot_at": "2026-11-07T14:07:30.465676+00:00",
+        "observed_at_utc": "2026-11-07T14:11:05.754Z"
+      },
       "52481": {
         "mal_id": 52481,
         "title": "Gimai Seikatsu",
@@ -592,26 +637,26 @@
     },
     "mal_category_statistics": {
       "Action": {
-        "n_rated": 6,
-        "mean_user_score": 7.17,
+        "n_rated": 7,
+        "mean_user_score": 6.86,
         "n_high": 3,
         "n_mild_positive": 1,
-        "n_neutral": 2,
+        "n_neutral": 3,
         "n_low": 0,
-        "mean_consensus_residual": -0.25,
+        "mean_consensus_residual": -0.47,
         "evidence_status": "observational",
-        "last_updated_utc": "2026-11-07T13:11:14.865Z"
+        "last_updated_utc": "2026-11-07T14:11:05.754Z"
       },
       "Adult Cast": {
-        "n_rated": 7,
-        "mean_user_score": 7,
+        "n_rated": 8,
+        "mean_user_score": 6.88,
         "n_high": 2,
         "n_mild_positive": 3,
-        "n_neutral": 2,
+        "n_neutral": 3,
         "n_low": 0,
-        "mean_consensus_residual": -0.01,
+        "mean_consensus_residual": -0.18,
         "evidence_status": "observational",
-        "last_updated_utc": "2026-11-07T13:11:14.865Z"
+        "last_updated_utc": "2026-11-07T14:11:05.754Z"
       },
       "Award Winning": {
         "n_rated": 10,
@@ -622,18 +667,18 @@
         "n_low": 0,
         "mean_consensus_residual": 0.04,
         "evidence_status": "observational",
-        "last_updated_utc": "2026-11-07T13:11:14.865Z"
+        "last_updated_utc": "2026-11-07T14:11:05.754Z"
       },
       "Sci-Fi": {
-        "n_rated": 17,
-        "mean_user_score": 7.12,
+        "n_rated": 19,
+        "mean_user_score": 6.95,
         "n_high": 7,
         "n_mild_positive": 6,
-        "n_neutral": 4,
+        "n_neutral": 6,
         "n_low": 0,
-        "mean_consensus_residual": 0.06,
+        "mean_consensus_residual": -0.12,
         "evidence_status": "observational",
-        "last_updated_utc": "2026-11-07T13:11:14.865Z"
+        "last_updated_utc": "2026-11-07T14:11:05.754Z"
       },
       "Space": {
         "n_rated": 7,
@@ -644,7 +689,7 @@
         "n_low": 0,
         "mean_consensus_residual": -0.08,
         "evidence_status": "observational",
-        "last_updated_utc": "2026-11-07T13:11:14.865Z"
+        "last_updated_utc": "2026-11-07T14:11:05.754Z"
       },
       "Avant Garde": {
         "n_rated": 1,
@@ -655,7 +700,7 @@
         "n_low": 0,
         "mean_consensus_residual": -0.08,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-07T13:11:14.865Z"
+        "last_updated_utc": "2026-11-07T14:11:05.754Z"
       },
       "Drama": {
         "n_rated": 12,
@@ -666,18 +711,18 @@
         "n_low": 0,
         "mean_consensus_residual": -0.09,
         "evidence_status": "observational",
-        "last_updated_utc": "2026-11-07T13:11:14.865Z"
+        "last_updated_utc": "2026-11-07T14:11:05.754Z"
       },
       "Mecha": {
-        "n_rated": 13,
-        "mean_user_score": 7.08,
+        "n_rated": 14,
+        "mean_user_score": 7,
         "n_high": 4,
         "n_mild_positive": 7,
-        "n_neutral": 2,
+        "n_neutral": 3,
         "n_low": 0,
-        "mean_consensus_residual": 0.11,
+        "mean_consensus_residual": 0.01,
         "evidence_status": "observational",
-        "last_updated_utc": "2026-11-07T13:11:14.865Z"
+        "last_updated_utc": "2026-11-07T14:11:05.754Z"
       },
       "Psychological": {
         "n_rated": 1,
@@ -688,7 +733,7 @@
         "n_low": 0,
         "mean_consensus_residual": -0.08,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-07T13:11:14.865Z"
+        "last_updated_utc": "2026-11-07T14:11:05.754Z"
       },
       "Suspense": {
         "n_rated": 1,
@@ -699,29 +744,29 @@
         "n_low": 0,
         "mean_consensus_residual": -0.08,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-07T13:11:14.865Z"
+        "last_updated_utc": "2026-11-07T14:11:05.754Z"
       },
       "Gore": {
+        "n_rated": 3,
+        "mean_user_score": 6.33,
+        "n_high": 1,
+        "n_mild_positive": 0,
+        "n_neutral": 2,
+        "n_low": 0,
+        "mean_consensus_residual": -0.25,
+        "evidence_status": "insufficient_evidence",
+        "last_updated_utc": "2026-11-07T14:11:05.754Z"
+      },
+      "Horror": {
         "n_rated": 2,
-        "mean_user_score": 7,
+        "mean_user_score": 6.5,
         "n_high": 1,
         "n_mild_positive": 0,
         "n_neutral": 1,
         "n_low": 0,
-        "mean_consensus_residual": 0.54,
+        "mean_consensus_residual": -0.83,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-07T13:11:14.865Z"
-      },
-      "Horror": {
-        "n_rated": 1,
-        "mean_user_score": 8,
-        "n_high": 1,
-        "n_mild_positive": 0,
-        "n_neutral": 0,
-        "n_low": 0,
-        "mean_consensus_residual": 0.14,
-        "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-07T13:11:14.865Z"
+        "last_updated_utc": "2026-11-07T14:11:05.754Z"
       },
       "Seinen": {
         "n_rated": 2,
@@ -732,18 +777,18 @@
         "n_low": 0,
         "mean_consensus_residual": 0.18,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-07T13:11:14.865Z"
+        "last_updated_utc": "2026-11-07T14:11:05.754Z"
       },
       "Super Power": {
-        "n_rated": 1,
-        "mean_user_score": 8,
+        "n_rated": 2,
+        "mean_user_score": 6.5,
         "n_high": 1,
         "n_mild_positive": 0,
-        "n_neutral": 0,
+        "n_neutral": 1,
         "n_low": 0,
-        "mean_consensus_residual": 0.14,
+        "mean_consensus_residual": -0.83,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-07T13:11:14.865Z"
+        "last_updated_utc": "2026-11-07T14:11:05.754Z"
       },
       "Adventure": {
         "n_rated": 8,
@@ -754,18 +799,18 @@
         "n_low": 0,
         "mean_consensus_residual": -0.24,
         "evidence_status": "observational",
-        "last_updated_utc": "2026-11-07T13:11:14.865Z"
+        "last_updated_utc": "2026-11-07T14:11:05.754Z"
       },
       "Comedy": {
-        "n_rated": 6,
-        "mean_user_score": 7.33,
+        "n_rated": 7,
+        "mean_user_score": 7.14,
         "n_high": 2,
         "n_mild_positive": 4,
-        "n_neutral": 0,
+        "n_neutral": 1,
         "n_low": 0,
-        "mean_consensus_residual": -0.03,
+        "mean_consensus_residual": -0.22,
         "evidence_status": "observational",
-        "last_updated_utc": "2026-11-07T13:11:14.865Z"
+        "last_updated_utc": "2026-11-07T14:11:05.754Z"
       },
       "Historical": {
         "n_rated": 2,
@@ -776,7 +821,7 @@
         "n_low": 0,
         "mean_consensus_residual": -1.96,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-07T13:11:14.865Z"
+        "last_updated_utc": "2026-11-07T14:11:05.754Z"
       },
       "Military": {
         "n_rated": 10,
@@ -787,7 +832,7 @@
         "n_low": 0,
         "mean_consensus_residual": 0.11,
         "evidence_status": "observational",
-        "last_updated_utc": "2026-11-07T13:11:14.865Z"
+        "last_updated_utc": "2026-11-07T14:11:05.754Z"
       },
       "Romance": {
         "n_rated": 5,
@@ -798,7 +843,7 @@
         "n_low": 0,
         "mean_consensus_residual": 0.03,
         "evidence_status": "observational",
-        "last_updated_utc": "2026-11-07T13:11:14.865Z"
+        "last_updated_utc": "2026-11-07T14:11:05.754Z"
       },
       "Fantasy": {
         "n_rated": 3,
@@ -809,7 +854,7 @@
         "n_low": 0,
         "mean_consensus_residual": 0.01,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-07T13:11:14.865Z"
+        "last_updated_utc": "2026-11-07T14:11:05.754Z"
       },
       "Supernatural": {
         "n_rated": 1,
@@ -820,7 +865,7 @@
         "n_low": 0,
         "mean_consensus_residual": 0.05,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-07T13:11:14.865Z"
+        "last_updated_utc": "2026-11-07T14:11:05.754Z"
       },
       "Josei": {
         "n_rated": 1,
@@ -831,7 +876,7 @@
         "n_low": 0,
         "mean_consensus_residual": 0.85,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-07T13:11:14.865Z"
+        "last_updated_utc": "2026-11-07T14:11:05.754Z"
       },
       "Music": {
         "n_rated": 1,
@@ -842,7 +887,7 @@
         "n_low": 0,
         "mean_consensus_residual": -0.59,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-07T13:11:14.865Z"
+        "last_updated_utc": "2026-11-07T14:11:05.754Z"
       },
       "Detective": {
         "n_rated": 1,
@@ -853,7 +898,7 @@
         "n_low": 0,
         "mean_consensus_residual": 0.24,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-07T13:11:14.865Z"
+        "last_updated_utc": "2026-11-07T14:11:05.754Z"
       },
       "Mystery": {
         "n_rated": 1,
@@ -864,18 +909,18 @@
         "n_low": 0,
         "mean_consensus_residual": 0.24,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-07T13:11:14.865Z"
+        "last_updated_utc": "2026-11-07T14:11:05.754Z"
       },
       "Workplace": {
-        "n_rated": 1,
-        "mean_user_score": 7,
+        "n_rated": 2,
+        "mean_user_score": 6.5,
         "n_high": 0,
         "n_mild_positive": 1,
-        "n_neutral": 0,
+        "n_neutral": 1,
         "n_low": 0,
-        "mean_consensus_residual": 0,
+        "mean_consensus_residual": -0.66,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-07T13:11:14.865Z"
+        "last_updated_utc": "2026-11-07T14:11:05.754Z"
       },
       "CGDCT": {
         "n_rated": 1,
@@ -886,7 +931,7 @@
         "n_low": 0,
         "mean_consensus_residual": -0.46,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-07T13:11:14.865Z"
+        "last_updated_utc": "2026-11-07T14:11:05.754Z"
       },
       "Gag Humor": {
         "n_rated": 1,
@@ -897,7 +942,7 @@
         "n_low": 0,
         "mean_consensus_residual": -0.46,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-07T13:11:14.865Z"
+        "last_updated_utc": "2026-11-07T14:11:05.754Z"
       },
       "Otaku Culture": {
         "n_rated": 1,
@@ -908,7 +953,7 @@
         "n_low": 0,
         "mean_consensus_residual": -0.46,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-07T13:11:14.865Z"
+        "last_updated_utc": "2026-11-07T14:11:05.754Z"
       },
       "School": {
         "n_rated": 1,
@@ -919,18 +964,18 @@
         "n_low": 0,
         "mean_consensus_residual": -0.46,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-07T13:11:14.865Z"
+        "last_updated_utc": "2026-11-07T14:11:05.754Z"
       },
       "Shounen": {
-        "n_rated": 1,
-        "mean_user_score": 6,
+        "n_rated": 2,
+        "mean_user_score": 5.5,
         "n_high": 0,
         "n_mild_positive": 0,
-        "n_neutral": 1,
+        "n_neutral": 2,
         "n_low": 0,
-        "mean_consensus_residual": -0.83,
+        "mean_consensus_residual": -1.32,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-07T13:11:14.865Z"
+        "last_updated_utc": "2026-11-07T14:11:05.754Z"
       }
     },
     "question_candidates": {
@@ -948,6 +993,28 @@
           "Historical"
         ],
         "detected_at_utc": "2026-11-07T09:19:44.567Z",
+        "uncertainties": [
+          "Betygsavvikelsen visar inte orsaken till omdömet."
+        ]
+      },
+      "6016": {
+        "mal_id": 6016,
+        "title": "Kyoushoku Soukou Guyver (1989)",
+        "status": "flagged",
+        "detection_reason": "consensus_residual_threshold",
+        "user_score": 5,
+        "mal_mean_score": 7.11,
+        "consensus_residual": -1.81,
+        "baseline_n": 29,
+        "mal_genres": [
+          "Action",
+          "Gore",
+          "Horror",
+          "Sci-Fi",
+          "Shounen",
+          "Super Power"
+        ],
+        "detected_at_utc": "2026-11-07T14:11:05.754Z",
         "uncertainties": [
           "Betygsavvikelsen visar inte orsaken till omdömet."
         ]
