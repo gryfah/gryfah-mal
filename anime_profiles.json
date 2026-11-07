@@ -195,6 +195,70 @@
         "https://lufas.won.fyi/anime/47/akira"
       ]
     },
+    "59": {
+      "mal_id": 59,
+      "title": "Chobits",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T23:16:57.508Z",
+      "synopsis": "I ett Tokyo där människoliknande datorer, persocoms, är vardag hittar studenten Hideki Motosuwa en övergiven kvinnoliknande modell. Hon kan först bara säga 'Chii', vilket blir hennes namn. När Hideki försöker lära henne språk och vardagsliv väcks frågor om hennes ovanliga förmågor och om känslor mellan människor och artificiella varelser.",
+      "themes": [
+        "Mänsklig närhet och artificiell intelligens",
+        "Självbestämmande och personhood",
+        "Idealiserade partners och ensamhet",
+        "Lärande och identitet"
+      ],
+      "tone": [
+        "Romantisk",
+        "Vardagshumoristisk",
+        "Eftertänksam",
+        "Bitvis ekivok"
+      ],
+      "pacing_and_structure": "Vardagliga komiska situationer och Chii:s gradvisa inlärning bildar en episodisk början; en övergripande gåta om hennes ursprung och relationernas innebörd utvecklas parallellt.",
+      "character_dynamics": "Hideki är ekonomiskt pressad och socialt oerfaren, medan Chii till en början är beroende av hans vägledning. Deras växande närhet komplicerar gränsen mellan omsorg, programmering och ömsesidiga känslor.",
+      "distinctive_features": "CLAMP-adaption där humanoida persondatorer är en normaliserad konsumentteknik och en romantisk relation samtidigt blir en fråga om medvetande och autonomi.",
+      "comparison_cues": [
+        "Jämför romantisk utveckling med hur mycket egen handlingsförmåga den artificiella parten får",
+        "Jämför balansen mellan ecchi-komedi och seriös diskussion om människa–maskin-relationer"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/59",
+        "https://www.anime.digital/anime/chobits",
+        "https://www.japanpowered.com/anime-articles/chobits"
+      ]
+    },
+    "66": {
+      "mal_id": 66,
+      "title": "Azumanga Daiou The Animation",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T23:16:57.508Z",
+      "synopsis": "Under tre gymnasieår följs en grupp flickor med mycket olika temperament, bland dem den tioåriga underbarnseleven Chiyo, drömmande Osaka, högljudda Tomo och reserverade Sakaki. Lektioner, prov, skollov och små vardagshändelser blir utgångspunkter för komiska möten och gradvis fördjupad gruppgemenskap.",
+      "themes": [
+        "Vänskap och vardagsgemenskap",
+        "Skoltidens förgänglighet",
+        "Personlighetskontraster",
+        "Social tillhörighet"
+      ],
+      "tone": [
+        "Absurdistisk",
+        "Varm",
+        "Lekfull",
+        "Lågmält nostalgisk"
+      ],
+      "pacing_and_structure": "Ensemblebaserad episodkomedi med korta sketchliknande avsnitt inom en längre kronologi över tre skolår. Återkommande skämt och karaktärsvanor bär rytmen snarare än en central konflikt.",
+      "character_dynamics": "Tomo driver på och provocerar sin mer ordningsamma vän Yomi; Sakakis tysta och imposanta yttre kontrasterar mot hennes förkärlek för söta djur; Chiyo är begåvad men yngst i gruppen, medan Osakas säregna associationer skapar egna samtalsvägar.",
+      "distinctive_features": "Adaption av Kiyohiko Azumas fyrarutemanga som kombinerar mycket korta humorsegment, surrealistiska infall och en tydlig tidsbåge mot skolavslutningen.",
+      "comparison_cues": [
+        "Jämför sketchernas tajming och ensemblekemi med andra vardagskomedier",
+        "Jämför hur återkommande skämt förändras när berättelsen låter skolåren passera"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/66",
+        "https://sibly.fr/en/catalogue/azumanga-daiou-the-animation",
+        "https://en.wikipedia.org/wiki/Azumanga_Daioh"
+      ]
+    },
     "164": {
       "mal_id": 164,
       "title": "Mononoke Hime",
@@ -1261,6 +1325,40 @@
         "https://myanimelist.net/anime/1151/Dominion",
         "https://animesc.com/en/details/1l2PgN/dominion",
         "https://thetvdb.com/series/dominion-tank-police"
+      ]
+    },
+    "1177": {
+      "mal_id": 1177,
+      "title": "Alien 9",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T23:16:57.508Z",
+      "synopsis": "Sjätteklassaren Yuri Otani blir mot sin vilja utsedd att ingå i skolans grupp som fångar utomjordiska varelser. Tillsammans med Kumi och Kasumi måste hon bära en levande symbiotisk 'Borg' som skyddar sin värd. Uppdraget, som behandlas som en skolaktivitet, blir särskilt skrämmande för Yuri.",
+      "themes": [
+        "Rädsla och påtvingat ansvar",
+        "Barns utsatthet inför institutioner",
+        "Kroppslig autonomi och symbios",
+        "Grupptryck och vänskap"
+      ],
+      "tone": [
+        "Oroväckande",
+        "Psykologiskt pressande",
+        "Bisarr",
+        "Kontrasterande vardaglig"
+      ],
+      "pacing_and_structure": "Kort OVA-berättelse där skolvardagens rutiner ställs mot successivt mer obehagliga alienmöten; fokuset ligger på Yuris rädsla och de olika flickornas sätt att hantera uppdraget.",
+      "character_dynamics": "Yuri är motvillig och rädd, medan Kumi framstår som mer ansvarstagande och Kasumi som självsäkrare. Skillnaderna gör det tydligt att gruppens uppdrag inte upplevs som frivilligt eller likvärdigt av alla.",
+      "distinctive_features": "En till synes barnslig skola med institutionaliserad alienbekämpning; skyddsutrustningen är själv en levande symbiot som bärs på huvudet. Kontrasten mellan ung ensemble och kroppslig skräck är central.",
+      "comparison_cues": [
+        "Jämför hur barnperspektiv och rädsla behandlas snarare än bara alienaction",
+        "Jämför förhållandet mellan skolans normalisering av fara och huvudpersonens upplevda tvång"
+      ],
+      "uncertainties": [
+        "OVA:n täcker inte hela förlagans senare berättelse; beskrivningen avser animepremissen."
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/1177",
+        "https://www.imdb.com/title/tt1915535/plotsummary/",
+        "https://en.wikipedia.org/wiki/Alien_Nine"
       ]
     },
     "1211": {
