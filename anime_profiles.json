@@ -34,6 +34,36 @@
         "https://sakuracentral.net/series/cowboy-bebop/"
       ]
     },
+    "6": {
+      "mal_id": 6,
+      "synopsis": "På en ökenplanet förföljs den legendariske revolvermannen Vash the Stampede av prisjägare, trots att han själv vägrar döda. Försäkringsutredarna Meryl Stryfe och Milly Thompson försöker begränsa skadorna som uppstår i hans kölvatten.",
+      "themes": [
+        "Pacifism under våldshot",
+        "Rykte kontra verklig identitet",
+        "Ansvar för andra"
+      ],
+      "tone": [
+        "Slapstickartad",
+        "Westernpräglad",
+        "Efterhand allvarligare"
+      ],
+      "pacing_and_structure": "Episodiska möten och jakter utvecklas gradvis till en sammanhängande berättelse om Vashs förflutna och principer.",
+      "character_dynamics": "Vashs till synes lättsinniga sätt kontrasteras mot Meryls pragmatism och Millys öppenhet; Wolfwood prövar hans syn på våld.",
+      "distinctive_features": "Science fiction-western på en torr planet, med en hjälte som vägrar döda trots sin ökända revolvermannaroll.",
+      "comparison_cues": [
+        "Kontrast mellan komisk yta och etiska konflikter",
+        "Icke-dödligt våld som central karaktärsprincip",
+        "Gradvis förskjutning från fristående episoder till drama"
+      ],
+      "sources": [
+        "https://tv.apple.com/jp/show/trigun/umc.cmc.6r4ji2yulhaw205f6w8ypxklh",
+        "https://en.wikipedia.org/wiki/Trigun_(1998_TV_series)"
+      ],
+      "title": "Trigun",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T20:12:41.538Z",
+      "uncertainties": []
+    },
     "30": {
       "mal_id": 30,
       "title": "Shinseiki Evangelion",
@@ -228,6 +258,36 @@
         "https://anilist.co/anime/182/tenkuu-no-escaflowne",
         "https://otakuden.gg/anime/182"
       ]
+    },
+    "339": {
+      "mal_id": 339,
+      "synopsis": "Efter att en död klasskamrat tycks skicka e-post dras den tillbakadragna Lain Iwakura in i kommunikationsnätverket Wired. Gränserna mellan hennes vardag, nätets identiteter och den upplevda verkligheten blir allt svårare att skilja åt.",
+      "themes": [
+        "Identitet och medvetande",
+        "Teknik och verklighetsuppfattning",
+        "Social isolering och kontakt"
+      ],
+      "tone": [
+        "Oroväckande",
+        "Gåtfull",
+        "Filosofisk"
+      ],
+      "pacing_and_structure": "Fragmentarisk och långsamt avslöjande berättelse som förlitar sig på stämning, upprepningar och osäker verklighetsförankring snarare än rak exposition.",
+      "character_dynamics": "Lains osäkerhet och förändrade nätidentitet kontrasterar mot hennes relationer till skolkamrater, särskilt vännen Alice, och hennes distanserade familjemiljö.",
+      "distinctive_features": "En experimentell 1990-talsskildring av nätverksidentitet där själva berättartekniken gör upplevelsen av verkligheten instabil.",
+      "comparison_cues": [
+        "Psykologisk osäkerhet snarare än teknisk problemlösning",
+        "Digital identitet och social närhet",
+        "Associativ, avsiktligt svårtolkad dramaturgi"
+      ],
+      "sources": [
+        "https://tv.apple.com/jp/show/serial-experiments-lain/umc.cmc.nonr8nhvj1rkn70y68ew0co4",
+        "https://www.imdb.com/title/tt0500092/plotsummary/"
+      ],
+      "title": "Serial Experiments Lain",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T20:12:41.538Z",
+      "uncertainties": []
     },
     "416": {
       "mal_id": 416,
@@ -1332,6 +1392,36 @@
         "https://theanimelist.net/anime/memories",
         "https://en.wikipedia.org/wiki/Memories_(1995_film)"
       ]
+    },
+    "1577": {
+      "mal_id": 1577,
+      "synopsis": "Poliserna Natsumi Tsujimoto och Miyuki Kobayakawa arbetar tillsammans vid Bokutos polisstation i Tokyo. Natsumis impulsiva körstil och fysiska energi kompletterar Miyukis tekniska skicklighet och metodiska förhållningssätt i trafikärenden och vardagliga polisuppdrag.",
+      "themes": [
+        "Kollegial tillit",
+        "Kompletterande personligheter",
+        "Yrkesvardag och samarbete"
+      ],
+      "tone": [
+        "Lättsam",
+        "Vardagshumoristisk",
+        "Actionbetonad"
+      ],
+      "pacing_and_structure": "Främst fristående polis- och vardagsepisoder, där biljakter och tekniska inslag blandas med humor och relationer på stationen.",
+      "character_dynamics": "Natsumis impulsivitet ställs mot Miyukis noggrannhet; deras partnerskap bär både konflikter och arbetsglädje.",
+      "distinctive_features": "Fokus på trafikpolisers vardag och detaljerad fordonsmekanik snarare än en övergripande kriminalintrig.",
+      "comparison_cues": [
+        "Arbetsplatsrelationer med tydlig tvåpersonsdynamik",
+        "Fordonsintresse som konkret berättelseelement",
+        "Episodisk blandning av vardag och biljakter"
+      ],
+      "sources": [
+        "https://www.imdb.com/title/tt0111351/plotsummary/",
+        "https://www.absoluteanime.com/youre_under_arrest/"
+      ],
+      "title": "Taiho Shichau zo",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T20:12:41.538Z",
+      "uncertainties": []
     },
     "1887": {
       "mal_id": 1887,
