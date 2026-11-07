@@ -322,6 +322,37 @@
         "https://www.hjg.com.ar/ghibli/porco_rosso/index.html"
       ]
     },
+    "420": {
+      "mal_id": 420,
+      "title": "Spriggan",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T21:17:06.319Z",
+      "synopsis": "ARCAM skyddar lämningar från forntida civilisationer mot militärt missbruk. Agenten Yu Ominae skickas till Ararat i Turkiet när upptäckten av det som kan vara Noaks ark lockar en fientlig militär styrka. 1998 års långfilm koncentrerar mangans premiss till ett teknologiskt arkeologiäventyr.",
+      "themes": [
+        "Forntida teknologi och modern maktutövning",
+        "Skydd av kunskap kontra militär exploatering",
+        "Personligt förflutet och uppdragets krav"
+      ],
+      "tone": [
+        "Actionbetonad",
+        "Konspiratorisk",
+        "Äventyrlig"
+      ],
+      "pacing_and_structure": "En cirka 90 minuter lång, sammanhållen actionfilm kring ett specifikt fynd och en eskalerande konflikt; inte en episodisk serie.",
+      "character_dynamics": "Yu Ominae arbetar för ARCAM och ställs mot en militär aktör som vill kontrollera fyndet. Hans roll som specialagent kontrasteras mot krafter som vill använda samma teknologi offensivt.",
+      "distinctive_features": "1998 års Studio 4°C-film kretsar specifikt kring Noaks ark på Ararat, snarare än att återge mangans många separata uppdrag.",
+      "comparison_cues": [
+        "Forntida artefakter som militär kapprustningsresurs",
+        "Specialagent och hemlig organisation",
+        "Hög actionkoncentration i långfilmsformat"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/420",
+        "https://sitgesfilmfestival.com/en/film/1999/spriggan",
+        "https://eiga.com/movie/37381/"
+      ]
+    },
     "435": {
       "mal_id": 435,
       "title": "Magic Knight Rayearth",
@@ -975,6 +1006,37 @@
       "profile_status": "complete",
       "researched_at_utc": "2026-11-07T16:14:50.411Z",
       "uncertainties": []
+    },
+    "1051": {
+      "mal_id": 1051,
+      "title": "Ao no 6-gou",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T21:17:06.319Z",
+      "synopsis": "I en framtid där stora delar av världen ligger under vatten strider de kvarvarande människorna mot undervattensvarelser skapade av forskaren Zorndyke. Den före detta ubåtsmannen Tetsu Hayami återvänder motvilligt till tjänst på Blue Submarine No. 6 och mötet med varelsen Mutio komplicerar konflikten mellan människa och motståndare.",
+      "themes": [
+        "Mänsklighetens överlevnad och ekologisk katastrof",
+        "Fiendebilder och möjligheten till förståelse",
+        "Krigets följder och samexistens"
+      ],
+      "tone": [
+        "Dyster",
+        "Militärspänningspräglad",
+        "Eftertänksam"
+      ],
+      "pacing_and_structure": "Fyra OVA-avsnitt med sammanhängande konflikt; ubåtsstrider växlar med möten som problematiserar krigets motsättningar.",
+      "character_dynamics": "Hayami återkallas till besättningen där Mayumi Kino tjänstgör; mötet med den människoliknande undervattensvarelsen Mutio ger honom ett annat perspektiv på motståndarsidan.",
+      "distinctive_features": "Gonzos tidiga kombination av digital 3D-teknik och traditionell animation i undervattensmiljöer; fyra avsnitt producerade 1998–2000.",
+      "comparison_cues": [
+        "Militär science fiction med miljökatastrof som grundkonflikt",
+        "Möte mellan stridande arter snarare än enkel fiendebild",
+        "Kort OVA-form med både undervattensaction och etisk konflikt"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/1051",
+        "https://planete-jeunesse.miraitech.fr/fiche-2067-blue-submarine-n-6.html",
+        "https://en.wikipedia.org/wiki/Blue_Submarine_No._6"
+      ]
     },
     "1079": {
       "mal_id": 1079,
