@@ -403,6 +403,39 @@
         "https://www.nihonreview.com/anime/aria-the-natural/"
       ]
     },
+    "1016": {
+      "mal_id": 1016,
+      "title": "Gunnm",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T12:12:32.979Z",
+      "synopsis": "I den postapokalyptiska skrotstaden finner läkaren och mekanikern Ido resterna av en cyborgflicka, reparerar henne och ger henne ett nytt liv. Den minneslösa Gally försöker förstå vem hon är och finna en plats i ett samhälle där överlevnad och våld ständigt griper in.",
+      "themes": [
+        "Identitet utan minne",
+        "Mänsklighet i en mekanisk kropp",
+        "Omsorg och självbestämmande",
+        "Social utsatthet och överlevnad"
+      ],
+      "tone": [
+        "Melankolisk",
+        "Hård",
+        "Eftertänksam"
+      ],
+      "pacing_and_structure": "Två OVA-avsnitt från 1993, cirka 30 minuter vardera, som koncentrerar de två första mangavolymernas tidiga berättelse snarare än att omfatta hela mangan.",
+      "character_dynamics": "Ido är både reparatör och beskyddare för Gally, vars framväxande självständighet står i centrum. Hennes kamp för en egen identitet sker i skrotstadens våldsamma miljö.",
+      "distinctive_features": "Tidigt cyberpunkdrama med cyborgprotagonist och en tydligt begränsad tvådelad mangaadaption; inte samma verk som senare spelfilmsversion.",
+      "comparison_cues": [
+        "Minneslös protagonist som söker identitet",
+        "Omsorgsrelation mellan skapare/reparatör och cyborg",
+        "Dystopisk stadsmiljö och klassklyftor",
+        "Kort, ofullständig adaption av större berättelse"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://anilist.co/anime/1016/GUNNM",
+        "https://lufas.won.fyi/anime/1016/gunnm",
+        "https://myanimelist.net/anime/1016"
+      ]
+    },
     "1029": {
       "mal_id": 1029,
       "title": "Omoide Poroporo",
@@ -592,6 +625,39 @@
       ],
       "profile_status": "complete",
       "researched_at_utc": "2026-11-07T10:16:26.963Z"
+    },
+    "1285": {
+      "mal_id": 1285,
+      "title": "Soukihei MD Geist",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T12:12:32.979Z",
+      "synopsis": "På den krigshärjade koloniplaneten Jerra vaknar den genetiskt förstärkte soldaten Geist efter att ha hållits nedfryst för sin okontrollerbara stridslust. Han dras in i militärens försök att hindra planetens centrala dator från att aktivera ett utrotningsvapen.",
+      "themes": [
+        "Militär avhumanisering",
+        "Våld som identitet",
+        "Teknik och kontroll",
+        "Överlevnad under långvarigt krig"
+      ],
+      "tone": [
+        "Brutal",
+        "Dyster",
+        "Actionbetonad"
+      ],
+      "pacing_and_structure": "En fristående OVA på omkring 44 minuter med komprimerad exposition och stark betoning på strider och en akut militär katastrof.",
+      "character_dynamics": "Geist är en farlig, svårkontrollerad förstärkt soldat snarare än en konventionell idealistisk hjälte; relationen till militärens uppdrag präglas av hans egen dragning till strid.",
+      "distinctive_features": "1986 års original-OVA kombinerar postapokalyptisk kolonial krigsmiljö, militär science fiction och grafiskt våld; en senare director's cut och uppföljare ska inte förväxlas med originalet.",
+      "comparison_cues": [
+        "Antihjälte med egen våldsdrift",
+        "Kompakt militär science fiction-OVA",
+        "Krigsmaskineri och automatiserad förintelse",
+        "Grafisk action snarare än långsamt relationsdrama"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://anilist.co/anime/1285/Soukihei-MD-Geist",
+        "https://www.anime.digital/anime/md-geist-the-most-dangerous-ever",
+        "https://myanimelist.net/anime/1285"
+      ]
     },
     "1288": {
       "mal_id": 1288,
