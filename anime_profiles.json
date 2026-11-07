@@ -267,6 +267,38 @@
         "https://ghibli-goods.net/jiblog/data-grave-of-the-fireflies/"
       ]
     },
+    "949": {
+      "mal_id": 949,
+      "title": "Top wo Nerae! Gunbuster",
+      "synopsis": "Den unga Noriko Takaya antas till en utbildning för piloter som ska möta ett hot från främmande rymdvarelser. Hon kämpar med sin osäkerhet och jämförelsen med sin berömde far, medan den skickliga Kazumi Amano blir både förebild och partner i ett uppdrag som växer långt bortom träningsskolan.",
+      "themes": [
+        "att växa genom disciplin och tvivel",
+        "mentorskap och konkurrens",
+        "personliga uppoffringar i kosmisk konflikt",
+        "relativistisk tid och separation"
+      ],
+      "tone": [
+        "inledningsvis energisk träningsdramatik",
+        "storslagen rymdopera",
+        "alltmer vemodig"
+      ],
+      "pacing_and_structure": "Sexdelad OVA från 1988–1989 som börjar som sportinspirerad pilotträning och gradvis förskjuts till större militär rymdscience fiction. Tidsskillnader under rymdresor får växande dramatisk betydelse.",
+      "character_dynamics": "Norikos osäkerhet och ambition står i kontrast till Kazumis skicklighet; deras samarbete och relation till instruktören Koichiro Ohta bär träningsdelen och dess övergång till skarpt uppdrag.",
+      "distinctive_features": "Hideaki Annos regidebut i OVA-format; kombinerar mecha, sportanime-struktur och relativistisk rymdresa i en tät sexdelad berättelse.",
+      "comparison_cues": [
+        "träning som övergår i rymdkrig",
+        "mentor- och partnerrelation",
+        "tidsskillnad som känslomässig konflikt"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/949/Top_wo_Nerae_Gunbuster",
+        "https://anime.eiga.com/movie/104191/",
+        "https://aniphoria.com/anime/gunbuster"
+      ],
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T09:19:34.089Z"
+    },
     "962": {
       "mal_id": 962,
       "title": "Aria the Natural",
@@ -370,6 +402,68 @@
         "https://www.animehistory.org/anime/macross/lore/life-aboard-macross/",
         "https://www.animehistory.org/anime/macross/lore/character-arcs-love-triangle/"
       ]
+    },
+    "1288": {
+      "mal_id": 1288,
+      "title": "Kidou Keisatsu Patlabor",
+      "synopsis": "När stora arbetsrobotar, Labors, blivit vanliga i industrin uppstår också brott och olyckor som kräver specialutrustad polis. Den nyrekryterade Noa Izumi kommer till Special Vehicles Division 2 och får arbeta med patrullroboten Alphonse och ett egensinnigt arbetslag.",
+      "themes": [
+        "vardagligt polisarbete med avancerad teknik",
+        "lagarbete och institutionsvardag",
+        "civil användning och missbruk av robotar"
+      ],
+      "tone": [
+        "vardagskomisk",
+        "lättsam science fiction",
+        "ibland samhällssatirisk"
+      ],
+      "pacing_and_structure": "Den ursprungliga sjudelade OVA-serien från 1988–1989 växlar mellan arbetsplatskomik, robotrelaterade incidenter och större hot. Inte samma verk som senare TV-serie eller långfilmer.",
+      "character_dynamics": "Noa Izumis entusiasm för sin Labor Alphonse möter kollegornas olika temperament och polisorganisationens vardagliga begränsningar; ensemblekemin är viktigare än en ensam superhjälte.",
+      "distinctive_features": "Mecha används som arbetsredskap och polisfordon snarare än som krigsmaskiner, vilket ger genren ett ovanligt civilt och byråkratiskt perspektiv.",
+      "comparison_cues": [
+        "arbetsplatsensemble",
+        "polisprocedur och vardagshumor",
+        "realistiskt civilt mecha-upplägg"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/1288/Kidou_Keisatsu_Patlabor",
+        "https://anilist.co/anime/1288/",
+        "https://www.mechalegend.fr/anime/patlabor-the-mobile-police-oav-1-1988"
+      ],
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T09:19:34.089Z"
+    },
+    "1347": {
+      "mal_id": 1347,
+      "title": "Bubblegum Crisis",
+      "synopsis": "I det återuppbyggda MegaTokyo år 2032 tillverkar megakoncernen Genom de biomekaniska Boomers, som både driver stadens ekonomi och kan bli farliga vapen. När AD Police inte räcker till bekämpar den hemliga fyrmannagruppen Knight Sabers våldsamma Boomers med avancerade kraftdräkter.",
+      "themes": [
+        "företagsmakt och teknologiskt beroende",
+        "privat rättskipning kontra polisens begränsningar",
+        "människoliknande maskiner och säkerhet"
+      ],
+      "tone": [
+        "neonpräglad cyberpunk",
+        "actiondriven",
+        "storstadsnoir"
+      ],
+      "pacing_and_structure": "Åtta OVA-avsnitt utgivna 1987–1991, med episodiska uppdrag och återkommande konflikt mellan Knight Sabers och Genoms teknologi; avsnitten varierar i längd.",
+      "character_dynamics": "Sylia Stingray leder Knight Sabers; sångerskan Priss Asagiri, poliskopplade Nene Romanova och Linna Yamazaki tillför olika färdigheter och perspektiv. Gruppens samarbete är centralt, medan AD Police fungerar som en begränsad institutionell motpart.",
+      "distinctive_features": "1980-talets rockestetik och högteknologiska rustningar kombineras med en kvinnlig insatsgrupp i en företagsdominerad framtidsstad.",
+      "comparison_cues": [
+        "cyberpunk med företagsmakt",
+        "kvinnlig ensemble i bepansrade dräkter",
+        "uppdragsorienterad OVA-struktur"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/1347/Bubblegum_Crisis",
+        "https://animesc.com/en/details/22Nz69/bubblegum-crisis",
+        "https://theanimelist.net/anime/bubblegum-crisis"
+      ],
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T09:19:34.089Z"
     },
     "1887": {
       "mal_id": 1887,
