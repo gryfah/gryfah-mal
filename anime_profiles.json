@@ -133,6 +133,38 @@
         "https://lufas.won.fyi/anime/47/akira"
       ]
     },
+    "164": {
+      "mal_id": 164,
+      "title": "Mononoke Hime",
+      "synopsis": "Den förbannade Emishi-prinsen Ashitaka reser västerut för att söka bot och hamnar mellan järnstaden Tatara och skogens gudomliga invånare. San, en människa uppfostrad av vargar, försvarar skogen medan Eboshi skyddar människor som är beroende av stadens järnproduktion.",
+      "themes": [
+        "Människa och natur i konflikt",
+        "Våldets följder och ansvar",
+        "Medkänsla över konfliktgränser",
+        "Teknisk utveckling och försörjning"
+      ],
+      "tone": [
+        "Episk",
+        "Allvarsam",
+        "Våldsam",
+        "Vemodig"
+      ],
+      "pacing_and_structure": "Sammanhållen äventyrsfilm med successivt eskalerande konflikt, omväxlande handlingssekvenser och moraliska samtal.",
+      "character_dynamics": "Ashitaka söker förståelse mellan San och Eboshi; San misstror människor medan Eboshi förenar omsorg om sin befolkning med skogsskövling.",
+      "distinctive_features": "Inga enkla skurkar i den centrala konflikten; skogsgudar, järnbruk och en förbannelse gestaltar ömsesidigt beroende.",
+      "comparison_cues": [
+        "Moraliskt komplex ekologisk konflikt snarare än entydigt gott mot ont",
+        "Äventyr och relationsbyggande under yttre hot",
+        "Kollektiv försörjning kontra naturens egenvärde"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://www.studioghibli.fr/les-films/princesse-mononoke/",
+        "https://studioghibli.jp/films/princess-mononoke/"
+      ],
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T18:13:04.713Z"
+    },
     "182": {
       "mal_id": 182,
       "title": "Tenkuu no Escaflowne",
@@ -230,6 +262,38 @@
         "https://myanimelist.net/anime/435",
         "https://waifulist.moe/anime/435"
       ]
+    },
+    "437": {
+      "mal_id": 437,
+      "title": "Perfect Blue",
+      "synopsis": "Popidolen Mima Kirigoe lämnar gruppen CHAM! för en skådespelarkarriär. Rollen i en tv-serie, en besatt förföljare och hotfulla händelser gör hennes offentliga identitet och upplevelse av verkligheten allt svårare att hålla isär.",
+      "themes": [
+        "Identitet och självbestämmande",
+        "Kändisskap och publikens ägandekänsla",
+        "Objektifiering och exploatering",
+        "Gränsen mellan verklighet och fiktion"
+      ],
+      "tone": [
+        "Psykologiskt intensiv",
+        "Obehaglig",
+        "Paranoid",
+        "Mörk"
+      ],
+      "pacing_and_structure": "Psykologisk thriller som stegvis skärper osäkerheten med tv-produktionens scener, subjektiva upplevelser och förskjutningar mellan verklighetsnivåer.",
+      "character_dynamics": "Mimas försök att forma en ny yrkesidentitet ställs mot fansens förväntningar, branschens krav och hennes närmaste professionella relationer.",
+      "distinctive_features": "Satoshi Kons långfilmsdebut använder skådespeleri, idolbild och fragmenterad perception för att undergräva en säker verklighetsbild.",
+      "comparison_cues": [
+        "Opålitligt subjektivt perspektiv och identitetsupplösning",
+        "Kritik av kändiskultur och kommersiell kontroll",
+        "Hög psykologisk intensitet snarare än traditionell action"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://gkids.com/films/perfect-blue/",
+        "https://gkidstickets.com/us/perfect-blue/synopsis/"
+      ],
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T18:13:04.713Z"
     },
     "474": {
       "mal_id": 474,
