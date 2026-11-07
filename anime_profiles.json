@@ -66,6 +66,76 @@
         "https://theanimelist.net/anime/shinseiki-evangelion"
       ]
     },
+    "47": {
+      "mal_id": 47,
+      "title": "Akira",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T08:13:05.736Z",
+      "synopsis": "I Neo-Tokyo dras motorcykelgängsledaren Kaneda och hans vän Tetsuo in i ett hemligt statligt experiment när Tetsuo utvecklar förödande psykiska krafter. Deras konflikt växer fram mot en bakgrund av politisk oro och ett samhälle präglat av tidigare katastrofer.",
+      "themes": [
+        "makt och maktlöshet",
+        "vänskap som bryts ned",
+        "militär kontroll och experiment",
+        "samhällelig kollaps",
+        "identitet och kroppslig förändring"
+      ],
+      "tone": [
+        "intensiv",
+        "hotfull",
+        "dystopisk",
+        "våldsam"
+      ],
+      "pacing_and_structure": "En långfilm med tät eskalering från gängkonflikter och stadsoro till science fiction-katastrof; visuell och ljudmässig intensitet bär mycket av berättandet.",
+      "character_dynamics": "Kanedas självbild som beskyddare och Tetsuos växande frustration och behov av självständighet driver den personliga konflikten; myndigheter försöker samtidigt kontrollera Tetsuo.",
+      "distinctive_features": "Detaljerad handritad animation, neonpräglat Neo-Tokyo, motorcykelikonografi och en blandning av politisk dystopi och kroppsskräck.",
+      "comparison_cues": [
+        "vänskapskonflikt under extrem maktförskjutning",
+        "cyberpunkliknande stadsdystopi",
+        "kroppsskräck och psykiska krafter",
+        "visuell täthet framför långsam exposition"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/47/Akira",
+        "https://anilist.co/anime/47/AKIRA",
+        "https://lufas.won.fyi/anime/47/akira"
+      ]
+    },
+    "512": {
+      "mal_id": 512,
+      "title": "Majo no Takkyuubin",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-07T08:13:05.736Z",
+      "synopsis": "Den trettonåriga häxan Kiki lämnar hemmet med katten Jiji för att enligt traditionen leva självständigt i en ny stad. Hon finner en plats hos bagaren Osono och startar en budtjänst med sin flygförmåga, men behöver lära sig hantera osäkerhet, arbete och tillhörighet.",
+      "themes": [
+        "självständighet och ansvar",
+        "uppväxt och identitet",
+        "arbete och vardagsgemenskap",
+        "självtillit",
+        "att hitta sin plats"
+      ],
+      "tone": [
+        "varm",
+        "vardagsnära",
+        "lågmält melankolisk",
+        "hoppfull"
+      ],
+      "pacing_and_structure": "Episodiskt vardagsdrama i långfilmsformat; små möten och leveranser bygger gradvis en berättelse om självständighet snarare än ett traditionellt äventyrsuppdrag.",
+      "character_dynamics": "Kikis relation till Jiji ger sällskap och speglar hennes osäkerhet, medan Osono erbjuder praktiskt stöd och den flygintresserade Tombo öppnar för nya sociala band.",
+      "distinctive_features": "Magi behandlas som en vardaglig färdighet och ett arbete; kuststadens miljö och leveransuppdragen ger berättelsen konkret social förankring.",
+      "comparison_cues": [
+        "coming-of-age utan huvudskurk",
+        "vardagsarbete som identitetsbyggande",
+        "varsam magisk realism",
+        "vänskap och mentorskap snarare än romantiskt huvudspår"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/512/Majo_no_Takkyuubin",
+        "https://anilist.co/anime/512/KikisDeliveryService/",
+        "https://www.rottentomatoes.com/m/kikis_delivery_service"
+      ]
+    },
     "513": {
       "mal_id": 513,
       "title": "Tenkuu no Shiro Laputa",
