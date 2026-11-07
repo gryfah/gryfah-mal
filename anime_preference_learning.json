@@ -2,5 +2,183 @@
   "schema_version": 1,
   "description": "Question queue, explicit user answers and evidence-graded hypotheses about anime preferences. MAL ratings and statuses remain authoritative in anime.json; anime_profiles.json describes individual works.",
   "questions": {},
-  "insights": {}
+  "insights": {
+    "completed_observations": {
+      "572": {
+        "mal_id": 572,
+        "title": "Kaze no Tani no Nausicaä",
+        "observed_status": "completed",
+        "user_score": 8,
+        "mal_mean_score": 8.36,
+        "mal_num_scoring_users": 262088,
+        "mal_genres": [
+          "Adventure",
+          "Award Winning",
+          "Drama",
+          "Fantasy"
+        ],
+        "profile_ref": 572,
+        "rating_band": "high",
+        "score_minus_mal": -0.36,
+        "baseline_median_offset": null,
+        "consensus_residual": null,
+        "anime_snapshot_at": "2026-11-07T04:08:47.386748+00:00",
+        "observed_at_utc": "2026-11-07T04:20:50.533Z"
+      },
+      "1088": {
+        "mal_id": 1088,
+        "title": "Macross",
+        "observed_status": "completed",
+        "user_score": 7,
+        "mal_mean_score": 7.89,
+        "mal_num_scoring_users": 40458,
+        "mal_genres": [
+          "Mecha",
+          "Military",
+          "Music",
+          "Romance",
+          "Sci-Fi",
+          "Space"
+        ],
+        "profile_ref": 1088,
+        "rating_band": "mild_positive",
+        "score_minus_mal": -0.89,
+        "baseline_median_offset": null,
+        "consensus_residual": null,
+        "anime_snapshot_at": "2026-11-07T04:08:47.386748+00:00",
+        "observed_at_utc": "2026-11-07T04:20:50.533Z"
+      },
+      "52481": {
+        "mal_id": 52481,
+        "title": "Gimai Seikatsu",
+        "observed_status": "completed",
+        "user_score": 7,
+        "mal_mean_score": 7.3,
+        "mal_num_scoring_users": 95374,
+        "mal_genres": [
+          "Romance"
+        ],
+        "profile_ref": 52481,
+        "rating_band": "mild_positive",
+        "score_minus_mal": -0.3,
+        "baseline_median_offset": null,
+        "consensus_residual": null,
+        "anime_snapshot_at": "2026-11-07T04:08:47.386748+00:00",
+        "observed_at_utc": "2026-11-07T04:20:50.533Z"
+      }
+    },
+    "mal_category_statistics": {
+      "Adventure": {
+        "n_rated": 1,
+        "mean_user_score": 8,
+        "n_high": 1,
+        "n_mild_positive": 0,
+        "n_neutral": 0,
+        "n_low": 0,
+        "mean_consensus_residual": null,
+        "evidence_status": "insufficient_evidence",
+        "last_updated_utc": "2026-11-07T04:20:50.533Z"
+      },
+      "Award Winning": {
+        "n_rated": 1,
+        "mean_user_score": 8,
+        "n_high": 1,
+        "n_mild_positive": 0,
+        "n_neutral": 0,
+        "n_low": 0,
+        "mean_consensus_residual": null,
+        "evidence_status": "insufficient_evidence",
+        "last_updated_utc": "2026-11-07T04:20:50.533Z"
+      },
+      "Drama": {
+        "n_rated": 1,
+        "mean_user_score": 8,
+        "n_high": 1,
+        "n_mild_positive": 0,
+        "n_neutral": 0,
+        "n_low": 0,
+        "mean_consensus_residual": null,
+        "evidence_status": "insufficient_evidence",
+        "last_updated_utc": "2026-11-07T04:20:50.533Z"
+      },
+      "Fantasy": {
+        "n_rated": 1,
+        "mean_user_score": 8,
+        "n_high": 1,
+        "n_mild_positive": 0,
+        "n_neutral": 0,
+        "n_low": 0,
+        "mean_consensus_residual": null,
+        "evidence_status": "insufficient_evidence",
+        "last_updated_utc": "2026-11-07T04:20:50.533Z"
+      },
+      "Mecha": {
+        "n_rated": 1,
+        "mean_user_score": 7,
+        "n_high": 0,
+        "n_mild_positive": 1,
+        "n_neutral": 0,
+        "n_low": 0,
+        "mean_consensus_residual": null,
+        "evidence_status": "insufficient_evidence",
+        "last_updated_utc": "2026-11-07T04:20:50.533Z"
+      },
+      "Military": {
+        "n_rated": 1,
+        "mean_user_score": 7,
+        "n_high": 0,
+        "n_mild_positive": 1,
+        "n_neutral": 0,
+        "n_low": 0,
+        "mean_consensus_residual": null,
+        "evidence_status": "insufficient_evidence",
+        "last_updated_utc": "2026-11-07T04:20:50.533Z"
+      },
+      "Music": {
+        "n_rated": 1,
+        "mean_user_score": 7,
+        "n_high": 0,
+        "n_mild_positive": 1,
+        "n_neutral": 0,
+        "n_low": 0,
+        "mean_consensus_residual": null,
+        "evidence_status": "insufficient_evidence",
+        "last_updated_utc": "2026-11-07T04:20:50.533Z"
+      },
+      "Romance": {
+        "n_rated": 2,
+        "mean_user_score": 7,
+        "n_high": 0,
+        "n_mild_positive": 2,
+        "n_neutral": 0,
+        "n_low": 0,
+        "mean_consensus_residual": null,
+        "evidence_status": "insufficient_evidence",
+        "last_updated_utc": "2026-11-07T04:20:50.533Z"
+      },
+      "Sci-Fi": {
+        "n_rated": 1,
+        "mean_user_score": 7,
+        "n_high": 0,
+        "n_mild_positive": 1,
+        "n_neutral": 0,
+        "n_low": 0,
+        "mean_consensus_residual": null,
+        "evidence_status": "insufficient_evidence",
+        "last_updated_utc": "2026-11-07T04:20:50.533Z"
+      },
+      "Space": {
+        "n_rated": 1,
+        "mean_user_score": 7,
+        "n_high": 0,
+        "n_mild_positive": 1,
+        "n_neutral": 0,
+        "n_low": 0,
+        "mean_consensus_residual": null,
+        "evidence_status": "insufficient_evidence",
+        "last_updated_utc": "2026-11-07T04:20:50.533Z"
+      }
+    },
+    "question_candidates": {}
+  }
 }
