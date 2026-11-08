@@ -2929,6 +2929,69 @@
         "https://www.animeka.com/animes/detail/download.html"
       ]
     },
+    "3299": {
+      "mal_id": 3299,
+      "title": "H2O: Footprints in the Sand",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-08T16:00:00Z",
+      "synopsis": "Takuma Hirose, en gymnasieelev med synnedsättning, flyttar till en lantlig by för att bo hos sin farbror. Där lär han känna den utstötta Hayami Kohinata, klassrepresentanten Hinata Kagura och den gåtfulla Otoha. Hans försök att förstå och hjälpa Hayami för honom närmare byns nedärvda konflikter.",
+      "themes": [
+        "Social utfrysning och kollektiv skuld",
+        "Sorg och bearbetning",
+        "Tillit kontra nedärvda fördomar",
+        "Synförmåga som berättarmotiv"
+      ],
+      "tone": [
+        "Melodramatisk",
+        "Romantisk",
+        "Mystisk",
+        "Bitvis mörk"
+      ],
+      "pacing_and_structure": "Tolv avsnitt; inleds som skol- och relationsdrama i lantmiljö och bygger successivt upp hemligheter med övernaturliga inslag.",
+      "character_dynamics": "Takumas omtanke om Hayami står i kontrast till bybornas fientlighet. Hinata har en mer accepterad ställning i skolan, medan Otoha tillför ett övernaturligt perspektiv på Takumas situation.",
+      "distinctive_features": "Visual novel-adaption från ZEXCS där en huvudpersons synnedsättning och ett lokalsamhälles historia vävs samman med romantik och mystik.",
+      "comparison_cues": [
+        "Relation där en utomstående utmanar en grupps behandling av en utstött person",
+        "Lantlig skolmiljö med hemligheter snarare än ren vardagsromantik",
+        "Övernaturliga inslag kopplade till huvudpersonens perceptionsförmåga"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://anilist.co/anime/3299/h2o-footprints-in-the-sand",
+        "https://tv.apple.com/jp/show/h2o-footprints-in-the-sand/umc.cmc.60y9zfyzvbbzs3kuvwti9pflp"
+      ]
+    },
+    "3342": {
+      "mal_id": 3342,
+      "title": "Mnemosyne: Mnemosyne no Musume-tachi",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-08T16:00:00Z",
+      "synopsis": "I Tokyo arbetar Rin Asougi som privatdetektiv. Hennes odödlighet gör att hon kan överleva händelser som skulle döda andra, men hon dras samtidigt in i våldsamma mysterier och konflikter som sträcker sig över flera tidsperioder.",
+      "themes": [
+        "Odödlighet och dödlighet",
+        "Identitet över tid",
+        "Våld, exploatering och makt",
+        "Minnets och erfarenhetens betydelse"
+      ],
+      "tone": [
+        "Mörk",
+        "Våldsam",
+        "Erotiskt laddad",
+        "Mysteriebetonad"
+      ],
+      "pacing_and_structure": "Sex längre avsnitt; kriminalmysterier och konspiration vävs samman över en längre tidsrymd, med kraftiga tonala skiften mellan utredning, action och kroppslig skräck.",
+      "character_dynamics": "Rin fungerar som återkommande nav i berättelsen; hennes odödlighet skapar ett annorlunda förhållande till både tillfälliga klienter och långvariga relationer.",
+      "distinctive_features": "Vuxeninriktad originalanime från Xebec, producerad till AT-X:s tioårsjubileum, med explicit våld och sexualiserat innehåll.",
+      "comparison_cues": [
+        "Odödlig kvinnlig detektiv snarare än traditionell hjälte",
+        "Mysterieepisoder sammanbundna över decennier",
+        "Extremt våld och sexualiserat innehåll som starka tonmarkörer"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mnemosyne_(TV_series)"
+      ]
+    },
     "3782": {
       "mal_id": 3782,
       "title": "Kara no Kyoukai Movie 2: Satsujin Kousatsu (Zen)",
@@ -2959,6 +3022,37 @@
       "sources": [
         "https://theanimelist.net/anime/kara-no-kyoukai-movie-2-satsujin-kousatsu-zen",
         "https://www.animesc.com/en/details/29Jeba/kara-no-kyoukai-movie-2-satsujin-kousatsu-zen"
+      ]
+    },
+    "3783": {
+      "mal_id": 3783,
+      "title": "Kara no Kyoukai Movie 3: Tsuukaku Zanryuu",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-08T16:00:00Z",
+      "synopsis": "Efter en serie brutala dödsfall riktas uppmärksamheten mot Fujino Asagami, en ung kvinna vars förhållande till fysisk smärta är ovanligt. Shiki Ryougi dras in i utredningen, där övernaturliga förmågor och frågan om hur lidande upplevs står i centrum.",
+      "themes": [
+        "Smärta och kroppslig erfarenhet",
+        "Trauma och utsatthet",
+        "Våld och ansvar",
+        "Medkänsla kontra konfrontation"
+      ],
+      "tone": [
+        "Dyster",
+        "Psykologiskt intensiv",
+        "Våldsam",
+        "Övernaturlig thriller"
+      ],
+      "pacing_and_structure": "Tredje långfilmen i Kara no Kyoukai-serien; koncentrerad kriminalgåta som utvecklas till psykologisk och övernaturlig konflikt. Serien använder en icke-linjär kronologi.",
+      "character_dynamics": "Shiki och Fujino ställs mot varandra genom olika sätt att förhålla sig till död, skada och våld; Mikiya Kokutou erbjuder ett mer medkännande perspektiv.",
+      "distinctive_features": "Ufotable-film baserad på Kinoko Nasus romanvärld, med psykisk och fysisk smärta som konkret övernaturligt berättarmotiv. Innehåller sexuellt våld och grafiskt våld.",
+      "comparison_cues": [
+        "Övernaturlig kriminalgåta som kretsar kring upplevelsen av smärta",
+        "Moraliskt komplex konfrontation mellan två kvinnor med särskilda förmågor",
+        "Mörk ton och icke-linjär filmserie"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Garden_of_Sinners:_Remaining_Sense_of_Pain"
       ]
     },
     "3989": {
