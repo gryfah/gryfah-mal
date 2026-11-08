@@ -3924,6 +3924,66 @@
         "https://myanimelist.net/anime/6213"
       ]
     },
+    "6336": {
+      "mal_id": 6336,
+      "title": "Kidou Senshi Gundam Unicorn",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-08T23:16:23.775Z",
+      "synopsis": "År UC 0096 dras studenten Banagher Links och Audrey Burne in i en konflikt om Laplace's Box, en hemlighet som kan rubba Jordfederationens makt. Banagher får styra Unicorn Gundam medan rivaliserande fraktioner kämpar om kontrollen.",
+      "themes": [
+        "Historiskt arv och politisk makt",
+        "Krigets pris",
+        "Individens ansvar i en större konflikt"
+      ],
+      "tone": [
+        "Allvarlig",
+        "Storskaligt dramatisk",
+        "Militärpolitisk"
+      ],
+      "pacing_and_structure": "Sju längre OVA-avsnitt bygger en sammanhängande konflikt med politiska intriger och omfattande mecha-strider.",
+      "character_dynamics": "Banagher och Audrey vill undvika ett nytt krig men är bundna till olika delar av konflikten. Banaghers förhållande till sin far och möten med olika soldater komplicerar uppdelningen i vänner och fiender.",
+      "distinctive_features": "Utspelar sig i Universal Century efter andra Neo Zeon-kriget; Unicorn Gundam och Laplace's Box förenar action med en politisk gåta.",
+      "comparison_cues": [
+        "Moralisk tvetydighet mellan fraktioner",
+        "Beroende av tidigare Gundam-kontinuitet",
+        "Balans mellan strider och politiskt drama"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://en.gundam-official.com/series/unicorn",
+        "https://myanimelist.net/anime/6336"
+      ]
+    },
+    "6547": {
+      "mal_id": 6547,
+      "title": "Angel Beats!",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-08T23:16:23.775Z",
+      "synopsis": "Otonashi vaknar utan minnen i en skola i livet efter döden. Han möter Yuri, ledare för en elevgrupp som gör uppror mot sitt öde och bekämpar den gåtfulla flickan Angel.",
+      "themes": [
+        "Motstånd mot ett orättvist öde",
+        "Minnen, förlust och ofullbordade liv",
+        "Gemenskap och försoning"
+      ],
+      "tone": [
+        "Absurdistiskt komisk",
+        "Actionpräglad",
+        "Sorgsen"
+      ],
+      "pacing_and_structure": "13 avsnitt växlar mellan skolfars, väpnade uppdrag och successivt mer personliga och existentiella berättelser.",
+      "character_dynamics": "Otonashi är nykomlingen som försöker förstå efterlivet; Yuris grupp ser Angel som fienden, medan hans frågor gradvis komplicerar deras konflikt.",
+      "distinctive_features": "Originalanime från P.A.WORKS med manus av Jun Maeda; musikframträdanden, övernaturlig skolmiljö och ett väpnat elevuppror.",
+      "comparison_cues": [
+        "Växling mellan humor och sorg",
+        "Existentiella frågor i skolmiljö",
+        "Utrymme för bifigurer i en kort serie"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://www.pa-works.jp/works_en/angel-beats/",
+        "https://myanimelist.net/anime/6547"
+      ]
+    },
     "6802": {
       "mal_id": 6802,
       "title": "So Ra No Wo To",
