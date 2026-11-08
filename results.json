@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-08T09:01:36.077085Z",
+  "updated_at": "2026-11-08T10:05:29.212644Z",
   "events": [
     {
       "event_id": "20261103T161523963051Z-21-plan_to_watch-to-dropped",
@@ -28,6 +28,19 @@
         "post_watch"
       ],
       "mal_url": "https://myanimelist.net/anime/52481"
+    },
+    {
+      "event_id": "20261108T100529212644Z-58883-plan_to_watch-to-dropped",
+      "detected_at": "2026-11-08T10:05:29.212644Z",
+      "mal_id": 58883,
+      "title": "Dead Dead Demons Dededede Destruction (ONA)",
+      "previous_status": "plan_to_watch",
+      "status": "dropped",
+      "score": 0,
+      "signals": [
+        "next_up"
+      ],
+      "mal_url": "https://myanimelist.net/anime/58883"
     }
   ]
 }
