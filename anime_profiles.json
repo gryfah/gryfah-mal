@@ -3335,6 +3335,36 @@
       "researched_at_utc": "2026-11-08T13:18:21.067Z",
       "uncertainties": []
     },
+    "5680": {
+      "mal_id": 5680,
+      "title": "K-On!",
+      "profile_status": "complete",
+      "synopsis": "Yui Hirasawa går med i skolans lättmusikklubb utan att kunna spela ett instrument. Ritsu, Mio och Tsumugi behöver en fjärde medlem för att klubben ska överleva; tillsammans lär de sig musicera och förbereder sig bland annat för skolans festival.",
+      "themes": [
+        "Vänskap genom gemensam hobby",
+        "Att lära sig något från grunden",
+        "Skolvardag och klubbens gemenskap"
+      ],
+      "tone": [
+        "Varm",
+        "Lekfull",
+        "Avslappnad"
+      ],
+      "pacing_and_structure": "Episodisk vardagskomedi med repetition, skolliv och mindre musikaliska milstolpar snarare än täta dramatiska vändningar.",
+      "character_dynamics": "Yuis spontana nybörjarperspektiv möter Ritsus initiativförmåga, Mios mer försiktiga hållning och Tsumugis stödjande närvaro.",
+      "distinctive_features": "Kyoto Animations musikcentrerade skolklubbsserie där samspelet och vardagsrutinerna är lika viktiga som själva bandframträdandena.",
+      "comparison_cues": [
+        "Musik som social gemenskap snarare än tävlingsmål",
+        "Vardagligt tempo och ensemblekomik",
+        "Nybörjarens utveckling inom ett etablerat kompisgäng"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://www.kyotoanimation.co.jp/en/works/k-on/",
+        "https://anilist.co/anime/5680/KOn/"
+      ],
+      "researched_at_utc": "2026-11-08T17:14:16.626Z"
+    },
     "6016": {
       "mal_id": 6016,
       "title": "Kyoushoku Soukou Guyver (1989)",
@@ -3400,6 +3430,68 @@
         "https://anilist.co/anime/6098/SoranoManimani",
         "https://en.wikipedia.org/wiki/List_of_Sora_no_Manimani_episodes"
       ]
+    },
+    "6164": {
+      "mal_id": 6164,
+      "title": "Aoi Hana",
+      "profile_status": "complete",
+      "synopsis": "Barndomsvännerna Fumi Manjoume och Akira Okudaira återförenas efter många år, men går nu i olika flickskolor. Medan de försöker hitta tillbaka till sin vänskap brottas Fumi med känslor för en äldre skolelev och frågor om kärlek och identitet.",
+      "themes": [
+        "Återfunnen vänskap",
+        "Samkönad förälskelse",
+        "Att växa upp och förstå sina känslor",
+        "Självständighet i nära relationer"
+      ],
+      "tone": [
+        "Varsam",
+        "Eftertänksam",
+        "Lågmält romantisk"
+      ],
+      "pacing_and_structure": "Elva avsnitts relationsdrama där skoldagar, samtal och gradvis förändrade känslor driver berättelsen snarare än spektakulära konflikter.",
+      "character_dynamics": "Den tillbakadragna Fumi söker trygghet och orientering i sina relationer; den mer utåtriktade Akira försöker stödja sin återfunna vän utan att alla deras erfarenheter är desamma.",
+      "distinctive_features": "Takako Shimuras manga i en J.C.Staff-adaption som behandlar flickors romantiska känslor och vänskap som parallella, inte utbytbara, relationer.",
+      "comparison_cues": [
+        "Realistiskt relationsdrama snarare än yuri som ren genredekoration",
+        "Skillnaden mellan vänskap och romantisk attraktion",
+        "Återförening och personlig mognad i två skolmiljöer"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://anilist.co/anime/6164/Aoi-Hana/watch",
+        "https://myanimepulse.com/anime/6164"
+      ],
+      "researched_at_utc": "2026-11-08T17:14:16.626Z"
+    },
+    "6802": {
+      "mal_id": 6802,
+      "title": "So Ra No Wo To",
+      "profile_status": "complete",
+      "synopsis": "Kanata Sorami tar värvning i Helvetias armé för att lära sig spela signalhorn och placeras vid den avlägsna klocktornsfästningen i staden Seize. I den lilla 1121:a plutonen möter hon en grupp soldater vars vardag fortsätter i skuggan av ett krigshärjat landskap.",
+      "themes": [
+        "Musik som hopp och kommunikation",
+        "Vardaglig gemenskap under militär disciplin",
+        "Krigets kvarvarande spår",
+        "Att finna skönhet i en osäker värld"
+      ],
+      "tone": [
+        "Stillsam",
+        "Varm",
+        "Melankolisk med underliggande oro"
+      ],
+      "pacing_and_structure": "Vardagsorienterade avsnitt om garnisonens liv och relationer kontrasteras mot antydningar om en större konflikt och världens historia.",
+      "character_dynamics": "Den entusiastiska nykomlingen Kanata lär av trumpetaren Rio och blir del av en liten pluton med olika temperament, erfarenheter och ansvar.",
+      "distinctive_features": "Originalanime från A-1 Pictures som förenar militär postapokalyptisk miljö med musik, småstadsvardag och lågmält ensembleberättande.",
+      "comparison_cues": [
+        "Kontrast mellan fredlig vardag och krigets närvaro",
+        "Musikens konkreta roll i huvudpersonens motivation",
+        "Ensemblegemenskap snarare än en traditionell krigsactionstruktur"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://anilist.co/anime/6802",
+        "https://sibly.fr/en/catalogue/so-ra-no-wo-to"
+      ],
+      "researched_at_utc": "2026-11-08T17:14:16.626Z"
     },
     "9055": {
       "mal_id": 9055,
