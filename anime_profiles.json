@@ -2990,6 +2990,98 @@
         "https://myanimelist.net/anime/3989"
       ]
     },
+    "4181": {
+      "mal_id": 4181,
+      "title": "Clannad: After Story",
+      "synopsis": "Fortsättningen följer Tomoya Okazaki och Nagisa Furukawa efter att deras romantiska relation etablerats. Vänskaper, framtidsval och vägen mot ett gemensamt familjeliv får större betydelse när de lämnar skoltidens tidigare ramar.",
+      "themes": [
+        "Familjeband och ansvar",
+        "Övergången till vuxenlivet",
+        "Kärlek under svåra livsomständigheter",
+        "Försoning och tillhörighet"
+      ],
+      "tone": [
+        "Varm",
+        "Melankolisk",
+        "Emotionellt intensiv"
+      ],
+      "pacing_and_structure": "Fortsättningssäsong som inledningsvis återknyter till sidokaraktärernas vardagsberättelser men successivt flyttar tyngdpunkten till Tomoyas och Nagisas vuxenliv och familj.",
+      "character_dynamics": "Tomoyas och Nagisas parrelation står i centrum; deras närhet till vänner och familj, inklusive Tomoyas problematiska familjebakgrund, ger relationen vidare sammanhang.",
+      "distinctive_features": "Till skillnad från många skolromantiska serier följer den huvudparets relation vidare mot arbete, familjebildning och vuxenansvar.",
+      "comparison_cues": [
+        "Romantisk berättelse som fortsätter efter att paret bildats",
+        "Familj och vuxenansvar snarare än enbart skolromantik",
+        "Successiv förskjutning från sidoberättelser till huvudparets liv"
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/4181",
+        "https://www.sentaifilmworks.com/blogs/catalog/clannad-after-story"
+      ],
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-08T13:18:21.067Z",
+      "uncertainties": []
+    },
+    "4224": {
+      "mal_id": 4224,
+      "title": "Toradora!",
+      "synopsis": "Ryuuji Takasu ser skrämmande ut men är omtänksam och sköter gärna hushållssysslor. Den temperamentsfulla Taiga Aisaka är förälskad i hans vän Kitamura, medan Ryuuji själv tycker om Taigas vän Minori. De två gör en överenskommelse om att hjälpa varandra med sina respektive förälskelser.",
+      "themes": [
+        "Förälskelse och vänskap",
+        "Första intryck kontra personlighet",
+        "Familjeförhållanden och tillhörighet"
+      ],
+      "tone": [
+        "Komisk",
+        "Känslosam",
+        "Vardagsnära"
+      ],
+      "pacing_and_structure": "En 25 avsnitt lång romantisk skoldramakomedi som börjar med vardagskonflikter och ett gemensamt kärleksprojekt, medan relationerna fördjupas under seriens gång.",
+      "character_dynamics": "Ryuuji är praktisk och omsorgsfull medan Taiga ofta reagerar impulsivt; deras samarbete påverkar även vänskapskretsen kring Minori och Kitamura.",
+      "distinctive_features": "De två huvudpersonernas ömsesidiga hjälp med andra förälskelser ger en tydlig grund för både situationskomik och relationell förändring.",
+      "comparison_cues": [
+        "Ömsesidig hjälp med obesvarade förälskelser",
+        "Kontrast mellan yttre rykte och verklig personlighet",
+        "Övergång från skoldagskomik till relationsdrama"
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/4224",
+        "https://theanimelist.net/anime/toradora"
+      ],
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-08T13:18:21.067Z",
+      "uncertainties": []
+    },
+    "4654": {
+      "mal_id": 4654,
+      "title": "Toaru Majutsu no Index",
+      "synopsis": "I den teknologiskt avancerade Academy City har studenten Touma Kamijou officiellt den lägsta nivån av esperförmåga, men hans högra hand kan neutralisera övernaturliga krafter. När han möter Index, en ung nunna som bär kunskapen från 103 000 förbjudna magiska böcker, dras han in i konflikter mellan vetenskapliga och magiska organisationer.",
+      "themes": [
+        "Vetenskap och magi",
+        "Makt och kunskapskontroll",
+        "Skydd av utsatta personer",
+        "Institutionella konflikter"
+      ],
+      "tone": [
+        "Actionbetonad",
+        "Äventyrlig",
+        "Periodvis humoristisk"
+      ],
+      "pacing_and_structure": "Första tv-säsongen omfattar 24 avsnitt och presenterar Academy City genom flera konflikter och berättelsebågar, snarare än ett enda avslutat mysterium.",
+      "character_dynamics": "Touma tar en beskyddande roll gentemot Index trots sin låga officiella rang; hans ovanliga förmåga placerar honom mellan organisationer med olika intressen.",
+      "distinctive_features": "Samtidig förekomst av systematiskt utvecklade esperkrafter och hemlig religiös magi, med Imagine Breaker som ett undantag från båda maktsystemen.",
+      "comparison_cues": [
+        "Konflikt mellan teknologisk esperforskning och magiska organisationer",
+        "Huvudperson vars kraft upphäver andras förmågor",
+        "Flera sammanlänkade konflikter i samma stadsmiljö"
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/4654",
+        "https://www.crunchyroll.com/pt-br/series/GRVNZK5PY/a-certain-magical-index"
+      ],
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-08T13:18:21.067Z",
+      "uncertainties": []
+    },
     "6016": {
       "mal_id": 6016,
       "title": "Kyoushoku Soukou Guyver (1989)",
