@@ -1345,6 +1345,36 @@
         "https://myanimelist.net/anime/877"
       ]
     },
+    "889": {
+      "mal_id": 889,
+      "title": "Black Lagoon",
+      "synopsis": "Kontorsanställde Rokurou Okajima kidnappas under en tjänsteresa av smugglargänget Lagoon Company. När hans arbetsgivare överger honom ansluter han sig till besättningen under namnet Rock och dras in i den kriminella hamnstaden Roanapurs våldsamma affärer.",
+      "themes": [
+        "Moralisk anpassning till en kriminell miljö",
+        "Lojalitet och opportunism",
+        "Civil identitet kontra överlevnad"
+      ],
+      "tone": [
+        "Hårdkokt",
+        "Våldsam",
+        "Cyniskt humoristisk"
+      ],
+      "pacing_and_structure": "Tolv avsnitt med intensiva uppdrag och konflikter som etablerar Roanapurs kriminella maktbalans och Rocks gradvisa omställning.",
+      "character_dynamics": "Rock fungerar som civil kontrast till den stridserfarna och impulsiva Revy; deras motsatta syn på våld och moral skapar återkommande friktion.",
+      "distinctive_features": "Samtida pirat- och smugglarmiljö i Sydostasien, internationella brottssyndikat och vapenfokuserad action; anime av Madhouse efter Rei Hiroes manga.",
+      "comparison_cues": [
+        "Civil huvudperson som blir del av kriminell besättning",
+        "Ideologisk friktion mellan Rock och Revy",
+        "Episodiska smugglingsuppdrag med sammanhängande miljö"
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/889",
+        "https://www.blacklagoon.jp/"
+      ],
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-08T07:13:37.268Z",
+      "uncertainties": []
+    },
     "934": {
       "mal_id": 934,
       "title": "Higurashi no Naku Koro ni",
@@ -2307,6 +2337,37 @@
         "https://theanimelist.net/anime/luckystar"
       ]
     },
+    "2025": {
+      "mal_id": 2025,
+      "title": "Darker than Black: Kuro no Keiyakusha",
+      "synopsis": "Efter att det mystiska Hell's Gate uppstått i Tokyo har människor med övernaturliga förmågor, så kallade Contractors, blivit brickor i internationell underrättelseverksamhet. Hei lever offentligt som studenten Li Shengshun men utför i hemlighet farliga uppdrag för en organisation.",
+      "themes": [
+        "Identitet och dubbelliv",
+        "Instrumentalisering av människor med särskilda förmågor",
+        "Känslor kontra plikt",
+        "Underrättelsepolitik och hemligheter"
+      ],
+      "tone": [
+        "Noirpräglad",
+        "Spänningsfylld",
+        "Melankolisk"
+      ],
+      "pacing_and_structure": "Spionthriller i 25 avsnitt med uppdragsdrivna delberättelser och ett gradvis fördjupat mysterium kring Hell's Gate.",
+      "character_dynamics": "Heis vardagliga täckmantel kontrasterar mot hans roll som fruktad agent; relationen till kollegan Yin och kontakterna med andra Contractors ger konflikten mänskliga perspektiv.",
+      "distinctive_features": "Originalanime från Bones regisserad av Tensai Okamura; ett förändrat Tokyo, kodnamn för agenter och övernaturliga förmågor kopplade till personliga kostnader.",
+      "comparison_cues": [
+        "Dubbelidentitet i urban spionmiljö",
+        "Mysterium som växer fram genom uppdrag",
+        "Övernaturliga förmågor med pris och politiska konsekvenser"
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/2025",
+        "https://www.bones.co.jp/work/dtb/"
+      ],
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-08T07:13:37.268Z",
+      "uncertainties": []
+    },
     "2034": {
       "mal_id": 2034,
       "title": "Lovely★Complex",
@@ -2336,6 +2397,37 @@
       ],
       "profile_status": "complete",
       "researched_at_utc": "2026-11-08T06:15:57.233Z",
+      "uncertainties": []
+    },
+    "2167": {
+      "mal_id": 2167,
+      "title": "Clannad",
+      "synopsis": "Den desillusionerade gymnasieeleven Tomoya Okazaki träffar Nagisa Furukawa, som på grund av sjukdom har behövt gå om ett skolår. Deras vänskap leder Tomoya in i andra elevers liv och förändrar gradvis hans relation till skolan, hemmet och framtiden.",
+      "themes": [
+        "Tillhörighet och gemenskap",
+        "Familjerelationer och främlingskap",
+        "Personlig förändring",
+        "Ungdomens osäkerhet"
+      ],
+      "tone": [
+        "Varm",
+        "Melankolisk",
+        "Humoristisk"
+      ],
+      "pacing_and_structure": "Den första tv-säsongen från Kyoto Animation växlar mellan skolvardag, komiska möten och mer känslomässigt inriktade karaktärsberättelser; den följs av After Story.",
+      "character_dynamics": "Tomoyas uppgivenhet och distans till familjen kontrasterar mot Nagisas envisa försök att återfinna en plats i skolan; deras möte öppnar även för vänskapsband med andra elever.",
+      "distinctive_features": "Bearbetning av Keys visuella roman, med skolmiljö och sammanflätade personberättelser; denna profil avser tv-serien, inte Toei-filmen från samma år.",
+      "comparison_cues": [
+        "Skolvardag som övergår i individuella relationsdramer",
+        "Tomoyas utveckling genom mötet med Nagisa",
+        "Första säsongens ton kontra fortsättningen After Story"
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/2167",
+        "https://tv.apple.com/jp/show/clannad/umc.cmc.794dutwsiteihhp303mb52nlx"
+      ],
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-08T07:13:37.268Z",
       "uncertainties": []
     },
     "2332": {
