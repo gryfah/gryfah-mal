@@ -546,6 +546,38 @@
         "https://tv.apple.com/br/show/elfen-lied/umc.cmc.l3nlnam4fyp7spr1smet0857"
       ]
     },
+    "239": {
+      "mal_id": 239,
+      "title": "Gankutsuou",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-08T03:14:19.069Z",
+      "synopsis": "I en futuristisk version av Paris möter den unge aristokraten Albert de Morcerf den gåtfulle greven av Monte Cristo under en resa till månen med vännen Franz. Albert fascineras av greven och för in honom i sin familjs umgängeskrets, ovetande om att greven bär på en noggrant planerad hämnd mot personer i den parisiska överklassen.",
+      "themes": [
+        "Hämnd och dess mänskliga kostnad",
+        "Tilltro och manipulation",
+        "Klass och social fasad",
+        "Vänskap kontra besatthet"
+      ],
+      "tone": [
+        "Gotiskt melodramatisk",
+        "Mystisk",
+        "Tragisk"
+      ],
+      "pacing_and_structure": "24 avsnitt med en successivt fördjupad intrighärva. Berättelsen följer i hög grad den unge Alberts begränsade förståelse av grevens avsikter snarare än originalromanens hämnare.",
+      "character_dynamics": "Alberts fascination för greven ställs mot vännen Franz misstänksamhet. Grevens charm och hemlighetsmakeri påverkar en krets av familjer som bär på tidigare konflikter.",
+      "distinctive_features": "Alexandre Dumas roman omformas till en science fiction-miljö med månstäder och ett särpräglat bildspråk där mönstrade texturer ligger över kläder och miljöer.",
+      "comparison_cues": [
+        "Perspektivskiftet från hämnaren till en ung person som påverkas av planen",
+        "Hur tillit, vänskap och hämnd konkurrerar i persondramat",
+        "Samspelet mellan det starkt stiliserade bildspråket och den klassiska melodramen"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/239",
+        "https://gonzo.co.jp/works/gankutsuou/index.html",
+        "https://tv.apple.com/ca/show/gankutsuou/umc.cmc.17zvrtt5lr8mpuiicjss7tgta"
+      ]
+    },
     "339": {
       "mal_id": 339,
       "synopsis": "Efter att en död klasskamrat tycks skicka e-post dras den tillbakadragna Lain Iwakura in i kommunikationsnätverket Wired. Gränserna mellan hennes vardag, nätets identiteter och den upplevda verkligheten blir allt svårare att skilja åt.",
@@ -831,6 +863,38 @@
       ],
       "profile_status": "complete",
       "researched_at_utc": "2026-11-07T13:11:03.718Z"
+    },
+    "488": {
+      "mal_id": 488,
+      "title": "Ichigo Mashimaro",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-08T03:14:19.069Z",
+      "synopsis": "Vardagskomedi om systrarna Chika och Nobue Itou samt Chikas vänner Miu, Matsuri och Ana. Deras små upptåg, samtal och missförstånd bildar korta komiska episoder snarare än en övergripande äventyrsberättelse.",
+      "themes": [
+        "Vänskap i vardagen",
+        "Barnsliga upptåg och sociala roller",
+        "Syskonrelationer",
+        "Humor ur personlighetskontraster"
+      ],
+      "tone": [
+        "Lekfull",
+        "Varm",
+        "Retfullt absurd"
+      ],
+      "pacing_and_structure": "Tolv episodiska avsnitt med låg dramatisk insats och skämt som ofta bygger på vardagsdialog och återkommande karaktärsmönster.",
+      "character_dynamics": "Den impulsiva Miu stör ofta den mer sansade Chikas och de försiktigare Matsuris och Anas vardag. Äldre systern Nobue fungerar både som vuxnare motpol och deltagare i gruppens upptåg.",
+      "distinctive_features": "Barnens småskaliga vardagsvärld står i centrum; humorn kommer ur gruppens olika temperament och tajming snarare än stora handlingstvister.",
+      "comparison_cues": [
+        "Hur mycket av komiken som bärs av Miu och gruppens reaktioner",
+        "Lågmäld episodisk vardagsstruktur utan övergripande intrig",
+        "Skillnaden mellan varm gruppskildring och mer aggressiv retkomik"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/488",
+        "https://es.wikipedia.org/wiki/Ichigo_Mashimaro",
+        "https://pt.wikipedia.org/wiki/Ichigo_Mashimaro"
+      ]
     },
     "512": {
       "mal_id": 512,
