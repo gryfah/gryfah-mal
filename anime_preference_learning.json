@@ -21,8 +21,8 @@
         "profile_ref": 1,
         "rating_band": "high",
         "score_minus_mal": -0.75,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": -0.44,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": -0.41,
         "anime_snapshot_at": "2026-11-07T05:09:16.201791+00:00",
         "observed_at_utc": "2026-11-07T05:16:40.156Z"
       },
@@ -43,8 +43,8 @@
         "profile_ref": 6,
         "rating_band": "neutral",
         "score_minus_mal": -2.22,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": -1.91,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": -1.88,
         "anime_snapshot_at": "2026-11-07T20:03:49.936423+00:00",
         "observed_at_utc": "2026-11-07T20:13:00.528Z"
       },
@@ -65,8 +65,8 @@
         "profile_ref": 7,
         "rating_band": "neutral",
         "score_minus_mal": -2.24,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": -1.93,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": -1.9,
         "anime_snapshot_at": "2026-11-08T00:02:47.556440+00:00",
         "observed_at_utc": "2026-11-08T00:19:10.651Z"
       },
@@ -89,8 +89,8 @@
         "profile_ref": 30,
         "rating_band": "high",
         "score_minus_mal": -0.38,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": -0.07,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": -0.04,
         "anime_snapshot_at": "2026-11-07T05:09:16.201791+00:00",
         "observed_at_utc": "2026-11-07T05:16:40.156Z"
       },
@@ -111,8 +111,8 @@
         "profile_ref": 31,
         "rating_band": "high",
         "score_minus_mal": 0.5,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": 0.82,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": 0.84,
         "anime_snapshot_at": "2026-11-08T01:01:04.579460+00:00",
         "observed_at_utc": "2026-11-08T01:15:40.494Z"
       },
@@ -134,8 +134,8 @@
         "profile_ref": 32,
         "rating_band": "high",
         "score_minus_mal": -0.58,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": -0.26,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": -0.24,
         "anime_snapshot_at": "2026-11-07T19:01:16.273943+00:00",
         "observed_at_utc": "2026-11-07T19:13:36.774Z"
       },
@@ -160,8 +160,8 @@
         "profile_ref": 43,
         "rating_band": "high",
         "score_minus_mal": 0.73,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": 1.05,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": 1.07,
         "anime_snapshot_at": "2026-11-07T16:06:21.993538+00:00",
         "observed_at_utc": "2026-11-07T16:15:04.447Z"
       },
@@ -183,8 +183,8 @@
         "profile_ref": 47,
         "rating_band": "high",
         "score_minus_mal": -0.16,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": 0.15,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": 0.18,
         "anime_snapshot_at": "2026-11-07T08:09:48.093707+00:00",
         "observed_at_utc": "2026-11-07T08:13:16.409Z"
       },
@@ -206,8 +206,8 @@
         "profile_ref": 59,
         "rating_band": "mild_positive",
         "score_minus_mal": -0.39,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": -0.08,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": -0.05,
         "anime_snapshot_at": "2026-11-07T23:02:45.424712+00:00",
         "observed_at_utc": "2026-11-07T23:17:09.155Z"
       },
@@ -227,8 +227,8 @@
         "profile_ref": 66,
         "rating_band": "mild_positive",
         "score_minus_mal": -1.08,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": -0.77,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": -0.74,
         "anime_snapshot_at": "2026-11-07T23:02:45.424712+00:00",
         "observed_at_utc": "2026-11-07T23:17:09.155Z"
       },
@@ -247,8 +247,8 @@
         "profile_ref": 97,
         "rating_band": "mild_positive",
         "score_minus_mal": -0.78,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": -0.47,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": -0.44,
         "anime_snapshot_at": "2026-11-08T02:08:51.388768+00:00",
         "observed_at_utc": "2026-11-08T02:19:40.970Z"
       },
@@ -270,8 +270,8 @@
         "profile_ref": 134,
         "rating_band": "high",
         "score_minus_mal": 0.61,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": 0.93,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": 0.95,
         "anime_snapshot_at": "2026-11-08T01:01:04.579460+00:00",
         "observed_at_utc": "2026-11-08T01:15:40.494Z"
       },
@@ -291,8 +291,8 @@
         "profile_ref": 164,
         "rating_band": "high",
         "score_minus_mal": -0.67,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": -0.36,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": -0.33,
         "anime_snapshot_at": "2026-11-07T18:02:34.920528+00:00",
         "observed_at_utc": "2026-11-07T18:13:16.515Z"
       },
@@ -313,8 +313,8 @@
         "profile_ref": 167,
         "rating_band": "high",
         "score_minus_mal": 0.63,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": 0.95,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": 0.97,
         "anime_snapshot_at": "2026-11-08T02:08:51.388768+00:00",
         "observed_at_utc": "2026-11-08T02:19:40.970Z"
       },
@@ -336,8 +336,8 @@
         "profile_ref": 182,
         "rating_band": "high",
         "score_minus_mal": 0.34,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": 0.66,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": 0.68,
         "anime_snapshot_at": "2026-11-07T17:02:10.765043+00:00",
         "observed_at_utc": "2026-11-07T17:12:49.826Z"
       },
@@ -357,10 +357,36 @@
         "profile_ref": 199,
         "rating_band": "high",
         "score_minus_mal": -0.77,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": -0.46,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": -0.43,
         "anime_snapshot_at": "2026-11-07T22:08:53.447206+00:00",
         "observed_at_utc": "2026-11-07T22:15:34.157Z"
+      },
+      "226": {
+        "mal_id": 226,
+        "title": "Elfen Lied",
+        "observed_status": "completed",
+        "user_score": 7,
+        "mal_mean_score": 7.45,
+        "mal_num_scoring_users": 932498,
+        "mal_genres": [
+          "Action",
+          "Drama",
+          "Gore",
+          "Horror",
+          "Psychological",
+          "Romance",
+          "Seinen",
+          "Super Power",
+          "Suspense"
+        ],
+        "profile_ref": 226,
+        "rating_band": "mild_positive",
+        "score_minus_mal": -0.45,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": -0.11,
+        "anime_snapshot_at": "2026-11-08T03:03:30.956322+00:00",
+        "observed_at_utc": "2026-11-08T03:14:03.534Z"
       },
       "339": {
         "mal_id": 339,
@@ -382,8 +408,8 @@
         "profile_ref": 339,
         "rating_band": "high",
         "score_minus_mal": -0.11,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": 0.2,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": 0.23,
         "anime_snapshot_at": "2026-11-07T20:03:49.936423+00:00",
         "observed_at_utc": "2026-11-07T20:13:00.528Z"
       },
@@ -403,8 +429,8 @@
         "profile_ref": 387,
         "rating_band": "mild_positive",
         "score_minus_mal": -1.01,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": -0.69,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": -0.67,
         "anime_snapshot_at": "2026-11-08T02:08:51.388768+00:00",
         "observed_at_utc": "2026-11-08T02:19:40.970Z"
       },
@@ -428,8 +454,8 @@
         "profile_ref": 416,
         "rating_band": "mild_positive",
         "score_minus_mal": -0.97,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": -0.65,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": -0.63,
         "anime_snapshot_at": "2026-11-07T11:04:28.862328+00:00",
         "observed_at_utc": "2026-11-07T11:18:40.539Z"
       },
@@ -451,8 +477,8 @@
         "score_minus_mal": 1.28,
         "anime_snapshot_at": "2026-11-07T21:06:15.503166+00:00",
         "observed_at_utc": "2026-11-07T21:17:17.894Z",
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": 1.6
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": 1.62
       },
       "435": {
         "mal_id": 435,
@@ -470,8 +496,8 @@
         "profile_ref": 435,
         "rating_band": "neutral",
         "score_minus_mal": -1.46,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": -1.14,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": -1.12,
         "anime_snapshot_at": "2026-11-07T15:00:54.324588+00:00",
         "observed_at_utc": "2026-11-07T15:12:04.525Z"
       },
@@ -495,8 +521,8 @@
         "profile_ref": 437,
         "rating_band": "high",
         "score_minus_mal": -0.56,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": -0.25,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": -0.22,
         "anime_snapshot_at": "2026-11-07T18:02:34.920528+00:00",
         "observed_at_utc": "2026-11-07T18:13:16.515Z"
       },
@@ -517,8 +543,8 @@
         "profile_ref": 440,
         "rating_band": "mild_positive",
         "score_minus_mal": -1.26,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": -0.94,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": -0.92,
         "anime_snapshot_at": "2026-11-07T19:01:16.273943+00:00",
         "observed_at_utc": "2026-11-07T19:13:36.774Z"
       },
@@ -542,8 +568,8 @@
         "profile_ref": 467,
         "rating_band": "high",
         "score_minus_mal": -0.42,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": -0.11,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": -0.08,
         "anime_snapshot_at": "2026-11-08T01:01:04.579460+00:00",
         "observed_at_utc": "2026-11-08T01:15:40.494Z"
       },
@@ -566,8 +592,8 @@
         "profile_ref": 474,
         "rating_band": "high",
         "score_minus_mal": 0.27,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": 0.59,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": 0.61,
         "anime_snapshot_at": "2026-11-07T13:04:27.134038+00:00",
         "observed_at_utc": "2026-11-07T13:11:14.865Z"
       },
@@ -588,8 +614,8 @@
         "profile_ref": 512,
         "rating_band": "high",
         "score_minus_mal": -0.24,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": 0.07,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": 0.1,
         "anime_snapshot_at": "2026-11-07T08:09:48.093707+00:00",
         "observed_at_utc": "2026-11-07T08:13:16.409Z"
       },
@@ -608,8 +634,8 @@
         "profile_ref": 513,
         "rating_band": "high",
         "score_minus_mal": -0.26,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": 0.05,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": 0.08,
         "anime_snapshot_at": "2026-11-07T07:05:57.998720+00:00",
         "observed_at_utc": "2026-11-07T07:20:37.315Z"
       },
@@ -630,8 +656,8 @@
         "profile_ref": 522,
         "rating_band": "high",
         "score_minus_mal": 0.47,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": 0.78,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": 0.81,
         "anime_snapshot_at": "2026-11-07T22:08:53.447206+00:00",
         "observed_at_utc": "2026-11-07T22:15:34.157Z"
       },
@@ -650,8 +676,8 @@
         "profile_ref": 523,
         "rating_band": "high",
         "score_minus_mal": -0.25,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": 0.06,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": 0.09,
         "anime_snapshot_at": "2026-11-07T07:05:57.998720+00:00",
         "observed_at_utc": "2026-11-07T07:20:37.315Z"
       },
@@ -671,8 +697,8 @@
         "profile_ref": 544,
         "rating_band": "neutral",
         "score_minus_mal": -0.82,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": -0.5,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": -0.48,
         "anime_snapshot_at": "2026-11-07T13:04:27.134038+00:00",
         "observed_at_utc": "2026-11-07T13:11:14.865Z"
       },
@@ -692,8 +718,8 @@
         "profile_ref": 572,
         "rating_band": "high",
         "score_minus_mal": -0.36,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": -0.05,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": -0.02,
         "anime_snapshot_at": "2026-11-07T04:08:47.386748+00:00",
         "observed_at_utc": "2026-11-07T04:20:50.533Z"
       },
@@ -711,8 +737,8 @@
         "profile_ref": 578,
         "rating_band": "neutral",
         "score_minus_mal": -3.55,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": -3.23,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": -3.2,
         "anime_snapshot_at": "2026-11-07T06:03:48.327423+00:00",
         "observed_at_utc": "2026-11-07T06:16:11.561Z"
       },
@@ -731,8 +757,8 @@
         "profile_ref": 585,
         "rating_band": "high",
         "score_minus_mal": -0.23,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": 0.08,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": 0.11,
         "anime_snapshot_at": "2026-11-07T15:00:54.324588+00:00",
         "observed_at_utc": "2026-11-07T15:12:04.525Z"
       },
@@ -751,10 +777,34 @@
         "profile_ref": 650,
         "rating_band": "neutral",
         "score_minus_mal": -1.45,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": -1.13,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": -1.11,
         "anime_snapshot_at": "2026-11-07T16:06:21.993538+00:00",
         "observed_at_utc": "2026-11-07T16:15:04.447Z"
+      },
+      "801": {
+        "mal_id": 801,
+        "title": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+        "observed_status": "completed",
+        "user_score": 8,
+        "mal_mean_score": 8.51,
+        "mal_num_scoring_users": 110684,
+        "mal_genres": [
+          "Adult Cast",
+          "Detective",
+          "Mecha",
+          "Military",
+          "Mystery",
+          "Sci-Fi",
+          "Seinen"
+        ],
+        "profile_ref": 801,
+        "rating_band": "high",
+        "score_minus_mal": -0.51,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": -0.17,
+        "anime_snapshot_at": "2026-11-08T03:03:30.956322+00:00",
+        "observed_at_utc": "2026-11-08T03:14:03.534Z"
       },
       "937": {
         "mal_id": 937,
@@ -771,8 +821,8 @@
         "profile_ref": 937,
         "rating_band": "mild_positive",
         "score_minus_mal": 0.49,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": 0.81,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": 0.83,
         "anime_snapshot_at": "2026-11-07T10:05:20.676087+00:00",
         "observed_at_utc": "2026-11-07T10:16:39.451Z"
       },
@@ -795,8 +845,8 @@
         "profile_ref": 949,
         "rating_band": "high",
         "score_minus_mal": 0.15,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": 0.47,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": 0.49,
         "anime_snapshot_at": "2026-11-07T09:00:33.200484+00:00",
         "observed_at_utc": "2026-11-07T09:19:44.567Z"
       },
@@ -816,8 +866,8 @@
         "profile_ref": 1016,
         "rating_band": "mild_positive",
         "score_minus_mal": -0.08,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": 0.23,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": 0.26,
         "anime_snapshot_at": "2026-11-07T12:02:46.485669+00:00",
         "observed_at_utc": "2026-11-07T12:12:43.813Z"
       },
@@ -836,8 +886,8 @@
         "profile_ref": 1029,
         "rating_band": "high",
         "score_minus_mal": 0.55,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": 0.87,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": 0.89,
         "anime_snapshot_at": "2026-11-07T11:04:28.862328+00:00",
         "observed_at_utc": "2026-11-07T11:18:40.539Z"
       },
@@ -856,8 +906,8 @@
         "profile_ref": 1030,
         "rating_band": "mild_positive",
         "score_minus_mal": -0.3,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": 0.01,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": 0.04,
         "anime_snapshot_at": "2026-11-07T15:00:54.324588+00:00",
         "observed_at_utc": "2026-11-07T15:12:04.525Z"
       },
@@ -879,8 +929,8 @@
         "profile_ref": 1034,
         "rating_band": "high",
         "score_minus_mal": 0.53,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": 0.85,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": 0.87,
         "anime_snapshot_at": "2026-11-07T06:03:48.327423+00:00",
         "observed_at_utc": "2026-11-07T06:16:11.561Z"
       },
@@ -899,8 +949,8 @@
         "profile_ref": 1047,
         "rating_band": "high",
         "score_minus_mal": 0.51,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": 0.83,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": 0.85,
         "anime_snapshot_at": "2026-11-07T16:06:21.993538+00:00",
         "observed_at_utc": "2026-11-07T16:15:04.447Z"
       },
@@ -924,8 +974,8 @@
         "score_minus_mal": 0.01,
         "anime_snapshot_at": "2026-11-07T21:06:15.503166+00:00",
         "observed_at_utc": "2026-11-07T21:17:17.894Z",
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": 0.32
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": 0.35
       },
       "1079": {
         "mal_id": 1079,
@@ -944,8 +994,8 @@
         "profile_ref": 1079,
         "rating_band": "mild_positive",
         "score_minus_mal": 0.01,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": 0.32,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": 0.35,
         "anime_snapshot_at": "2026-11-07T19:01:16.273943+00:00",
         "observed_at_utc": "2026-11-07T19:13:36.774Z"
       },
@@ -967,8 +1017,8 @@
         "profile_ref": 1088,
         "rating_band": "mild_positive",
         "score_minus_mal": -0.89,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": -0.58,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": -0.55,
         "anime_snapshot_at": "2026-11-07T06:03:48.327423+00:00",
         "observed_at_utc": "2026-11-07T06:16:11.561Z"
       },
@@ -988,8 +1038,8 @@
         "profile_ref": 1095,
         "rating_band": "mild_positive",
         "score_minus_mal": -0.58,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": -0.26,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": -0.24,
         "anime_snapshot_at": "2026-11-07T10:05:20.676087+00:00",
         "observed_at_utc": "2026-11-07T10:16:39.451Z"
       },
@@ -1012,8 +1062,8 @@
         "profile_ref": 1096,
         "rating_band": "high",
         "score_minus_mal": -0.06,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": 0.25,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": 0.28,
         "anime_snapshot_at": "2026-11-07T13:04:27.134038+00:00",
         "observed_at_utc": "2026-11-07T13:11:14.865Z"
       },
@@ -1032,8 +1082,8 @@
         "profile_ref": 1151,
         "rating_band": "mild_positive",
         "score_minus_mal": 0.14,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": 0.45,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": 0.48,
         "anime_snapshot_at": "2026-11-07T11:04:28.862328+00:00",
         "observed_at_utc": "2026-11-07T11:18:40.539Z"
       },
@@ -1055,8 +1105,8 @@
         "profile_ref": 1152,
         "rating_band": "mild_positive",
         "score_minus_mal": 0.09,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": 0.4,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": 0.43,
         "anime_snapshot_at": "2026-11-08T00:02:47.556440+00:00",
         "observed_at_utc": "2026-11-08T00:19:10.651Z"
       },
@@ -1077,8 +1127,8 @@
         "profile_ref": 1177,
         "rating_band": "neutral",
         "score_minus_mal": -0.83,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": -0.51,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": -0.49,
         "anime_snapshot_at": "2026-11-07T23:02:45.424712+00:00",
         "observed_at_utc": "2026-11-07T23:17:09.155Z"
       },
@@ -1100,8 +1150,8 @@
         "profile_ref": 1211,
         "rating_band": "high",
         "score_minus_mal": 0.26,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": 0.57,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": 0.6,
         "anime_snapshot_at": "2026-11-07T17:02:10.765043+00:00",
         "observed_at_utc": "2026-11-07T17:12:49.826Z"
       },
@@ -1120,8 +1170,8 @@
         "profile_ref": 1270,
         "rating_band": "neutral",
         "score_minus_mal": -1.47,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": -1.15,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": -1.13,
         "anime_snapshot_at": "2026-11-07T10:05:20.676087+00:00",
         "observed_at_utc": "2026-11-07T10:16:39.451Z"
       },
@@ -1142,8 +1192,8 @@
         "profile_ref": 1285,
         "rating_band": "neutral",
         "score_minus_mal": 0.63,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": 0.95,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": 0.97,
         "anime_snapshot_at": "2026-11-07T12:02:46.485669+00:00",
         "observed_at_utc": "2026-11-07T12:12:43.813Z"
       },
@@ -1164,8 +1214,8 @@
         "profile_ref": 1288,
         "rating_band": "mild_positive",
         "score_minus_mal": -0.3,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": 0.01,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": 0.04,
         "anime_snapshot_at": "2026-11-07T09:00:33.200484+00:00",
         "observed_at_utc": "2026-11-07T09:19:44.567Z"
       },
@@ -1186,8 +1236,8 @@
         "profile_ref": 1289,
         "rating_band": "neutral",
         "score_minus_mal": -1.63,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": -1.31,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": -1.28,
         "anime_snapshot_at": "2026-11-07T14:07:30.465676+00:00",
         "observed_at_utc": "2026-11-07T14:11:05.754Z"
       },
@@ -1207,8 +1257,8 @@
         "profile_ref": 1347,
         "rating_band": "mild_positive",
         "score_minus_mal": -0.33,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": -0.02,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": 0.01,
         "anime_snapshot_at": "2026-11-07T09:00:33.200484+00:00",
         "observed_at_utc": "2026-11-07T09:19:44.567Z"
       },
@@ -1230,8 +1280,8 @@
         "profile_ref": 1457,
         "rating_band": "mild_positive",
         "score_minus_mal": 0.07,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": 0.38,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": 0.41,
         "anime_snapshot_at": "2026-11-07T16:06:21.993538+00:00",
         "observed_at_utc": "2026-11-07T16:15:04.447Z"
       },
@@ -1255,8 +1305,8 @@
         "profile_ref": 1462,
         "rating_band": "mild_positive",
         "score_minus_mal": -0.74,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": -0.43,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": -0.4,
         "anime_snapshot_at": "2026-11-07T17:02:10.765043+00:00",
         "observed_at_utc": "2026-11-07T17:12:49.826Z"
       },
@@ -1277,8 +1327,8 @@
         "profile_ref": 1577,
         "rating_band": "neutral",
         "score_minus_mal": -1.52,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": -1.2,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": -1.18,
         "anime_snapshot_at": "2026-11-07T20:03:49.936423+00:00",
         "observed_at_utc": "2026-11-07T20:13:00.528Z"
       },
@@ -1299,8 +1349,8 @@
         "profile_ref": 1887,
         "rating_band": "mild_positive",
         "score_minus_mal": -0.76,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": -0.45,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": -0.42,
         "anime_snapshot_at": "2026-11-07T05:09:16.201791+00:00",
         "observed_at_utc": "2026-11-07T05:16:40.156Z"
       },
@@ -1322,8 +1372,8 @@
         "profile_ref": 2452,
         "rating_band": "neutral",
         "score_minus_mal": -1.13,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": -0.81,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": -0.79,
         "anime_snapshot_at": "2026-11-07T06:03:48.327423+00:00",
         "observed_at_utc": "2026-11-07T06:16:11.561Z"
       },
@@ -1345,8 +1395,8 @@
         "profile_ref": 6016,
         "rating_band": "neutral",
         "score_minus_mal": -2.11,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": -1.79,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": -1.76,
         "anime_snapshot_at": "2026-11-07T14:07:30.465676+00:00",
         "observed_at_utc": "2026-11-07T14:11:05.754Z"
       },
@@ -1363,34 +1413,34 @@
         "profile_ref": 52481,
         "rating_band": "mild_positive",
         "score_minus_mal": -0.3,
-        "baseline_median_offset": -0.31499999999999995,
-        "consensus_residual": 0.01,
+        "baseline_median_offset": -0.34499999999999975,
+        "consensus_residual": 0.04,
         "anime_snapshot_at": "2026-11-07T04:08:47.386748+00:00",
         "observed_at_utc": "2026-11-07T04:20:50.533Z"
       }
     },
     "mal_category_statistics": {
       "Action": {
-        "n_rated": 14,
-        "mean_user_score": 6.71,
+        "n_rated": 15,
+        "mean_user_score": 6.73,
         "n_high": 5,
-        "n_mild_positive": 2,
+        "n_mild_positive": 3,
         "n_neutral": 7,
         "n_low": 0,
-        "mean_consensus_residual": -0.66,
+        "mean_consensus_residual": -0.6,
         "evidence_status": "observational",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       },
       "Adult Cast": {
-        "n_rated": 13,
-        "mean_user_score": 7.08,
-        "n_high": 5,
+        "n_rated": 14,
+        "mean_user_score": 7.14,
+        "n_high": 6,
         "n_mild_positive": 3,
         "n_neutral": 5,
         "n_low": 0,
-        "mean_consensus_residual": -0.29,
+        "mean_consensus_residual": -0.25,
         "evidence_status": "observational",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       },
       "Award Winning": {
         "n_rated": 21,
@@ -1399,20 +1449,20 @@
         "n_mild_positive": 6,
         "n_neutral": 0,
         "n_low": 0,
-        "mean_consensus_residual": 0,
+        "mean_consensus_residual": 0.03,
         "evidence_status": "observational",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       },
       "Sci-Fi": {
-        "n_rated": 39,
-        "mean_user_score": 7.23,
-        "n_high": 18,
+        "n_rated": 40,
+        "mean_user_score": 7.25,
+        "n_high": 19,
         "n_mild_positive": 13,
         "n_neutral": 8,
         "n_low": 0,
-        "mean_consensus_residual": 0.09,
+        "mean_consensus_residual": 0.11,
         "evidence_status": "observational",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       },
       "Space": {
         "n_rated": 9,
@@ -1421,9 +1471,9 @@
         "n_mild_positive": 2,
         "n_neutral": 2,
         "n_low": 0,
-        "mean_consensus_residual": -0.03,
+        "mean_consensus_residual": -0.01,
         "evidence_status": "observational",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       },
       "Adventure": {
         "n_rated": 19,
@@ -1432,9 +1482,9 @@
         "n_mild_positive": 4,
         "n_neutral": 4,
         "n_low": 0,
-        "mean_consensus_residual": -0.07,
+        "mean_consensus_residual": -0.04,
         "evidence_status": "observational",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       },
       "Shounen": {
         "n_rated": 7,
@@ -1443,42 +1493,42 @@
         "n_mild_positive": 2,
         "n_neutral": 3,
         "n_low": 0,
-        "mean_consensus_residual": -0.2,
+        "mean_consensus_residual": -0.17,
         "evidence_status": "observational",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       },
       "Detective": {
-        "n_rated": 6,
-        "mean_user_score": 7.33,
-        "n_high": 3,
+        "n_rated": 7,
+        "mean_user_score": 7.43,
+        "n_high": 4,
         "n_mild_positive": 2,
         "n_neutral": 1,
         "n_low": 0,
         "mean_consensus_residual": 0,
         "evidence_status": "observational",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       },
       "Drama": {
-        "n_rated": 27,
-        "mean_user_score": 7.48,
+        "n_rated": 28,
+        "mean_user_score": 7.46,
         "n_high": 17,
-        "n_mild_positive": 8,
+        "n_mild_positive": 9,
         "n_neutral": 2,
         "n_low": 0,
-        "mean_consensus_residual": -0.02,
+        "mean_consensus_residual": 0,
         "evidence_status": "observational",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       },
       "Mystery": {
-        "n_rated": 8,
-        "mean_user_score": 7.38,
-        "n_high": 4,
+        "n_rated": 9,
+        "mean_user_score": 7.44,
+        "n_high": 5,
         "n_mild_positive": 3,
         "n_neutral": 1,
         "n_low": 0,
-        "mean_consensus_residual": -0.06,
+        "mean_consensus_residual": -0.05,
         "evidence_status": "observational",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       },
       "Supernatural": {
         "n_rated": 3,
@@ -1487,9 +1537,9 @@
         "n_mild_positive": 0,
         "n_neutral": 1,
         "n_low": 0,
-        "mean_consensus_residual": -0.56,
+        "mean_consensus_residual": -0.53,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       },
       "Avant Garde": {
         "n_rated": 4,
@@ -1498,86 +1548,86 @@
         "n_mild_positive": 0,
         "n_neutral": 0,
         "n_low": 0,
-        "mean_consensus_residual": -0.09,
+        "mean_consensus_residual": -0.07,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       },
       "Mecha": {
-        "n_rated": 25,
-        "mean_user_score": 7.32,
-        "n_high": 11,
+        "n_rated": 26,
+        "mean_user_score": 7.35,
+        "n_high": 12,
         "n_mild_positive": 11,
         "n_neutral": 3,
         "n_low": 0,
-        "mean_consensus_residual": 0.22,
+        "mean_consensus_residual": 0.23,
         "evidence_status": "observational",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       },
       "Psychological": {
-        "n_rated": 12,
-        "mean_user_score": 7.58,
+        "n_rated": 13,
+        "mean_user_score": 7.54,
         "n_high": 7,
-        "n_mild_positive": 4,
+        "n_mild_positive": 5,
         "n_neutral": 1,
         "n_low": 0,
-        "mean_consensus_residual": 0.02,
+        "mean_consensus_residual": 0.03,
         "evidence_status": "observational",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       },
       "Suspense": {
-        "n_rated": 8,
-        "mean_user_score": 8,
+        "n_rated": 9,
+        "mean_user_score": 7.89,
         "n_high": 7,
-        "n_mild_positive": 1,
+        "n_mild_positive": 2,
         "n_neutral": 0,
         "n_low": 0,
-        "mean_consensus_residual": 0.25,
+        "mean_consensus_residual": 0.23,
         "evidence_status": "observational",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       },
       "Seinen": {
-        "n_rated": 8,
-        "mean_user_score": 7.13,
-        "n_high": 3,
-        "n_mild_positive": 2,
+        "n_rated": 10,
+        "mean_user_score": 7.2,
+        "n_high": 4,
+        "n_mild_positive": 3,
         "n_neutral": 3,
         "n_low": 0,
-        "mean_consensus_residual": -0.2,
+        "mean_consensus_residual": -0.17,
         "evidence_status": "observational",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       },
       "Gore": {
-        "n_rated": 3,
-        "mean_user_score": 6.33,
+        "n_rated": 4,
+        "mean_user_score": 6.5,
         "n_high": 1,
-        "n_mild_positive": 0,
-        "n_neutral": 2,
-        "n_low": 0,
-        "mean_consensus_residual": -0.23,
-        "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
-      },
-      "Horror": {
-        "n_rated": 5,
-        "mean_user_score": 6.8,
-        "n_high": 2,
         "n_mild_positive": 1,
         "n_neutral": 2,
         "n_low": 0,
-        "mean_consensus_residual": -0.57,
+        "mean_consensus_residual": -0.18,
+        "evidence_status": "insufficient_evidence",
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
+      },
+      "Horror": {
+        "n_rated": 6,
+        "mean_user_score": 6.83,
+        "n_high": 2,
+        "n_mild_positive": 2,
+        "n_neutral": 2,
+        "n_low": 0,
+        "mean_consensus_residual": -0.47,
         "evidence_status": "observational",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       },
       "Super Power": {
-        "n_rated": 2,
-        "mean_user_score": 6.5,
+        "n_rated": 3,
+        "mean_user_score": 6.67,
         "n_high": 1,
-        "n_mild_positive": 0,
+        "n_mild_positive": 1,
         "n_neutral": 1,
         "n_low": 0,
-        "mean_consensus_residual": -0.82,
+        "mean_consensus_residual": -0.56,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       },
       "Comedy": {
         "n_rated": 12,
@@ -1586,9 +1636,9 @@
         "n_mild_positive": 7,
         "n_neutral": 3,
         "n_low": 0,
-        "mean_consensus_residual": -0.35,
+        "mean_consensus_residual": -0.32,
         "evidence_status": "observational",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       },
       "Ecchi": {
         "n_rated": 1,
@@ -1597,20 +1647,20 @@
         "n_mild_positive": 1,
         "n_neutral": 0,
         "n_low": 0,
-        "mean_consensus_residual": -0.08,
+        "mean_consensus_residual": -0.05,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       },
       "Romance": {
-        "n_rated": 11,
-        "mean_user_score": 7.55,
+        "n_rated": 12,
+        "mean_user_score": 7.5,
         "n_high": 6,
-        "n_mild_positive": 5,
+        "n_mild_positive": 6,
         "n_neutral": 0,
         "n_low": 0,
         "mean_consensus_residual": 0.23,
         "evidence_status": "observational",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       },
       "CGDCT": {
         "n_rated": 2,
@@ -1619,9 +1669,9 @@
         "n_mild_positive": 2,
         "n_neutral": 0,
         "n_low": 0,
-        "mean_consensus_residual": -0.61,
+        "mean_consensus_residual": -0.58,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       },
       "Gag Humor": {
         "n_rated": 2,
@@ -1630,9 +1680,9 @@
         "n_mild_positive": 2,
         "n_neutral": 0,
         "n_low": 0,
-        "mean_consensus_residual": -0.61,
+        "mean_consensus_residual": -0.58,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       },
       "School": {
         "n_rated": 4,
@@ -1641,20 +1691,20 @@
         "n_mild_positive": 3,
         "n_neutral": 1,
         "n_low": 0,
-        "mean_consensus_residual": -0.67,
+        "mean_consensus_residual": -0.64,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       },
       "Military": {
-        "n_rated": 16,
-        "mean_user_score": 7.31,
-        "n_high": 8,
+        "n_rated": 17,
+        "mean_user_score": 7.35,
+        "n_high": 9,
         "n_mild_positive": 6,
         "n_neutral": 2,
         "n_low": 0,
         "mean_consensus_residual": 0.26,
         "evidence_status": "observational",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       },
       "Fantasy": {
         "n_rated": 9,
@@ -1663,9 +1713,9 @@
         "n_mild_positive": 1,
         "n_neutral": 1,
         "n_low": 0,
-        "mean_consensus_residual": -0.11,
+        "mean_consensus_residual": -0.08,
         "evidence_status": "observational",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       },
       "Isekai": {
         "n_rated": 2,
@@ -1674,9 +1724,9 @@
         "n_mild_positive": 0,
         "n_neutral": 1,
         "n_low": 0,
-        "mean_consensus_residual": -0.24,
+        "mean_consensus_residual": -0.22,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       },
       "Love Polygon": {
         "n_rated": 1,
@@ -1685,9 +1735,9 @@
         "n_mild_positive": 0,
         "n_neutral": 0,
         "n_low": 0,
-        "mean_consensus_residual": 0.66,
+        "mean_consensus_residual": 0.68,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       },
       "Mythology": {
         "n_rated": 1,
@@ -1696,9 +1746,9 @@
         "n_mild_positive": 0,
         "n_neutral": 0,
         "n_low": 0,
-        "mean_consensus_residual": -0.46,
+        "mean_consensus_residual": -0.43,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       },
       "Historical": {
         "n_rated": 2,
@@ -1707,9 +1757,9 @@
         "n_mild_positive": 1,
         "n_neutral": 1,
         "n_low": 0,
-        "mean_consensus_residual": -1.94,
+        "mean_consensus_residual": -1.91,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       },
       "Shoujo": {
         "n_rated": 2,
@@ -1718,9 +1768,9 @@
         "n_mild_positive": 0,
         "n_neutral": 1,
         "n_low": 0,
-        "mean_consensus_residual": -0.53,
+        "mean_consensus_residual": -0.5,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       },
       "Showbiz": {
         "n_rated": 1,
@@ -1729,9 +1779,9 @@
         "n_mild_positive": 0,
         "n_neutral": 0,
         "n_low": 0,
-        "mean_consensus_residual": -0.25,
+        "mean_consensus_residual": -0.22,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       },
       "Mahou Shoujo": {
         "n_rated": 1,
@@ -1740,9 +1790,9 @@
         "n_mild_positive": 1,
         "n_neutral": 0,
         "n_low": 0,
-        "mean_consensus_residual": -0.94,
+        "mean_consensus_residual": -0.92,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       },
       "Josei": {
         "n_rated": 1,
@@ -1751,9 +1801,9 @@
         "n_mild_positive": 0,
         "n_neutral": 0,
         "n_low": 0,
-        "mean_consensus_residual": 0.87,
+        "mean_consensus_residual": 0.89,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       },
       "Anthropomorphic": {
         "n_rated": 1,
@@ -1762,9 +1812,9 @@
         "n_mild_positive": 1,
         "n_neutral": 0,
         "n_low": 0,
-        "mean_consensus_residual": 0.01,
+        "mean_consensus_residual": 0.04,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       },
       "Kids": {
         "n_rated": 1,
@@ -1773,9 +1823,9 @@
         "n_mild_positive": 1,
         "n_neutral": 0,
         "n_low": 0,
-        "mean_consensus_residual": 0.01,
+        "mean_consensus_residual": 0.04,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       },
       "Music": {
         "n_rated": 3,
@@ -1784,9 +1834,9 @@
         "n_mild_positive": 2,
         "n_neutral": 0,
         "n_low": 0,
-        "mean_consensus_residual": 0.21,
+        "mean_consensus_residual": 0.24,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       },
       "Workplace": {
         "n_rated": 3,
@@ -1795,9 +1845,9 @@
         "n_mild_positive": 1,
         "n_neutral": 2,
         "n_low": 0,
-        "mean_consensus_residual": -0.83,
+        "mean_consensus_residual": -0.81,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       },
       "Otaku Culture": {
         "n_rated": 1,
@@ -1806,9 +1856,9 @@
         "n_mild_positive": 1,
         "n_neutral": 0,
         "n_low": 0,
-        "mean_consensus_residual": -0.45,
+        "mean_consensus_residual": -0.42,
         "evidence_status": "insufficient_evidence",
-        "last_updated_utc": "2026-11-08T02:19:40.970Z"
+        "last_updated_utc": "2026-11-08T03:14:03.534Z"
       }
     },
     "question_candidates": {
