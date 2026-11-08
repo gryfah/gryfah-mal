@@ -512,6 +512,37 @@
         "https://otakuden.gg/anime/182"
       ]
     },
+    "196": {
+      "mal_id": 196,
+      "title": "Onegai☆Twins",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-08T16:16:25.161Z",
+      "synopsis": "Maiku Kamishiro flyttar till ett hus som syns på ett gammalt fotografi från hans barndom. Två flickor, Miina och Karen, dyker upp med samma fotografi och säger sig vara hans tvillingsyster. Eftersom ingen vet vem som faktiskt är släkt med honom delar de tills vidare bostad medan de söker sanningen.",
+      "themes": [
+        "Familjeursprung och identitet",
+        "Osäkerhet kring släktskap",
+        "Romantiska gränser",
+        "Tillhörighet och gemensamt boende"
+      ],
+      "tone": [
+        "Romantisk komedi",
+        "Vardaglig",
+        "Bitvis dramatisk"
+      ],
+      "pacing_and_structure": "En kort TV-serie där vardagliga situationer och romantiska förvecklingar drivs av det olösta mysteriet kring fotografiet.",
+      "character_dynamics": "Maiku är den gemensamma anknytningspunkten för Miina och Karen; möjligheten att en av dem är hans biologiska syster gör deras närhet och känslor komplicerade.",
+      "distinctive_features": "Ett konkret barndomsfotografi och ett blått hus bär upp den centrala identitetsgåtan; huvudpersonen arbetar som programmerare.",
+      "comparison_cues": [
+        "Identitetsmysterium integrerat i romantisk komedi",
+        "Samboende under osäkert släktskap",
+        "Kontrast mellan vardagskomik och känslomässiga gränser"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/196",
+        "https://www.animesc.com/en/details/0SIwtM/onegai-twins"
+      ]
+    },
     "199": {
       "mal_id": 199,
       "title": "Sen to Chihiro no Kamikakushi",
@@ -1377,6 +1408,40 @@
       "profile_status": "complete",
       "researched_at_utc": "2026-11-07T16:14:50.411Z",
       "uncertainties": []
+    },
+    "694": {
+      "mal_id": 694,
+      "title": "Canvas 2: Nijiiro no Sketch",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-08T16:16:25.161Z",
+      "synopsis": "Hiroki Kamikura arbetar med konstundervisning och konstklubben på Nadeshiko Academy men har själv slutat måla. Hans kusin Elis, som är en begåvad målare, bor hos honom. När barndomsvännen Kiri börjar som idrottslärare väcks en gammal, olöst romantisk historia till liv.",
+      "themes": [
+        "Konstnärlig blockering och återfunnen motivation",
+        "Tidigare avvisade känslor",
+        "Familjeansvar och närhet",
+        "Traumats påverkan på skapande"
+      ],
+      "tone": [
+        "Romantisk",
+        "Eftertänksam",
+        "Skolvardaglig",
+        "Melodramatisk"
+      ],
+      "pacing_and_structure": "24 avsnitt som kombinerar skol- och konstklubbsvardag med successivt utvecklade relationskonflikter; bildkonst och färger återkommer som motiv.",
+      "character_dynamics": "Hiroki står mellan ansvaret för kusinen Elis och den tidigare komplicerade relationen med Kiri. Elis konstnärliga ambition kontrasterar mot Hirokis förlorade skaparlust.",
+      "distinctive_features": "Bildkonst är både miljö och konflikt: Hirokis avståndstagande från målandet speglas av Elis engagemang. Kiri återkommer som kollega med ett gemensamt förflutet.",
+      "comparison_cues": [
+        "Romantik knuten till konstnärlig identitet",
+        "Återseende med barndomsvän",
+        "Kusinskap och omsorgsansvar i relationsdrama",
+        "Skolmiljö med vuxna och yngre rollfigurer"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/694",
+        "https://anilist.co/anime/694/Canvas-2-Niji-iro-no-Sketch",
+        "https://www.tvmaze.com/shows/55234/canvas-2-niji-iro-no-sketch"
+      ]
     },
     "801": {
       "mal_id": 801,
@@ -3111,6 +3176,40 @@
       "sources": [
         "https://www.animesc.com/en/details/2yO8AN/clannad-mou-hitotsu-no-sekai-tomoyo-hen",
         "https://anizukan.com/anime/4528/clannad-mou-hitotsu-no-sekai-tomoyo-hen"
+      ]
+    },
+    "4087": {
+      "mal_id": 4087,
+      "title": "Michiko to Hatchin",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-08T16:16:25.161Z",
+      "synopsis": "Efter en fängelseflykt söker Michiko Malandro en man ur sitt förflutna. Hon tar med sig Hana, kallad Hatchin, som lever hos en våldsam fosterfamilj och har en koppling till mannen. De reser tillsammans genom det fiktiva, sydamerikanskt inspirerade landet Diamandra och möter både kriminalitet och utsatthet.",
+      "themes": [
+        "Frihet och flykt",
+        "Vald familj och tillit",
+        "Föräldraskap och övergivenhet",
+        "Social utsatthet och kriminalitet"
+      ],
+      "tone": [
+        "Rå",
+        "Energisk",
+        "Melankolisk",
+        "Äventyrlig"
+      ],
+      "pacing_and_structure": "22 avsnitts roadmovie-liknande TV-berättelse där möten på resan och sökandet efter en frånvarande man löper parallellt.",
+      "character_dynamics": "Den impulsiva och självständiga Michiko och den mer försiktiga Hatchin är motpoler som tvingas förhandla om tillit och ansvar medan de reser tillsammans.",
+      "distinctive_features": "Fiktiv latinamerikansk miljö, utpräglad roadmovie-struktur och två kvinnliga huvudpersoner med stor ålders- och erfarenhetsskillnad; regisserad av Sayo Yamamoto.",
+      "comparison_cues": [
+        "Reseskildring som utvecklar en ojämlik men växande relation",
+        "Kriminaldrama kombinerat med omsorgstema",
+        "Sydamerikanskt inspirerad audiovisuell miljö",
+        "Frånvarande förälder som sökmotiv"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/4087",
+        "https://www.animesc.com/en/details/4veR0x/michiko-to-hatchin",
+        "https://en.wikipedia.org/wiki/Michiko_%26_Hatchin"
       ]
     },
     "4181": {
