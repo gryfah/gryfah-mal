@@ -927,6 +927,37 @@
         "https://pt.wikipedia.org/wiki/Ichigo_Mashimaro"
       ]
     },
+    "493": {
+      "mal_id": 493,
+      "title": "Armitage III: Poly-Matrix",
+      "profile_status": "complete",
+      "synopsis": "Polisen Ross Sylibus anländer till Mars och dras in i en mordutredning tillsammans med den temperamentsfulla Naomi Armitage. Offren visar sig vara avancerade androider som är svåra att skilja från människor, vilket gör jakten på mördaren till en konflikt om identitet och robotars ställning i samhället.",
+      "themes": [
+        "Artificiellt liv och mänsklig identitet",
+        "Fördomar och diskriminering",
+        "Institutionell makt och mörkläggning",
+        "Tillit mellan partners"
+      ],
+      "tone": [
+        "Cyberpunkpräglad",
+        "Actionintensiv",
+        "Noirartad"
+      ],
+      "pacing_and_structure": "Långfilmsversion som omredigerar den tidigare fyrdelade OVA-berättelsen till en tätare, sammanhängande kriminalintrig.",
+      "character_dynamics": "Ross bär med sig misstro mot robotar efter ett tidigare trauma; samarbetet med Armitage utmanar hans föreställningar samtidigt som de utreder morden.",
+      "distinctive_features": "Marskoloni, polisthriller och androider av tredje generationen; filmversion av Armitage III med särskild internationell dubbning.",
+      "comparison_cues": [
+        "Skillnaden i tempo och berättarutrymme mot Armitage III-OVA",
+        "Robotidentitet behandlad genom en mordutredning",
+        "Partnerskap som prövar fördomar mot artificiellt liv"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://lp.p.pia.jp/event/movie/34142/index.html",
+        "https://www.imdb.com/title/tt0109151/plotsummary/"
+      ],
+      "researched_at_utc": "2026-11-08T10:15:30.509Z"
+    },
     "512": {
       "mal_id": 512,
       "title": "Majo no Takkyuubin",
@@ -2049,6 +2080,36 @@
       ],
       "profile_status": "complete",
       "researched_at_utc": "2026-11-07T10:16:26.963Z"
+    },
+    "1280": {
+      "mal_id": 1280,
+      "title": "Mamono Hunter Youko",
+      "profile_status": "complete",
+      "synopsis": "Gymnasisten Yohko Mano får veta att hon är den 108:e arvtagaren i en familjelinje av demonjägare. Hennes önskan om ett vanligt tonårsliv kolliderar med ett övernaturligt uppdrag som hennes släkt förväntar sig att hon ska axla.",
+      "themes": [
+        "Ärvd plikt kontra självbestämmande",
+        "Övernaturligt arv i tonårsvardagen",
+        "Familjeförväntningar och mognad"
+      ],
+      "tone": [
+        "Actionkomisk",
+        "Övernaturlig",
+        "Lekfull med skräckinslag"
+      ],
+      "pacing_and_structure": "En serie fristående OVA-avsnitt som kombinerar demonkonfrontationer med komiska vardagskontraster snarare än en renodlad sammanhängande TV-säsong.",
+      "character_dynamics": "Yohko ställs mellan familjens tradition av demonjakt och sin egen önskan om ett normalt liv; äldre familjemedlemmar förmedlar arvet.",
+      "distinctive_features": "Sexdelad OVA från 1990-talet med kvinnlig demonjägare, generationsarv och blandning av fantasyaction, humor och skräck.",
+      "comparison_cues": [
+        "Hur familjeplikt skapar konflikten snarare än en frivillig hjälteroll",
+        "Balansen mellan monsteraction och lättsam ton",
+        "OVA-formatets episodiska upplägg"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://anilist.co/anime/1280",
+        "https://www.animeka.com/animes/detail/mamono-hunter-yohko.html"
+      ],
+      "researched_at_utc": "2026-11-08T10:15:30.509Z"
     },
     "1285": {
       "mal_id": 1285,
