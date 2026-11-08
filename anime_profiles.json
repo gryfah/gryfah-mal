@@ -514,6 +514,38 @@
         "https://studioghibli.jp/films/spirited-away/"
       ]
     },
+    "226": {
+      "mal_id": 226,
+      "title": "Elfen Lied",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-08T03:13:54.438Z",
+      "synopsis": "Lucy är en diclonius, en mänsklig mutant med osynliga telekinetiska armar. Hon flyr från en våldsam forskningsanläggning, skadas och uppträder därefter som den barnsligt oskuldsfulla Nyu. Kouta och Yuka tar hand om henne utan att känna till hennes bakgrund, medan organisationen som hållit henne fången försöker återta henne.",
+      "themes": [
+        "Avhumanisering och diskriminering",
+        "Trauma och identitet",
+        "Våldets återverkningar",
+        "Omsorg och tillhörighet"
+      ],
+      "tone": [
+        "Brutal",
+        "Tragisk",
+        "Ömsint i kontrast till skräcken"
+      ],
+      "pacing_and_structure": "En kort tv-serie på 13 avsnitt med våldsamma konfrontationer, lugnare vardagsscener och återblickar som gradvis ger bakgrund till konflikterna.",
+      "character_dynamics": "Lucys och Nyus olika sätt att uppträda skapar en central spänning i hennes relation till Kouta och Yuka. Förföljarnas syn på diclonii kontrasteras mot den omsorg hon möter utanför laboratoriet.",
+      "distinctive_features": "Kontrasten mellan extremt grafiskt våld och närmast vardaglig omsorg är ett bärande stilgrepp. Serien använder en mutation och institutionell fångenskap som utgångspunkt för frågor om människovärde.",
+      "comparison_cues": [
+        "Om grafiskt våld förstärker eller skymmer persondramat",
+        "Kontrasten mellan sårbar vardag och brutal förföljelse",
+        "Hur minnesförlust och dubbla beteenden påverkar relationernas trovärdighet"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/226",
+        "https://tv.apple.com/at/show/elfen-lied/umc.cmc.l3nlnam4fyp7spr1smet0857",
+        "https://tv.apple.com/br/show/elfen-lied/umc.cmc.l3nlnam4fyp7spr1smet0857"
+      ]
+    },
     "339": {
       "mal_id": 339,
       "synopsis": "Efter att en död klasskamrat tycks skicka e-post dras den tillbakadragna Lain Iwakura in i kommunikationsnätverket Wired. Gränserna mellan hennes vardag, nätets identiteter och den upplevda verkligheten blir allt svårare att skilja åt.",
@@ -1091,6 +1123,38 @@
       "profile_status": "complete",
       "researched_at_utc": "2026-11-07T16:14:50.411Z",
       "uncertainties": []
+    },
+    "801": {
+      "mal_id": 801,
+      "title": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-08T03:13:54.438Z",
+      "synopsis": "I andra säsongen av Stand Alone Complex återvänder Motoko Kusanagi och Sektion 9 till cyberbrottsbekämpning i ett politiskt spänt Japan. En konflikt kring flyktingar, terrorgruppen Individual Eleven och statliga maktintressen binder samman flera utredningar till en större säkerhetskris.",
+      "themes": [
+        "Flyktingpolitik och social exkludering",
+        "Statsmakt, terrorism och informationskontroll",
+        "Individuell övertygelse kontra kollektiv ideologi",
+        "Säkerhet och medborgerliga friheter"
+      ],
+      "tone": [
+        "Politisk thriller",
+        "Eftertänksam",
+        "Spänningsdriven"
+      ],
+      "pacing_and_structure": "26-avsnittsserie som kombinerar fristående polisfall och personporträtt med en alltmer sammanhängande politisk huvudkonflikt.",
+      "character_dynamics": "Kusanagi leder en specialiserad enhet där Batou, Togusa, Aramaki och övriga medlemmar bidrar med olika perspektiv och metoder. Sektion 9 ställs mot både militanta grupper och aktörer inom statsapparaten.",
+      "distinctive_features": "Den andra säsongen ger större utrymme åt flyktingfrågan och statlig destabilisering än den första säsongens Laughing Man-fall. Cybernetisk action vävs ihop med förvaltningspolitik och underrättelsearbete.",
+      "comparison_cues": [
+        "Skillnad mellan episodiska polisfall och sammanhållen politisk intrig",
+        "Hur terror och flyktingpolitik behandlas utan enkla lojalitetslinjer",
+        "Balans mellan cyberaction, lagarbete och samhällsanalys"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/801",
+        "https://www.b-ch.com/titles/469/",
+        "https://theghostintheshell.jp/en/series/stand_alone_complex"
+      ]
     },
     "937": {
       "mal_id": 937,
