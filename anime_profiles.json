@@ -3117,6 +3117,37 @@
         "https://thetvdb.com/series/secret-of-nogizaka-haruka"
       ]
     },
+    "3667": {
+      "mal_id": 3667,
+      "title": "Strike Witches",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-08T22:17:49.369Z",
+      "synopsis": "I ett alternativt 1940-tal bekämpar unga kvinnor med magiska krafter de mystiska angriparna Neuroi. Yoshika Miyafuji rekryteras till den internationella 501:a flygstridsenheten, där hennes läkande förmåga och motvilja mot strid sätts på prov.",
+      "themes": [
+        "Kamratskap i en militär enhet",
+        "Försvar och personligt ansvar",
+        "Läkande kontra våldsutövning"
+      ],
+      "tone": [
+        "Actionbetonad",
+        "Lättsam",
+        "Kamratlig"
+      ],
+      "pacing_and_structure": "Tv-serie med uppdragsbaserade luftstrider och återkommande vardags- och gruppavsnitt; växlar mellan hotet från Neuroi och livet i förbandet.",
+      "character_dynamics": "Yoshikas vårdande inställning kontrasterar mot de mer stridsvana häxornas militära disciplin; Sakamoto fungerar som rekryterare och mentor.",
+      "distinctive_features": "Flygstrider med magiskt drivna Striker Units, en alternativ världskrigsmiljö och ett uttalat ecchi-inslag i figurdesign och komik.",
+      "comparison_cues": [
+        "Kombination av militär action och gruppvardag",
+        "Kontrast mellan pacifistisk läkande huvudperson och stridsuppdrag",
+        "Framträdande fanservice jämfört med andra militäranime"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/3667",
+        "https://tv.apple.com/us/show/strike-witches/umc.cmc.qn97svz4j4qmyu2m93ahj0ai",
+        "https://www.hulu.jp/strike-witches"
+      ]
+    },
     "3782": {
       "mal_id": 3782,
       "title": "Kara no Kyoukai Movie 2: Satsujin Kousatsu (Zen)",
@@ -3178,6 +3209,37 @@
       "uncertainties": [],
       "sources": [
         "https://en.wikipedia.org/wiki/The_Garden_of_Sinners:_Remaining_Sense_of_Pain"
+      ]
+    },
+    "3784": {
+      "mal_id": 3784,
+      "title": "Evangelion Movie 2: Ha",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-08T22:17:49.369Z",
+      "synopsis": "Den andra Rebuild-filmen fortsätter Shinji Ikaris tjänst som EVA-pilot under NERV:s försvar mot änglarna. Asuka Shikinami och den nya piloten Mari tillkommer samtidigt som relationen mellan Shinji, Rei och hans far Gendo förändras.",
+      "themes": [
+        "Föräldrarelation och självbestämmande",
+        "Närhet kontra plikt",
+        "Att försöka förändra ett förutbestämt förlopp"
+      ],
+      "tone": [
+        "Intensiv",
+        "Melankolisk",
+        "Apokalyptisk"
+      ],
+      "pacing_and_structure": "Långfilm som först vidareutvecklar välkända konflikter från tv-serien och sedan går i en alltmer egen riktning, med tydligare actiondriv och emotionell stegring.",
+      "character_dynamics": "Shinji söker både bekräftelse och självständighet gentemot Gendo; Rei försöker närma sig andra människor, medan Asuka och Mari introducerar olika förhållningssätt till pilotrollen.",
+      "distinctive_features": "Den andra av fyra Rebuild-filmer; omtolkar Evangelions tidigare material och introducerar Mari Makinami Illustrious som ny central pilot.",
+      "comparison_cues": [
+        "Rebuild-omtolkning kontra originalseriens förlopp",
+        "Shinjis relation till Rei och Gendo",
+        "Högre tempo och mer storskalig action än många tv-avsnitt"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/3784",
+        "https://www.imdb.com/title/tt0860906/plotsummary/",
+        "https://www.rottentomatoes.com/m/evangelion_20_you_can_not_advance"
       ]
     },
     "3989": {
@@ -3577,6 +3639,36 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Candy_Boy",
         "https://cinedock.online/show/61439-candy-boy"
+      ]
+    },
+    "5150": {
+      "mal_id": 5150,
+      "title": "Hatsukoi Limited.",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-08T22:17:49.369Z",
+      "synopsis": "Flera skolelever upplever sina första förälskelser i sammanflätade historier. Ayumi Arihara drömmer om att bli uppvaktad, men när Misao Zaitsu bekänner sina känslor blir hon i stället intresserad av hans yngre bror Mamoru; parallellt skildras vänners egna kärleksproblem.",
+      "themes": [
+        "Första förälskelsen",
+        "Obesvarade känslor och missförstånd",
+        "Vänskap och sociala förväntningar"
+      ],
+      "tone": [
+        "Romantisk",
+        "Komisk",
+        "Ungdomligt osäker"
+      ],
+      "pacing_and_structure": "En ensembleberättelse i tolv tv-avsnitt där flera delvis överlappande relationer får fokus i stället för ett enda huvudpar.",
+      "character_dynamics": "Ayumis idealiserade bild av kärlek utmanas av Misaos uppvaktning och hennes egen dragning till Mamoru; övriga elever bildar en väv av olika och ibland korsande förälskelser.",
+      "distinctive_features": "Bygger på Mizuki Kawashitas manga och använder flera sammankopplade ungdomsromanser med växlande perspektiv.",
+      "comparison_cues": [
+        "Ensembleromantik kontra en enda huvudrelation",
+        "Missförstånd och obesvarad kärlek som komisk motor",
+        "Flera parallella kärleksförlopp under kort tv-säsong"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/5150",
+        "https://www.animesc.com/en/details/4r63z6/hatsukoi-limited"
       ]
     },
     "5204": {
