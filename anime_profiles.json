@@ -609,6 +609,38 @@
         "https://tv.apple.com/ca/show/gankutsuou/umc.cmc.17zvrtt5lr8mpuiicjss7tgta"
       ]
     },
+    "294": {
+      "mal_id": 294,
+      "title": "Divergence Eve",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-08T11:18:45.244Z",
+      "synopsis": "År 2317 anländer kadetten Misaki Kureha och andra unga piloter till den avlägsna rymdstationen Watcher's Nest, en knutpunkt för interstellära resor. Stationen hotas av mystiska varelser, Ghouls, som kommer via den teknologi som möjliggör resorna.",
+      "themes": [
+        "Rymdfärdens okända risker",
+        "Militär träning och samarbete",
+        "Identitet och utsatthet",
+        "Kontakt med främmande liv"
+      ],
+      "tone": [
+        "Science fiction-skräck",
+        "Militär dramatik",
+        "Mysteriebetonad"
+      ],
+      "pacing_and_structure": "Tretton avsnitt med en inledande framtidsblick och därefter tillbakahopp till kadetternas ankomst och utbildning; mysteriet utvecklas genom incidenter på stationen.",
+      "character_dynamics": "Misaki framstår som en osäker nykomling bland andra kadetter, och deras gemensamma utbildning sätts under press av stationens hot.",
+      "distinctive_features": "Interstellära transitportaler, Watcher's Nest och exoskelettstrider mot Ghouls; den icke-linjära öppningen särskiljer serien.",
+      "comparison_cues": [
+        "Rymdskräck kring en isolerad militär station",
+        "Kadettdynamik och träning i kontrast till kosmiskt hot",
+        "Framtidsblick som skapar förväntan inför kronologisk bakgrund"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/294",
+        "https://www.fernsehserien.de/divergence-eve",
+        "https://www.thetvdb.com/series/divergence-eve/episodes/303741"
+      ]
+    },
     "339": {
       "mal_id": 339,
       "synopsis": "Efter att en död klasskamrat tycks skicka e-post dras den tillbakadragna Lain Iwakura in i kommunikationsnätverket Wired. Gränserna mellan hennes vardag, nätets identiteter och den upplevda verkligheten blir allt svårare att skilja åt.",
@@ -638,6 +670,38 @@
       "profile_status": "complete",
       "researched_at_utc": "2026-11-07T20:12:41.538Z",
       "uncertainties": []
+    },
+    "369": {
+      "mal_id": 369,
+      "title": "Boogiepop wa Warawanai",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-08T11:18:45.244Z",
+      "synopsis": "Efter ett märkligt ljusfenomen börjar ungdomar försvinna i en japansk stad. Rykten om den gåtfulla Boogiepop sprids medan olika skolelever upplever till synes fristående övernaturliga händelser vars samband framträder gradvis.",
+      "themes": [
+        "Minne och förlust",
+        "Förändring och flykt från verkligheten",
+        "Ungdomars isolering",
+        "Rykten och osäker verklighetsuppfattning"
+      ],
+      "tone": [
+        "Oroväckande",
+        "Melankolisk",
+        "Psykologiskt gåtfull"
+      ],
+      "pacing_and_structure": "Tolv avsnitt med skiftande huvudpersoner, överlappande perspektiv och delvis icke-kronologiskt berättande; sammanhangen byggs upp bitvis.",
+      "character_dynamics": "Ett ensembleperspektiv på skolelever och deras relationer; Boogiepop fungerar som en återkommande gåtfull gestalt snarare än en konventionell ständig huvudperson.",
+      "distinctive_features": "Dämpad färgskala, vignettliknande bildinramning och experimentell ljudbild förstärker fragmenterad perception.",
+      "comparison_cues": [
+        "Perspektivskiften där samma händelse får olika betydelse",
+        "Urban legend som knyter samman personliga kriser",
+        "Lågmäld psykologisk skräck snarare än ständig action"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/369",
+        "https://www.primevideo.com/-/da/detail/0QOHSJ9NOYIX0DHUOR31LLJFNU",
+        "https://en.wikipedia.org/wiki/Boogiepop_Phantom"
+      ]
     },
     "387": {
       "mal_id": 387,
@@ -925,6 +989,38 @@
         "https://myanimelist.net/anime/488",
         "https://es.wikipedia.org/wiki/Ichigo_Mashimaro",
         "https://pt.wikipedia.org/wiki/Ichigo_Mashimaro"
+      ]
+    },
+    "492": {
+      "mal_id": 492,
+      "title": "Armitage III: Dual-Matrix",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-08T11:18:45.244Z",
+      "synopsis": "Flera år efter föregångaren lever Naomi Armitage och Ross Sylibus med dottern Yoko på Mars under nya identiteter. När nya angrepp mot avancerade androider hotar deras trygghet undersöker Naomi en konflikt som sträcker sig till jorden och debatten om robotars rättigheter.",
+      "themes": [
+        "Artificiellt liv och mänskliga rättigheter",
+        "Familj och föräldraskap",
+        "Diskriminering och kontroll",
+        "Teknikens politiska konsekvenser"
+      ],
+      "tone": [
+        "Actionbetonad",
+        "Cyberpunkpräglad",
+        "Familjedramatisk"
+      ],
+      "pacing_and_structure": "Fristående långfilmsuppföljare med en koncentrerad konflikt som växlar mellan Naomis undersökning och hoten mot familjen.",
+      "character_dynamics": "Naomi och Ross är ett etablerat par och föräldrar; deras gemensamma ansvar för Yoko ger den tidigare androidkonflikten ett personligt familjeperspektiv.",
+      "distinctive_features": "Marskoloni, tredje generationens androider och politisk kamp om robotars status; tydlig fortsättning på Armitage III/Poly-Matrix.",
+      "comparison_cues": [
+        "Androiders rättigheter kopplade till konkret familjeliv",
+        "Uppföljare med etablerade relationer snarare än ny partnerdynamik",
+        "Cyberpunk-action med identitets- och reproduktionsfrågor"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/492",
+        "https://anime.mikomi.org/series/584.html",
+        "https://en.wikipedia.org/wiki/Armitage_III"
       ]
     },
     "493": {
