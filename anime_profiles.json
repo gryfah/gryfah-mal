@@ -2399,6 +2399,38 @@
       "researched_at_utc": "2026-11-08T06:15:57.233Z",
       "uncertainties": []
     },
+    "2129": {
+      "mal_id": 2129,
+      "title": "True Tears",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-08T08:15:24.154Z",
+      "synopsis": "Gymnasieeleven och blivande bilderboksskaparen Shinichiro bor med sin familj och klasskamraten Hiromi, som flyttat in efter en förlust i familjen. Hon verkar glad i skolan men sluter sig hemma. När Shinichiro möter den säregna Noe, som säger sig ha gett bort sina tårar, blir hans försök att förstå sina egna och andras känslor alltmer komplicerade.",
+      "themes": [
+        "Sorg och svårigheter att uttrycka känslor",
+        "Obesvarad kärlek och svartsjuka",
+        "Självständighet och familjeförväntningar",
+        "Konstnärligt uttryck som känslobearbetning"
+      ],
+      "tone": [
+        "Vemodig",
+        "Vardagsnära",
+        "Romantiskt spänd"
+      ],
+      "pacing_and_structure": "Ett sammanhängande relationsdrama över tretton avsnitt där vardagliga möten och gradvisa förskjutningar mellan karaktärerna driver berättelsen mer än yttre action.",
+      "character_dynamics": "Shinichiros känslor för den tillbakadragna Hiromi ställs mot hans växande band till den frispråkiga Noe. Deras olika sätt att hantera sorg och närhet formar konflikterna.",
+      "distinctive_features": "Återkommande motiv kring tårar och förmågan att gråta; Shinichiros tecknande och Noes säregna föreställningsvärld används för att gestalta inre tillstånd.",
+      "comparison_cues": [
+        "Jämför med andra kärlekstriangeldramer utifrån hur missförstånd och tystnad skapar konflikt",
+        "Undersök om Noes symboliska språk ger relationerna större djup",
+        "Jämför tempo och känslomässig upplösning med senare P.A.WORKS-dramer"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/2129",
+        "https://tv.apple.com/us/show/true-tears/umc.cmc.vju7hnju7wv7pommphnt9tmr",
+        "https://www.anime.digital/anime/true-tears"
+      ]
+    },
     "2167": {
       "mal_id": 2167,
       "title": "Clannad",
@@ -2489,6 +2521,37 @@
         "https://myanimelist.net/anime/2452",
         "https://www.tms-e.co.jp/global/alltitles/1980s/041301.html",
         "https://www.filminstitutet.se/globalassets/3.-se-och-samtala-om-film/cinemateket_stockholm/2024/ht-24/seriebilder/tid---mangafilmer---filmtexter.pdf"
+      ]
+    },
+    "2759": {
+      "mal_id": 2759,
+      "title": "Evangelion Movie 1: Jo",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-08T08:15:24.154Z",
+      "synopsis": "Efter den globala katastrofen Second Impact kallas Shinji Ikari till Tokyo-3 av sin frånvarande far, som leder organisationen NERV. Han pressas att styra den biomekaniska Evangelion-enheten mot gåtfulla angripare kallade änglar. Under Misato Katsuragis tillsyn och i mötet med den tystlåtna piloten Rei försöker han förstå sin roll och de vuxnas krav.",
+      "themes": [
+        "Föräldrafrånvaro och behov av erkännande",
+        "Plikt och personlig autonomi",
+        "Rädsla, ansvar och mänsklig kontakt"
+      ],
+      "tone": [
+        "Spänningsfylld",
+        "Melankolisk",
+        "Psykologiskt pressad"
+      ],
+      "pacing_and_structure": "Första filmen i Rebuild of Evangelion: en koncentrerad nytolkning av TV-seriens inledande händelser, med tydlig växling mellan stridsscener och Shinjis utsatta vardag.",
+      "character_dynamics": "Shinjis ansträngda relation till fadern Gendo kontrasteras mot Misatos stödjande men kravfyllda roll och hans trevande kontakt med Rei.",
+      "distinctive_features": "Biologiskt laddad mecha-action, omfattande stadsförsvar, återkommande religiöst färgad ikonografi och omarbetad filmisk iscensättning av originalseriens början.",
+      "comparison_cues": [
+        "Jämför med TV-seriens öppning utifrån komprimering och fokus på Shinji",
+        "Jämför med senare Rebuild-filmer utifrån ton och berättelsens avvikelse från förlagan",
+        "Undersök relationen mellan spektakulär strid och pilotens psykologiska belastning"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/2759",
+        "https://tv.apple.com/us/movie/evangelion-10-you-are-not-alone/umc.cmc.aie34ruwz5a9stvxolbeaimz",
+        "https://www.rottentomatoes.com/m/evangelion_10_you_are_not_alone"
       ]
     },
     "2993": {
