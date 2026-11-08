@@ -355,6 +355,37 @@
         "https://sibly.fr/en/catalogue/last-exile"
       ]
     },
+    "101": {
+      "mal_id": 101,
+      "title": "Air",
+      "profile_status": "complete",
+      "synopsis": "Den kringresande dockspelaren Yukito Kunisaki söker efter den bevingade flicka som hans mor berättat om. I en sommarstad möter han Misuzu, som erbjuder honom husrum. Bekantskapen får honom att skjuta upp sin resa och uppmärksamma människornas svårigheter omkring sig.",
+      "themes": [
+        "Familjeband och tillhörighet",
+        "Minne och arv",
+        "Omsorg och förlust",
+        "Legender i vardagen"
+      ],
+      "tone": [
+        "Melankolisk",
+        "Sommarljus",
+        "Ömsint"
+      ],
+      "pacing_and_structure": "En vardagsnära sommarberättelse som successivt väver in övernaturliga motiv och mer känslomässigt laddat drama; TV-adaptation av Keys visuella roman.",
+      "character_dynamics": "Yukitos rastlösa sökande möter Misuzus vilja till närhet; hans möten med stadens invånare förskjuter uppmärksamheten från det egna uppdraget till andras behov.",
+      "distinctive_features": "Kyoto Animations TV-serie från 2005, med sommarstad, dockspel och myten om en bevingad flicka som återkommande berättelseelement.",
+      "comparison_cues": [
+        "Hur vardagligt samspel övergår i övernaturligt familjedrama",
+        "Sommarstämning kontra berättelsens sorg",
+        "Resande huvudperson som knyter band till en plats"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://anilist.co/anime/101/AIR",
+        "https://theanimelist.net/anime/air"
+      ],
+      "researched_at_utc": "2026-11-08T05:13:58.502Z"
+    },
     "134": {
       "mal_id": 134,
       "title": "Gunslinger Girl",
@@ -1283,6 +1314,37 @@
         "https://myanimelist.net/anime/877"
       ]
     },
+    "934": {
+      "mal_id": 934,
+      "title": "Higurashi no Naku Koro ni",
+      "profile_status": "complete",
+      "synopsis": "Keiichi Maebara flyttar till byn Hinamizawa 1983 och blir vän med skolkamraterna Rena, Mion, Satoko och Rika. När han får höra om mord och försvinnanden kopplade till byns årliga festival börjar han ifrågasätta vad vännerna vet och om han kan lita på dem.",
+      "themes": [
+        "Tillit och paranoia",
+        "Bygemenskap och hemligheter",
+        "Våld bakom idyllen",
+        "Osäker kunskap"
+      ],
+      "tone": [
+        "Oroväckande",
+        "Paranoid",
+        "Kontrastrik"
+      ],
+      "pacing_and_structure": "Mysterie- och skräckserie i flera scenariobågar som omformulerar betraktarens förståelse av personer och händelser; bygger på 07th Expansions visuella roman.",
+      "character_dynamics": "Keiichis nya vänskapskrets erbjuder gemenskap men blir samtidigt centrum för hans växande misstänksamhet; närhet och rädsla samverkar.",
+      "distinctive_features": "Studio DEENs TV-serie från 2006 med 26 avsnitt, 1980-talets landsbygdsmiljö, festivalmysterium och uppdelning i flera berättelsebågar.",
+      "comparison_cues": [
+        "Vänskapsgrupp vars tillit undermineras av misstankar",
+        "Återkommande scenariobågar snarare än ett enda linjärt mysterium",
+        "Kontrast mellan vardaglig skolkomedi och grafisk skräck"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://anilist.co/anime/934/Higurashi-no-Naku-Koro-ni/",
+        "https://lufas.won.fyi/anime/934/higurashi-no-naku-koro-ni"
+      ],
+      "researched_at_utc": "2026-11-08T05:13:58.502Z"
+    },
     "937": {
       "mal_id": 937,
       "title": "Appleseed",
@@ -2090,6 +2152,37 @@
         "https://theanimelist.net/anime/memories",
         "https://en.wikipedia.org/wiki/Memories_(1995_film)"
       ]
+    },
+    "1530": {
+      "mal_id": 1530,
+      "title": "Kanon (2006)",
+      "profile_status": "complete",
+      "synopsis": "Yuuichi Aizawa återvänder efter sju år till en snötäckt stad där han brukade besöka sin kusin. Hans barndomsminnen är fragmentariska, men möten med flera unga kvinnor som känner honom börjar gradvis öppna det förflutna.",
+      "themes": [
+        "Minnesförlust och återkomst",
+        "Barndomens ouppklarade band",
+        "Omsorg och försoning",
+        "Vardag och övernaturlighet"
+      ],
+      "tone": [
+        "Vintermelankolisk",
+        "Varm",
+        "Mystisk"
+      ],
+      "pacing_and_structure": "24-avsnittsserie med sammanlänkade personliga berättelsebågar där vardagliga möten och minnesfragment stegvis fördjupar mysterierna.",
+      "character_dynamics": "Yuuichis återupptagna relation med kusinen Nayuki och hans möten med andra bekanta från barndomen gör honom till en länk mellan flera personliga historier.",
+      "distinctive_features": "Kyoto Animations 2006-adaptation av Keys visuella roman; snömiljön och återvändarens bristande minne strukturerar dramat.",
+      "comparison_cues": [
+        "Minnesåterkomst som motor för relationsdrama",
+        "Flera individuella berättelsebågar kring en huvudperson",
+        "Vintermiljö och lågmäld vardag mot övernaturliga inslag"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://anilist.co/anime/1530/Kanon-2006",
+        "https://thetvdb.com/series/kanon-2006"
+      ],
+      "researched_at_utc": "2026-11-08T05:13:58.502Z"
     },
     "1577": {
       "mal_id": 1577,
