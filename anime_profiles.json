@@ -128,6 +128,40 @@
         "https://theanimelist.net/anime/shinseiki-evangelion"
       ]
     },
+    "31": {
+      "mal_id": 31,
+      "title": "Shinseiki Evangelion Movie: Shi to Shinsei",
+      "synopsis": "Biograffilmen Death & Rebirth återvänder till Shinji Ikaris och de andra piloternas kamp mot änglarna samt deras konfliktfyllda band till NERV och varandra. Den består huvudsakligen av en omarbetad återblick på TV-serien och en inledning till den efterföljande filmavslutningen.",
+      "themes": [
+        "Föräldraskap och övergivenhet",
+        "Identitet och isolering",
+        "Minnesbilder och omtolkning",
+        "Plikt och självbestämmande"
+      ],
+      "tone": [
+        "Psykologiskt laddad",
+        "Dyster",
+        "Reflekterande"
+      ],
+      "pacing_and_structure": "Tvådelad biograffilm: Death återberättar och omstrukturerar material ur TV-serien, medan Rebirth presenterar en del av det nya filmavslutets inledning. Inte en fristående ny berättelse.",
+      "character_dynamics": "Shinjis konflikt med fadern Gendou och de övriga piloternas olika sätt att hantera NERV:s krav står i centrum för återblicken.",
+      "distinctive_features": "Omarbetad montage- och återblicksstruktur som leder över till The End of Evangelion; bör inte jämföras med en helt ny långfilm på samma premisser.",
+      "comparison_cues": [
+        "Värdet av återberättande och omstrukturering jämfört med nytt material",
+        "Förhållandet till originalseriens psykologiska teman",
+        "Upplevelsen av en film som fungerar som övergång till avslutningen"
+      ],
+      "uncertainties": [
+        "Olika utgåvor av Death & Rebirth och senare Death(true)² kan skilja sig i klippning; beskrivningen gäller ursprunglig filmform."
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/31",
+        "https://myanimepulse.com/anime/31",
+        "https://myanimestats.pages.dev/anime/31"
+      ],
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-08T01:15:19.748Z"
+    },
     "32": {
       "mal_id": 32,
       "title": "Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni",
@@ -290,6 +324,38 @@
         "https://sibly.fr/en/catalogue/azumanga-daiou-the-animation",
         "https://en.wikipedia.org/wiki/Azumanga_Daioh"
       ]
+    },
+    "134": {
+      "mal_id": 134,
+      "title": "Gunslinger Girl",
+      "synopsis": "En italiensk myndighet räddar svårt skadade unga flickor med cybernetiska ingrepp men tränar och betingar dem samtidigt för att utföra väpnade uppdrag. Berättelsen följer deras vardag och band till de vuxna handledarna, där omsorg och utnyttjande blir svåra att skilja åt.",
+      "themes": [
+        "Barns utsatthet och exploatering",
+        "Villkorad tillgivenhet och beroende",
+        "Institutionell makt och moral",
+        "Mänsklighet under teknisk och psykologisk kontroll"
+      ],
+      "tone": [
+        "Melankolisk",
+        "Återhållen",
+        "Oroväckande"
+      ],
+      "pacing_and_structure": "Tretton avsnitt med återkommande uppdrag men tydlig tonvikt på flickornas individuella relationer och vardagliga situationer.",
+      "character_dynamics": "Varje flicka är knuten till en vuxen handledare; relationerna skiljer sig i närhet, disciplin och ömsesidighet, samtidigt som betingningen gör känslorna svårtolkade.",
+      "distinctive_features": "Kontrasterar stillsamma italienska miljöer och vardaglig längtan efter erkännande mot statligt sanktionerat våld utfört av barn.",
+      "comparison_cues": [
+        "Skillnaden mellan emotionellt drama och action",
+        "Etiska konflikter i handledarrelationerna",
+        "Lågmäld framställning av systematiskt utnyttjande"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/134",
+        "https://anilist.co/anime/134/GUNSLINGER-GIRL",
+        "https://lufas.won.fyi/anime/134/gunslinger-girl"
+      ],
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-08T01:15:19.748Z"
     },
     "164": {
       "mal_id": 164,
@@ -578,6 +644,38 @@
         "https://lufas.won.fyi/anime/440/shoujo-kakumei-utena"
       ],
       "researched_at_utc": "2026-11-07T19:13:25.349Z"
+    },
+    "467": {
+      "mal_id": 467,
+      "title": "Koukaku Kidoutai: Stand Alone Complex",
+      "synopsis": "I ett samhälle med nätanslutna cyberhjärnor och avancerade proteskroppar utreder den statliga specialenheten Section 9 brott där teknik, politik och identitet flätas samman. En gåtfull hackare kallad Laughing Man blir ett återkommande fokus.",
+      "themes": [
+        "Digital identitet och kroppslig autonomi",
+        "Övervakning, makt och politisk korruption",
+        "Individ och kollektiv handling",
+        "Teknikens konsekvenser för rättssäkerhet"
+      ],
+      "tone": [
+        "Eftertänksam",
+        "Proceduriell",
+        "Spänningsdriven"
+      ],
+      "pacing_and_structure": "26-avsnittsserie som växlar mellan fristående brottsfall och en längre sammanhängande utredning kring Laughing Man.",
+      "character_dynamics": "Motoko Kusanagi leder den operativa gruppen under Aramakis överinseende; Batou och Togusa bidrar med olika erfarenheter och perspektiv inom Section 9.",
+      "distinctive_features": "Cyberpunk i polisprocedurformat där vardagliga utredningar varvas med ett övergripande politiskt och tekniskt mysterium.",
+      "comparison_cues": [
+        "Skillnaden mellan episodiska fall och sammanhängande mysterium",
+        "Hur teknik och samhällsfrågor integreras i utredningarna",
+        "Ensemble med professionella relationer snarare än en ensam hjälte"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/467",
+        "https://anilist.co/anime/467",
+        "https://lufas.won.fyi/anime/467/koukaku-kidoutai-stand-alone-complex"
+      ],
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-08T01:15:19.748Z"
     },
     "474": {
       "mal_id": 474,
