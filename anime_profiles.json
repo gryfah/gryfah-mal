@@ -2990,6 +2990,35 @@
         "https://myanimelist.net/anime/3989"
       ]
     },
+    "4059": {
+      "mal_id": 4059,
+      "title": "Clannad: Mou Hitotsu no Sekai, Tomoyo-hen",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-08T14:15:12.311Z",
+      "synopsis": "En alternativ Clannad-berättelse där Tomoya Okazaki och Tomoyo Sakagami är ett par. När Tomoyo blir elevrådsordförande kan hon arbeta för att rädda skolans körsbärsträd, men Tomoyas offentliga uppdrag och Tomoyas rykte som bråkstake sätter deras förhållande under press.",
+      "themes": [
+        "Kärlek kontra sociala förväntningar",
+        "Rykte och tillhörighet",
+        "Personlig ambition och stöd i en relation"
+      ],
+      "tone": [
+        "Romantiskt dramatisk",
+        "Vemodig"
+      ],
+      "pacing_and_structure": "En fristående alternativ relationsgren i kort OVA-format snarare än en fortsättning på huvudseriens kronologi.",
+      "character_dynamics": "Tomoya vill stötta Tomoyos mål, men omgivningens syn på hans bakgrund hotar hennes ställning och deras närhet.",
+      "distinctive_features": "Byter Clannads centrala romantiska väg till Tomoyo och gör hennes elevrådsansvar och skolans körsbärsträd till konkreta konflikter.",
+      "comparison_cues": [
+        "Alternativ romantisk väg inom etablerad franchise",
+        "Yttre socialt tryck snarare än missförstånd som huvudkonflikt",
+        "Kortformat med koncentrerat relationsdrama"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://www.animesc.com/en/details/2yO8AN/clannad-mou-hitotsu-no-sekai-tomoyo-hen",
+        "https://anizukan.com/anime/4528/clannad-mou-hitotsu-no-sekai-tomoyo-hen"
+      ]
+    },
     "4181": {
       "mal_id": 4181,
       "title": "Clannad: After Story",
@@ -3050,6 +3079,37 @@
       "profile_status": "complete",
       "researched_at_utc": "2026-11-08T13:18:21.067Z",
       "uncertainties": []
+    },
+    "4280": {
+      "mal_id": 4280,
+      "title": "Kara no Kyoukai Movie 4: Garan no Dou",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-08T14:15:12.311Z",
+      "synopsis": "Efter två år i koma vaknar Shiki Ryougi med en förändrad upplevelse av världen och en skrämmande förmåga att se dödens linjer. Mikiya Kokutou söker hjälp hos magikern Touko Aozaki för att Shiki ska kunna förstå det som hänt.",
+      "themes": [
+        "Identitet efter förlust",
+        "Främlingskap inför det egna medvetandet",
+        "Liv och död",
+        "Återhämtning efter trauma"
+      ],
+      "tone": [
+        "Oroväckande",
+        "Introspektiv",
+        "Övernaturligt mystisk"
+      ],
+      "pacing_and_structure": "Fjärde långfilmen i en icke-linjärt berättad filmserie; koncentrerar sig på Shikis uppvaknande och förmågans innebörd snarare än ett fristående kriminalfall.",
+      "character_dynamics": "Shikis isolering kontrasteras mot Mikiyas omsorg och Toukos mer sakliga vägledning i det övernaturliga.",
+      "distinctive_features": "Mystic Eyes of Death Perception introduceras genom en personlig kris och kopplas till seriens större identitetsmysterium.",
+      "comparison_cues": [
+        "Psykologiskt inåtvänd episod i urban fantasy-franchise",
+        "Övernaturlig förmåga som källa till rädsla snarare än triumf",
+        "Icke-linjär seriekontext och tät filmstruktur"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://www.animesc.com/en/details/17u1Qe/kara-no-kyoukai-movie-4-garan-no-dou",
+        "https://en.wikipedia.org/wiki/The_Garden_of_Sinners:_The_Hollow_Shrine"
+      ]
     },
     "4654": {
       "mal_id": 4654,
