@@ -64,6 +64,38 @@
       "researched_at_utc": "2026-11-07T20:12:41.538Z",
       "uncertainties": []
     },
+    "7": {
+      "mal_id": 7,
+      "title": "Witch Hunter Robin",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-08T00:18:48.723Z",
+      "synopsis": "Robin Sena, en ung kvinna med förmågan att framkalla eld, ansluter sig efter uppväxten i Italien till den japanska organisationen STN-J. Gruppen spårar och griper personer med övernaturliga förmågor. Uppdragen väcker efter hand frågor om vem som utgör ett hot och om organisationens egna metoder.",
+      "themes": [
+        "Förföljelse och institutionell makt",
+        "Identitet och tillhörighet",
+        "Rättfärdigande av kontroll över annorlunda människor",
+        "Misstro inom en hemlig organisation"
+      ],
+      "tone": [
+        "Dyster",
+        "Återhållsam",
+        "Mysteriepräglad"
+      ],
+      "pacing_and_structure": "Inleds med relativt fristående utredningar av olika fall och övergår gradvis i en mer sammanhängande konspiration och identitetskonflikt.",
+      "character_dynamics": "Robin är nykomling bland erfarna STN-J-agenter och möter särskilt den reserverade kollegan Amon; samarbetet präglas av professionell distans och gradvis växande misstro mot uppdragets premisser.",
+      "distinctive_features": "Övernaturlig brottsutredning med teknisk neutralisering av magiska krafter; noirliknande stämning och långsam förskjutning från fallbaserad jakt till organisationsmysterium.",
+      "comparison_cues": [
+        "Jämför episodisk utredningsstruktur med senare sammanhängande mysterium",
+        "Undersök hur huvudpersonens dubbla position som kraftanvändare och jägare behandlas",
+        "Skilj återhållen atmosfär från actiondrivna övernaturliga serier"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/7",
+        "https://planete-jeunesse.miraitech.fr/fiche-2019-witch-hunter-robin.html",
+        "https://en.wikipedia.org/wiki/Witch_Hunter_Robin"
+      ]
+    },
     "30": {
       "mal_id": 30,
       "title": "Shinseiki Evangelion",
@@ -1325,6 +1357,37 @@
         "https://myanimelist.net/anime/1151/Dominion",
         "https://animesc.com/en/details/1l2PgN/dominion",
         "https://thetvdb.com/series/dominion-tank-police"
+      ]
+    },
+    "1152": {
+      "mal_id": 1152,
+      "title": "Tokusou Senshatai Dominion",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-08T00:18:48.723Z",
+      "synopsis": "I ett framtida Newport City bekämpar en särskild stridsvagnspolis tungt beväpnad brottslighet. Leona Ozaki och hennes partner Al patrullerar i den lilla stridsvagnen Bonaparte, medan deras hårdhänta insatser själva kan skapa kaos. Denna OVA från 1993 är en andra animeversion av Masamune Shirows Dominion.",
+      "themes": [
+        "Ordning kontra övervåld",
+        "Teknik och kriminalitet i framtidsstaden",
+        "Lojalitet inom en okonventionell polisstyrka"
+      ],
+      "tone": [
+        "Burlesk",
+        "Actionbetonad",
+        "Satirisk"
+      ],
+      "pacing_and_structure": "Kort OVA med polisuppdrag, biljakter och eldstrider; humor och högt tempo är centrala snarare än lång psykologisk uppbyggnad.",
+      "character_dynamics": "Leona och Al fungerar som stridsvagnsbesättning och kollegor; Leonas handlingskraft ställs mot polisorganisationens kaotiska arbetsmetoder.",
+      "distinctive_features": "Liten specialbyggd stridsvagn mot högteknologiska brottslingar; slapstickbetonad polisaction i Masamune Shirows science fiction-miljö.",
+      "comparison_cues": [
+        "Kontrastera satir över polisens övervåld med allvarligare cyberpunkpolisdramer",
+        "Bedöm samspelet Leona–Al och Bonapartes roll som återkommande motiv",
+        "Skilj 1993 års OVA från 1988 års Dominion-adaption"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/1152",
+        "https://www.hulu.jp/tokusousennsyatai-dominion",
+        "https://thetvdb.com/series/new-dominion-tank-police"
       ]
     },
     "1177": {
