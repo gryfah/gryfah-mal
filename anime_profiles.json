@@ -4765,6 +4765,37 @@
         "https://www.crunchyroll.com/watch/GR192E506/we-cant-make-any-friends"
       ]
     },
+    "10800": {
+      "mal_id": 10800,
+      "title": "Chihayafuru",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-09T08:32:33.413Z",
+      "synopsis": "Chihaya Ayase upptäcker tävlingskaruta genom klasskamraten Arata Wataya. Flera år efter att barndomsvännerna skilts åt bildar hon tillsammans med Taichi Mashima en karutaklubb på gymnasiet för att utvecklas som spelare och återknyta kontakten genom sporten.",
+      "themes": [
+        "Egen ambition och självbild",
+        "Vänskap och avstånd",
+        "Laganda och tävlingsdisciplin",
+        "Klassisk japansk poesi"
+      ],
+      "tone": [
+        "Engagerad",
+        "Tävlingsintensiv",
+        "Känslomässig"
+      ],
+      "pacing_and_structure": "Längre sportdrama där klubbens uppbyggnad, träning och matcher varvas med relationell utveckling; karutas snabba kortdueller ger tydliga spänningshöjdpunkter.",
+      "character_dynamics": "Chihayas målmedvetenhet knyter ihop barndomsvännerna Arata och Taichi; klubbkamraternas skilda styrkor skapar ett kollektivt tävlingsprojekt.",
+      "distinctive_features": "Tävlingskaruta bygger på dikter ur Hyakunin Isshu och kombinerar minne, hörsel och explosiv reaktionsförmåga.",
+      "comparison_cues": [
+        "Sportdrama med traditionell poesi som tävlingssystem",
+        "Barndomsvänskap och återförening över avstånd",
+        "Klubbgemenskap och individuella tävlingsmål"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://www.ntv.co.jp/english/pc/2011/08/chihayafuru.html",
+        "https://myanimelist.net/anime/10800"
+      ]
+    },
     "12119": {
       "mal_id": 12119,
       "title": "Natsu-iro Kiseki",
@@ -4895,6 +4926,36 @@
         "https://www.hulu.jp/date-a-live",
         "https://tv.apple.com/us/show/date-a-live/umc.cmc.2hn7av812mcvb6htlxxhpmonk",
         "https://www.tvguide.or.jp/db/anime/date_a_live/season1/"
+      ]
+    },
+    "16417": {
+      "mal_id": 16417,
+      "title": "Tamako Market",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-09T08:32:33.413Z",
+      "synopsis": "Tamako Kitashirakawa är gymnasieelev och dotter till en mochi-handlare i shoppinggatan Usagiyama. Hennes välbekanta vardag bland butiksägare, familj och vänner får ett märkligt tillskott när den talande fågeln Dera flyttar in hos henne.",
+      "themes": [
+        "Lokalsamhälle och tillhörighet",
+        "Familj och generationsband",
+        "Vardagsrutiner och förändring"
+      ],
+      "tone": [
+        "Varm",
+        "Lekfull",
+        "Vardagsnära"
+      ],
+      "pacing_and_structure": "Episodisk vardagskomedi med shoppinggatan som återkommande miljö; fågelns upptåg ger en lätt absurd kontrast till den invanda vardagen.",
+      "character_dynamics": "Tamako är djupt förankrad i familjens butik och i grannskapet; Dera är en högljudd och påträngande gäst som rubbar rutinerna.",
+      "distinctive_features": "Kyoto Animations originalserie med mochi-butiker och en hel shoppinggata som socialt nav snarare än en vanlig skolklubb.",
+      "comparison_cues": [
+        "Lokalsamhälle och familjeföretag som berättelsens centrum",
+        "Talandefågelns komiska intrång i vardagsrealism",
+        "Lågmäld vardagsserie snarare än målstyrt sport- eller äventyrsdrama"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://www.kyotoanimation.co.jp/en/works/tamako/",
+        "https://myanimelist.net/anime/16417"
       ]
     },
     "18095": {
@@ -5403,6 +5464,37 @@
         "https://yuyuyu.tv/season1/story/index.php",
         "https://bs.tbs.co.jp/anime/yuukiyuuna/",
         "https://www.bs4.jp/yuyuyu/"
+      ]
+    },
+    "27775": {
+      "mal_id": 27775,
+      "title": "Plastic Memories",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-09T08:32:33.413Z",
+      "synopsis": "I en nära framtid börjar Tsukasa Mizugaki arbeta hos SAI, som tillverkar människolika androider kallade Giftia. Han placeras på Terminal Service, avdelningen som hämtar tillbaka Giftia när deras begränsade drifttid löper ut, och får den tillbakadragna androiden Isla som partner.",
+      "themes": [
+        "Förlust och begränsad tid",
+        "Minnen och identitet",
+        "Mänskliga band till artificiella personer",
+        "Arbete och omsorg"
+      ],
+      "tone": [
+        "Melankolisk",
+        "Ömsint",
+        "Bitvis humoristisk"
+      ],
+      "pacing_and_structure": "Arbetsplatsdrama med återkommande uppdrag där återhämtning av Giftia konkretiserar seriens centrala tidsgräns; relationen mellan arbetskamraterna utvecklas parallellt.",
+      "character_dynamics": "Den oerfarne Tsukasa och den reserverade Isla behöver samarbeta i känsliga möten med ägare som måste skiljas från sina Giftia.",
+      "distinctive_features": "Den fasta livslängden för Giftia gör ett administrativt återhämtningsuppdrag till en återkommande etisk och känslomässig konflikt.",
+      "comparison_cues": [
+        "Science fiction där teknikens begränsning styr relationsdramat",
+        "Återkommande uppdrag som speglar huvudrelationen",
+        "Förlust, minnen och ansvar inom en arbetsplatsmiljö"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://plasticmemoriesusa.com/story/01.html",
+        "https://myanimelist.net/anime/27775"
       ]
     },
     "30127": {
