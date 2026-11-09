@@ -4108,6 +4108,36 @@
         "https://www.anigin.com/en/anime/k-on-live-house"
       ]
     },
+    "6954": {
+      "mal_id": 6954,
+      "title": "Kara no Kyoukai Movie 8: Shuushou",
+      "profile_status": "complete",
+      "synopsis": "En kort epilog till Kara no Kyoukai där Mikiya Kokutou åter möter Shiki Ryougi på den plats där de träffades flera år tidigare. I stället för en ny utredning koncentreras berättelsen till deras samtal och de existentiella frågor som omger Shikis identitet.",
+      "themes": [
+        "Identitet och självförståelse",
+        "Återkomst till en avgörande mötesplats",
+        "Existentiell reflektion"
+      ],
+      "tone": [
+        "Stillsam",
+        "Filosofisk",
+        "Mystisk"
+      ],
+      "pacing_and_structure": "En ungefär halvtimmeslång, dialogcentrerad epilog med begränsad yttre handling och stark kontinuitet till tidigare filmer.",
+      "character_dynamics": "Mikiyas möte med Shiki är berättelsens nav; deras relation och skilda perspektiv bär den huvudsakliga dialogen.",
+      "distinctive_features": "Avslutande reflektion i ett snöigt möte som återknyter till deras första möte, snarare än en actiondriven fortsättning.",
+      "comparison_cues": [
+        "Dialog och metafysik framför action",
+        "Epilog som förutsätter tidigare franchise-kännedom",
+        "Lågmäld form med koncentrerat personmöte"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://mubi.com/it/us/films/kara-no-kyoukai-the-garden-of-sinners-epilogue",
+        "https://thetvdb.com/series/the-garden-of-sinners/episodes/369881"
+      ],
+      "researched_at_utc": "2026-11-09T05:18:41.325Z"
+    },
     "7791": {
       "mal_id": 7791,
       "title": "K-On!!",
@@ -4234,6 +4264,35 @@
         "https://images.darkhorse.com/common/salestools/catalogs/DHManga_Readers_Guide_2013.pdf"
       ]
     },
+    "8937": {
+      "mal_id": 8937,
+      "title": "Toaru Majutsu no Index II",
+      "profile_status": "complete",
+      "synopsis": "Den andra TV-säsongen fortsätter Touma Kamijous och Index äventyr i en värld där vetenskapliga esperkrafter och religiöst organiserad magi konkurrerar. Nya konflikter med kyrkliga fraktioner fördjupar den större motsättningen mellan de två maktsfärerna.",
+      "themes": [
+        "Tro och vetenskap som konkurrerande maktsystem",
+        "Lojalitet och beskydd",
+        "Institutionell makt och konflikter mellan fraktioner"
+      ],
+      "tone": [
+        "Actionbetonad",
+        "Spänningsfylld",
+        "Ibland komisk"
+      ],
+      "pacing_and_structure": "24 avsnitt med flera sammanhängande handlingsbågar, nya motståndare och återkommande rollfigurer; fortsättning snarare än fristående introduktion.",
+      "character_dynamics": "Touma fortsätter agera beskyddare och ingripa i konflikter kring Index, medan både tidigare bekanta och nya aktörer komplicerar relationerna mellan vetenskapens och magins läger.",
+      "distinctive_features": "Andra säsongen av light novel-adaptionen, med större fokus på romersk-katolska kyrkans roll och på de växande konflikterna mellan fraktionerna.",
+      "comparison_cues": [
+        "Flerfraktionsintriger snarare än isolerade övernaturliga mysterier",
+        "Blandning av esperkrafter och magiska system",
+        "Handlingsbågar och ensemble över 24 avsnitt"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/A_Certain_Magical_Index_season_2"
+      ],
+      "researched_at_utc": "2026-11-09T05:18:41.325Z"
+    },
     "9055": {
       "mal_id": 9055,
       "title": "Tamayura",
@@ -4329,6 +4388,36 @@
         "https://www.ntv.co.jp/english/pc/2011/03/kimi-ni-todoke-from-me-to-you2nd-season.html",
         "https://www.hulu.jp/kimi-ni-todoke-2nd-season"
       ]
+    },
+    "9734": {
+      "mal_id": 9734,
+      "title": "K-On!!: Keikaku!",
+      "profile_status": "complete",
+      "synopsis": "Ett fristående extrakapitel till K-On!! där medlemmarna i skolans musikklubb börjar planera en utlandsresa efter examen. Resedrömmarna övergår i praktiska förberedelser med passansökningar, samtidigt som de fem vännernas olika förväntningar ger upphov till vardagskomik.",
+      "themes": [
+        "Vänskap bortom skoltiden",
+        "Gemensamma framtidsplaner",
+        "Vardagsbestyr som social samvaro"
+      ],
+      "tone": [
+        "Varm",
+        "Lekfull",
+        "Avslappnad"
+      ],
+      "pacing_and_structure": "En kort episodisk OVA som bygger humor av resplanering och små praktiska hinder snarare än ett dramatiskt huvudproblem.",
+      "character_dynamics": "Yui, Mio, Ritsu, Tsumugi och Azusa deltar med olika temperament; Azusas mer ordningsamma hållning kontrasterar mot de äldres entusiasm.",
+      "distinctive_features": "Extrakapitel kring pass och utlandsplaner; resan genomförs inte här. Anknyter till examensperioden och filmens resmotiv.",
+      "comparison_cues": [
+        "Resplanering snarare än musikframträdande",
+        "Gruppkomik ur fem olika personligheter",
+        "Låg konfliktnivå och vardagligt tempo"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://tv.apple.com/us/episode/plan/umc.cmc.28kfgpaexkkemseb8v8f3y8mu?l=es&showId=umc.cmc.59o3a6kcdg3zowbf773glcpmc",
+        "https://www.imdb.com/title/tt3515982/"
+      ],
+      "researched_at_utc": "2026-11-09T05:18:41.325Z"
     },
     "9756": {
       "mal_id": 9756,
