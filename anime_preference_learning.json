@@ -2718,6 +2718,27 @@
         "anime_snapshot_at": "2026-11-08T23:01:34.100662+00:00",
         "observed_at_utc": "2026-11-08T23:16:37.187Z"
       },
+      "6379": {
+        "mal_id": 6379,
+        "title": "Kyou no 5 no 2 (TV): Takarabako",
+        "observed_status": "completed",
+        "user_score": 6,
+        "mal_mean_score": 7.05,
+        "mal_num_scoring_users": 3768,
+        "mal_genres": [
+          "Comedy",
+          "Ecchi",
+          "School",
+          "Seinen"
+        ],
+        "profile_ref": 6379,
+        "rating_band": "neutral",
+        "score_minus_mal": -1.05,
+        "baseline_median_offset": null,
+        "consensus_residual": null,
+        "anime_snapshot_at": "2026-11-09T16:07:19.950031+00:00",
+        "observed_at_utc": "2026-11-09T16:15:04.584Z"
+      },
       "6547": {
         "mal_id": 6547,
         "title": "Angel Beats!",
@@ -3139,6 +3160,30 @@
         "consensus_residual": 1.23,
         "anime_snapshot_at": "2026-11-09T03:02:49.625662+00:00",
         "observed_at_utc": "2026-11-09T03:14:23.871Z"
+      },
+      "10080": {
+        "mal_id": 10080,
+        "title": "Kami nomi zo Shiru Sekai II",
+        "observed_status": "completed",
+        "user_score": 7,
+        "mal_mean_score": 7.86,
+        "mal_num_scoring_users": 250975,
+        "mal_genres": [
+          "Comedy",
+          "Harem",
+          "Otaku Culture",
+          "Romance",
+          "School",
+          "Shounen",
+          "Supernatural"
+        ],
+        "profile_ref": 10080,
+        "rating_band": "mild_positive",
+        "score_minus_mal": -0.86,
+        "baseline_median_offset": null,
+        "consensus_residual": null,
+        "anime_snapshot_at": "2026-11-09T16:07:19.950031+00:00",
+        "observed_at_utc": "2026-11-09T16:15:04.584Z"
       },
       "10161": {
         "mal_id": 10161,
