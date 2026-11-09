@@ -4045,6 +4045,37 @@
       ],
       "researched_at_utc": "2026-11-08T17:14:16.626Z"
     },
+    "7791": {
+      "mal_id": 7791,
+      "title": "K-On!!",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-09T00:19:44.875Z",
+      "synopsis": "Under sitt sista gymnasieår fortsätter Yui, Mio, Ritsu och Tsumugi att spela i lättmusikklubben tillsammans med den yngre Azusa. Bandet Ho-kago Tea Time delar repetitioner, vardag och skolaktiviteter samtidigt som den annalkande examen ger tiden tillsammans en ny betydelse.",
+      "themes": [
+        "Vänskap genom vardagliga rutiner",
+        "Tidens gång och förestående examen",
+        "Musik som gemensam aktivitet",
+        "Tillhörighet i en liten grupp"
+      ],
+      "tone": [
+        "Varm",
+        "Lekfull",
+        "Nostalgisk"
+      ],
+      "pacing_and_structure": "Episodiskt skolvardagsberättande med repetitioner, klubbaktiviteter och små händelser; den övergripande tidsramen är huvudpersonernas sista skolår.",
+      "character_dynamics": "De fyra äldre klubbmedlemmarnas etablerade samspel kontrasterar mot den yngre och mer ambitiösa Azusa, vars fortsatta skolgång skiljer sig från deras.",
+      "distinctive_features": "Andra TV-säsongen, 26 avsnitt, Kyoto Animation 2010; bandet Ho-kago Tea Time och examen ger en tydligare tidsmässig båge än en helt öppen vardagsserie.",
+      "comparison_cues": [
+        "Jämför vardagskomik med gradvis avskedskänsla",
+        "Gruppens gemenskap snarare än musikalisk tävling driver berättelsen",
+        "Skillnaden mellan de avgående eleverna och Azusa"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://www.kyotoanimation.co.jp/en/works/k-on02/",
+        "https://myanimelist.net/anime/7791"
+      ]
+    },
     "9055": {
       "mal_id": 9055,
       "title": "Tamayura",
@@ -4077,6 +4108,38 @@
         "https://cinemaplus.shochiku.co.jp/titles/detail/830/",
         "https://www.video.unext.jp/title/SID0013564",
         "https://gigazine.net/news/20100402_tamayura_ova"
+      ]
+    },
+    "9756": {
+      "mal_id": 9756,
+      "title": "Mahou Shoujo Madoka☆Magica",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-09T00:19:44.875Z",
+      "synopsis": "Skolflickan Madoka Kaname möter varelsen Kyubey, som erbjuder henne att få en önskan uppfylld i utbyte mot att bli magisk flicka och bekämpa häxor. Vännen Sayaka dras in i samma erbjudande, medan den nyinflyttade Homura försöker hindra Madoka från att acceptera det.",
+      "themes": [
+        "Önskningars pris och ansvar",
+        "Vänskap under press",
+        "Valfrihet och konsekvenser",
+        "Idealiserat hjältemod kontra risk"
+      ],
+      "tone": [
+        "Oroväckande",
+        "Psykologiskt laddad",
+        "Kontrastrik"
+      ],
+      "pacing_and_structure": "En sammanhållen berättelse där vardaglig skolmiljö och klassiska magiska-flickor-motiv gradvis möter allt högre insatser och nya frågor om kontraktets innebörd.",
+      "character_dynamics": "Madokas tvekan och Sayakas engagemang möter Homuras motstånd och den mer erfarna Mamis vägledning; Kyubey fungerar som förmedlare av det avgörande erbjudandet.",
+      "distinctive_features": "Originalserie från 2011 som omtolkar magical-girl-konventioner genom önskningskontrakt och en stark kontrast mellan visuellt uttryck och berättelsens konsekvenser.",
+      "comparison_cues": [
+        "Kostnaden för ett önskat ideal",
+        "Kontrast mellan genrekonvention och mörkare dramatik",
+        "Vänskapsrelationernas roll i svåra val"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://www.hulu.jp/puella-magi-madoka-magica",
+        "https://www.netflix.com/jp-en/title/70302572",
+        "https://myanimelist.net/anime/9756"
       ]
     },
     "10490": {
