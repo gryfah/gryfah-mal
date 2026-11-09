@@ -5176,6 +5176,71 @@
         "https://myanimelist.net/anime/11111"
       ]
     },
+    "11597": {
+      "mal_id": 11597,
+      "title": "Nisemonogatari",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-09T17:17:00.339Z",
+      "synopsis": "Efter händelserna i Bakemonogatari flyttas fokus till Koyomi Araragis yngre systrar Karen och Tsukihi, som kallar sig Fire Sisters och försöker skipa rättvisa. Deras möten med bedrägeri och övernaturliga fenomen tvingar Koyomi att ingripa och väcker frågor om vad som är äkta, falskt och rättfärdigt.",
+      "themes": [
+        "Äkthet och imitation",
+        "Syskonrelationer",
+        "Rättvisa och självbild",
+        "Övernaturliga fenomen i vardagen"
+      ],
+      "tone": [
+        "Dialogtät",
+        "Ironisk",
+        "Suggestiv",
+        "Provokativ"
+      ],
+      "pacing_and_structure": "Elva avsnitt i två huvudsakliga berättelsebågar, centrerade på Karen respektive Tsukihi; långa samtal och stiliserade avbrott varvas med plötsliga konflikter.",
+      "character_dynamics": "Koyomis beskyddande men motsägelsefulla förhållande till systrarna står i centrum. Karen och Tsukihi har egna föreställningar om rättvisa, medan möten med vuxna och övernaturliga aktörer utmanar deras självbilder.",
+      "distinctive_features": "Nisio Isins ordlek och dialogdrivna berättande i Shafts starkt grafiskt stiliserade regi; fortsättning på Bakemonogatari med ett tydligt tema om det äkta kontra det falska.",
+      "comparison_cues": [
+        "Långa verbala dueller framför rak intrig",
+        "Syskon- och identitetsfrågor genom övernaturlig metaforik",
+        "Kraftigt stiliserad bildregi och tvära tonbyten"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/11597",
+        "https://www.asahi.co.jp/anime/nisemonogatari/",
+        "https://www.hulu.jp/nisemonogatari"
+      ]
+    },
+    "11739": {
+      "mal_id": 11739,
+      "title": "Kimi to Boku. 2",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-09T17:17:00.339Z",
+      "synopsis": "Andra säsongen följer barndomsvännerna Yūta, Yūki, Kaname och Shun samt deras vän Chizuru genom ytterligare vardagliga skolhändelser. De fem fortsätter att retas och stötta varandra samtidigt som förälskelser, framtidsval och små förändringar i vänskapen får större betydelse.",
+      "themes": [
+        "Långvarig vänskap",
+        "Vardagens små förändringar",
+        "Förälskelse och osäkerhet",
+        "Att närma sig vuxenlivet"
+      ],
+      "tone": [
+        "Lågmält humoristisk",
+        "Varm",
+        "Eftertänksam"
+      ],
+      "pacing_and_structure": "Episodiskt skolvardagsberättande med långsamma förskjutningar i relationerna; små situationer får utrymme snarare än en överordnad dramatisk konflikt.",
+      "character_dynamics": "Tvillingarna Yūta och Yūki, den ansvarstyngde Kaname och den mildare Shun har en etablerad gruppdynamik som den mer utåtriktade Chizuru rör om i. Vänskapen prövas i små steg när romantiska känslor och framtidsfrågor tränger sig på.",
+      "distinctive_features": "Fortsätter Kiichi Hottas skolvardagsskildring med fem pojkars vänskap i centrum; andra säsongen från J.C.Staff (2012).",
+      "comparison_cues": [
+        "Vänskap som bärande relation snarare än action eller intrig",
+        "Vardagsepisoder där små känsloskiften får betydelse",
+        "Romantiska sidospår och framtidsoro inom en välbekant grupp"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/11739",
+        "https://www.aniplex.co.jp/lineup/kimitoboku2/",
+        "https://www.tv-tokyo.co.jp/anime/kimiboku2/sp/story/index.html"
+      ]
+    },
     "11843": {
       "mal_id": 11843,
       "title": "Danshi Koukousei no Nichijou",
