@@ -4485,6 +4485,36 @@
         "https://tv.apple.com/us/show/hanasaku-iroha---blossoms-for-tomorrow-/umc.cmc.bct6jhd6to1hy0c5zc55gxxp"
       ]
     },
+    "9379": {
+      "mal_id": 9379,
+      "title": "Denpa Onna to Seishun Otoko",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-09T12:16:52.190Z",
+      "synopsis": "Gymnasisten Makoto Niwa flyttar till sin moster Meme när föräldrarna arbetar utomlands. Där möter han kusinen Erio Touwa, som gömmer sig i en futon och hävdar att hon är utomjording. Makotos försök att få ett normalt ungdomsliv kolliderar med hennes föreställningsvärld och stadens andra excentriska ungdomar.",
+      "themes": [
+        "Ungdomsidentitet och föreställningar om normalitet",
+        "Familjeband och social isolering",
+        "Fantasi kontra vardaglig verklighet"
+      ],
+      "tone": [
+        "Egenartat komisk",
+        "Drömsk",
+        "Varmt absurd"
+      ],
+      "pacing_and_structure": "Episodiskt relations- och vardagsdrama där Makoto räknar sina upplevda ungdomspoäng; märkliga samtal och möten driver handlingen mer än yttre konflikter.",
+      "character_dynamics": "Makoto är både skeptisk och omtänksam inför Erio; mostern Meme och klasskamraterna Ryuko och Maekawa ger olika kontraster till hans idealiserade ungdomsliv.",
+      "distinctive_features": "Erio i sin futon, Makotos poängräkning och Shafts visuella gestaltning av en vardag som upplevs märklig.",
+      "comparison_cues": [
+        "Jämför hur vardaglig excentricitet och familjeansvar balanseras",
+        "Skilj fantasifulla påståenden från faktiskt science fiction-innehåll",
+        "Bedöm samspelet mellan episodisk komik och Erio–Makotos relation"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://anilist.co/anime/9379",
+        "https://www.tvmaze.com/shows/12802/denpa-onna-to-seishun-otoko"
+      ]
+    },
     "9617": {
       "mal_id": 9617,
       "title": "K-On! Movie",
@@ -4666,6 +4696,37 @@
       "sources": [
         "https://myanimelist.net/anime/9989",
         "https://www.fujitv.co.jp/b_hp/anohana/"
+      ]
+    },
+    "10161": {
+      "mal_id": 10161,
+      "title": "No.6",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-09T12:16:52.190Z",
+      "synopsis": "I den till synes perfekta stadsstaten No. 6 hjälper privilegierade Shion en skadad rymling, Nezumi, och förlorar därmed sin samhällsställning. När de möts igen flera år senare börjar Shion se den auktoritära ordning och ojämlikhet som den välordnade staden döljer.",
+      "themes": [
+        "Utopi och social kontroll",
+        "Klass och privilegier",
+        "Tillit över samhällsgränser",
+        "Lojalitet och moralisk självständighet"
+      ],
+      "tone": [
+        "Dystopisk",
+        "Spänningsfylld",
+        "Relationsdriven"
+      ],
+      "pacing_and_structure": "Kort sammanhängande dystopisk berättelse med mysterium kring stadens styre och ett centralt växande förtroende mellan huvudpersonerna.",
+      "character_dynamics": "Shions idealism och skyddade uppväxt ställs mot Nezumis misstro mot systemet och erfarenhet av livet utanför stadens privilegier.",
+      "distinctive_features": "En steril framtidsstad som kontrasteras mot dess marginaliserade omgivning; ett personligt möte får långtgående politiska konsekvenser.",
+      "comparison_cues": [
+        "Jämför förhållandet mellan dystopiskt världsbygge och Shion–Nezumis band",
+        "Undersök om maktkritiken eller karaktärskonflikten bär dramat",
+        "Jämför hur olika erfarenheter av samma samhälle påverkar deras val"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://www.imdb.com/title/tt2350826/plotsummary/",
+        "https://en.wikipedia.org/wiki/No._6"
       ]
     },
     "10162": {
