@@ -4453,6 +4453,35 @@
         "https://tv.apple.com/us/show/hanasaku-iroha---blossoms-for-tomorrow-/umc.cmc.bct6jhd6to1hy0c5zc55gxxp"
       ]
     },
+    "9617": {
+      "mal_id": 9617,
+      "title": "K-On! Movie",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-09T10:18:44.923Z",
+      "synopsis": "Inför examen planerar Yui, Mio, Ritsu och Tsumugi från skolans lättmusikklubb en gemensam resa till London med yngre klubbmedlemmen Azusa. Resan ger dem tid att spela musik och fundera på vad deras kommande avsked innebär.",
+      "themes": [
+        "Vänskap inför förändring",
+        "Musik som gemenskap",
+        "Avsked och minnen"
+      ],
+      "tone": [
+        "Varm",
+        "Vardagshumoristisk",
+        "Vemodig"
+      ],
+      "pacing_and_structure": "En långfilm med reseepisoder och musikaliska inslag, sammanhållen av examensperioden och den förestående separationen.",
+      "character_dynamics": "De fyra avgångselevernas gemensamma historia ställs mot Azusas fortsatta tid i klubben; deras omsorg om henne ger avskedet en konkret relationell kärna.",
+      "distinctive_features": "Londonresan förflyttar den välbekanta skolklubbsdynamiken till en ny miljö utan att överge seriens vardagsnära rytm.",
+      "comparison_cues": [
+        "Jämför hur en långfilm ger vardagsseriens relationer avslut",
+        "Undersök balansen mellan resekomik, musik och avskedsstämning"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://www.criterionchannel.com/films/VBLiQBrA/k-on-the-movie",
+        "https://tv.apple.com/gb/movie/k-on-movie/umc.cmc.5mf8804cnmm09pcoa7hzlvzv"
+      ]
+    },
     "9656": {
       "mal_id": 9656,
       "title": "Kimi ni Todoke 2nd Season",
@@ -4828,6 +4857,35 @@
         "https://en.wikipedia.org/wiki/Natsuiro_Kiseki"
       ]
     },
+    "12189": {
+      "mal_id": 12189,
+      "title": "Hyouka",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-09T10:18:44.923Z",
+      "synopsis": "Houtarou Oreki vill hushålla med sin energi, men går med i skolans klassikerklubb och dras av Eru Chitandas nyfikenhet in i vardagliga mysterier tillsammans med Satoshi Fukube och Mayaka Ibara.",
+      "themes": [
+        "Nyfikenhet kontra passivitet",
+        "Vänskap och självbild",
+        "Vardagliga mysterier"
+      ],
+      "tone": [
+        "Eftertänksam",
+        "Lekfull",
+        "Lågmält gåtfull"
+      ],
+      "pacing_and_structure": "Episodiska skolmysterier varvas med längre trådar kring klubbens historia; problemlösning och samtal snarare än våld driver berättelsen.",
+      "character_dynamics": "Orekis motvilja att engagera sig kontrasteras mot Chitandas ihärdiga nyfikenhet; Satoshi och Mayaka bidrar med egna perspektiv och etablerade vänskapsband.",
+      "distinctive_features": "Kyoto Animations bearbetning av Honobu Yonezawas Classic Literature Club-romaner använder skolans små gåtor för att synliggöra karaktärernas tankesätt.",
+      "comparison_cues": [
+        "Jämför hur vardagsmysterier skapar karaktärsutveckling",
+        "Skilj lågmält mysterium från thrillerdriven spänning"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://www.kyotoanimation.co.jp/en/works/hyouka/",
+        "https://tv.apple.com/us/show/hyouka/umc.cmc.rm85bm6oxqa5bay71hbi5rmz"
+      ]
+    },
     "12355": {
       "mal_id": 12355,
       "title": "Ookami Kodomo no Ame to Yuki",
@@ -4859,6 +4917,34 @@
       "sources": [
         "https://studiochizu.com/works/wolf-children/",
         "https://nyicff.org/films/wolf-children/"
+      ]
+    },
+    "14131": {
+      "mal_id": 14131,
+      "title": "Girls & Panzer",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-09T10:18:44.923Z",
+      "synopsis": "Miho Nishizumi byter till Ōarai flickskola för att komma bort från stridsvagnssporten sensha-dō, men skolans elevråd återinför sporten och hon hamnar åter i en besättning med nya vänner. Skolan deltar sedan i tävlingar mot andra skolor.",
+      "themes": [
+        "Laganda och ledarskap",
+        "Att ompröva tidigare erfarenheter",
+        "Tävlingsstrategi och samarbete"
+      ],
+      "tone": [
+        "Energisk",
+        "Kamratlig",
+        "Tävlingsinriktad"
+      ],
+      "pacing_and_structure": "Skolvardag och lagbygge leder över i taktiskt utformade stridsvagnsmatcher med tydlig turneringsstruktur.",
+      "character_dynamics": "Miho för med sig erfarenhet men tvekar inför sporten; Saori Takebe och Hana Isuzu är bland de första som välkomnar henne, och gruppens samarbete blir avgörande.",
+      "distinctive_features": "Den fiktiva skolsporten använder historiska stridsvagnar som tävlingsredskap snarare än att skildra ett faktiskt krig.",
+      "comparison_cues": [
+        "Jämför hur taktiska matcher bygger lagrelationer",
+        "Skilj militär estetik från seriens idrotts- och skolberättelse"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://www.asahi.co.jp/anime/girls_und_panzer/"
       ]
     },
     "14811": {
