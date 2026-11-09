@@ -5176,6 +5176,71 @@
         "https://myanimelist.net/anime/11111"
       ]
     },
+    "11179": {
+      "mal_id": 11179,
+      "title": "Papa no Iukoto wo Kikinasai!",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-09T21:20:07.614Z",
+      "synopsis": "Universitetsstudenten Yuuta Segawa tar hand om sina tre systerdöttrar Sora, Miu och Hina sedan hans syster och hennes make försvunnit i en flygolycka. Han väljer att hålla systrarna tillsammans i sin lilla lägenhet i stället för att låta släkten dela upp dem. Det nya hushållet måste hitta rutiner samtidigt som de hanterar förlusten.",
+      "themes": [
+        "Vald familj och omsorgsansvar",
+        "Sorg och vardaglig återhämtning",
+        "Syskonsammanhållning",
+        "Studier och försörjning under familjeansvar"
+      ],
+      "tone": [
+        "Varm",
+        "Vardagligt komisk",
+        "Bitvis sorgsen"
+      ],
+      "pacing_and_structure": "Familjekomedi med vardagsproblem kring trångboddhet, skola och omsorg, med en allvarligare förlust som utgångspunkt; tv-serie om 12 avsnitt.",
+      "character_dynamics": "Yuuta är en oerfaren ung vårdnadshavare; den äldre Sora, mellansystern Miu och den yngsta Hina har olika behov och temperament. Yuuta försöker hålla dem samman trots att han själv fortfarande är student.",
+      "distinctive_features": "En ung student blir ansvarig för tre barn i en enrumslägenhet; kontrasten mellan komiska hushållssituationer och den bakomliggande familjetragedin bär serien.",
+      "comparison_cues": [
+        "Familjebildning genom konkret vardagsansvar",
+        "Barn i tre olika åldrar under samma tak",
+        "Komedi med sorg som underliggande premiss"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/11179/Papa_no_Iukoto_wo_Kikinasai",
+        "https://thetvdb.com/series/listen-to-me-girls-i-am-your-father",
+        "https://www.mycartoonlist.net/anime/11179/"
+      ]
+    },
+    "11499": {
+      "mal_id": 11499,
+      "title": "Sankarea",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-09T21:20:07.614Z",
+      "synopsis": "Chihiro Furuya är besatt av zombier och försöker återuppliva sin döda katt med en märklig brygd. Under försöken lär han känna Rea Sanka, en flicka som lever under sin kontrollerande fars makt. När Rea dricker brygden och senare återuppstår som zombie förändras deras kontakt till en berättelse om frihet, kroppslig förändring och en ovanlig förälskelse.",
+      "themes": [
+        "Kontroll och självbestämmande",
+        "Död och återuppståndelse",
+        "Udda romantik",
+        "Familjens makt över individen"
+      ],
+      "tone": [
+        "Mörkt romantisk",
+        "Bisarrt humoristisk",
+        "Melankolisk",
+        "Övernaturlig"
+      ],
+      "pacing_and_structure": "Inleds med Chihiros försök att återuppliva katten och Reas familjesituation; utvecklas till övernaturlig relationshistoria med både komiska och mörka inslag.",
+      "character_dynamics": "Chihiro idealiserar zombier medan Rea söker ett liv utanför familjens kontroll. Deras relation prövar skillnaden mellan hans fantasibild och hennes konkreta behov av frihet och trygghet.",
+      "distinctive_features": "Zombie-romantik där odödheten både är ett fantastiskt motiv och en fysisk komplikation; återupplivningsbrygden, katten Babu och Reas restriktiva hemförhållanden är centrala för premissen.",
+      "comparison_cues": [
+        "Övernaturlig romantik med kroppsliga konsekvenser",
+        "Frihet kontra familjekontroll",
+        "Växling mellan absurd komedi och allvarligt relationsdrama"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/11499/Sankarea",
+        "https://www.myworldtheanimation.com/en/anime/sankarea",
+        "https://en.wikipedia.org/wiki/Sankarea:_Undying_Love"
+      ]
+    },
     "11597": {
       "mal_id": 11597,
       "title": "Nisemonogatari",
