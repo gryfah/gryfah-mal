@@ -4823,6 +4823,39 @@
         "https://anizukan.com/anime/7217/hotarubi-no-mori-e"
       ]
     },
+    "10460": {
+      "mal_id": 10460,
+      "title": "Kimi to Boku.",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-09T15:25:07.201Z",
+      "synopsis": "Barndomsvännerna Yuuta och Yuuki Asaba, Shun Matsuoka och Kaname Tsukahara fortsätter att umgås under gymnasietiden. När den livlige Chizuru Tachibana ansluter till kretsen får gruppens välbekanta samspel nya impulser. Serien skildrar deras vardag, skämt och små förändringar i vänskapen snarare än en sammanhängande yttre konflikt.",
+      "themes": [
+        "långvarig vänskap",
+        "ungdom och vardag",
+        "gruppdynamik",
+        "små sociala förändringar"
+      ],
+      "tone": [
+        "lågmält humoristiskt",
+        "vardagsnära",
+        "varmt",
+        "eftertänksamt"
+      ],
+      "pacing_and_structure": "Episodisk skolvardag med låg konfliktnivå och fokus på dialog, personlighetskontraster och små händelser. Första säsongen omfattar 13 avsnitt och har en separat andra säsong.",
+      "character_dynamics": "Tvillingarna Asaba retas gärna med de andra; Shun är mildare och Kaname mer lättretlig och ansvarstagande. Chizurus utåtriktade sätt förändrar balansen utan att ersätta gruppens etablerade vänskap.",
+      "distinctive_features": "En ensemble av pojkar i en vardagskomedi där lång gemensam historia snarare än ett nytt gemensamt mål håller ihop berättelsen.",
+      "comparison_cues": [
+        "pojkvänskapsensemble utan tävlingspremiss",
+        "lågmäld episodisk skolvardag",
+        "humor genom etablerade personlighetskontraster",
+        "förändring inom en långvarig vänkrets"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kimi_to_Boku",
+        "https://myanimelist.net/anime/10460"
+      ]
+    },
     "10490": {
       "mal_id": 10490,
       "title": "Blood-C",
@@ -4980,6 +5013,41 @@
       "sources": [
         "https://tv.apple.com/fr/show/mawaru-penguindrum/umc.cmc.4ml6hj56bschh12aec7dgtlyk",
         "https://www.primevideo.com/-/nl/detail/0QEQVOZ9TF9MXKKIVOCKL4ZH34"
+      ]
+    },
+    "10793": {
+      "mal_id": 10793,
+      "title": "Guilty Crown",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-09T15:25:07.201Z",
+      "synopsis": "År 2039 lever Japan under GHQ:s kontroll efter ett omfattande virusutbrott tio år tidigare. Den tillbakadragne gymnasisten Shu Ouma möter sångerskan Inori Yuzuriha, som är knuten till motståndsgruppen Funeral Parlor. När Shu får förmågan att dra fram föremål ur andra människors psyken dras han in i konflikten mellan ockupationsmakten och motståndsrörelsen.",
+      "themes": [
+        "makt och ansvar",
+        "ockupation och motstånd",
+        "identitet och förtroende",
+        "personliga band i politisk konflikt"
+      ],
+      "tone": [
+        "dramatiskt",
+        "dystopiskt",
+        "actionbetonat",
+        "emotionellt intensivt"
+      ],
+      "pacing_and_structure": "Originalproducerad science fiction-serie om 22 avsnitt där skolmiljö, politisk konflikt och spektakulära strider vävs samman; huvudpersonens växande ansvar driver eskaleringen.",
+      "character_dynamics": "Shu är osäker och motvillig inför sin nya roll; Inori för honom närmare motståndet, medan dess karismatiske ledare Gai fungerar som en kontrast till Shus tvekan.",
+      "distinctive_features": "Förmågan att materialisera andra människors inre som vapen ger de personliga relationerna direkt betydelse i actionhandlingarna. Musik och visuellt uttryck har framträdande roller.",
+      "comparison_cues": [
+        "motvillig huvudperson med ovanlig förmåga",
+        "relationer omsatta till konkret stridsmekanik",
+        "dystopisk statsmakt kontra rebellgrupp",
+        "kombination av skolvardag och höginsatsdrama"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://guilty-crown.jp/introduction/",
+        "https://guilty-crown.jp/character/",
+        "https://www.production-ig.co.jp/works/guiltycrown/",
+        "https://myanimelist.net/anime/10793"
       ]
     },
     "10800": {
