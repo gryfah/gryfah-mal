@@ -6222,6 +6222,41 @@
         "https://myanimelist.net/anime/27775"
       ]
     },
+    "30015": {
+      "mal_id": 30015,
+      "title": "ReLIFE",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-09T20:19:06.183Z",
+      "synopsis": "Efter att ha lämnat sitt första arbete och misslyckats med att etablera sig på arbetsmarknaden erbjuds 27-årige Arata Kaizaki att delta i ett rehabiliteringsprojekt. Ett preparat får honom att se ut som tonåring, och under ett år återvänder han till gymnasiet som elev. Bland klasskamraternas vänskaper, konflikter och förväntningar konfronteras han med sina egna vuxna misslyckanden.",
+      "themes": [
+        "Omstart och personlig utveckling",
+        "Arbetslivets misslyckanden och social återhämtning",
+        "Vänskap och kommunikationssvårigheter",
+        "Skillnaden mellan vuxen erfarenhet och tonårsliv"
+      ],
+      "tone": [
+        "Vardaglig",
+        "Humoristisk",
+        "Eftertänksam",
+        "Romantiska inslag"
+      ],
+      "pacing_and_structure": "TV-seriens skolvardag utvecklas genom klassrums- och relationskonflikter, medan det tidsbegränsade ettårsexperimentet ger en övergripande ram. Komedi kring en vuxen bland tonåringar samsas med mer allvarliga frågor om social tillhörighet.",
+      "character_dynamics": "Arata försöker smälta in bland jämnåriga till utseendet men bär med sig vuxen erfarenhet. Projektets kontaktperson Ryou Yoake fungerar som övervakare och förmedlare. Klasskamraten Chizuru Hishiros svårigheter med sociala signaler och Rena Karius konkurrenskänslor ger konkreta relationella konflikter.",
+      "distinctive_features": "Huvudpersonen återupplever inte sin egen ungdom genom tidsresa utan går i en ny klass som biologiskt vuxen med tillfälligt yngre utseende; det sociala experimentet prövar både hans förmåga att hjälpa andra och att acceptera hjälp.",
+      "comparison_cues": [
+        "Andra chansen som socialt experiment snarare än tidsresa",
+        "Vuxenperspektiv på ungdomens konflikter",
+        "Klasskamraternas egna utvecklingsbågar kontra huvudpersonens rehabilitering",
+        "Balans mellan skolkomedi och arbetslivets efterverkningar"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://www.crunchyroll.com/series/GY5VE008Y/relife",
+        "https://www.bs11.jp/anime/relife/",
+        "https://tv.apple.com/jp/show/relife/umc.cmc.2sruovgtx2w08j71onffyaxuk",
+        "https://myanimelist.net/anime/30015"
+      ]
+    },
     "30127": {
       "mal_id": 30127,
       "title": "Danchigai",
@@ -6286,6 +6321,39 @@
         "https://konosuba.com/1st/introduction/",
         "https://konosuba.com/1st/story/",
         "https://www.crunchyroll.com/series/GYE5K3GQR/konosuba-gods-blessing-on-this-wonderful-world"
+      ]
+    },
+    "31043": {
+      "mal_id": 31043,
+      "title": "Boku dake ga Inai Machi",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-09T20:19:06.183Z",
+      "synopsis": "Satoru Fujinuma är en 29-årig mangatecknare och pizzabud som ofrivilligt förflyttas bakåt i tiden inför livshotande händelser. När han dras in i ett mordfall förflyttas han långt tillbaka till sin egen barndom, där han försöker förhindra klasskamraten Kayo Hinazukis försvinnande och förstå sambandet med händelser i nutiden.",
+      "themes": [
+        "Ansvar och möjligheten att ändra det förflutna",
+        "Barndomens utsatthet",
+        "Skuld, minne och civilkurage",
+        "Mysterium kring våld och försvinnanden"
+      ],
+      "tone": [
+        "Spänningsdriven",
+        "Mörk",
+        "Emotionell"
+      ],
+      "pacing_and_structure": "En tolv avsnitt lång TV-thriller som växlar mellan vuxenliv och barndom; en tidsförflyttningspremiss kopplar samman ett samtida brott med ett äldre mysterium. Den episodiska framåtrörelsen styrs av försök att förebygga en tragedi snarare än fristående äventyr.",
+      "character_dynamics": "Den vuxne Satoru agerar i sin yngre kropp och försöker nå den isolerade Kayo, samtidigt som relationer till barndomens kamrater och hans mor får betydelse. Skillnaden mellan hans vuxna kunskap och barnets sociala begränsningar driver konflikten.",
+      "distinctive_features": "En tidsförflyttning som inte ger obegränsad kontroll utan tvingar huvudpersonen att handla under press; barndomsskildring sammanflätad med kriminalmysterium och vuxenansvar.",
+      "comparison_cues": [
+        "Tidsresor som etiskt ansvar snarare än äventyrslek",
+        "Spänning mellan barnperspektiv och vuxen erfarenhet",
+        "Hur mysteriets upplösning vägs mot relationell utdelning",
+        "Sårbara barn och vuxnas ansvar"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://www.fujitv.com/animation/boku-dakega-inai-machi/",
+        "https://anilist.co/anime/21234/Boku-dake-ga-Inai-Machi",
+        "https://myanimelist.net/anime/31043"
       ]
     },
     "31414": {
