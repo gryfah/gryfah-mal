@@ -4236,6 +4236,37 @@
         "https://gigazine.net/news/20100402_tamayura_ova"
       ]
     },
+    "9253": {
+      "mal_id": 9253,
+      "title": "Steins;Gate",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-09T03:14:13.638Z",
+      "synopsis": "I Akihabara experimenterar den självutnämnde galne vetenskapsmannen Rintarou Okabe och hans vänner med märkliga uppfinningar. När de upptäcker att en modifierad mikrovågsugn kan skicka meddelanden bakåt i tiden får deras försök konsekvenser för både deras vänskap och verkligheten omkring dem.",
+      "themes": [
+        "Tidsresors konsekvenser",
+        "Ansvar för egna val",
+        "Vänskap och lojalitet",
+        "Vetenskaplig nyfikenhet kontra risk"
+      ],
+      "tone": [
+        "Lekfull och excentrisk inledning",
+        "Tilltagande spänning",
+        "Emotionellt intensiv"
+      ],
+      "pacing_and_structure": "Bygger först upp laboratoriets vardag, rollfigurer och tidsresornas regler innan en tätare sammanhängande thriller tar över.",
+      "character_dynamics": "Okabes teatraliska persona möter Kurisu Makises vetenskapliga skepticism; barndomsvännen Mayuri och teknikern Daru ger gruppen andra känslomässiga och praktiska ankare.",
+      "distinctive_features": "Akihabara 2010, mobilmeddelanden som tidsreseverktyg och alternativa världslinjer; adaption av en visual novel.",
+      "comparison_cues": [
+        "Långsam etablering följd av dramatisk strukturförändring",
+        "Tidsreseregler som driver personliga konflikter",
+        "Samspelet mellan Okabe, Kurisu och barndomsvännerna"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/9253",
+        "https://tv.apple.com/jp/show/steinsgate/umc.cmc.7bzye9l3t2ww0rpuv91symto7"
+      ]
+    },
     "9656": {
       "mal_id": 9656,
       "title": "Kimi ni Todoke 2nd Season",
@@ -4297,6 +4328,68 @@
         "https://www.hulu.jp/puella-magi-madoka-magica",
         "https://www.netflix.com/jp-en/title/70302572",
         "https://myanimelist.net/anime/9756"
+      ]
+    },
+    "9989": {
+      "mal_id": 9989,
+      "title": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-09T03:14:13.638Z",
+      "synopsis": "Barndomsvännerna som en gång bildade en nära grupp har glidit isär efter Menmas död. Flera år senare upplever den tillbakadragne Jinta att Menma återvänder och ber honom uppfylla en önskan. Försöket för de tidigare vännerna samman och tvingar dem att konfrontera sådant de länge undvikit.",
+      "themes": [
+        "Sorg och skuld",
+        "Barndomsvänskap och förändring",
+        "Försoning",
+        "Outtalade känslor"
+      ],
+      "tone": [
+        "Vemodig",
+        "Ömsint",
+        "Emotionellt laddad"
+      ],
+      "pacing_and_structure": "Sammanhängande kort dramaserie där återföreningen gradvis blottlägger olika reaktioner på en gemensam förlust.",
+      "character_dynamics": "Jinta isolerar sig medan de andra tidigare vännerna har utvecklat skilda sätt att leva med det som hänt; Menmas önskan blir en katalysator för möten och konflikter.",
+      "distinctive_features": "En återvändande barndomsvän som bara huvudpersonen uppfattar, en gammal hemlig samlingsplats och ett sorgedrama förankrat i ungdomarnas skilda liv.",
+      "comparison_cues": [
+        "Gruppdynamik präglad av gemensam förlust",
+        "Övernaturlig premiss som motor för realistiska känslokonflikter",
+        "Kort serie med koncentrerad emotionell uppbyggnad"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/9989",
+        "https://www.fujitv.co.jp/b_hp/anohana/"
+      ]
+    },
+    "10162": {
+      "mal_id": 10162,
+      "title": "Usagi Drop",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-09T03:14:13.638Z",
+      "synopsis": "När trettioårige Daikichi besöker sin morfars begravning upptäcker han att den avlidne lämnat efter sig den sexåriga dottern Rin. Släktingarna vill inte ta ansvar för henne, så Daikichi beslutar att själv ta hand om barnet och måste lära sig kombinera arbete med en helt ny vardag som vårdnadshavare.",
+      "themes": [
+        "Omsorg och ansvar",
+        "Vald familj",
+        "Vardagslivets förändringar",
+        "Barns behov och vuxnas prioriteringar"
+      ],
+      "tone": [
+        "Varm",
+        "Vardagsnära",
+        "Eftertänksam"
+      ],
+      "pacing_and_structure": "Episodiskt vardagsdrama som följer praktiska och känslomässiga steg i ett nytt familjeliv snarare än en stor yttre konflikt.",
+      "character_dynamics": "Daikichi är oerfaren men handlingskraftig; Rin är reserverad och självständig. Deras ömsesidiga tillit växer genom konkreta vardagssituationer.",
+      "distinctive_features": "En ensamstående vuxen mans oväntade föräldraansvar och barnets perspektiv på en ny familjesituation; elva avsnitt producerade av Production I.G.",
+      "comparison_cues": [
+        "Föräldraansvar skildrat genom vardagliga handlingar",
+        "Gradvis tillit mellan vuxen och barn",
+        "Lågmäld dramatik utan spektakulär konflikt"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/10162",
+        "https://fujicreative.co.jp/forBuyers/animation/usagi-drop/"
       ]
     },
     "10490": {
