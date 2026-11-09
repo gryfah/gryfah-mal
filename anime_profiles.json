@@ -4080,6 +4080,39 @@
         "https://myanimelist.net/anime/6351"
       ]
     },
+    "6379": {
+      "mal_id": 6379,
+      "title": "Kyou no 5 no 2 (TV): Takarabako",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-09T16:15:04.584Z",
+      "synopsis": "En fristående OVA knuten till 2008 års TV-version av Kyou no 5 no 2, om Ryouta Satou, Chika Koizumi och deras klasskamrater i klass 5-2. Den fortsätter seriens vardagliga skolkomedi med lekar, små konflikter och missförstånd i en grupp barndomsvänner.",
+      "themes": [
+        "Barndomsvänskap",
+        "Skolvardagens sociala spel",
+        "Retande och missförstånd"
+      ],
+      "tone": [
+        "Lekfull",
+        "Vardagligt komisk",
+        "Lättsam"
+      ],
+      "pacing_and_structure": "En kort OVA om cirka 28 minuter, utgiven som bonus till en begränsad mangautgåva; anknyter till TV-seriens episodiska skolvardag snarare än en självständig längre berättelse.",
+      "character_dynamics": "Ryouta och Chika har en etablerad barndomsrelation; deras övriga klasskamrater bidrar med lekar, retande och skiftande gruppkonstellationer.",
+      "distinctive_features": "Bonus-OVA från 2009 med samma stab och röstensemble som 2008 års Xebec-serie; bör inte sammanblandas med den äldre separata OVA-adaptionen.",
+      "comparison_cues": [
+        "Kort bonusavsnitt snarare än ny säsong",
+        "Gruppbaserad skolkomedi",
+        "Vardagssituationer med lätt retfulla undertoner"
+      ],
+      "uncertainties": [
+        "De tillgängliga beskrivningarna specificerar inte en separat, detaljerad episodhandling; inga enskilda scener tillskrivs därför denna OVA."
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/6379",
+        "https://seasonalanime.com/anime/kyou-no-5-no-2-tv-takarabako",
+        "https://www.animeoshi.com/anime/kyou-no-5-no-2-tv-takarabako"
+      ]
+    },
     "6547": {
       "mal_id": 6547,
       "title": "Angel Beats!",
@@ -4727,6 +4760,36 @@
       "sources": [
         "https://myanimelist.net/anime/9989",
         "https://www.fujitv.co.jp/b_hp/anohana/"
+      ]
+    },
+    "10080": {
+      "mal_id": 10080,
+      "title": "Kami nomi zo Shiru Sekai II",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-09T16:15:04.584Z",
+      "synopsis": "Andra TV-säsongen fortsätter berättelsen om Keima Katsuragi, en expert på romantiska datorspel som tvingas hjälpa demonen Elsie att fånga förrymda andar som gömmer sig i unga kvinnors hjärtan. Han försöker använda sina spelstrategier för att skapa verkliga romantiska band, samtidigt som skillnaden mellan spelens förutsägbara val och människors känslor blir allt tydligare.",
+      "themes": [
+        "Spelstrategier kontra verkliga relationer",
+        "Romantiska förväntningar och missförstånd",
+        "Ansvar under övernaturligt tvång"
+      ],
+      "tone": [
+        "Romantisk komedi",
+        "Självmedveten genrehumor",
+        "Övernaturlig fars"
+      ],
+      "pacing_and_structure": "Tolv avsnitt med nya romantiska delberättelser och återkommande övernaturlig ram; fortsättning på första säsongens etablerade koncept.",
+      "character_dynamics": "Keimas analytiska och spelorienterade syn på relationer kontrasteras mot Elsies mer spontana sätt och de personer vars problem de måste förstå.",
+      "distinctive_features": "Andra säsongen av Manglobes adaption av Tamiki Wakakis manga; dejtingsim-konventioner används som både handlingsmotor och komisk kontrast till vardagsrelationer.",
+      "comparison_cues": [
+        "Romantiska delbågar inom en återkommande övernaturlig ram",
+        "Metahumor om dejtingspel och relationer",
+        "Huvudperson som försöker systematisera känslor"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/10080",
+        "https://en.wikipedia.org/wiki/The_World_God_Only_Knows_II"
       ]
     },
     "10161": {
