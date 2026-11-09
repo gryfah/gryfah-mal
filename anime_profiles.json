@@ -4422,6 +4422,37 @@
         "https://tv.apple.com/jp/show/steinsgate/umc.cmc.7bzye9l3t2ww0rpuv91symto7"
       ]
     },
+    "9289": {
+      "mal_id": 9289,
+      "title": "Hanasaku Iroha",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-09T07:20:57.945Z",
+      "synopsis": "Tonåringen Ohana Matsumae skickas från Tokyo till sin mormor Sui, som driver det traditionella värdshuset Kissuisō vid en varm källa. I stället för ett bekvämt familjehem möts hon av strikta arbetskrav och måste lära sig serviceyrket samtidigt som hon försöker finna sin plats bland kollegorna.",
+      "themes": [
+        "Att bli vuxen genom arbete och ansvar",
+        "Familjeförväntningar och generationskonflikter",
+        "Tillhörighet och självständighet",
+        "Vänskap i en krävande arbetsmiljö"
+      ],
+      "tone": [
+        "Varmt vardagsdrama",
+        "Energiskt",
+        "Bitvis melankoliskt"
+      ],
+      "pacing_and_structure": "En längre originalserie med vardagsnära episoder kring värdshusets verksamhet, kombinerade med fortlöpande relations- och mognadskonflikter.",
+      "character_dynamics": "Ohanas rättframma entusiasm ställs mot mormoderns hårda yrkesetik och kollegornas skilda sätt att hantera arbete och känslor; relationerna förändras när Ohana blir del av verksamheten.",
+      "distinctive_features": "P.A.WORKS originalserie från 2011, förlagd till ett japanskt onsen-värdshus; arbete och kundservice är bärande berättelsemiljö, inte bara bakgrund.",
+      "comparison_cues": [
+        "Arbetsplatsdrama med tonårig huvudperson",
+        "Familj och kollegor som överlappande sociala kretsar",
+        "Vardagsuppgifter driver karaktärsutvecklingen"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://www.pa-works.jp/works/hanairo-tv/",
+        "https://tv.apple.com/us/show/hanasaku-iroha---blossoms-for-tomorrow-/umc.cmc.bct6jhd6to1hy0c5zc55gxxp"
+      ]
+    },
     "9656": {
       "mal_id": 9656,
       "title": "Kimi ni Todoke 2nd Season",
@@ -4513,6 +4544,36 @@
         "https://www.hulu.jp/puella-magi-madoka-magica",
         "https://www.netflix.com/jp-en/title/70302572",
         "https://myanimelist.net/anime/9756"
+      ]
+    },
+    "9776": {
+      "mal_id": 9776,
+      "title": "A-Channel",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-09T07:20:57.945Z",
+      "synopsis": "Tooru börjar på samma gymnasieskola som sin äldre barndomsvän Run, men upptäcker att Run numera också umgås nära med klasskamraterna Yuuko och Nagi. Toorus beskyddande inställning och Runs tankspridda sätt skapar återkommande vardagskomik när de fyra lär känna varandra.",
+      "themes": [
+        "Vänskap och förändrade grupprelationer",
+        "Svartsjuka och tillhörighet utan stora konflikter",
+        "Skolvardag och små sociala missförstånd"
+      ],
+      "tone": [
+        "Lättsam",
+        "Varm",
+        "Lekfull"
+      ],
+      "pacing_and_structure": "Episodisk skolkomedi där korta vardagshändelser och personlighetskontraster väger tyngre än en sammanhängande dramatisk intrig.",
+      "character_dynamics": "Tooru är särskilt mån om Run och måste förhålla sig till att Yuuko och Nagi också hör till hennes vänkrets. Runs tankspriddhet fungerar som återkommande komisk motpol till Toorus vaksamhet.",
+      "distinctive_features": "2011 års tv-anime från Studio Gokumi efter Kuroda BB:s manga; fokus på en liten vänskapsgrupp och på hur en tidigare tvåsamhet blir en kvartett.",
+      "comparison_cues": [
+        "Vänskapsgrupp med tydlig asymmetri mellan barndomsvänner och nya bekanta",
+        "Skolkomedi utan central äventyrsintrig",
+        "Beskyddande kontra tankspridd personlighet som humormotor"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://theanimelist.net/anime/a-channel",
+        "https://www.shoshosein.com/animes/a-channel"
       ]
     },
     "9989": {
@@ -4641,6 +4702,37 @@
         "https://www.production-ig.co.jp/works/blood-c/",
         "https://production-ig.com/contents/works_sp/87_/s01_/001093.html",
         "https://www.blood-c.jp/blpedia/01.html"
+      ]
+    },
+    "10495": {
+      "mal_id": 10495,
+      "title": "Yuru Yuri",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-09T07:20:57.945Z",
+      "synopsis": "Akari Akaza börjar på samma högstadieskola som barndomsvännerna Kyouko och Yui och ansluter till deras nöjesklubb i en övergiven teceremonilokal. När Chinatsu också blir medlem utvecklas eftermiddagarna till en rad absurda upptåg och sociala förvecklingar, ofta med elevrådet i närheten.",
+      "themes": [
+        "Vänskap och gruppdynamik",
+        "Obesvarad förälskelse och lekfull romantisk rivalitet",
+        "Skolvardagens absurditeter",
+        "Synlighet och marginalisering inom en ensemble"
+      ],
+      "tone": [
+        "Skruvad",
+        "Lekfull",
+        "Avslappnad"
+      ],
+      "pacing_and_structure": "Episodisk ensemblekomedi med återkommande skämt, klubbaktiviteter och relationskomik snarare än ett övergripande dramatiskt mål.",
+      "character_dynamics": "Kyoukos impulsiva upptåg kontrasteras mot Yuis lugn; Chinatsu hyser känslor för Yui medan Akari ofta hamnar i bakgrunden trots sin formella huvudroll. Elevrådet tillför ytterligare komiska relationer.",
+      "distinctive_features": "Doga Kobos tv-adaption från 2011 av Namoris manga; den syfteslösa nöjesklubben och skämtet om huvudpersonens bristande närvaro är centrala grepp.",
+      "comparison_cues": [
+        "Klubbliv utan prestationsmål",
+        "Romantiska antydningar som del av ensemblehumor",
+        "Återkommande metaskämt om huvudpersonens osynlighet"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://www.crunchyroll.com/series/GY19XDNQR/yuruyuri",
+        "https://tv.apple.com/us/show/yuruyuri/umc.cmc.5ra5oj9dneetsjiylo9einq00"
       ]
     },
     "10719": {
