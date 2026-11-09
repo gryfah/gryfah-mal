@@ -4139,6 +4139,38 @@
         "https://myanimelist.net/anime/7791"
       ]
     },
+    "8426": {
+      "mal_id": 8426,
+      "title": "Hourou Musuko",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-09T04:16:24.954Z",
+      "synopsis": "När Shuuichi Nitori och Yoshino Takatsuki går vidare till högstadiet möter de nya vänskapsrelationer, förälskelser och sociala förväntningar samtidigt som de försöker förstå och uttrycka sina könsidentiteter. Deras tidigare förtroende för varandra prövas av förändrade relationer.",
+      "themes": [
+        "Könsidentitet och självuttryck",
+        "Pubertet och social tillhörighet",
+        "Vänskap och förtroende",
+        "Förälskelse och osäkerhet"
+      ],
+      "tone": [
+        "Eftertänksam",
+        "Ömsint",
+        "Socialt sårbar",
+        "Vardaglig"
+      ],
+      "pacing_and_structure": "En ensemblepräglad skolskildring i elva tv-avsnitt som fokuserar på gradvisa relationella förändringar snarare än yttre action; animeversionen tar vid när huvudpersonerna går i högstadiet.",
+      "character_dynamics": "Shuuichi och Yoshino delar erfarenheter av att inte passa in i omgivningens könsförväntningar men har olika behov och relationer till vänner och klasskamrater.",
+      "distinctive_features": "Takako Shimuras berättelse om unga transpersoners uppväxt med särskild tonvikt på sociala situationer, vänskap och självbild.",
+      "comparison_cues": [
+        "Identitetsfrågor integrerade i vardagliga skolrelationer",
+        "Flera vänskapsband med skilda grader av förståelse",
+        "Återhållsam, samtalsdriven uppväxtskildring"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://www.hulu.jp/wandering-son",
+        "https://anilist.co/anime/8426"
+      ]
+    },
     "8525": {
       "mal_id": 8525,
       "title": "Kami nomi zo Shiru Sekai",
@@ -4392,6 +4424,38 @@
         "https://fujicreative.co.jp/forBuyers/animation/usagi-drop/"
       ]
     },
+    "10408": {
+      "mal_id": 10408,
+      "title": "Hotarubi no Mori e",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-09T04:16:24.954Z",
+      "synopsis": "Som barn går Hotaru vilse i en skog och får hjälp av den maskerade Gin, som försvinner om en människa vidrör honom. Hon återkommer under sommarloven, och deras vänskap förändras med åren medan förbudet mot beröring består.",
+      "themes": [
+        "Närhet och oöverstigliga gränser",
+        "Tidens gång",
+        "Vänskap som förändras",
+        "Övernaturlig folktro"
+      ],
+      "tone": [
+        "Stillastående vemodig",
+        "Varsam",
+        "Romantisk",
+        "Sagolik"
+      ],
+      "pacing_and_structure": "Kort animerad film från 2011 med återkommande sommarmöten och tidshopp som visar relationens förändring utan omfattande sidointriger.",
+      "character_dynamics": "Hotaru växer upp mellan deras möten medan Gin förblir knuten till skogen och måste hålla fysisk distans; deras förtroende utvecklas inom en tydlig övernaturlig begränsning.",
+      "distinctive_features": "En central regel – mänsklig beröring får Gin att försvinna – formar både relationens möjligheter och filmens lågmälda dramatik.",
+      "comparison_cues": [
+        "Kärleksrelation definierad av fysisk omöjlighet",
+        "Återkommande säsongsmöten och asymmetrisk åldersutveckling",
+        "Kortformat med koncentrerad känslomässig premiss"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://www.imdb.com/title/tt2061702/plotsummary/",
+        "https://anizukan.com/anime/7217/hotarubi-no-mori-e"
+      ]
+    },
     "10490": {
       "mal_id": 10490,
       "title": "Blood-C",
@@ -4486,6 +4550,39 @@
       ],
       "sources": [
         "https://en.wikipedia.org/wiki/Natsuiro_Kiseki"
+      ]
+    },
+    "12355": {
+      "mal_id": 12355,
+      "title": "Ookami Kodomo no Ame to Yuki",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-09T04:16:24.954Z",
+      "synopsis": "Efter att hennes partner, en man som kan anta vargskepnad, dör måste Hana ensam uppfostra deras två barn Ame och Yuki, som båda kan växla mellan mänsklig och varglik form. Familjen flyttar från staden till landsbygden, där barnen gradvis börjar utforska skilda sätt att leva.",
+      "themes": [
+        "Föräldraskap och omsorg",
+        "Identitet och självbestämmande",
+        "Sorg och omställning",
+        "Familj och tillhörighet",
+        "Natur kontra samhälle"
+      ],
+      "tone": [
+        "Varm",
+        "Vemodig",
+        "Vardagsnära",
+        "Sagolik"
+      ],
+      "pacing_and_structure": "Långfilm som följer familjen under flera år; vardagliga uppväxtskeden och arbete på landsbygden bär en berättelse med övernaturlig premiss.",
+      "character_dynamics": "Hana försöker skapa trygghet utan att bestämma barnens framtid; syskonen Ame och Yuki reagerar olika på sitt dubbla arv.",
+      "distinctive_features": "Mamoru Hosodas familjedrama kombinerar ensamstående föräldraskap och landsbygdens praktiska vardag med barnens förmåga att bli vargar.",
+      "comparison_cues": [
+        "Barns skilda identitetsval inom samma familj",
+        "Långsiktigt föräldraperspektiv snarare än hjälteresa",
+        "Vardaglig omsorg och naturmiljö som dramatiska drivkrafter"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://studiochizu.com/works/wolf-children/",
+        "https://nyicff.org/films/wolf-children/"
       ]
     },
     "14811": {
