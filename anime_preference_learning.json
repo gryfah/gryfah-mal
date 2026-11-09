@@ -3227,6 +3227,31 @@
         "anime_snapshot_at": "2026-11-09T07:13:14.547097+00:00",
         "observed_at_utc": "2026-11-09T07:21:24.035Z"
       },
+      "10620": {
+        "mal_id": 10620,
+        "title": "Mirai Nikki (TV)",
+        "observed_status": "completed",
+        "user_score": 8,
+        "mal_mean_score": 7.37,
+        "mal_num_scoring_users": 1289765,
+        "mal_genres": [
+          "Action",
+          "Gore",
+          "High Stakes Game",
+          "Psychological",
+          "Shounen",
+          "Supernatural",
+          "Survival",
+          "Suspense"
+        ],
+        "profile_ref": 10620,
+        "rating_band": "high",
+        "score_minus_mal": 0.6299999999999999,
+        "baseline_median_offset": -0.5249999999999999,
+        "consensus_residual": 1.1549999999999998,
+        "anime_snapshot_at": "2026-11-09T13:11:51.918556+00:00",
+        "observed_at_utc": "2026-11-09T14:24:37.123Z"
+      },
       "10721": {
         "mal_id": 10721,
         "title": "Mawaru Penguindrum",
@@ -3273,6 +3298,47 @@
         "consensus_residual": 0.34,
         "anime_snapshot_at": "2026-11-09T07:13:14.547097+00:00",
         "observed_at_utc": "2026-11-09T08:32:47.502Z"
+      },
+      "11111": {
+        "mal_id": 11111,
+        "title": "Another",
+        "observed_status": "completed",
+        "user_score": 7,
+        "mal_mean_score": 7.46,
+        "mal_num_scoring_users": 1067935,
+        "mal_genres": [
+          "Gore",
+          "Horror",
+          "Mystery",
+          "School"
+        ],
+        "profile_ref": 11111,
+        "rating_band": "mild_positive",
+        "score_minus_mal": -0.45999999999999996,
+        "baseline_median_offset": -0.5249999999999999,
+        "consensus_residual": 0.06499999999999995,
+        "anime_snapshot_at": "2026-11-09T13:11:51.918556+00:00",
+        "observed_at_utc": "2026-11-09T14:24:37.123Z"
+      },
+      "11843": {
+        "mal_id": 11843,
+        "title": "Danshi Koukousei no Nichijou",
+        "observed_status": "completed",
+        "user_score": 6,
+        "mal_mean_score": 8.22,
+        "mal_num_scoring_users": 447679,
+        "mal_genres": [
+          "Comedy",
+          "Gag Humor",
+          "School"
+        ],
+        "profile_ref": 11843,
+        "rating_band": "neutral",
+        "score_minus_mal": -2.2200000000000006,
+        "baseline_median_offset": -0.5249999999999999,
+        "consensus_residual": -1.6950000000000007,
+        "anime_snapshot_at": "2026-11-09T13:11:51.918556+00:00",
+        "observed_at_utc": "2026-11-09T14:24:37.123Z"
       },
       "11887": {
         "mal_id": 11887,
