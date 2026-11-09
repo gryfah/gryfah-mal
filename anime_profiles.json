@@ -4888,6 +4888,38 @@
         "https://tv.apple.com/us/show/yuruyuri/umc.cmc.5ra5oj9dneetsjiylo9einq00"
       ]
     },
+    "10620": {
+      "mal_id": 10620,
+      "title": "Mirai Nikki (TV)",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-09T14:24:37.123Z",
+      "synopsis": "Den isolerade eleven Yukiteru Amano upptäcker att dagboken i hans mobil förutser framtida händelser. Tillsammans med klasskamraten Yuno Gasai, som har en egen framtidsdagbok, dras han in i en dödlig tävling mellan tolv dagboksinnehavare om att efterträda guden Deus Ex Machina.",
+      "themes": [
+        "Överlevnad och makt",
+        "Kontroll kontra osäker framtid",
+        "Besatthet och tillit",
+        "Ensamhet och beroende"
+      ],
+      "tone": [
+        "Paranoid",
+        "Våldsam",
+        "Melodramatiskt intensiv"
+      ],
+      "pacing_and_structure": "Serialiserad överlevnadsthriller i 26 avsnitt där dagböckernas olika förutsägelser ger taktiska konfrontationer och återkommande omkastningar.",
+      "character_dynamics": "Yukiterus osäkerhet kontrasterar mot Yunos handlingskraft och intensiva fixering vid honom; deras ömsesidiga beroende skapar både skydd och fara.",
+      "distinctive_features": "Varje tävlande har en framtidsdagbok med särskilda begränsningar; den romantiskt laddade huvudrelationen löper genom ett våldsamt dödsspel.",
+      "comparison_cues": [
+        "Framtidsförutsägelser som taktisk mekanik",
+        "Kärleksrelation där omsorg och hot sammanfaller",
+        "Högt tempo och eskalerande dödsspel"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://anilist.co/anime/10620",
+        "https://anidex.tv/en/anime/10620",
+        "https://myanimelist.net/anime/10620"
+      ]
+    },
     "10719": {
       "mal_id": 10719,
       "title": "Boku wa Tomodachi ga Sukunai",
@@ -4979,6 +5011,70 @@
       "sources": [
         "https://www.ntv.co.jp/english/pc/2011/08/chihayafuru.html",
         "https://myanimelist.net/anime/10800"
+      ]
+    },
+    "11111": {
+      "mal_id": 11111,
+      "title": "Another",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-09T14:24:37.123Z",
+      "synopsis": "Kouichi Sakakibara börjar i klass 3-3 på en skola i Yomiyama och möter den tillbakadragna Mei Misaki, som klasskamraterna tycks vägra erkänna. När olyckor drabbar elever och deras närstående försöker de förstå en gammal klasshemlighet och dess koppling till det som händer.",
+      "themes": [
+        "Kollektiv tystnad",
+        "Rädsla och vidskepelse",
+        "Utanförskap",
+        "Sökandet efter en förklaring"
+      ],
+      "tone": [
+        "Olycksbådande",
+        "Mystisk",
+        "Blodig"
+      ],
+      "pacing_and_structure": "Tolv avsnitts sammanhängande skolskräck där misstankar, undanhållen information och allt allvarligare dödsfall driver mysteriet mot en upplösning.",
+      "character_dynamics": "Kouichis nyfikenhet och vilja att närma sig Mei ställs mot klassens kollektiva undvikande och de oskrivna regler som omger henne.",
+      "distinctive_features": "Skolklassens sociala tystnad fungerar som skräckmekanism; kontrasten mellan stilla mysterium och plötsliga våldsamma händelser är central.",
+      "comparison_cues": [
+        "Skolskräck byggd på grupphemligheter",
+        "Mysterium med gradvis avslöjad bakgrund",
+        "Kontrast mellan lågmäld oro och grafiskt våld"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://lufas.won.fyi/anime/11111/another",
+        "https://myanimepulse.com/anime/11111/another",
+        "https://myanimelist.net/anime/11111"
+      ]
+    },
+    "11843": {
+      "mal_id": 11843,
+      "title": "Danshi Koukousei no Nichijou",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-09T14:24:37.123Z",
+      "synopsis": "Vännerna Tadakuni, Hidenori och Yoshitake går på Sanada Norths pojkgymnasium. Små vardagssituationer, improviserade rollspel, gräl och romantiska fantasier förvandlas i deras händer till oproportionerligt stora och absurda komedier.",
+      "themes": [
+        "Vänskap och gruppdynamik",
+        "Ungdomlig fantasi",
+        "Vardaglig pinsamhet",
+        "Lek och självbild"
+      ],
+      "tone": [
+        "Absurd",
+        "Lekfull",
+        "Självironisk"
+      ],
+      "pacing_and_structure": "Episodisk sketchkomedi i tolv avsnitt med korta fristående situationer snarare än en sammanhängande dramatisk handling.",
+      "character_dynamics": "Hidenoris fantasifulla initiativ och Yoshitakes impulsivitet drar in den mer försiktige Tadakuni i alltmer orimliga vardagsscenarier.",
+      "distinctive_features": "Pojkgymnasiets triviala situationer parodierar storslagna äventyrs- och romantikscener; mycket av humorn bygger på överdrivet allvar inför små problem.",
+      "comparison_cues": [
+        "Kortformat och sketchbaserad vardagskomedi",
+        "Manlig vänskapsgrupp snarare än romantisk huvudhandling",
+        "Kontrast mellan grandiosa fantasier och banala situationer"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://anilist.co/anime/11843",
+        "https://theanimelist.net/anime/danshi-koukousei-no-nichijou",
+        "https://myanimelist.net/anime/11843"
       ]
     },
     "11887": {
