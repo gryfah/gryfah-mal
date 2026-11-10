@@ -672,6 +672,40 @@
         "https://www.thetvdb.com/series/divergence-eve/episodes/303741"
       ]
     },
+    "320": {
+      "mal_id": 320,
+      "title": "A Kite",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-10T21:11:51.020Z",
+      "synopsis": "Den föräldralösa Sawa används som yrkesmördare av de korrumperade poliserna Akai och Kanie. När hon möter den unge lönnmördaren Oburi uppstår en möjlighet att ifrågasätta kontrollen över hennes liv och försöka bli fri.",
+      "themes": [
+        "Exploatering och maktmissbruk",
+        "Frihet kontra kontroll",
+        "Våld och korruption",
+        "Överlevnad"
+      ],
+      "tone": [
+        "Mörk",
+        "Brutal",
+        "Thrillerpräglad"
+      ],
+      "pacing_and_structure": "Kort actionthriller i OVA-format med våldsamma uppdrag och en sammanhängande konflikt kring Sawas beroendeställning. Olika utgåvor har olika klippning.",
+      "character_dynamics": "Akai och Kanie utövar våldsam kontroll över Sawa; Oburi är en annan ung mördare vars kontakt med henne öppnar för ömsesidig tillit och motstånd.",
+      "distinctive_features": "Yasuomi Umetsus stiliserade och mycket våldsamma animation; förekommer i både explicita och nedklippta versioner.",
+      "comparison_cues": [
+        "Högintensiv våldsaction",
+        "Maktmissbruk och utsatt huvudperson",
+        "Relation som möjlig väg ur tvång"
+      ],
+      "uncertainties": [
+        "Scener och speltid skiljer mellan censurerade och ocensurerade utgåvor."
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/320",
+        "https://www.imdb.com/title/tt0246734/plotsummary/",
+        "https://en.wikipedia.org/wiki/Kite_(1998_film)"
+      ]
+    },
     "339": {
       "mal_id": 339,
       "synopsis": "Efter att en död klasskamrat tycks skicka e-post dras den tillbakadragna Lain Iwakura in i kommunikationsnätverket Wired. Gränserna mellan hennes vardag, nätets identiteter och den upplevda verkligheten blir allt svårare att skilja åt.",
@@ -5779,6 +5813,37 @@
       "sources": [
         "https://myanimelist.net/anime/13599",
         "https://en.wikipedia.org/wiki/Robotics%3BNotes"
+      ]
+    },
+    "13715": {
+      "mal_id": 13715,
+      "title": "Kennel Tokorozawa",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-10T21:11:51.020Z",
+      "synopsis": "Chika Tokorozawa, dotter till en djuraffärsägare, lever nära sin hund Rin Tin Tin. Den korta OVA:n bygger sin vuxenkomedi kring hundens överdrivna och obesvarade tillgivenhet för Chika.",
+      "themes": [
+        "Besatt tillgivenhet som komiskt motiv",
+        "Gränsöverskridande djurhumor"
+      ],
+      "tone": [
+        "Burlesk",
+        "Sexuellt anspelande",
+        "Absurd"
+      ],
+      "pacing_and_structure": "Fristående kort OVA från 1992, med en enkel premiss och komiska situationer snarare än längre intrig.",
+      "character_dynamics": "Chika är centrum för hunden Rin Tin Tins uppmärksamhet; hans tillgivenhet är inte ömsesidig på det sätt han önskar.",
+      "distinctive_features": "Mangaadaption med hunden som drivande komisk figur; ecchi och provokativ djurhumor.",
+      "comparison_cues": [
+        "Kortformat med en enda utbyggd komisk premiss",
+        "Obekväm och absurd relationshumor"
+      ],
+      "uncertainties": [
+        "Detaljerad scenföljd och fullständig dramaturgi är inte säkert belagda i tillgängliga sammanfattningar."
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/13715",
+        "https://www.anime.digital/anime/kennel-tokorozawa",
+        "https://auteurgraph.com/movie/kennel-tokorozawa"
       ]
     },
     "13759": {
