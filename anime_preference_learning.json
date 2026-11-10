@@ -6194,6 +6194,120 @@
           "Detta är ett verksspecifikt omdöme och inte ett generellt avståndstagande från tragiska berättelser."
         ],
         "reviewed_at_utc": "2026-11-10T07:20:29.075Z"
+      },
+      "mal-2926": {
+        "question_id": "mal-2926",
+        "mal_id": 2926,
+        "answer_reference": {
+          "answered_at_utc": "2026-11-10T05:41:36.014Z",
+          "raw_response": "Hur relationernas konflikter utvecklas"
+        },
+        "explicit_answer_summary": "Hur relationernas konflikter utvecklas",
+        "verified_brief_cues": [
+          "Jämför hur barndomsrelationer förändras under lång separation",
+          "Undersök växlingen mellan skolvardag och tyngre persondrama",
+          "Skilj romantisk nostalgi från karaktärernas faktiska kommunikation"
+        ],
+        "reviewed_hypotheses": [
+          {
+            "claim": "Relationernas konfliktutveckling bidrog till användarens lägre omdöme om Myself; Yourself.",
+            "verdict": "supported",
+            "explanation": "Svaret pekar ut konfliktutvecklingen men specificerar inte vilken konflikt eller vad som brast.",
+            "evidence_refs": [
+              "questions.items.mal-2926.answer",
+              "anime_profiles.json:profiles.2926"
+            ]
+          }
+        ],
+        "unresolved_questions": [
+          "Svaret pekar ut konfliktutvecklingen men specificerar inte vilken konflikt eller vad som brast."
+        ],
+        "reviewed_at_utc": "2026-11-10T08:15:28.003Z"
+      },
+      "mal-3667": {
+        "question_id": "mal-3667",
+        "mal_id": 3667,
+        "answer_reference": {
+          "answered_at_utc": "2026-11-10T05:41:36.014Z",
+          "raw_response": "Karaktärernas gruppdynamik"
+        },
+        "explicit_answer_summary": "Karaktärernas gruppdynamik",
+        "verified_brief_cues": [
+          "Kombination av militär action och gruppvardag",
+          "Kontrast mellan pacifistisk läkande huvudperson och stridsuppdrag",
+          "Framträdande fanservice jämfört med andra militäranime"
+        ],
+        "reviewed_hypotheses": [
+          {
+            "claim": "Gruppdynamiken i Strike Witches bidrog till användarens lägre omdöme.",
+            "verdict": "supported",
+            "explanation": "Det går inte att avgöra om gruppdynamiken i sig ogillades eller var ett positivt inslag i en annars svag helhet.",
+            "evidence_refs": [
+              "questions.items.mal-3667.answer",
+              "anime_profiles.json:profiles.3667"
+            ]
+          }
+        ],
+        "unresolved_questions": [
+          "Det går inte att avgöra om gruppdynamiken i sig ogillades eller var ett positivt inslag i en annars svag helhet."
+        ],
+        "reviewed_at_utc": "2026-11-10T08:15:28.003Z"
+      },
+      "mal-3785": {
+        "question_id": "mal-3785",
+        "mal_id": 3785,
+        "answer_reference": {
+          "answered_at_utc": "2026-11-10T05:41:36.014Z",
+          "raw_response": "De förändrade relationerna till tidigare allierade"
+        },
+        "explicit_answer_summary": "De förändrade relationerna till tidigare allierade",
+        "verified_brief_cues": [
+          "Radikalt tidshopp och omprövning av etablerade relationer",
+          "Psykologisk isolering i storskalig science fiction",
+          "Känslomässig osäkerhet kontrasterad mot spektakulär action"
+        ],
+        "reviewed_hypotheses": [
+          {
+            "claim": "De förändrade relationerna till tidigare allierade bidrog till det höga omdömet om Evangelion 3.0.",
+            "verdict": "supported",
+            "explanation": "Det explicita svaret pekar ut relationsförändringen; ingen generell preferens för konflikter eller tidshopp följer automatiskt.",
+            "evidence_refs": [
+              "questions.items.mal-3785.answer",
+              "anime_profiles.json:profiles.3785"
+            ]
+          }
+        ],
+        "unresolved_questions": [
+          "Det explicita svaret pekar ut relationsförändringen; ingen generell preferens för konflikter eller tidshopp följer automatiskt."
+        ],
+        "reviewed_at_utc": "2026-11-10T08:15:28.003Z"
+      },
+      "mal-4181": {
+        "question_id": "mal-4181",
+        "mal_id": 4181,
+        "answer_reference": {
+          "answered_at_utc": "2026-11-10T05:41:36.014Z",
+          "raw_response": "den skapade sorg men förringade sen mina känslor genom att magiskt retcon annullera hela orsaken till sorg"
+        },
+        "explicit_answer_summary": "den skapade sorg men förringade sen mina känslor genom att magiskt retcon annullera hela orsaken till sorg",
+        "verified_brief_cues": [
+          "Romantisk berättelse som fortsätter efter att paret bildats",
+          "Familj och vuxenansvar snarare än enbart skolromantik",
+          "Successiv förskjutning från sidoberättelser till huvudparets liv"
+        ],
+        "reviewed_hypotheses": [
+          {
+            "claim": "Användaren upplevde att en senare övernaturlig återställning försvagade betydelsen av tidigare sorg i Clannad: After Story.",
+            "verdict": "supported",
+            "explanation": "Den negativa bedömningen av upplösningen är uttrycklig, men kan inte ensam generaliseras till alla övernaturliga upplösningar.",
+            "evidence_refs": [
+              "questions.items.mal-4181.answer",
+              "anime_profiles.json:profiles.4181"
+            ]
+          }
+        ],
+        "unresolved_questions": [],
+        "reviewed_at_utc": "2026-11-10T08:15:28.003Z"
       }
     }
   }
