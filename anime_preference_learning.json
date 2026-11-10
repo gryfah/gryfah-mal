@@ -1,7 +1,509 @@
 {
   "schema_version": 1,
   "description": "Question queue, explicit user answers and evidence-graded hypotheses about anime preferences. MAL ratings and statuses remain authoritative in anime.json; anime_profiles.json describes individual works.",
-  "questions": {},
+  "questions": {
+    "rounds": {
+      "200": {
+        "threshold": 200,
+        "processed_count": 200,
+        "question_ids": [
+          "mal-6",
+          "mal-7",
+          "mal-420",
+          "mal-578",
+          "mal-2926",
+          "mal-3667",
+          "mal-3785",
+          "mal-4181",
+          "mal-6016",
+          "mal-11843",
+          "mal-12355",
+          "mal-13599",
+          "mal-14813",
+          "mal-15689",
+          "mal-18245",
+          "mal-31043"
+        ],
+        "created_at_utc": "2026-11-10T05:15:11.445Z",
+        "announced_at_utc": null
+      }
+    },
+    "items": {
+      "mal-6": {
+        "question_id": "mal-6",
+        "mal_id": 6,
+        "title": "Trigun",
+        "question": "Du gav Trigun 6/10, jämfört med MAL 8.22/10 (justerad avvikelse -1.81). Vilka aspekter bidrog mest till att ditt betyg skilde sig?",
+        "options": [
+          "Växlingen mellan slapstick och allvar",
+          "Vashs pacifism och dess konsekvenser",
+          "De fristående avsnittens tempo",
+          "Den senare berättelsens konflikter",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": 200,
+        "status": "open",
+        "answer": null,
+        "created_at_utc": "2026-11-10T05:15:11.445Z",
+        "evidence": {
+          "user_score": 6,
+          "mal_mean_score": 8.22,
+          "consensus_residual": -1.81,
+          "baseline_n": 528
+        },
+        "sources": [
+          "https://tv.apple.com/jp/show/trigun/umc.cmc.6r4ji2yulhaw205f6w8ypxklh",
+          "https://en.wikipedia.org/wiki/Trigun_(1998_TV_series)"
+        ]
+      },
+      "mal-7": {
+        "question_id": "mal-7",
+        "mal_id": 7,
+        "title": "Witch Hunter Robin",
+        "question": "Du gav Witch Hunter Robin 5/10, jämfört med MAL 7.24/10 (justerad avvikelse -1.83). Vilka aspekter bidrog mest till att ditt betyg skilde sig?",
+        "options": [
+          "Den återhållna, mörka stämningen",
+          "Tempot i de tidiga fallen",
+          "Robins och Amons relation",
+          "Organisationsmysteriets utveckling",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": 200,
+        "status": "open",
+        "answer": null,
+        "created_at_utc": "2026-11-10T05:15:11.445Z",
+        "evidence": {
+          "user_score": 5,
+          "mal_mean_score": 7.24,
+          "consensus_residual": -1.83,
+          "baseline_n": 528
+        },
+        "sources": [
+          "https://myanimelist.net/anime/7",
+          "https://planete-jeunesse.miraitech.fr/fiche-2019-witch-hunter-robin.html",
+          "https://en.wikipedia.org/wiki/Witch_Hunter_Robin"
+        ]
+      },
+      "mal-420": {
+        "question_id": "mal-420",
+        "mal_id": 420,
+        "title": "Spriggan",
+        "question": "Du gav Spriggan 8/10, jämfört med MAL 6.72/10 (justerad avvikelse +1.69). Vilka aspekter bidrog mest till att ditt betyg skilde sig?",
+        "options": [
+          "Action och filmens visuella genomförande",
+          "Noaks ark och den forntida teknologin",
+          "Yus roll som specialagent",
+          "Det koncentrerade långfilmsformatet",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": 200,
+        "status": "open",
+        "answer": null,
+        "created_at_utc": "2026-11-10T05:15:11.445Z",
+        "evidence": {
+          "user_score": 8,
+          "mal_mean_score": 6.72,
+          "consensus_residual": 1.69,
+          "baseline_n": 528
+        },
+        "sources": [
+          "https://myanimelist.net/anime/420",
+          "https://sitgesfilmfestival.com/en/film/1999/spriggan",
+          "https://eiga.com/movie/37381/"
+        ]
+      },
+      "mal-578": {
+        "question_id": "mal-578",
+        "mal_id": 578,
+        "title": "Hotaru no Haka",
+        "question": "Du gav Hotaru no Haka 5/10, jämfört med MAL 8.55/10 (justerad avvikelse -3.14). Vilka aspekter bidrog mest till att ditt betyg skilde sig?",
+        "options": [
+          "Den metodiska skildringen av barnens utsatthet",
+          "Syskonrelationens gestaltning",
+          "Den tragiska berättelsens känslomässiga utdelning",
+          "Krigsskildringens realism",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": 200,
+        "status": "open",
+        "answer": null,
+        "created_at_utc": "2026-11-10T05:15:11.445Z",
+        "evidence": {
+          "user_score": 5,
+          "mal_mean_score": 8.55,
+          "consensus_residual": -3.14,
+          "baseline_n": 528
+        },
+        "sources": [
+          "https://myanimelist.net/anime/578",
+          "https://studioghibli.jp/films/grave-of-the-fireflies/",
+          "https://ghibli-goods.net/jiblog/data-grave-of-the-fireflies/"
+        ]
+      },
+      "mal-2926": {
+        "question_id": "mal-2926",
+        "mal_id": 2926,
+        "title": "Myself; Yourself",
+        "question": "Du gav Myself; Yourself 5/10, jämfört med MAL 7.10/10 (justerad avvikelse -1.69). Vilka aspekter bidrog mest till att ditt betyg skilde sig?",
+        "options": [
+          "Återföreningen med barndomsvännerna",
+          "Nanakas förändring och kommunikation",
+          "Växlingen mellan skolvardag och tyngre drama",
+          "Hur relationernas konflikter utvecklas",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": 200,
+        "status": "open",
+        "answer": null,
+        "created_at_utc": "2026-11-10T05:15:11.445Z",
+        "evidence": {
+          "user_score": 5,
+          "mal_mean_score": 7.1,
+          "consensus_residual": -1.69,
+          "baseline_n": 528
+        },
+        "sources": [
+          "https://tv.apple.com/jp/show/myself--yourself/umc.cmc.6lky43we1n99stoqmqyib0i9m",
+          "https://theanimelist.net/anime/myself-yourself"
+        ]
+      },
+      "mal-3667": {
+        "question_id": "mal-3667",
+        "mal_id": 3667,
+        "title": "Strike Witches",
+        "question": "Du gav Strike Witches 5/10, jämfört med MAL 6.94/10 (justerad avvikelse -1.53). Vilka aspekter bidrog mest till att ditt betyg skilde sig?",
+        "options": [
+          "Berättelsens blandning av militär action och komedi",
+          "Karaktärernas gruppdynamik",
+          "Flygstriderna och den alternativa krigsmiljön",
+          "Seriens ton och fanservice",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": 200,
+        "status": "open",
+        "answer": null,
+        "created_at_utc": "2026-11-10T05:15:11.445Z",
+        "evidence": {
+          "user_score": 5,
+          "mal_mean_score": 6.94,
+          "consensus_residual": -1.53,
+          "baseline_n": 528
+        },
+        "sources": [
+          "https://myanimelist.net/anime/3667",
+          "https://tv.apple.com/us/show/strike-witches/umc.cmc.qn97svz4j4qmyu2m93ahj0ai",
+          "https://www.hulu.jp/strike-witches"
+        ]
+      },
+      "mal-3785": {
+        "question_id": "mal-3785",
+        "mal_id": 3785,
+        "title": "Evangelion Movie 3: Q",
+        "question": "Du gav Evangelion Movie 3: Q 9/10, jämfört med MAL 7.68/10 (justerad avvikelse +1.73). Vilka aspekter bidrog mest till att ditt betyg skilde sig?",
+        "options": [
+          "Det fjortonåriga tidshoppet",
+          "Shinjis relation till Kaworu",
+          "De förändrade relationerna till tidigare allierade",
+          "Filmens desorienterande berättarstil",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": 200,
+        "status": "open",
+        "answer": null,
+        "created_at_utc": "2026-11-10T05:15:11.445Z",
+        "evidence": {
+          "user_score": 9,
+          "mal_mean_score": 7.68,
+          "consensus_residual": 1.73,
+          "baseline_n": 528
+        },
+        "sources": [
+          "https://anilist.co/anime/3785/Evangelion-Shin-Movie-Kyuu/",
+          "https://theanimelist.net/anime/evangelion-movie-3-q"
+        ]
+      },
+      "mal-4181": {
+        "question_id": "mal-4181",
+        "mal_id": 4181,
+        "title": "Clannad: After Story",
+        "question": "Du gav Clannad: After Story 7/10, jämfört med MAL 8.93/10 (justerad avvikelse -1.52). Vilka aspekter bidrog mest till att ditt betyg skilde sig?",
+        "options": [
+          "Familje- och vuxenlivsperspektivet",
+          "Hur berättelsen hanterar sorg",
+          "Relationernas utveckling",
+          "Den känslomässiga upplösningen",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": 200,
+        "status": "open",
+        "answer": null,
+        "created_at_utc": "2026-11-10T05:15:11.445Z",
+        "evidence": {
+          "user_score": 7,
+          "mal_mean_score": 8.93,
+          "consensus_residual": -1.52,
+          "baseline_n": 528
+        },
+        "sources": [
+          "https://myanimelist.net/anime/4181",
+          "https://www.sentaifilmworks.com/blogs/catalog/clannad-after-story"
+        ]
+      },
+      "mal-6016": {
+        "question_id": "mal-6016",
+        "mal_id": 6016,
+        "title": "Kyoushoku Soukou Guyver (1989)",
+        "question": "Du gav Kyoushoku Soukou Guyver (1989) 5/10, jämfört med MAL 7.11/10 (justerad avvikelse -1.70). Vilka aspekter bidrog mest till att ditt betyg skilde sig?",
+        "options": [
+          "Den biologiska rustningen och kroppsskräcken",
+          "Stridernas tempo och upprepning",
+          "Shous och Tetsurous relation",
+          "Chronos och zoanoidmotståndarna",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": 200,
+        "status": "open",
+        "answer": null,
+        "created_at_utc": "2026-11-10T05:15:11.445Z",
+        "evidence": {
+          "user_score": 5,
+          "mal_mean_score": 7.11,
+          "consensus_residual": -1.7,
+          "baseline_n": 528
+        },
+        "sources": [
+          "https://myanimelist.net/anime/6016",
+          "https://theanimelist.net/anime/kyoushoku-soukou-guyver-1989",
+          "https://animesc.com/en/details/06GA0i/kyoushoku-soukou-guyver-1989"
+        ]
+      },
+      "mal-11843": {
+        "question_id": "mal-11843",
+        "mal_id": 11843,
+        "title": "Danshi Koukousei no Nichijou",
+        "question": "Du gav Danshi Koukousei no Nichijou 6/10, jämfört med MAL 8.22/10 (justerad avvikelse -1.81). Vilka aspekter bidrog mest till att ditt betyg skilde sig?",
+        "options": [
+          "De korta vardagssketsernas humor",
+          "Den manliga vänkretsens samspel",
+          "Sketchernas ojämna träffsäkerhet",
+          "Den löst sammanhållna berättarformen",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": 200,
+        "status": "open",
+        "answer": null,
+        "created_at_utc": "2026-11-10T05:15:11.445Z",
+        "evidence": {
+          "user_score": 6,
+          "mal_mean_score": 8.22,
+          "consensus_residual": -1.81,
+          "baseline_n": 528
+        },
+        "sources": [
+          "https://anilist.co/anime/11843",
+          "https://theanimelist.net/anime/danshi-koukousei-no-nichijou",
+          "https://myanimelist.net/anime/11843"
+        ]
+      },
+      "mal-12355": {
+        "question_id": "mal-12355",
+        "mal_id": 12355,
+        "title": "Ookami Kodomo no Ame to Yuki",
+        "question": "Du gav Ookami Kodomo no Ame to Yuki 10/10, jämfört med MAL 8.56/10 (justerad avvikelse +1.85). Vilka aspekter bidrog mest till att ditt betyg skilde sig?",
+        "options": [
+          "Hanas föräldraperspektiv",
+          "Barnens skilda identitetsval",
+          "Familjens flytt till landsbygden",
+          "Berättelsens långsiktiga känslomässiga utveckling",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": 200,
+        "status": "open",
+        "answer": null,
+        "created_at_utc": "2026-11-10T05:15:11.445Z",
+        "evidence": {
+          "user_score": 10,
+          "mal_mean_score": 8.56,
+          "consensus_residual": 1.85,
+          "baseline_n": 528
+        },
+        "sources": [
+          "https://studiochizu.com/works/wolf-children/",
+          "https://nyicff.org/films/wolf-children/"
+        ]
+      },
+      "mal-13599": {
+        "question_id": "mal-13599",
+        "mal_id": 13599,
+        "title": "Robotics;Notes",
+        "question": "Du gav Robotics;Notes 5/10, jämfört med MAL 7.31/10 (justerad avvikelse -1.90). Vilka aspekter bidrog mest till att ditt betyg skilde sig?",
+        "options": [
+          "Robotklubbens byggprojekt",
+          "Akiho och Kaitos samspel",
+          "Övergången från klubbvardag till mysterium",
+          "Tempot i teknik- och konspirationsspåret",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": 200,
+        "status": "open",
+        "answer": null,
+        "created_at_utc": "2026-11-10T05:15:11.445Z",
+        "evidence": {
+          "user_score": 5,
+          "mal_mean_score": 7.31,
+          "consensus_residual": -1.9,
+          "baseline_n": 528
+        },
+        "sources": [
+          "https://myanimelist.net/anime/13599",
+          "https://en.wikipedia.org/wiki/Robotics%3BNotes"
+        ]
+      },
+      "mal-14813": {
+        "question_id": "mal-14813",
+        "mal_id": 14813,
+        "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru.",
+        "question": "Du gav Yahari Ore no Seishun Love Comedy wa Machigatteiru. 6/10, jämfört med MAL 8.00/10 (justerad avvikelse -1.59). Vilka aspekter bidrog mest till att ditt betyg skilde sig?",
+        "options": [
+          "Hachimans cyniska perspektiv",
+          "Serviceklubbens elevärenden",
+          "Dynamiken mellan Hachiman, Yukino och Yui",
+          "Balansen mellan satir och relationsdrama",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": 200,
+        "status": "open",
+        "answer": null,
+        "created_at_utc": "2026-11-10T05:15:11.445Z",
+        "evidence": {
+          "user_score": 6,
+          "mal_mean_score": 8,
+          "consensus_residual": -1.59,
+          "baseline_n": 528
+        },
+        "sources": [
+          "https://www.tbscontents.com/en/program/myteenromanticcomedy",
+          "https://tv.apple.com/us/show/my-teen-romantic-comedy-snafu/umc.cmc.3axpw670y4gwqn4qjr91dsx65",
+          "https://myanimelist.net/anime/14813"
+        ]
+      },
+      "mal-15689": {
+        "question_id": "mal-15689",
+        "mal_id": 15689,
+        "title": "Nekomonogatari: Kuro",
+        "question": "Du gav Nekomonogatari: Kuro 6/10, jämfört med MAL 7.91/10 (justerad avvikelse -1.50). Vilka aspekter bidrog mest till att ditt betyg skilde sig?",
+        "options": [
+          "Hanekawas familjekonflikt",
+          "Den stiliserade dialogen",
+          "Kattfenomenets symbolik",
+          "Berättelsens roll som prequel",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": 200,
+        "status": "open",
+        "answer": null,
+        "created_at_utc": "2026-11-10T05:15:11.445Z",
+        "evidence": {
+          "user_score": 6,
+          "mal_mean_score": 7.91,
+          "consensus_residual": -1.5,
+          "baseline_n": 528
+        },
+        "sources": [
+          "https://www.aniplex.co.jp/lineup/nekomonogatari-kuro/story/",
+          "https://theanimelist.net/anime/nekomonogatari-kuro"
+        ]
+      },
+      "mal-18245": {
+        "question_id": "mal-18245",
+        "mal_id": 18245,
+        "title": "White Album 2",
+        "question": "Du gav White Album 2 9/10, jämfört med MAL 7.59/10 (justerad avvikelse +1.82). Vilka aspekter bidrog mest till att ditt betyg skilde sig?",
+        "options": [
+          "Musiktrions samspel",
+          "Relationen mellan Haruki, Setsuna och Kazusa",
+          "Hur romantiska val får konsekvenser",
+          "Balansen mellan musik och relationsdrama",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": 200,
+        "status": "open",
+        "answer": null,
+        "created_at_utc": "2026-11-10T05:15:11.445Z",
+        "evidence": {
+          "user_score": 9,
+          "mal_mean_score": 7.59,
+          "consensus_residual": 1.82,
+          "baseline_n": 528
+        },
+        "sources": [
+          "https://myanimelist.net/anime/18245/White_Album_2",
+          "https://anilist.co/anime/18245/White-Album-2/",
+          "https://tv.apple.com/de/show/white-album-2/umc.cmc.6plpd1r9mitq0bd84ccpki00"
+        ]
+      },
+      "mal-31043": {
+        "question_id": "mal-31043",
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi",
+        "question": "Du gav Boku dake ga Inai Machi 10/10, jämfört med MAL 8.31/10 (justerad avvikelse +2.10). Vilka aspekter bidrog mest till att ditt betyg skilde sig?",
+        "options": [
+          "Tidsresans koppling till ansvar",
+          "Satorus försök att hjälpa Kayo",
+          "Kriminalmysteriets spänning",
+          "Relationerna mellan barn och vuxna",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": 200,
+        "status": "open",
+        "answer": null,
+        "created_at_utc": "2026-11-10T05:15:11.445Z",
+        "evidence": {
+          "user_score": 10,
+          "mal_mean_score": 8.31,
+          "consensus_residual": 2.1,
+          "baseline_n": 528
+        },
+        "sources": [
+          "https://www.fujitv.com/animation/boku-dakega-inai-machi/",
+          "https://anilist.co/anime/21234/Boku-dake-ga-Inai-Machi",
+          "https://myanimelist.net/anime/31043"
+        ]
+      }
+    }
+  },
   "insights": {
     "completed_observations": {
       "1": {
