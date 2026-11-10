@@ -5274,6 +5274,35 @@
         "https://www.hulu.jp/nisemonogatari"
       ]
     },
+    "11703": {
+      "mal_id": 11703,
+      "title": "Code:Breaker",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-10T00:12:54.326Z",
+      "synopsis": "Sakura Sakurakoji bevittnar en pojke vid människor som brinner i blå eld. Pojken, Rei Ogami, börjar därefter i hennes klass. Han visar sig vara en Code:Breaker som använder övernaturliga krafter för att döda brottslingar; Sakura försöker stoppa honom.",
+      "themes": [
+        "rättvisa och våld",
+        "moralisk konflikt",
+        "hemliga organisationer"
+      ],
+      "tone": [
+        "mörk",
+        "actionbetonad"
+      ],
+      "pacing_and_structure": "Handlingsdriven övernaturlig action där en inledande gåta leder till återkommande konflikter om rättvisa.",
+      "character_dynamics": "Sakura motsätter sig dödligt våld medan Rei hävdar att ondska måste bekämpas med ondska; deras etiska motsättning bär berättelsen.",
+      "distinctive_features": "Den blå elden och den hemliga bödelsorganisationen kombinerar skolvärld med våldsamt övernaturligt uppdrag.",
+      "comparison_cues": [
+        "vigilantism kontra motstånd mot dödligt våld",
+        "skolmiljö med hemlig maktorganisation",
+        "action byggd på etisk konflikt"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://tv.apple.com/us/show/code-breaker/umc.cmc.5x1yj5hrco1l0zrvqiydes05k",
+        "https://theanimelist.net/anime/codebreaker"
+      ]
+    },
     "11739": {
       "mal_id": 11739,
       "title": "Kimi to Boku. 2",
@@ -5461,6 +5490,35 @@
       "sources": [
         "https://studiochizu.com/works/wolf-children/",
         "https://nyicff.org/films/wolf-children/"
+      ]
+    },
+    "12403": {
+      "mal_id": 12403,
+      "title": "Yuru Yuri♪♪",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-10T00:12:54.326Z",
+      "synopsis": "Nöjesklubben med Akari, Kyoko, Yui och Chinatsu återvänder för en andra säsong. De hittar nya sätt att roa sig i skolvardagen, medan elevrådet och flickornas familjer bidrar till nya komiska situationer.",
+      "themes": [
+        "vänskap",
+        "skolvardag",
+        "gruppkomik"
+      ],
+      "tone": [
+        "lekfull",
+        "varm"
+      ],
+      "pacing_and_structure": "Episodisk ensemblekomedi med vardagliga aktiviteter och återkommande skämt snarare än en övergripande intrig.",
+      "character_dynamics": "Kyokos spontanitet ställs mot Yuis lugn; Chinatsus intresse för Yui och Akaris undanskymda roll skapar återkommande komiska kontraster.",
+      "distinctive_features": "Andra säsongen bygger vidare på nöjesklubbens etablerade relationer och ger elevråd och familjemedlemmar större plats.",
+      "comparison_cues": [
+        "ensemblekomedi med återkommande rollkontraster",
+        "episodiska klubbaktiviteter",
+        "fortsättning med etablerade figurer"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://anilist.co/anime/12403/Yuru-Yuri/",
+        "https://www.primevideo.com/-/es/detail/0FR67D331NU34U7CJNTLTSI1F4"
       ]
     },
     "12445": {
@@ -5685,6 +5743,35 @@
         "https://myanimelist.net/anime/14227",
         "https://tv.apple.com/de/show/my-little-monster/umc.cmc.1qyx6rn9veklrdbs4mcg04kg9",
         "https://www.animesc.com/en/details/3VNdnz/tonari-no-kaibutsu-kun"
+      ]
+    },
+    "14289": {
+      "mal_id": 14289,
+      "title": "Suki tte Ii na yo.",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-10T00:12:54.326Z",
+      "synopsis": "Mei Tachibana har undvikit nära relationer efter ett svek i barndomen. När den populäre Yamato Kurosawa söker kontakt växer en romans fram som utmanar hennes misstro och öppnar för nya vänskaper.",
+      "themes": [
+        "tillit efter svek",
+        "romantik",
+        "social isolering"
+      ],
+      "tone": [
+        "känslosam",
+        "romantisk"
+      ],
+      "pacing_and_structure": "Relationsdrivet skoldrama där en relativt tidigt etablerad relation prövas av osäkerhet och missförstånd.",
+      "character_dynamics": "Meis reserverade hållning kontrasteras mot Yamatos sociala självsäkerhet; deras närmande påverkar också hennes relationer till andra elever.",
+      "distinctive_features": "Tyngdpunkten ligger på tillit och kommunikation inom en påbörjad relation, inte enbart på vägen fram till ett parbildande.",
+      "comparison_cues": [
+        "romantik efter tidigt närmande",
+        "tillit och social återhämtning",
+        "missförstånd i en etablerad relation"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://theanimelist.net/anime/suki-tte-ii-na-yo",
+        "https://www.imdb.com/title/tt2309312/plotsummary/"
       ]
     },
     "14713": {
