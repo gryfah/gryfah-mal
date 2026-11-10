@@ -6587,7 +6587,7 @@
       "updated_at_utc": "2026-11-10T11:17:04.036Z",
       "reassessment_required": true,
       "progress": {
-        "processed": 15,
+        "processed": 30,
         "total": 203
       }
     },
@@ -6817,6 +6817,238 @@
         "match_result": "indeterminate",
         "reason": "Ingen tillräckligt verifierad överlappning med nuvarande försiktiga smakhypoteser; modellen avstår från prognos.",
         "reviewed_at_utc": "2026-11-10T11:17:04.036Z"
+      },
+      "182": {
+        "model_version": 1,
+        "user_score": 8,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.182",
+          "insights.completed_observations.182"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Narrativt tempo eller struktur kan jämföras, men tillräckligt oberoende stöd för en leave-one-out-prognos saknas.",
+        "reviewed_at_utc": "2026-11-10T12:16:31.928Z"
+      },
+      "196": {
+        "model_version": 1,
+        "user_score": 5,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.196",
+          "insights.completed_observations.196"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen tillräckligt verifierad tillämplig smakhypotes för en oberoende betygsprognos.",
+        "reviewed_at_utc": "2026-11-10T12:16:31.928Z"
+      },
+      "199": {
+        "model_version": 1,
+        "user_score": 8,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.199",
+          "insights.completed_observations.199"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Narrativt tempo eller struktur kan jämföras, men tillräckligt oberoende stöd för en leave-one-out-prognos saknas.",
+        "reviewed_at_utc": "2026-11-10T12:16:31.928Z"
+      },
+      "226": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.226",
+          "insights.completed_observations.226"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Narrativt tempo eller struktur kan jämföras, men tillräckligt oberoende stöd för en leave-one-out-prognos saknas.",
+        "reviewed_at_utc": "2026-11-10T12:16:31.928Z"
+      },
+      "239": {
+        "model_version": 1,
+        "user_score": 8,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.239",
+          "insights.completed_observations.239"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Narrativt tempo eller struktur kan jämföras, men tillräckligt oberoende stöd för en leave-one-out-prognos saknas.",
+        "reviewed_at_utc": "2026-11-10T12:16:31.928Z"
+      },
+      "294": {
+        "model_version": 1,
+        "user_score": 6,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.294",
+          "insights.completed_observations.294"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Narrativt tempo eller struktur kan jämföras, men tillräckligt oberoende stöd för en leave-one-out-prognos saknas.",
+        "reviewed_at_utc": "2026-11-10T12:16:31.928Z"
+      },
+      "339": {
+        "model_version": 1,
+        "user_score": 8,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.339",
+          "insights.completed_observations.339"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Narrativt tempo eller struktur kan jämföras, men tillräckligt oberoende stöd för en leave-one-out-prognos saknas.",
+        "reviewed_at_utc": "2026-11-10T12:16:31.928Z"
+      },
+      "369": {
+        "model_version": 1,
+        "user_score": 6,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.369",
+          "insights.completed_observations.369"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Narrativt tempo eller struktur kan jämföras, men tillräckligt oberoende stöd för en leave-one-out-prognos saknas.",
+        "reviewed_at_utc": "2026-11-10T12:16:31.928Z"
+      },
+      "387": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.387",
+          "insights.completed_observations.387"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen tillräckligt verifierad tillämplig smakhypotes för en oberoende betygsprognos.",
+        "reviewed_at_utc": "2026-11-10T12:16:31.928Z"
+      },
+      "416": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.416",
+          "insights.completed_observations.416"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen tillräckligt verifierad tillämplig smakhypotes för en oberoende betygsprognos.",
+        "reviewed_at_utc": "2026-11-10T12:16:31.928Z"
+      },
+      "420": {
+        "model_version": 1,
+        "user_score": 8,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.420",
+          "insights.completed_observations.420"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Narrativt tempo eller struktur kan jämföras, men tillräckligt oberoende stöd för en leave-one-out-prognos saknas.",
+        "reviewed_at_utc": "2026-11-10T12:16:31.928Z"
+      },
+      "435": {
+        "model_version": 1,
+        "user_score": 6,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.435",
+          "insights.completed_observations.435"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Narrativt tempo eller struktur kan jämföras, men tillräckligt oberoende stöd för en leave-one-out-prognos saknas.",
+        "reviewed_at_utc": "2026-11-10T12:16:31.928Z"
+      },
+      "437": {
+        "model_version": 1,
+        "user_score": 8,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.437",
+          "insights.completed_observations.437"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen tillräckligt verifierad tillämplig smakhypotes för en oberoende betygsprognos.",
+        "reviewed_at_utc": "2026-11-10T12:16:31.928Z"
+      },
+      "440": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.440",
+          "insights.completed_observations.440"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Narrativt tempo eller struktur kan jämföras, men tillräckligt oberoende stöd för en leave-one-out-prognos saknas.",
+        "reviewed_at_utc": "2026-11-10T12:16:31.928Z"
+      },
+      "467": {
+        "model_version": 1,
+        "user_score": 8,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.467",
+          "insights.completed_observations.467"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Narrativt tempo eller struktur kan jämföras, men tillräckligt oberoende stöd för en leave-one-out-prognos saknas.",
+        "reviewed_at_utc": "2026-11-10T12:16:31.928Z"
       }
     }
   }
