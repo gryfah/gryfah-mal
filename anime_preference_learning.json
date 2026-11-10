@@ -6476,6 +6476,62 @@
           "unresolved_direction: exakt positiv eller negativ påverkan av den valda aspekten är inte fastställd."
         ],
         "reviewed_at_utc": "2026-11-10T09:15:39.839Z"
+      },
+      "mal-18245": {
+        "question_id": "mal-18245",
+        "mal_id": 18245,
+        "answer_reference": {
+          "answered_at_utc": "2026-11-10T05:41:36.014Z",
+          "raw_response": "Hur romantiska val får konsekvenser"
+        },
+        "explicit_answer_summary": "Hur romantiska val får konsekvenser",
+        "verified_brief_cues": [
+          "musik som relationskatalysator",
+          "romantiska val med sociala konsekvenser"
+        ],
+        "reviewed_hypotheses": [
+          {
+            "claim": "Användaren lyfter hur romantiska val får konsekvenser som bidragande aspekt till det höga betyget.",
+            "verdict": "supported",
+            "explanation": "Verksspecifikt uttryckligt svar, med verifierade berättelseegenskaper; ingen generell preferens fastslås.",
+            "evidence_refs": [
+              "questions.items.mal-18245.answer",
+              "anime_profiles.json:profiles.18245"
+            ]
+          }
+        ],
+        "unresolved_questions": [
+          "Svaret specificerar inte vilka konsekvenser eller hur de värderades var för sig."
+        ],
+        "reviewed_at_utc": "2026-11-10T10:11:01.014Z"
+      },
+      "mal-31043": {
+        "question_id": "mal-31043",
+        "mal_id": 31043,
+        "answer_reference": {
+          "answered_at_utc": "2026-11-10T05:41:36.014Z",
+          "raw_response": "Satorus försök att hjälpa Kayo"
+        },
+        "explicit_answer_summary": "Satorus försök att hjälpa Kayo",
+        "verified_brief_cues": [
+          "Satorus försök att hjälpa Kayo",
+          "Barndomens utsatthet och vuxenansvar"
+        ],
+        "reviewed_hypotheses": [
+          {
+            "claim": "Användaren anger Satorus försök att hjälpa Kayo som bidragande aspekt till det höga betyget.",
+            "verdict": "supported",
+            "explanation": "Verksspecifikt uttryckligt svar, med verifierade berättelseegenskaper; ingen generell preferens fastslås.",
+            "evidence_refs": [
+              "questions.items.mal-31043.answer",
+              "anime_profiles.json:profiles.31043"
+            ]
+          }
+        ],
+        "unresolved_questions": [
+          "Det framgår inte om det främst gäller relationen, handlingarna eller deras resultat."
+        ],
+        "reviewed_at_utc": "2026-11-10T10:11:01.014Z"
       }
     }
   }
