@@ -6713,7 +6713,7 @@
       "updated_at_utc": "2026-11-10T11:17:04.036Z",
       "reassessment_required": true,
       "progress": {
-        "processed": 110,
+        "processed": 130,
         "total": 209
       }
     },
@@ -8354,6 +8354,316 @@
         "match_result": "indeterminate",
         "reason": "Den nuvarande hypotesen om berättelsetempo är preliminär och saknar tillräcklig oberoende, entydig evidens för att förutsäga detta verks betyg. Ingen smakmodellavvikelse fastställs.",
         "reviewed_at_utc": "2026-11-10T18:12:49.296Z"
+      },
+      "4535": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.4535",
+          "insights.completed_observations.4535"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Tillgängliga svar visar att tempo kan vara relevant, men styrker inte en oberoende betygsprognos för detta verk.",
+        "reviewed_at_utc": "2026-11-10T19:15:24.259Z"
+      },
+      "4654": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.4654",
+          "insights.completed_observations.4654"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Tillgängliga svar visar att tempo kan vara relevant, men styrker inte en oberoende betygsprognos för detta verk.",
+        "reviewed_at_utc": "2026-11-10T19:15:24.259Z"
+      },
+      "4811": {
+        "model_version": 1,
+        "user_score": 6,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.4811",
+          "insights.completed_observations.4811"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Tillgängliga svar visar att tempo kan vara relevant, men styrker inte en oberoende betygsprognos för detta verk.",
+        "reviewed_at_utc": "2026-11-10T19:15:24.259Z"
+      },
+      "4901": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.4901",
+          "insights.completed_observations.4901"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen tillräckligt belagd narrativ egenskap och oberoende jämförelse ger en säker betygsprognos.",
+        "reviewed_at_utc": "2026-11-10T19:15:24.259Z"
+      },
+      "4903": {
+        "model_version": 1,
+        "user_score": 6,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.4903",
+          "insights.completed_observations.4903"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Tillgängliga svar visar att tempo kan vara relevant, men styrker inte en oberoende betygsprognos för detta verk.",
+        "reviewed_at_utc": "2026-11-10T19:15:24.259Z"
+      },
+      "5081": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.5081",
+          "insights.completed_observations.5081"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Tillgängliga svar visar att tempo kan vara relevant, men styrker inte en oberoende betygsprognos för detta verk.",
+        "reviewed_at_utc": "2026-11-10T19:15:24.259Z"
+      },
+      "5116": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.5116",
+          "insights.completed_observations.5116"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen tillräckligt belagd narrativ egenskap och oberoende jämförelse ger en säker betygsprognos.",
+        "reviewed_at_utc": "2026-11-10T19:15:24.259Z"
+      },
+      "5150": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.5150",
+          "insights.completed_observations.5150"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Tillgängliga svar visar att tempo kan vara relevant, men styrker inte en oberoende betygsprognos för detta verk.",
+        "reviewed_at_utc": "2026-11-10T19:15:24.259Z"
+      },
+      "5204": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.5204",
+          "insights.completed_observations.5204"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen tillräckligt belagd narrativ egenskap och oberoende jämförelse ger en säker betygsprognos.",
+        "reviewed_at_utc": "2026-11-10T19:15:24.259Z"
+      },
+      "5205": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.5205",
+          "insights.completed_observations.5205"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen tillräckligt belagd narrativ egenskap och oberoende jämförelse ger en säker betygsprognos.",
+        "reviewed_at_utc": "2026-11-10T19:15:24.259Z"
+      },
+      "5507": {
+        "model_version": 1,
+        "user_score": 6,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.5507",
+          "insights.completed_observations.5507"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Tillgängliga svar visar att tempo kan vara relevant, men styrker inte en oberoende betygsprognos för detta verk.",
+        "reviewed_at_utc": "2026-11-10T19:15:24.259Z"
+      },
+      "5680": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.5680",
+          "insights.completed_observations.5680"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Tillgängliga svar visar att tempo kan vara relevant, men styrker inte en oberoende betygsprognos för detta verk.",
+        "reviewed_at_utc": "2026-11-10T19:15:24.259Z"
+      },
+      "6016": {
+        "model_version": 1,
+        "user_score": 5,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.6016",
+          "insights.completed_observations.6016"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen tillräckligt belagd narrativ egenskap och oberoende jämförelse ger en säker betygsprognos.",
+        "reviewed_at_utc": "2026-11-10T19:15:24.259Z"
+      },
+      "6045": {
+        "model_version": 1,
+        "user_score": 9,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.6045",
+          "insights.completed_observations.6045"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Tillgängliga svar visar att tempo kan vara relevant, men styrker inte en oberoende betygsprognos för detta verk.",
+        "reviewed_at_utc": "2026-11-10T19:15:24.259Z"
+      },
+      "6164": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.6164",
+          "insights.completed_observations.6164"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Tillgängliga svar visar att tempo kan vara relevant, men styrker inte en oberoende betygsprognos för detta verk.",
+        "reviewed_at_utc": "2026-11-10T19:15:24.259Z"
+      },
+      "6213": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.6213",
+          "insights.completed_observations.6213"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Tillgängliga svar visar att tempo kan vara relevant, men styrker inte en oberoende betygsprognos för detta verk.",
+        "reviewed_at_utc": "2026-11-10T19:15:24.259Z"
+      },
+      "6336": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.6336",
+          "insights.completed_observations.6336"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Tillgängliga svar visar att tempo kan vara relevant, men styrker inte en oberoende betygsprognos för detta verk.",
+        "reviewed_at_utc": "2026-11-10T19:15:24.259Z"
+      },
+      "6351": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.6351",
+          "insights.completed_observations.6351"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Tillgängliga svar visar att tempo kan vara relevant, men styrker inte en oberoende betygsprognos för detta verk.",
+        "reviewed_at_utc": "2026-11-10T19:15:24.259Z"
+      },
+      "6379": {
+        "model_version": 1,
+        "user_score": 6,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.6379",
+          "insights.completed_observations.6379"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Tillgängliga svar visar att tempo kan vara relevant, men styrker inte en oberoende betygsprognos för detta verk.",
+        "reviewed_at_utc": "2026-11-10T19:15:24.259Z"
+      },
+      "6547": {
+        "model_version": 1,
+        "user_score": 8,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.6547",
+          "insights.completed_observations.6547"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Tillgängliga svar visar att tempo kan vara relevant, men styrker inte en oberoende betygsprognos för detta verk.",
+        "reviewed_at_utc": "2026-11-10T19:15:24.259Z"
       }
     }
   }
