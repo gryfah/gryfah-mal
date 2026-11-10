@@ -6648,7 +6648,7 @@
       "updated_at_utc": "2026-11-10T11:17:04.036Z",
       "reassessment_required": true,
       "progress": {
-        "processed": 45,
+        "processed": 60,
         "total": 206
       }
     },
@@ -7320,6 +7320,216 @@
         "match_result": "indeterminate",
         "reason": "Den nuvarande svarbaserade hypotesen ger inte tillräckligt oberoende och entydigt stöd för en leave-one-out-prognos för detta verk.",
         "reviewed_at_utc": "2026-11-10T13:16:25.459Z"
+      },
+      "801": {
+        "model_version": 1,
+        "user_score": 8,
+        "evidence_refs": [
+          "anime:801",
+          "profile:801"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen tillräckligt stark, oberoende och verifierad narrativ evidens för en leave-one-out-prognos; ingen modellöverraskning kan fastställas.",
+        "reviewed_at_utc": "2026-11-10T14:19:04.160Z"
+      },
+      "855": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime:855",
+          "profile:855"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen tillräckligt stark, oberoende och verifierad narrativ evidens för en leave-one-out-prognos; ingen modellöverraskning kan fastställas.",
+        "reviewed_at_utc": "2026-11-10T14:19:04.160Z"
+      },
+      "877": {
+        "model_version": 1,
+        "user_score": 8,
+        "evidence_refs": [
+          "anime:877",
+          "profile:877"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen tillräckligt stark, oberoende och verifierad narrativ evidens för en leave-one-out-prognos; ingen modellöverraskning kan fastställas.",
+        "reviewed_at_utc": "2026-11-10T14:19:04.160Z"
+      },
+      "889": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime:889",
+          "profile:889"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen tillräckligt stark, oberoende och verifierad narrativ evidens för en leave-one-out-prognos; ingen modellöverraskning kan fastställas.",
+        "reviewed_at_utc": "2026-11-10T14:19:04.160Z"
+      },
+      "934": {
+        "model_version": 1,
+        "user_score": 8,
+        "evidence_refs": [
+          "anime:934",
+          "profile:934"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen tillräckligt stark, oberoende och verifierad narrativ evidens för en leave-one-out-prognos; ingen modellöverraskning kan fastställas.",
+        "reviewed_at_utc": "2026-11-10T14:19:04.160Z"
+      },
+      "935": {
+        "model_version": 1,
+        "user_score": 8,
+        "evidence_refs": [
+          "anime:935",
+          "profile:935"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen tillräckligt stark, oberoende och verifierad narrativ evidens för en leave-one-out-prognos; ingen modellöverraskning kan fastställas.",
+        "reviewed_at_utc": "2026-11-10T14:19:04.160Z"
+      },
+      "937": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime:937",
+          "profile:937"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen tillräckligt stark, oberoende och verifierad narrativ evidens för en leave-one-out-prognos; ingen modellöverraskning kan fastställas.",
+        "reviewed_at_utc": "2026-11-10T14:19:04.160Z"
+      },
+      "949": {
+        "model_version": 1,
+        "user_score": 8,
+        "evidence_refs": [
+          "anime:949",
+          "profile:949"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen tillräckligt stark, oberoende och verifierad narrativ evidens för en leave-one-out-prognos; ingen modellöverraskning kan fastställas.",
+        "reviewed_at_utc": "2026-11-10T14:19:04.160Z"
+      },
+      "1002": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime:1002",
+          "profile:1002"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen tillräckligt stark, oberoende och verifierad narrativ evidens för en leave-one-out-prognos; ingen modellöverraskning kan fastställas.",
+        "reviewed_at_utc": "2026-11-10T14:19:04.160Z"
+      },
+      "1016": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime:1016",
+          "profile:1016"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen tillräckligt stark, oberoende och verifierad narrativ evidens för en leave-one-out-prognos; ingen modellöverraskning kan fastställas.",
+        "reviewed_at_utc": "2026-11-10T14:19:04.160Z"
+      },
+      "1029": {
+        "model_version": 1,
+        "user_score": 8,
+        "evidence_refs": [
+          "anime:1029",
+          "profile:1029"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen tillräckligt stark, oberoende och verifierad narrativ evidens för en leave-one-out-prognos; ingen modellöverraskning kan fastställas.",
+        "reviewed_at_utc": "2026-11-10T14:19:04.160Z"
+      },
+      "1030": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime:1030",
+          "profile:1030"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen tillräckligt stark, oberoende och verifierad narrativ evidens för en leave-one-out-prognos; ingen modellöverraskning kan fastställas.",
+        "reviewed_at_utc": "2026-11-10T14:19:04.160Z"
+      },
+      "1034": {
+        "model_version": 1,
+        "user_score": 8,
+        "evidence_refs": [
+          "anime:1034",
+          "profile:1034"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen tillräckligt stark, oberoende och verifierad narrativ evidens för en leave-one-out-prognos; ingen modellöverraskning kan fastställas.",
+        "reviewed_at_utc": "2026-11-10T14:19:04.160Z"
+      },
+      "1047": {
+        "model_version": 1,
+        "user_score": 8,
+        "evidence_refs": [
+          "anime:1047",
+          "profile:1047"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen tillräckligt stark, oberoende och verifierad narrativ evidens för en leave-one-out-prognos; ingen modellöverraskning kan fastställas.",
+        "reviewed_at_utc": "2026-11-10T14:19:04.160Z"
+      },
+      "1051": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime:1051",
+          "profile:1051"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen tillräckligt stark, oberoende och verifierad narrativ evidens för en leave-one-out-prognos; ingen modellöverraskning kan fastställas.",
+        "reviewed_at_utc": "2026-11-10T14:19:04.160Z"
       }
     }
   }
