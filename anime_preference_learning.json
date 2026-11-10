@@ -6081,6 +6081,120 @@
         "detected_at_utc": "2026-11-09T20:19:21.042Z",
         "uncertainties": []
       }
+    },
+    "answer_reviews": {
+      "mal-6": {
+        "question_id": "mal-6",
+        "mal_id": 6,
+        "answer_reference": {
+          "answered_at_utc": "2026-11-10T05:41:36.014Z",
+          "raw_response": "De fristående avsnittens tempo"
+        },
+        "explicit_answer_summary": "De fristående avsnittens tempo",
+        "verified_brief_cues": [
+          "Kontrast mellan komisk yta och etiska konflikter",
+          "Icke-dödligt våld som central karaktärsprincip",
+          "Gradvis förskjutning från fristående episoder till drama"
+        ],
+        "reviewed_hypotheses": [
+          {
+            "claim": "Tempot i Triguns fristående avsnitt bidrog till betygsavvikelsen.",
+            "verdict": "supported",
+            "explanation": "Grundas på användarens uttryckliga svar för just detta verk; ingen generalisering till andra IP.",
+            "evidence_refs": [
+              "questions.items.mal-6.answer",
+              "anime_profiles.json:profiles.6"
+            ]
+          }
+        ],
+        "unresolved_questions": [
+          "Svaret anger inte exakt vilka tempoegenskaper som upplevdes negativt."
+        ],
+        "reviewed_at_utc": "2026-11-10T07:20:29.071Z"
+      },
+      "mal-7": {
+        "question_id": "mal-7",
+        "mal_id": 7,
+        "answer_reference": {
+          "answered_at_utc": "2026-11-10T05:41:36.014Z",
+          "raw_response": "serien tog nästan inga steg framåt,var avsnitt det andra likt och respekterade inte min tid"
+        },
+        "explicit_answer_summary": "Serien tog nästan inga steg framåt; avsnitten upplevdes likartade och som att de inte respekterade användarens tid.",
+        "verified_brief_cues": [
+          "Jämför episodisk utredningsstruktur med senare sammanhängande mysterium",
+          "Undersök hur huvudpersonens dubbla position som kraftanvändare och jägare behandlas",
+          "Skilj återhållen atmosfär från actiondrivna övernaturliga serier"
+        ],
+        "reviewed_hypotheses": [
+          {
+            "claim": "Brist på progression och upprepade avsnitt var en uttrycklig invändning mot Witch Hunter Robin.",
+            "verdict": "supported",
+            "explanation": "Grundas på användarens uttryckliga svar för just detta verk; ingen generalisering till andra IP.",
+            "evidence_refs": [
+              "questions.items.mal-7.answer",
+              "anime_profiles.json:profiles.7"
+            ]
+          }
+        ],
+        "unresolved_questions": [],
+        "reviewed_at_utc": "2026-11-10T07:20:29.075Z"
+      },
+      "mal-420": {
+        "question_id": "mal-420",
+        "mal_id": 420,
+        "answer_reference": {
+          "answered_at_utc": "2026-11-10T05:41:36.014Z",
+          "raw_response": "Action och filmens visuella genomförande"
+        },
+        "explicit_answer_summary": "Action och filmens visuella genomförande",
+        "verified_brief_cues": [
+          "Forntida artefakter som militär kapprustningsresurs",
+          "Specialagent och hemlig organisation",
+          "Hög actionkoncentration i långfilmsformat"
+        ],
+        "reviewed_hypotheses": [
+          {
+            "claim": "Action och visuellt genomförande bidrog till det relativt höga betyget för Spriggan.",
+            "verdict": "supported",
+            "explanation": "Grundas på användarens uttryckliga svar för just detta verk; ingen generalisering till andra IP.",
+            "evidence_refs": [
+              "questions.items.mal-420.answer",
+              "anime_profiles.json:profiles.420"
+            ]
+          }
+        ],
+        "unresolved_questions": [],
+        "reviewed_at_utc": "2026-11-10T07:20:29.075Z"
+      },
+      "mal-578": {
+        "question_id": "mal-578",
+        "mal_id": 578,
+        "answer_reference": {
+          "answered_at_utc": "2026-11-10T05:41:36.014Z",
+          "raw_response": "Den metodiska skildringen av barnens utsatthet"
+        },
+        "explicit_answer_summary": "Den metodiska skildringen av barnens utsatthet",
+        "verified_brief_cues": [
+          "Krigsskildring på civil nivå utan heroiserande frontberättelse",
+          "Familjeanknytning under materiell utsatthet",
+          "Tragedi med realistiskt vardagsfokus"
+        ],
+        "reviewed_hypotheses": [
+          {
+            "claim": "Den metodiska skildringen av barnens utsatthet bidrog till det relativt låga betyget för Hotaru no Haka.",
+            "verdict": "supported",
+            "explanation": "Grundas på användarens uttryckliga svar för just detta verk; ingen generalisering till andra IP.",
+            "evidence_refs": [
+              "questions.items.mal-578.answer",
+              "anime_profiles.json:profiles.578"
+            ]
+          }
+        ],
+        "unresolved_questions": [
+          "Detta är ett verksspecifikt omdöme och inte ett generellt avståndstagande från tragiska berättelser."
+        ],
+        "reviewed_at_utc": "2026-11-10T07:20:29.075Z"
+      }
     }
   }
 }
