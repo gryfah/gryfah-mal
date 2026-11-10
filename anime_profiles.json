@@ -4209,6 +4209,38 @@
         "https://www.animeoshi.com/anime/kyou-no-5-no-2-tv-takarabako"
       ]
     },
+    "6479": {
+      "mal_id": 6479,
+      "title": "Candy Boy Episode: EX02 - Shiawase Kyouyuu Riron",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-10T20:16:03.251Z",
+      "synopsis": "Ett fristående kort specialavsnitt till Candy Boy där Sakuya bjuder in systrarna Kanade, Yukino och Shizuku till en privat stund i en simhall. Besöket utvecklas till lekfulla förvecklingar kring Sakuya som vill fotografera Kanade och den nära relationen mellan Kanade och Yukino.",
+      "themes": [
+        "närhet mellan syskon",
+        "vardagsintimitet",
+        "svartsjuka och uppmärksamhet",
+        "lekfulla missförstånd"
+      ],
+      "tone": [
+        "lättsam",
+        "öm",
+        "retfull"
+      ],
+      "pacing_and_structure": "Ett kort, självständigt specialavsnitt med en enda huvudsituation i simhallen; situationskomedi snarare än övergripande intrig.",
+      "character_dynamics": "Kanade och Yukino är tvillingsystrar med en uttalat intim relation. Sakuya är starkt fäst vid Kanade och driver på fotograferingen; lillasystern Shizuku deltar i utflykten.",
+      "distinctive_features": "Poolmiljö, koncentrerad ensemble och kontrast mellan Sakuya som pådrivande beundrare och systrarnas ömsesidiga närhet.",
+      "comparison_cues": [
+        "kort relationsdriven special",
+        "vardaglig Girls Love-dynamik",
+        "komedi kring fotografering och gränser"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/6479",
+        "https://en.wikipedia.org/wiki/Candy_Boy",
+        "https://bluebluewave.wordpress.com/2009/06/26/candy-boy-ex02-episode-8/"
+      ]
+    },
     "6547": {
       "mal_id": 6547,
       "title": "Angel Beats!",
@@ -6089,6 +6121,37 @@
       "sources": [
         "https://www.pa-works.jp/works_en/rdg-red-data-girl/",
         "https://myanimelist.net/anime/14921"
+      ]
+    },
+    "15005": {
+      "mal_id": 15005,
+      "title": "Kyou no Asuka Show",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-10T20:16:03.251Z",
+      "synopsis": "Asuka Kyouno är en sorglös och omedveten gymnasieflicka vars vardagliga beteenden gång på gång tolkas som sexuellt laddade av omgivningen. Serien följer hennes små möten och missförstånd utan en större sammanhängande handling.",
+      "themes": [
+        "vardagsmissförstånd",
+        "oskuldsfullhet kontra andras tolkningar",
+        "social genans"
+      ],
+      "tone": [
+        "lekfull",
+        "fräck",
+        "episodisk"
+      ],
+      "pacing_and_structure": "20 fristående ONA-kortavsnitt på omkring tre minuter vardera. Varje avsnitt bygger i huvudsak på en situation och dess komiska feltolkning.",
+      "character_dynamics": "Asukas naiva och okonstlade uppträdande kontrasteras mot omgivningens generade eller överdrivna reaktioner. Hennes far är en återkommande del av den närmaste omgivningen.",
+      "distinctive_features": "Mangaadaption av Taishi Mori, producerad av SILVER LINK.; mycket korta episoder där ecchi-humor uppstår genom skillnaden mellan huvudpersonens avsikt och betraktarens tolkning.",
+      "comparison_cues": [
+        "episodisk sketchkomedi",
+        "kortformat",
+        "ecchi via missförstånd snarare än lång intrig"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/15005",
+        "https://en.wikipedia.org/wiki/Ky%C5%8D_no_Asuka_Show",
+        "https://anihk.com/ja/anime/kyou-no-asuka-show"
       ]
     },
     "15051": {
