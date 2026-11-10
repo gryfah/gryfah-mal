@@ -6308,6 +6308,174 @@
         ],
         "unresolved_questions": [],
         "reviewed_at_utc": "2026-11-10T08:15:28.003Z"
+      },
+      "mal-6016": {
+        "question_id": "mal-6016",
+        "mal_id": 6016,
+        "answer_reference": {
+          "answered_at_utc": "2026-11-10T05:41:36.014Z",
+          "raw_response": "Stridernas tempo och upprepning"
+        },
+        "explicit_answer_summary": "Stridernas tempo och upprepning",
+        "verified_brief_cues": [
+          "Biologisk superrustning och kroppsskräck snarare än militär mecha",
+          "Kort, stridsdriven OVA med eskalerande monsterhot",
+          "Ofrivillig hjälteroll och risker för vännerna"
+        ],
+        "reviewed_hypotheses": [
+          {
+            "claim": "Användaren angav \"Stridernas tempo och upprepning\" som relevant för betygsavvikelsen i Kyoushoku Soukou Guyver (1989).",
+            "verdict": "supported",
+            "explanation": "Detta är en verksspecifik förklaring, inte ett belägg för en generell smakregel.",
+            "evidence_refs": [
+              "questions.items.mal-6016.answer",
+              "anime_profiles.json:profiles.6016"
+            ]
+          }
+        ],
+        "unresolved_questions": [],
+        "reviewed_at_utc": "2026-11-10T09:15:39.839Z"
+      },
+      "mal-11843": {
+        "question_id": "mal-11843",
+        "mal_id": 11843,
+        "answer_reference": {
+          "answered_at_utc": "2026-11-10T05:41:36.014Z",
+          "raw_response": "Sketchernas ojämna träffsäkerhet"
+        },
+        "explicit_answer_summary": "Sketchernas ojämna träffsäkerhet",
+        "verified_brief_cues": [
+          "Kortformat och sketchbaserad vardagskomedi",
+          "Manlig vänskapsgrupp snarare än romantisk huvudhandling",
+          "Kontrast mellan grandiosa fantasier och banala situationer"
+        ],
+        "reviewed_hypotheses": [
+          {
+            "claim": "Användaren angav \"Sketchernas ojämna träffsäkerhet\" som relevant för betygsavvikelsen i Danshi Koukousei no Nichijou.",
+            "verdict": "supported",
+            "explanation": "Detta är en verksspecifik förklaring, inte ett belägg för en generell smakregel.",
+            "evidence_refs": [
+              "questions.items.mal-11843.answer",
+              "anime_profiles.json:profiles.11843"
+            ]
+          }
+        ],
+        "unresolved_questions": [],
+        "reviewed_at_utc": "2026-11-10T09:15:39.839Z"
+      },
+      "mal-12355": {
+        "question_id": "mal-12355",
+        "mal_id": 12355,
+        "answer_reference": {
+          "answered_at_utc": "2026-11-10T05:41:36.014Z",
+          "raw_response": "Berättelsens långsiktiga känslomässiga utveckling"
+        },
+        "explicit_answer_summary": "Berättelsens långsiktiga känslomässiga utveckling",
+        "verified_brief_cues": [
+          "Barns skilda identitetsval inom samma familj",
+          "Långsiktigt föräldraperspektiv snarare än hjälteresa",
+          "Vardaglig omsorg och naturmiljö som dramatiska drivkrafter"
+        ],
+        "reviewed_hypotheses": [
+          {
+            "claim": "Användaren angav \"Berättelsens långsiktiga känslomässiga utveckling\" som relevant för betygsavvikelsen i Ookami Kodomo no Ame to Yuki.",
+            "verdict": "supported",
+            "explanation": "Det explicita valet anger en relevant aspekt, men bevisar inte i sig att den aspekten uppskattades eller ogillades.",
+            "evidence_refs": [
+              "questions.items.mal-12355.answer",
+              "anime_profiles.json:profiles.12355"
+            ]
+          }
+        ],
+        "unresolved_questions": [
+          "unresolved_direction: exakt positiv eller negativ påverkan av den valda aspekten är inte fastställd."
+        ],
+        "reviewed_at_utc": "2026-11-10T09:15:39.839Z"
+      },
+      "mal-13599": {
+        "question_id": "mal-13599",
+        "mal_id": 13599,
+        "answer_reference": {
+          "answered_at_utc": "2026-11-10T05:41:36.014Z",
+          "raw_response": "Tempot i teknik- och konspirationsspåret"
+        },
+        "explicit_answer_summary": "Tempot i teknik- och konspirationsspåret",
+        "verified_brief_cues": [
+          "klubbdrama som övergår i teknikthriller",
+          "kontrast mellan entusiastisk projektledare och motvillig medhjälpare",
+          "vardagsnära ingenjörsarbete och science fiction-mysterium"
+        ],
+        "reviewed_hypotheses": [
+          {
+            "claim": "Användaren angav \"Tempot i teknik- och konspirationsspåret\" som relevant för betygsavvikelsen i Robotics;Notes.",
+            "verdict": "supported",
+            "explanation": "Detta är en verksspecifik förklaring, inte ett belägg för en generell smakregel.",
+            "evidence_refs": [
+              "questions.items.mal-13599.answer",
+              "anime_profiles.json:profiles.13599"
+            ]
+          }
+        ],
+        "unresolved_questions": [],
+        "reviewed_at_utc": "2026-11-10T09:15:39.839Z"
+      },
+      "mal-14813": {
+        "question_id": "mal-14813",
+        "mal_id": 14813,
+        "answer_reference": {
+          "answered_at_utc": "2026-11-10T05:41:36.014Z",
+          "raw_response": "Balansen mellan satir och relationsdrama"
+        },
+        "explicit_answer_summary": "Balansen mellan satir och relationsdrama",
+        "verified_brief_cues": [
+          "Hur huvudpersonens cynism fungerar som försvar eller hinder",
+          "Triodynamik mellan distans, principfasthet och social öppenhet",
+          "Skillnaden mellan att lösa ett ärende och att vårda en relation"
+        ],
+        "reviewed_hypotheses": [
+          {
+            "claim": "Användaren angav \"Balansen mellan satir och relationsdrama\" som relevant för betygsavvikelsen i Yahari Ore no Seishun Love Comedy wa Machigatteiru..",
+            "verdict": "supported",
+            "explanation": "Det explicita valet anger en relevant aspekt, men bevisar inte i sig att den aspekten uppskattades eller ogillades.",
+            "evidence_refs": [
+              "questions.items.mal-14813.answer",
+              "anime_profiles.json:profiles.14813"
+            ]
+          }
+        ],
+        "unresolved_questions": [
+          "unresolved_direction: exakt positiv eller negativ påverkan av den valda aspekten är inte fastställd."
+        ],
+        "reviewed_at_utc": "2026-11-10T09:15:39.839Z"
+      },
+      "mal-15689": {
+        "question_id": "mal-15689",
+        "mal_id": 15689,
+        "answer_reference": {
+          "answered_at_utc": "2026-11-10T05:41:36.014Z",
+          "raw_response": "Den stiliserade dialogen"
+        },
+        "explicit_answer_summary": "Den stiliserade dialogen",
+        "verified_brief_cues": [
+          "Psykologiska konflikter gestaltade som övernaturliga fenomen",
+          "Starkt dialogbaserad, stiliserad berättarform",
+          "Prequel-fördjupning av redan etablerad karaktär"
+        ],
+        "reviewed_hypotheses": [
+          {
+            "claim": "Användaren angav \"Den stiliserade dialogen\" som relevant för betygsavvikelsen i Nekomonogatari: Kuro.",
+            "verdict": "supported",
+            "explanation": "Det explicita valet anger en relevant aspekt, men bevisar inte i sig att den aspekten uppskattades eller ogillades.",
+            "evidence_refs": [
+              "questions.items.mal-15689.answer",
+              "anime_profiles.json:profiles.15689"
+            ]
+          }
+        ],
+        "unresolved_questions": [
+          "unresolved_direction: exakt positiv eller negativ påverkan av den valda aspekten är inte fastställd."
+        ],
+        "reviewed_at_utc": "2026-11-10T09:15:39.839Z"
       }
     }
   }
