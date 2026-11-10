@@ -6713,7 +6713,7 @@
       "updated_at_utc": "2026-11-10T11:17:04.036Z",
       "reassessment_required": true,
       "progress": {
-        "processed": 75,
+        "processed": 95,
         "total": 209
       }
     },
@@ -7813,6 +7813,328 @@
         "match_result": "indeterminate",
         "reason": "Nuvarande explicita svar saknar tillräcklig oberoende och entydig riktning för en leave-one-out-prognos för detta verk.",
         "reviewed_at_utc": "2026-11-10T15:20:30.164Z"
+      },
+      "1457": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime.json:mal_id:1457",
+          "anime_profiles.json:profiles.1457",
+          "insights.preference_hypotheses.narrative_pacing_and_progression"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Briefen innehåller struktur- eller tempocues, men den aktuella hypotesen saknar entydig riktning och oberoende underlag för en leave-one-out-prognos. Ingen modellavvikelse flaggas.",
+        "reviewed_at_utc": "2026-11-10T17:11:14.096Z"
+      },
+      "1462": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime.json:mal_id:1462",
+          "anime_profiles.json:profiles.1462",
+          "insights.preference_hypotheses.narrative_pacing_and_progression"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Briefen innehåller struktur- eller tempocues, men den aktuella hypotesen saknar entydig riktning och oberoende underlag för en leave-one-out-prognos. Ingen modellavvikelse flaggas.",
+        "reviewed_at_utc": "2026-11-10T17:11:14.096Z"
+      },
+      "1519": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime.json:mal_id:1519",
+          "anime_profiles.json:profiles.1519",
+          "insights.preference_hypotheses.narrative_pacing_and_progression"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Briefen innehåller struktur- eller tempocues, men den aktuella hypotesen saknar entydig riktning och oberoende underlag för en leave-one-out-prognos. Ingen modellavvikelse flaggas.",
+        "reviewed_at_utc": "2026-11-10T17:11:14.096Z"
+      },
+      "1530": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime.json:mal_id:1530",
+          "anime_profiles.json:profiles.1530",
+          "insights.preference_hypotheses.narrative_pacing_and_progression"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Briefen innehåller struktur- eller tempocues, men den aktuella hypotesen saknar entydig riktning och oberoende underlag för en leave-one-out-prognos. Ingen modellavvikelse flaggas.",
+        "reviewed_at_utc": "2026-11-10T17:11:14.096Z"
+      },
+      "1577": {
+        "model_version": 1,
+        "user_score": 6,
+        "evidence_refs": [
+          "anime.json:mal_id:1577",
+          "anime_profiles.json:profiles.1577",
+          "insights.preference_hypotheses.narrative_pacing_and_progression"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Briefen innehåller struktur- eller tempocues, men den aktuella hypotesen saknar entydig riktning och oberoende underlag för en leave-one-out-prognos. Ingen modellavvikelse flaggas.",
+        "reviewed_at_utc": "2026-11-10T17:11:14.096Z"
+      },
+      "1887": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime.json:mal_id:1887",
+          "anime_profiles.json:profiles.1887"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen verifierad narrativ cue kopplar denna brief till en tillräckligt underbyggd smakregel. Modellen avstår från betygsprognos.",
+        "reviewed_at_utc": "2026-11-10T17:11:14.096Z"
+      },
+      "1888": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime.json:mal_id:1888",
+          "anime_profiles.json:profiles.1888",
+          "insights.preference_hypotheses.narrative_pacing_and_progression"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Briefen innehåller struktur- eller tempocues, men den aktuella hypotesen saknar entydig riktning och oberoende underlag för en leave-one-out-prognos. Ingen modellavvikelse flaggas.",
+        "reviewed_at_utc": "2026-11-10T17:11:14.096Z"
+      },
+      "2025": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime.json:mal_id:2025",
+          "anime_profiles.json:profiles.2025",
+          "insights.preference_hypotheses.narrative_pacing_and_progression"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Briefen innehåller struktur- eller tempocues, men den aktuella hypotesen saknar entydig riktning och oberoende underlag för en leave-one-out-prognos. Ingen modellavvikelse flaggas.",
+        "reviewed_at_utc": "2026-11-10T17:11:14.096Z"
+      },
+      "2034": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime.json:mal_id:2034",
+          "anime_profiles.json:profiles.2034",
+          "insights.preference_hypotheses.narrative_pacing_and_progression"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Briefen innehåller struktur- eller tempocues, men den aktuella hypotesen saknar entydig riktning och oberoende underlag för en leave-one-out-prognos. Ingen modellavvikelse flaggas.",
+        "reviewed_at_utc": "2026-11-10T17:11:14.096Z"
+      },
+      "2129": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime.json:mal_id:2129",
+          "anime_profiles.json:profiles.2129",
+          "insights.preference_hypotheses.narrative_pacing_and_progression"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Briefen innehåller struktur- eller tempocues, men den aktuella hypotesen saknar entydig riktning och oberoende underlag för en leave-one-out-prognos. Ingen modellavvikelse flaggas.",
+        "reviewed_at_utc": "2026-11-10T17:11:14.096Z"
+      },
+      "2167": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime.json:mal_id:2167",
+          "anime_profiles.json:profiles.2167"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen verifierad narrativ cue kopplar denna brief till en tillräckligt underbyggd smakregel. Modellen avstår från betygsprognos.",
+        "reviewed_at_utc": "2026-11-10T17:11:14.096Z"
+      },
+      "2332": {
+        "model_version": 1,
+        "user_score": 6,
+        "evidence_refs": [
+          "anime.json:mal_id:2332",
+          "anime_profiles.json:profiles.2332",
+          "insights.preference_hypotheses.narrative_pacing_and_progression"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Briefen innehåller struktur- eller tempocues, men den aktuella hypotesen saknar entydig riktning och oberoende underlag för en leave-one-out-prognos. Ingen modellavvikelse flaggas.",
+        "reviewed_at_utc": "2026-11-10T17:11:14.096Z"
+      },
+      "2452": {
+        "model_version": 1,
+        "user_score": 6,
+        "evidence_refs": [
+          "anime.json:mal_id:2452",
+          "anime_profiles.json:profiles.2452",
+          "insights.preference_hypotheses.narrative_pacing_and_progression"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Briefen innehåller struktur- eller tempocues, men den aktuella hypotesen saknar entydig riktning och oberoende underlag för en leave-one-out-prognos. Ingen modellavvikelse flaggas.",
+        "reviewed_at_utc": "2026-11-10T17:11:14.096Z"
+      },
+      "2593": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime.json:mal_id:2593",
+          "anime_profiles.json:profiles.2593"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen verifierad narrativ cue kopplar denna brief till en tillräckligt underbyggd smakregel. Modellen avstår från betygsprognos.",
+        "reviewed_at_utc": "2026-11-10T17:11:14.096Z"
+      },
+      "2759": {
+        "model_version": 1,
+        "user_score": 9,
+        "evidence_refs": [
+          "anime.json:mal_id:2759",
+          "anime_profiles.json:profiles.2759"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen verifierad narrativ cue kopplar denna brief till en tillräckligt underbyggd smakregel. Modellen avstår från betygsprognos.",
+        "reviewed_at_utc": "2026-11-10T17:11:14.096Z"
+      },
+      "2926": {
+        "model_version": 1,
+        "user_score": 5,
+        "evidence_refs": [
+          "anime.json:mal_id:2926",
+          "anime_profiles.json:profiles.2926",
+          "insights.preference_hypotheses.narrative_pacing_and_progression"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Briefen innehåller struktur- eller tempocues, men den aktuella hypotesen saknar entydig riktning och oberoende underlag för en leave-one-out-prognos. Ingen modellavvikelse flaggas.",
+        "reviewed_at_utc": "2026-11-10T17:11:14.096Z"
+      },
+      "3299": {
+        "model_version": 1,
+        "user_score": 6,
+        "evidence_refs": [
+          "anime.json:mal_id:3299",
+          "anime_profiles.json:profiles.3299",
+          "insights.preference_hypotheses.narrative_pacing_and_progression"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Briefen innehåller struktur- eller tempocues, men den aktuella hypotesen saknar entydig riktning och oberoende underlag för en leave-one-out-prognos. Ingen modellavvikelse flaggas.",
+        "reviewed_at_utc": "2026-11-10T17:11:14.096Z"
+      },
+      "3323": {
+        "model_version": 1,
+        "user_score": 6,
+        "evidence_refs": [
+          "anime.json:mal_id:3323",
+          "anime_profiles.json:profiles.3323"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen verifierad narrativ cue kopplar denna brief till en tillräckligt underbyggd smakregel. Modellen avstår från betygsprognos.",
+        "reviewed_at_utc": "2026-11-10T17:11:14.096Z"
+      },
+      "3342": {
+        "model_version": 1,
+        "user_score": 8,
+        "evidence_refs": [
+          "anime.json:mal_id:3342",
+          "anime_profiles.json:profiles.3342",
+          "insights.preference_hypotheses.narrative_pacing_and_progression"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Briefen innehåller struktur- eller tempocues, men den aktuella hypotesen saknar entydig riktning och oberoende underlag för en leave-one-out-prognos. Ingen modellavvikelse flaggas.",
+        "reviewed_at_utc": "2026-11-10T17:11:14.096Z"
+      },
+      "3456": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime.json:mal_id:3456",
+          "anime_profiles.json:profiles.3456"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen verifierad narrativ cue kopplar denna brief till en tillräckligt underbyggd smakregel. Modellen avstår från betygsprognos.",
+        "reviewed_at_utc": "2026-11-10T17:11:14.096Z"
       }
     }
   }
