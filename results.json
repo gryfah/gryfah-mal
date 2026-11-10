@@ -1,20 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-10T16:05:09.329569Z",
+  "updated_at": "2026-11-10T17:03:36.523970Z",
   "events": [
-    {
-      "event_id": "20261103T161523963051Z-21-plan_to_watch-to-dropped",
-      "detected_at": "2026-11-03T16:15:23.963051Z",
-      "mal_id": 21,
-      "title": "One Piece",
-      "previous_status": "plan_to_watch",
-      "status": "dropped",
-      "score": 0,
-      "signals": [
-        "next_up"
-      ],
-      "mal_url": "https://myanimelist.net/anime/21"
-    },
     {
       "event_id": "20261106T160048074920Z-52481-plan_to_watch-to-completed",
       "detected_at": "2026-11-06T16:00:48.074920Z",
