@@ -6816,6 +6816,66 @@
         "https://www.symphogear-gx.com/story/GXstory01.php"
       ]
     },
+    "21647": {
+      "mal_id": 21647,
+      "title": "Tamako Love Story",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-10T13:16:01.900Z",
+      "synopsis": "Under sitt sista gymnasieår tänker Tamako Kitashirakawa främst på familjens mochi-butik och framtiden i shoppingkvarteret. När vännerna börjar planera sina liv efter skolan och barndomsvännen Mochizou berättar om sina universitetsplaner i Tokyo måste hon förhålla sig till förändring och till känslor hon inte tidigare tagit ställning till.",
+      "themes": [
+        "Att lämna ungdomens invanda vardag",
+        "Barndomsvänskap och kärlek",
+        "Framtidsval och familjeföretag"
+      ],
+      "tone": [
+        "Varm",
+        "Eftertänksam",
+        "Försiktigt romantisk"
+      ],
+      "pacing_and_structure": "Fristående långfilmsfortsättning på Tamako Market; koncentrerar seriens vardagsmiljö till ett personligt vägskäl och ett lågmält romantiskt drama.",
+      "character_dynamics": "Tamako ser fortsatt mochi-butiken som sin självklara framtid medan Mochizou har en tydligare plan att lämna hemstaden. Deras långa vänskap gör den möjliga förändringen i relationen särskilt laddad; vännernas egna framtidsval ger kontrast.",
+      "distinctive_features": "Kyoto Animations film från 2014 i regi av Naoko Yamada; förskjuter tyngdpunkten från TV-seriens kvarterskomedi till ungdomars uppbrott och kärlek.",
+      "comparison_cues": [
+        "Romantisk utveckling ur etablerad barndomsvänskap",
+        "Avsked från en trygg plats snarare än yttre äventyr",
+        "Vardaglig detaljrikedom i långfilmsformat"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://www.kyotoanimation.co.jp/en/works/tamakoMovie/",
+        "https://www.bunka.go.jp/j-mediaarts-festival/award/single/tamako_love_story/index.html"
+      ]
+    },
+    "21995": {
+      "mal_id": 21995,
+      "title": "Ao Haru Ride",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-10T13:16:01.900Z",
+      "synopsis": "Futaba Yoshioka har ändrat sitt sätt att vara i gymnasiet för att undvika den utfrysning hon upplevde i högstadiet. När hon återser sin tidigare förälskelse Kou, som nu heter Mabuchi och verkar ha förändrats, tvingas hon ompröva både sin självbild och sina relationer. Deras återförening blir en del av hennes försök att skapa ärligare vänskapsband.",
+      "themes": [
+        "Självbild och social anpassning",
+        "Återförening och förändring",
+        "Ungdomsvänskap och första kärlek"
+      ],
+      "tone": [
+        "Romantisk",
+        "Melankolisk",
+        "Vardagligt dramatisk"
+      ],
+      "pacing_and_structure": "TV-serie på tolv avsnitt från 2014, byggd på Io Sakisakas manga; relationerna och skolvardagens gradvisa förskjutningar driver berättelsen snarare än en extern intrig.",
+      "character_dynamics": "Futaba spelar en mindre feminin roll för att accepteras av klasskamraterna, medan Kou har blivit mer avståndstagande sedan de skildes åt. Deras gemensamma förflutna skapar förväntningar som inte utan vidare stämmer med dem de är nu.",
+      "distinctive_features": "Shoujo-romans från Production I.G. med särskilt fokus på social maskering, förändrade identiteter och mötet mellan minnet av någon och den person man faktiskt återser.",
+      "comparison_cues": [
+        "Romantik där återförening inte återställer den gamla relationen",
+        "Skolmiljö och vänskapsgrupp som prövar huvudpersonens självbild",
+        "Långsam omförhandling av känslor och tillit"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://theanimelist.net/anime/ao-haru-ride",
+        "https://en.wikipedia.org/wiki/Ao_Haru_Ride"
+      ]
+    },
     "22789": {
       "mal_id": 22789,
       "title": "Barakamon",
@@ -6943,6 +7003,37 @@
         "https://www.hulu.jp/your-lie-in-april",
         "https://tv.apple.com/us/show/your-lie-in-april/umc.cmc.naxbo7gbxumja097wwstdo2t",
         "https://myanimelist.net/anime/23273"
+      ]
+    },
+    "23283": {
+      "mal_id": 23283,
+      "title": "Zankyou no Terror",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-10T13:16:01.900Z",
+      "synopsis": "Efter ett uppmärksammat attentat i Tokyo börjar två unga män som kallar sig Sphinx lägga ut kryptiska videoutmaningar riktade mot polisen. De opererar under namnen Nine och Twelve, medan kriminalaren Shibazaki försöker förstå deras mönster och motiv. En rad hot och gåtor driver en jakt där det förflutna blir centralt.",
+      "themes": [
+        "Terrorism och offentlig rädsla",
+        "Hemligheter och institutionell makt",
+        "Ungdomars utsatthet",
+        "Identitet och skuld"
+      ],
+      "tone": [
+        "Spänningsfylld",
+        "Mörk",
+        "Gåtfull"
+      ],
+      "pacing_and_structure": "Originalserie från MAPPA 2014 i elva avsnitt; en sammanhängande thriller där nya videohot och polisens motdrag för handlingen framåt, med gradvis avslöjande av bakgrund.",
+      "character_dynamics": "Nine och Twelve arbetar tillsammans men skiljer sig i framtoning och sätt att möta andra. Shibazaki blir deras intellektuella motpart genom polisens utredning, medan deras offentliga Sphinx-identitet döljer personliga motiv.",
+      "distinctive_features": "Samtida Tokyo, internetpublicerade gåtor och en moralisk konflikt kring attentat och ansvar; originalanime regisserad av Shinichirou Watanabe.",
+      "comparison_cues": [
+        "Katt-och-råtta-upplägg med kryptiska meddelanden",
+        "Tät följetong snarare än fristående fall",
+        "Sympati och moralisk distans till berättelsens gärningsmän"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://theanimelist.net/anime/zankyou-no-terror",
+        "https://www.tvmaze.com/shows/8250/zankyou-no-terror"
       ]
     },
     "23321": {
