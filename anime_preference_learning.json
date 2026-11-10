@@ -6713,7 +6713,7 @@
       "updated_at_utc": "2026-11-10T11:17:04.036Z",
       "reassessment_required": true,
       "progress": {
-        "processed": 95,
+        "processed": 110,
         "total": 209
       }
     },
@@ -8135,6 +8135,225 @@
         "match_result": "indeterminate",
         "reason": "Ingen verifierad narrativ cue kopplar denna brief till en tillräckligt underbyggd smakregel. Modellen avstår från betygsprognos.",
         "reviewed_at_utc": "2026-11-10T17:11:14.096Z"
+      },
+      "3467": {
+        "model_version": 1,
+        "user_score": 6,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.3467",
+          "anime_preference_learning.json:insights.completed_observations.3467"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Den nuvarande hypotesen om berättelsetempo är preliminär och saknar tillräcklig oberoende, entydig evidens för att förutsäga detta verks betyg. Ingen smakmodellavvikelse fastställs.",
+        "reviewed_at_utc": "2026-11-10T18:12:49.296Z"
+      },
+      "3503": {
+        "model_version": 1,
+        "user_score": 6,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.3503",
+          "anime_preference_learning.json:insights.completed_observations.3503"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Den nuvarande hypotesen om berättelsetempo är preliminär och saknar tillräcklig oberoende, entydig evidens för att förutsäga detta verks betyg. Ingen smakmodellavvikelse fastställs.",
+        "reviewed_at_utc": "2026-11-10T18:12:49.296Z"
+      },
+      "3667": {
+        "model_version": 1,
+        "user_score": 5,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.3667",
+          "anime_preference_learning.json:insights.completed_observations.3667"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Den nuvarande hypotesen om berättelsetempo är preliminär och saknar tillräcklig oberoende, entydig evidens för att förutsäga detta verks betyg. Ingen smakmodellavvikelse fastställs.",
+        "reviewed_at_utc": "2026-11-10T18:12:49.296Z"
+      },
+      "3782": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.3782",
+          "anime_preference_learning.json:insights.completed_observations.3782"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Den nuvarande hypotesen om berättelsetempo är preliminär och saknar tillräcklig oberoende, entydig evidens för att förutsäga detta verks betyg. Ingen smakmodellavvikelse fastställs.",
+        "reviewed_at_utc": "2026-11-10T18:12:49.296Z"
+      },
+      "3783": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.3783",
+          "anime_preference_learning.json:insights.completed_observations.3783"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Den nuvarande hypotesen om berättelsetempo är preliminär och saknar tillräcklig oberoende, entydig evidens för att förutsäga detta verks betyg. Ingen smakmodellavvikelse fastställs.",
+        "reviewed_at_utc": "2026-11-10T18:12:49.296Z"
+      },
+      "3784": {
+        "model_version": 1,
+        "user_score": 9,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.3784",
+          "anime_preference_learning.json:insights.completed_observations.3784"
+        ],
+        "applicable_hypotheses": [
+          {
+            "hypothesis_id": "narrative_pacing_and_progression",
+            "verified_cues": [
+              "Högre tempo och mer storskalig action än många tv-avsnitt"
+            ],
+            "applicability": "potential_only",
+            "leave_one_out": "No independent predictive support established"
+          }
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Den nuvarande hypotesen om berättelsetempo är preliminär och saknar tillräcklig oberoende, entydig evidens för att förutsäga detta verks betyg. Ingen smakmodellavvikelse fastställs.",
+        "reviewed_at_utc": "2026-11-10T18:12:49.296Z"
+      },
+      "3785": {
+        "model_version": 1,
+        "user_score": 9,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.3785",
+          "anime_preference_learning.json:insights.completed_observations.3785"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Den nuvarande hypotesen om berättelsetempo är preliminär och saknar tillräcklig oberoende, entydig evidens för att förutsäga detta verks betyg. Ingen smakmodellavvikelse fastställs.",
+        "reviewed_at_utc": "2026-11-10T18:12:49.296Z"
+      },
+      "3989": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.3989",
+          "anime_preference_learning.json:insights.completed_observations.3989"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Den nuvarande hypotesen om berättelsetempo är preliminär och saknar tillräcklig oberoende, entydig evidens för att förutsäga detta verks betyg. Ingen smakmodellavvikelse fastställs.",
+        "reviewed_at_utc": "2026-11-10T18:12:49.296Z"
+      },
+      "4059": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.4059",
+          "anime_preference_learning.json:insights.completed_observations.4059"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Den nuvarande hypotesen om berättelsetempo är preliminär och saknar tillräcklig oberoende, entydig evidens för att förutsäga detta verks betyg. Ingen smakmodellavvikelse fastställs.",
+        "reviewed_at_utc": "2026-11-10T18:12:49.296Z"
+      },
+      "4087": {
+        "model_version": 1,
+        "user_score": 6,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.4087",
+          "anime_preference_learning.json:insights.completed_observations.4087"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Den nuvarande hypotesen om berättelsetempo är preliminär och saknar tillräcklig oberoende, entydig evidens för att förutsäga detta verks betyg. Ingen smakmodellavvikelse fastställs.",
+        "reviewed_at_utc": "2026-11-10T18:12:49.296Z"
+      },
+      "4181": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.4181",
+          "anime_preference_learning.json:insights.completed_observations.4181"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Den nuvarande hypotesen om berättelsetempo är preliminär och saknar tillräcklig oberoende, entydig evidens för att förutsäga detta verks betyg. Ingen smakmodellavvikelse fastställs.",
+        "reviewed_at_utc": "2026-11-10T18:12:49.296Z"
+      },
+      "4224": {
+        "model_version": 1,
+        "user_score": 9,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.4224",
+          "anime_preference_learning.json:insights.completed_observations.4224"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Den nuvarande hypotesen om berättelsetempo är preliminär och saknar tillräcklig oberoende, entydig evidens för att förutsäga detta verks betyg. Ingen smakmodellavvikelse fastställs.",
+        "reviewed_at_utc": "2026-11-10T18:12:49.296Z"
+      },
+      "4280": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.4280",
+          "anime_preference_learning.json:insights.completed_observations.4280"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Den nuvarande hypotesen om berättelsetempo är preliminär och saknar tillräcklig oberoende, entydig evidens för att förutsäga detta verks betyg. Ingen smakmodellavvikelse fastställs.",
+        "reviewed_at_utc": "2026-11-10T18:12:49.296Z"
+      },
+      "4282": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.4282",
+          "anime_preference_learning.json:insights.completed_observations.4282"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Den nuvarande hypotesen om berättelsetempo är preliminär och saknar tillräcklig oberoende, entydig evidens för att förutsäga detta verks betyg. Ingen smakmodellavvikelse fastställs.",
+        "reviewed_at_utc": "2026-11-10T18:12:49.296Z"
+      },
+      "4472": {
+        "model_version": 1,
+        "user_score": 6,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.4472",
+          "anime_preference_learning.json:insights.completed_observations.4472"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Den nuvarande hypotesen om berättelsetempo är preliminär och saknar tillräcklig oberoende, entydig evidens för att förutsäga detta verks betyg. Ingen smakmodellavvikelse fastställs.",
+        "reviewed_at_utc": "2026-11-10T18:12:49.296Z"
       }
     }
   }
