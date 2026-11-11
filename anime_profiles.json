@@ -9078,6 +9078,67 @@
         "https://www.aniplex.co.jp/lineup/kiznaiver/story/"
       ]
     },
+    "31804": {
+      "mal_id": 31804,
+      "title": "Kuma Miko",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-11T22:17:52.028Z",
+      "synopsis": "Den fjortonåriga tempelflickan Machi bor i en avlägsen bergsby tillsammans med Natsu, en talande björn som fungerar som hennes beskyddare. Hon vill börja skolan i storstaden, men Natsu oroar sig för hur hon ska klara vardagen utanför byn och ger henne prövningar för att förbereda henne.",
+      "themes": [
+        "landsbygd kontra stad",
+        "självständighet och osäkerhet",
+        "tradition och modern vardag"
+      ],
+      "tone": [
+        "vardagskomisk",
+        "absurd",
+        "ibland pinsamhetsbaserad"
+      ],
+      "pacing_and_structure": "Tolv avsnitt med återkommande vardagsprövningar och komiska situationer kring Machis bristande stadsvana; den övergripande drivkraften är hennes önskan att lämna byn.",
+      "character_dynamics": "Machi söker större självständighet medan den omtänksamma men överbeskyddande Natsu bromsar och testar henne. Kusinen Yoshio försöker dessutom engagera henne i byns utveckling.",
+      "distinctive_features": "En talande björn som vardaglig förmyndare och en shintotempelflickas kulturkrock med moderna stadsvanor.",
+      "comparison_cues": [
+        "episodiska prövningar snarare än tät intrig",
+        "komik ur beskydd kontra frigörelse",
+        "landsbygdsmiljö med övernaturlig premiss"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://www.primevideo.com/detail/0FJ7PF6WRWF10BYHZEFO799HRH",
+        "https://anilist.co/anime/21423/Kuma-Miko"
+      ]
+    },
+    "31952": {
+      "mal_id": 31952,
+      "title": "Kono Bijutsu-bu ni wa Mondai ga Aru!",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-11T22:17:52.028Z",
+      "synopsis": "Mizuki Usami försöker bedriva verklig konstverksamhet i sin högstadieskolas konstklubb. Hennes begåvade klubbkamrat Subaru Uchimaki vill främst teckna sin ideala tvådimensionella hustru, klubbordföranden sover mest och Colette skapar nya distraktioner. Mizukis känslor för Subaru gör klubbens vardag ännu mer komplicerad.",
+      "themes": [
+        "skolklubbens gemenskap",
+        "ensidig förälskelse",
+        "skapande kontra eskapism",
+        "vardagliga missförstånd"
+      ],
+      "tone": [
+        "lättsam",
+        "romantisk komedi",
+        "lekfull"
+      ],
+      "pacing_and_structure": "Tolv avsnitt med flera korta klubbincidenter och missförstånd; den romantiska underströmmen återkommer utan att varje episod behöver föra relationen framåt.",
+      "character_dynamics": "Mizuki är den ansvarstagande motpolen till Subarus koncentration på fiktiva flickor. Colette och den sömniga ordföranden skapar oreda, medan klubbkamraternas samspel ger komiken dess återkommande struktur.",
+      "distinctive_features": "Konstklubben är både kreativ miljö och källa till skämt om animeideal, tecknartalang och obesvarad förälskelse.",
+      "comparison_cues": [
+        "sketchliknande skolvardag",
+        "romantisk spänning utan ständig progression",
+        "kontrast mellan faktisk konst och 2D-fixering"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://www.crunchyroll.com/id/series/G6MGPWM86/this-art-club-has-a-problem",
+        "https://tv.apple.com/se/show/this-art-club-has-a-problem/umc.cmc.2uzqhfcvkchbl4b8rrilcevjj"
+      ]
+    },
     "31953": {
       "mal_id": 31953,
       "title": "New Game!",
