@@ -6040,6 +6040,29 @@
         "anime_snapshot_at": "2026-11-11T10:00:29.908666+00:00",
         "observed_at_utc": "2026-11-11T10:18:23.130Z"
       },
+      "28927": {
+        "mal_id": 28927,
+        "title": "Owari no Seraph: Nagoya Kessen-hen",
+        "observed_status": "completed",
+        "user_score": 6,
+        "mal_mean_score": 7.61,
+        "mal_num_scoring_users": 511597,
+        "mal_genres": [
+          "Action",
+          "Drama",
+          "Fantasy",
+          "Military",
+          "Shounen",
+          "Vampire"
+        ],
+        "profile_ref": 28927,
+        "rating_band": "neutral",
+        "score_minus_mal": -1.6100000000000003,
+        "baseline_median_offset": -0.41000000000000014,
+        "consensus_residual": -1.2000000000000002,
+        "anime_snapshot_at": "2026-11-11T18:09:12.231514+00:00",
+        "observed_at_utc": "2026-11-11T18:13:31.006Z"
+      },
       "28999": {
         "mal_id": 28999,
         "title": "Charlotte",
@@ -6077,6 +6100,28 @@
         "consensus_residual": 1.4500000000000002,
         "anime_snapshot_at": "2026-11-11T01:09:55.859054+00:00",
         "observed_at_utc": "2026-11-09T20:19:21.042Z"
+      },
+      "30279": {
+        "mal_id": 30279,
+        "title": "Yuru Yuri San☆Hai!",
+        "observed_status": "completed",
+        "user_score": 7,
+        "mal_mean_score": 7.91,
+        "mal_num_scoring_users": 70222,
+        "mal_genres": [
+          "CGDCT",
+          "Comedy",
+          "Gag Humor",
+          "Girls Love",
+          "School"
+        ],
+        "profile_ref": 30279,
+        "rating_band": "mild_positive",
+        "score_minus_mal": -0.9100000000000001,
+        "baseline_median_offset": -0.41000000000000014,
+        "consensus_residual": -0.5,
+        "anime_snapshot_at": "2026-11-11T18:09:12.231514+00:00",
+        "observed_at_utc": "2026-11-11T18:13:31.006Z"
       },
       "30296": {
         "mal_id": 30296,
