@@ -9237,6 +9237,70 @@
         "https://otakuden.gg/anime/33091"
       ]
     },
+    "33190": {
+      "mal_id": 33190,
+      "title": "Planetarian: Hoshi no Hito",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-11T23:13:16.463Z",
+      "synopsis": "I en framtid där krig har ödelagt civilisationen vandrar en äldre man mellan små samhällen och berättar om stjärnhimlen, som människor knappt längre kan se. Ett möte med tre barn leder berättelsen tillbaka till hans yngre dagar och en robotflicka vid ett planetarium i en övergiven stad.",
+      "themes": [
+        "Minnet av en förlorad civilisation",
+        "Kunskapsöverföring mellan generationer",
+        "Hopp under katastrofala omständigheter",
+        "Människans förhållande till stjärnhimlen"
+      ],
+      "tone": [
+        "Melankolisk",
+        "Eftertänksam",
+        "Försiktigt hoppfull"
+      ],
+      "pacing_and_structure": "Långfilm med en ramberättelse om den äldre stjärnberättaren och återblickar som knyter an till den tidigare Planetarian-berättelsen; betonar samtal, minnen och känslomässig kontinuitet snarare än tät action.",
+      "character_dynamics": "Den äldre resenären delar sin kunskap med barnen Levi, Job och Ruth; minnet av robotflickan Yumemi ger hans uppdrag en personlig förankring.",
+      "distinctive_features": "Postapokalyptisk science fiction byggd kring ett planetarium och astronomi; långfilmsversion från David Production som återbesöker och fortsätter berättelsen från Keys visual novel.",
+      "comparison_cues": [
+        "Ramberättelse där minnen får ny betydelse",
+        "Stillfärdig science fiction med emotionellt fokus",
+        "Människor och artificiell intelligens i en ödelagd värld"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/33190",
+        "https://tv.apple.com/jp/movie/planetarian%E6%98%9F%E3%81%AE%E4%BA%BA/umc.cmc.5axwhsjv9ktliognxrq6crr64",
+        "https://anime.eiga.com/movie/105323/"
+      ]
+    },
+    "33433": {
+      "mal_id": 33433,
+      "title": "Shuumatsu no Izetta",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-11T23:13:16.463Z",
+      "synopsis": "I ett alternativt Europa år 1940 hotas det lilla alplandet Eylstadt av stormakten Germania. Kronprinsessan Finé försöker rädda sitt land genom diplomati och motstånd, medan hennes barndomsvän Izetta, en häxa med ovanliga krafter, väljer att hjälpa till i försvaret trots riskerna med att avslöja sin magi.",
+      "themes": [
+        "Lojalitet och självuppoffring",
+        "Småstatens utsatthet i krig",
+        "Makt och ansvar",
+        "Vänskap under politiskt tryck"
+      ],
+      "tone": [
+        "Krigsdramatisk",
+        "Äventyrlig",
+        "Allvarlig med varma mellanmänskliga inslag"
+      ],
+      "pacing_and_structure": "Tolv avsnitt med en fortlöpande krigskonflikt, växling mellan militära insatser, politiska beslut och personliga samtal; magins möjligheter och begränsningar påverkar konflikten.",
+      "character_dynamics": "Finé är arvtagare och politisk företrädare med ansvar för befolkningen; Izetta är hennes barndomsvän och vill skydda henne, medan Finé tvekar inför att utsätta vännen för krigets faror.",
+      "distinctive_features": "Andra världskriget-inspirerad alternativhistoria där flygstrider, militär materiel och diplomati kombineras med en ensam häxas magi.",
+      "comparison_cues": [
+        "Krigsfantasy med tydlig politisk konflikt",
+        "Barndomsvänskap under press från plikt och krig",
+        "Magiska förmågor som militär strategisk resurs"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/33433",
+        "https://sh-anime.shochiku.co.jp/izetta/story.html",
+        "https://www.hulu.jp/izetta-the-last-witch"
+      ]
+    },
     "33475": {
       "mal_id": 33475,
       "title": "Busou Shoujo Machiavellianism",
