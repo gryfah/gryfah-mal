@@ -739,7 +739,7 @@
         ],
         "multiple_select": false,
         "created_round": 220,
-        "status": "open",
+        "status": "answered",
         "created_at_utc": "2026-11-11T01:15:42.322Z",
         "evidence": {
           "user_score": 5,
@@ -747,7 +747,17 @@
           "consensus_residual": 1.71,
           "baseline_n": 528
         },
-        "sources": []
+        "sources": [],
+        "answer": "Den absurda hundpremissen fungerade bättre än väntat",
+        "raw_answer": "Den absurda hundpremissen fungerade bättre än väntat",
+        "selected_option": "Den absurda hundpremissen fungerade bättre än väntat",
+        "answered_at_utc": "2026-11-11T05:03:25.987Z",
+        "interpretation": {
+          "scope": "ip_specific",
+          "summary": "Den absurda hundpremissen fungerade bättre än väntat",
+          "certainty": "explicit_answer",
+          "note": "Svaret beskriver en specifik aspekt av verket; ingen generell preferens härleds."
+        }
       },
       "mal-18661": {
         "question_id": "mal-18661",
@@ -764,7 +774,7 @@
         ],
         "multiple_select": false,
         "created_round": 220,
-        "status": "open",
+        "status": "answered",
         "created_at_utc": "2026-11-11T01:15:42.322Z",
         "evidence": {
           "user_score": 6,
@@ -772,7 +782,17 @@
           "consensus_residual": -1.6799999999999997,
           "baseline_n": 528
         },
-        "sources": []
+        "sources": [],
+        "answer": "Sidohistorierna tillförde för lite till Nanami och Tomoes relation",
+        "raw_answer": "Sidohistorierna tillförde för lite till Nanami och Tomoes relation",
+        "selected_option": "Sidohistorierna tillförde för lite till Nanami och Tomoes relation",
+        "answered_at_utc": "2026-11-11T05:03:25.987Z",
+        "interpretation": {
+          "scope": "ip_specific",
+          "summary": "Sidohistorierna tillförde för lite till Nanami och Tomoes relation",
+          "certainty": "explicit_answer",
+          "note": "Svaret beskriver en specifik aspekt av verket; ingen generell preferens härleds."
+        }
       },
       "mal-21647": {
         "question_id": "mal-21647",
@@ -789,7 +809,7 @@
         ],
         "multiple_select": false,
         "created_round": 220,
-        "status": "open",
+        "status": "answered",
         "created_at_utc": "2026-11-11T01:15:42.322Z",
         "evidence": {
           "user_score": 6,
@@ -797,7 +817,17 @@
           "consensus_residual": -1.5,
           "baseline_n": 528
         },
-        "sources": []
+        "sources": [],
+        "answer": "Tamako och Mochizous relationsutveckling kändes otillräcklig",
+        "raw_answer": "Tamako och Mochizous relationsutveckling kändes otillräcklig",
+        "selected_option": "Tamako och Mochizous relationsutveckling kändes otillräcklig",
+        "answered_at_utc": "2026-11-11T05:03:25.987Z",
+        "interpretation": {
+          "scope": "ip_specific",
+          "summary": "Tamako och Mochizous relationsutveckling kändes otillräcklig",
+          "certainty": "explicit_answer",
+          "note": "Svaret beskriver en specifik aspekt av verket; ingen generell preferens härleds."
+        }
       }
     }
   },
