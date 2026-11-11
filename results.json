@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:01:07.600312Z",
+  "updated_at": "2026-11-11T06:00:30.704543Z",
   "events": [
     {
       "event_id": "20261106T160048074920Z-52481-plan_to_watch-to-completed",
@@ -28,6 +28,19 @@
         "next_up"
       ],
       "mal_url": "https://myanimelist.net/anime/58883"
+    },
+    {
+      "event_id": "20261111T060030704543Z-34636-plan_to_watch-to-dropped",
+      "detected_at": "2026-11-11T06:00:30.704543Z",
+      "mal_id": 34636,
+      "title": "Ballroom e Youkoso",
+      "previous_status": "plan_to_watch",
+      "status": "dropped",
+      "score": 0,
+      "signals": [
+        "next_up"
+      ],
+      "mal_url": "https://myanimelist.net/anime/34636"
     }
   ]
 }
