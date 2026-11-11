@@ -8492,6 +8492,37 @@
         "https://tv.apple.com/do/show/danchigai/umc.cmc.or71ar18c3lp9ttfuiqhorgp"
       ]
     },
+    "30503": {
+      "mal_id": 30503,
+      "title": "Noragami Aragoto",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-11T15:11:38.750Z",
+      "synopsis": "Den fattige guden Yato fortsätter hjälpa människor för småmynt tillsammans med Hiyori Iki, vars själ ibland lämnar kroppen, och Yukine, en avliden pojke som blivit hans gudomliga vapen. Den andra säsongen fördjupar konflikten med krigsgudinnan Bishamon, som håller Yato ansvarig för en gammal tragedi.",
+      "themes": [
+        "Skuld och försoning",
+        "Tillhörighet mellan människor och gudar",
+        "Minne och förlust",
+        "Ansvar för dem man beskyddar"
+      ],
+      "tone": [
+        "Övernaturligt dramatisk",
+        "Actionbetonad",
+        "Humoristisk i kontrast till mörkare konflikter"
+      ],
+      "pacing_and_structure": "Mer sammanhängande handlingsbågar än rena uppdrag i vardagen; Bishamons konflikt och senare gudavärldens maktspel ger säsongen en tydlig progression.",
+      "character_dynamics": "Yato, Hiyori och Yukine bildar en växande förtroendekrets; Bishamons fientlighet mot Yato bottnar i en historisk konflikt, medan hennes många shinki gör lojalitet och ansvar centrala.",
+      "distinctive_features": "Modern japansk stadsmiljö blandas med shintoinspirerad gudavärld, andevarelser och gudomliga vapen; andra TV-säsongen från Bones.",
+      "comparison_cues": [
+        "Övernaturlig action med relationskonflikter",
+        "Tidigare oförrätter som driver nutida motsättningar",
+        "Växling mellan komedi och allvar"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/30503",
+        "https://www.tvguide.or.jp/db/anime/noragami/season2/"
+      ]
+    },
     "30831": {
       "mal_id": 30831,
       "title": "Kono Subarashii Sekai ni Shukufuku wo!",
@@ -8590,6 +8621,38 @@
         "https://www.fujitv.com/animation/boku-dakega-inai-machi/",
         "https://anilist.co/anime/21234/Boku-dake-ga-Inai-Machi",
         "https://myanimelist.net/anime/31043"
+      ]
+    },
+    "31251": {
+      "mal_id": 31251,
+      "title": "Kidou Senshi Gundam: Tekketsu no Orphans",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-11T15:11:38.750Z",
+      "synopsis": "På Mars i en tid av politiskt och ekonomiskt beroende av jorden får en grupp unga säkerhetssoldater i uppdrag att eskortera självständighetsförespråkaren Kudelia Aina Bernstein. När deras vuxna chefer överger dem under ett angrepp från Gjallarhorn tar de över organisationen och bildar Tekkadan. Piloten Mikazuki Augus och ledaren Orga Itsuka försöker skapa en framtid för gruppen.",
+      "themes": [
+        "Barnsoldater och exploatering",
+        "Klass och kolonialt beroende",
+        "Lojalitet och självbestämmande",
+        "Krigets ekonomiska och mänskliga pris"
+      ],
+      "tone": [
+        "Allvarlig",
+        "Militärdramatisk",
+        "Bitvis brutal"
+      ],
+      "pacing_and_structure": "Fortlöpande konfliktberättelse med eskortuppdrag, politiska förhandlingar och mecha-strider; gruppens beslut får konsekvenser över flera avsnitt.",
+      "character_dynamics": "Orga tar strategiska beslut medan Mikazuki verkställer dem som pilot; Kudelia representerar ett politiskt mål som både utmanar och ger mening åt gruppens kamp.",
+      "distinctive_features": "En fristående Gundam-tidslinje, Post Disaster, med Gundam Barbatos, privat militär verksamhet och ett tydligt underifrånperspektiv på krig.",
+      "comparison_cues": [
+        "Militär konflikt sedd genom utsatta ungdomar",
+        "Lojalitet mellan befäl och pilot",
+        "Politisk frigörelse sammanflätad med action"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/31251",
+        "https://tv.apple.com/gb/show/mobile-suit-gundam-iron-blooded-orphans/umc.cmc.3k465cqw0yntvfzahn7kzzx26",
+        "https://en.gundam-official.com/feature/g-orphans-10th/movie/"
       ]
     },
     "31376": {
