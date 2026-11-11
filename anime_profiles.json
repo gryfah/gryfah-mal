@@ -9110,6 +9110,72 @@
       ],
       "uncertainties": []
     },
+    "32729": {
+      "mal_id": 32729,
+      "title": "Orange",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-11T21:14:33.174Z",
+      "synopsis": "Gymnasieeleven Naho Takamiya får brev från sitt tio år äldre jag. Breven förutsäger händelser kring den nye klasskamraten Kakeru Naruse och uppmanar henne att handla annorlunda för att undvika framtida ånger. Hon och vänkretsen försöker förstå vad som kan förändras genom vardagliga beslut och omsorg.",
+      "themes": [
+        "Ånger och möjligheten att förändra framtiden",
+        "Vänskap och gemensamt ansvar",
+        "Sårbarhet och psykisk ohälsa",
+        "Ung kärlek och kommunikation"
+      ],
+      "tone": [
+        "Melankolisk",
+        "Varm",
+        "Allvarlig",
+        "Hoppfull"
+      ],
+      "pacing_and_structure": "Tretton avsnitt med kronologiskt skoldrama; breven skapar framåtblickande spänning och varje vardagshändelse får betydelse för den större frågan om framtiden.",
+      "character_dynamics": "Den försiktiga Naho försöker nå den tillbakadragne Kakeru; Suwa och övriga vänner blir viktiga genom sitt stöd och genom de känslor och val som uppstår inom gruppen.",
+      "distinctive_features": "Tidsbrev används som dramatisk ram för ett nära ungdomsdrama snarare än som tekniskt science fiction-mysterium; vänkretsens kollektiva agerande är centralt.",
+      "comparison_cues": [
+        "Relationers utveckling genom konkreta val",
+        "Tidsförskjutning som verktyg för emotionellt drama",
+        "Gruppens ansvar för en utsatt vän"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/32729",
+        "https://www.primevideo.com/-/ja/detail/0QHGXZ9AE82KZ3M9BP197U2AEB",
+        "https://tv.apple.com/jp/show/orange/umc.cmc.335jd18qul7c99lhhie255eue"
+      ]
+    },
+    "33091": {
+      "mal_id": 33091,
+      "title": "Planetarian: Chiisana Hoshi no Yume",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-11T21:14:33.174Z",
+      "synopsis": "I en krigshärjad framtid söker en ensam skrotsamlare förnödenheter i en övergiven stad. I ett gammalt planetarium möter han roboten Hoshino Yumemi, som fortfarande väntar på besökare och vill visa stjärnhimlen. När projektorn behöver lagas växer ett oväntat samarbete fram mellan den desillusionerade överlevaren och den plikttrogna roboten.",
+      "themes": [
+        "Minnet av en förlorad civilisation",
+        "Hopp och mänsklighet efter katastrofen",
+        "Teknikens relation till människor",
+        "Stjärnhimlen som symbol för kontinuitet"
+      ],
+      "tone": [
+        "Stillsam",
+        "Melankolisk",
+        "Ömsint",
+        "Postapokalyptisk"
+      ],
+      "pacing_and_structure": "Fem korta ONA-avsnitt med koncentrerad, huvudsakligen linjär berättelse. Mötet och arbetet med planetariet får ta plats innan omvärldens faror blir mer påtagliga.",
+      "character_dynamics": "Skrotsamlarens misstänksamhet och pragmatism kontrasterar mot Yumemis outtröttliga gästfrihet och programmerade optimism; deras samarbete förändrar samtalets ton utan att sudda ut deras olika förutsättningar.",
+      "distinctive_features": "Adapterar Keys visuella roman till ett kortformat; ett planetarium i en förstörd stad skapar en tydlig kontrast mellan kosmisk skönhet och jordisk förödelse.",
+      "comparison_cues": [
+        "Litet persongalleri och tät emotionell båge",
+        "Robotmänniska-relation utan traditionell actiontyngd",
+        "Efterkatastrofmiljö med minnes- och hoppmotiv"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/33091",
+        "https://tv.apple.com/us/show/planetarian-the-reverie-of-a-little-planet/umc.cmc.1aoihfnl3g4ysejmwedc67h35",
+        "https://otakuden.gg/anime/33091"
+      ]
+    },
     "33475": {
       "mal_id": 33475,
       "title": "Busou Shoujo Machiavellianism",
