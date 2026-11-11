@@ -26,6 +26,19 @@
         ],
         "created_at_utc": "2026-11-10T05:15:11.445Z",
         "announced_at_utc": null
+      },
+      "220": {
+        "threshold": 220,
+        "processed_count": 221,
+        "question_ids": [
+          "mal-13715",
+          "mal-18661",
+          "mal-21647"
+        ],
+        "created_at_utc": "2026-11-11T01:15:42.322Z",
+        "prepared_at_utc": "2026-11-11T01:15:42.322Z",
+        "delivery_attempted_at_utc": null,
+        "announced_at_utc": null
       }
     },
     "items": {
@@ -709,6 +722,81 @@
           "https://anilist.co/anime/21234/Boku-dake-ga-Inai-Machi",
           "https://myanimelist.net/anime/31043"
         ]
+      },
+      "mal-13715": {
+        "question_id": "mal-13715",
+        "mal_id": 13715,
+        "title": "Kennel Tokorozawa",
+        "question": "Du gav Kennel Tokorozawa 5/10 mot MAL 3.7/10 (justerad avvikelse 1.71). Vad förklarar främst skillnaden?",
+        "options": [
+          "Den absurda hundpremissen fungerade bättre än väntat",
+          "Det korta formatet gjorde skämten mer uthärdliga",
+          "Den provokativa humorn var ändå begränsande",
+          "Utförandet var svagt trots en ovanlig idé",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": false,
+        "created_round": 220,
+        "status": "open",
+        "created_at_utc": "2026-11-11T01:15:42.322Z",
+        "evidence": {
+          "user_score": 5,
+          "mal_mean_score": 3.7,
+          "consensus_residual": 1.71,
+          "baseline_n": 528
+        },
+        "sources": []
+      },
+      "mal-18661": {
+        "question_id": "mal-18661",
+        "mal_id": 18661,
+        "title": "Kamisama Hajimemashita OVA",
+        "question": "Du gav Kamisama Hajimemashita OVA 6/10 mot MAL 8.09/10 (justerad avvikelse -1.68). Vad förklarar främst skillnaden?",
+        "options": [
+          "Sidohistorierna tillförde för lite till Nanami och Tomoes relation",
+          "Missförstånden kändes upprepande",
+          "Det korta formatet gav för lite berättelseutveckling",
+          "Den lättsamma komedin fungerade sämre än huvudseriens blandning",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": false,
+        "created_round": 220,
+        "status": "open",
+        "created_at_utc": "2026-11-11T01:15:42.322Z",
+        "evidence": {
+          "user_score": 6,
+          "mal_mean_score": 8.09,
+          "consensus_residual": -1.6799999999999997,
+          "baseline_n": 528
+        },
+        "sources": []
+      },
+      "mal-21647": {
+        "question_id": "mal-21647",
+        "mal_id": 21647,
+        "title": "Tamako Love Story",
+        "question": "Du gav Tamako Love Story 6/10 mot MAL 7.91/10 (justerad avvikelse -1.50). Vad förklarar främst skillnaden?",
+        "options": [
+          "Den lågmälda romantiken engagerade inte tillräckligt",
+          "Tamako och Mochizous relationsutveckling kändes otillräcklig",
+          "Framtidsvalen och uppbrottstemat fick för lite utrymme",
+          "Filmens långsamma tempo påverkade helhetsintrycket",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": false,
+        "created_round": 220,
+        "status": "open",
+        "created_at_utc": "2026-11-11T01:15:42.322Z",
+        "evidence": {
+          "user_score": 6,
+          "mal_mean_score": 7.91,
+          "consensus_residual": -1.5,
+          "baseline_n": 528
+        },
+        "sources": []
       }
     }
   },
