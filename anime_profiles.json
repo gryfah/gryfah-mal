@@ -7732,6 +7732,38 @@
         "https://watch.plex.tv/ja/show/invaders-of-the-rokujouma/season/1"
       ]
     },
+    "23225": {
+      "mal_id": 23225,
+      "title": "Yuru Yuri Nachuyachumi!",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-11T11:13:55.465Z",
+      "synopsis": "Under sommarlovet hittar nöjesklubben campingutrustning och ordnar en utflykt tillsammans med elever från elevrådet. Akari, Kyouko, Chinatsu och Yui ägnar sig åt gemensam matlagning, en spökvandring och bad, snarare än ett stort yttre äventyr.",
+      "themes": [
+        "vänskap",
+        "sommarlov",
+        "gemensamma fritidsaktiviteter",
+        "vardagskomedi"
+      ],
+      "tone": [
+        "lekfull",
+        "avslappnad",
+        "varm"
+      ],
+      "pacing_and_structure": "En sammanhängande, lång OVA med en campingutflykt som ram för kortare komiska situationer och gruppsamspel; liten övergripande konflikt.",
+      "character_dynamics": "De fyra medlemmarna i nöjesklubben får sällskap av elevrådets flickor; välkända kontraster och vänskapsrelationer får utrymme genom gemensamma aktiviteter.",
+      "distinctive_features": "Långfilmsliknande sommarspecial som flyttar seriens vanliga skolmiljö till naturen och låter två återkommande grupper umgås.",
+      "comparison_cues": [
+        "ensemblekomedi utan stor intrig",
+        "sommarutflykt som episodisk ram",
+        "vardagliga grupprelationer"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/23225",
+        "https://www.hulu.jp/yuruyuri-nachuyachumi",
+        "https://anilist.co/anime/20625"
+      ]
+    },
     "23233": {
       "mal_id": 23233,
       "title": "Shinmai Maou no Testament",
@@ -7949,6 +7981,38 @@
         "https://www.aniplex.co.jp/lineup/imas-cinderella/",
         "https://a1p.jp/works/imas-cg/",
         "https://tv.apple.com/be/show/the-idolmster-cinderella-girls/umc.cmc.5k4quckubcu3lfvtjy2d8m70l"
+      ]
+    },
+    "23847": {
+      "mal_id": 23847,
+      "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-11T11:13:55.465Z",
+      "synopsis": "Den andra säsongen fortsätter berättelsen om Hachiman Hikigaya, Yukino Yukinoshita och Yui Yuigahama i skolans serviceklubb. Uppdragen att hjälpa andra elever gör att deras egna sätt att hantera konflikter och sociala förväntningar sätts på prov.",
+      "themes": [
+        "sociala roller",
+        "självuppoffring",
+        "vänskap och romantisk osäkerhet",
+        "ärlighet i relationer"
+      ],
+      "tone": [
+        "reflekterande",
+        "bitvis ironisk",
+        "relationsdramatisk"
+      ],
+      "pacing_and_structure": "Fortsättningssäsong i tretton avsnitt där återkommande skoluppdrag leder till allt mer sammanhängande relationskonflikter; större tonvikt på följderna av Hachimans problemlösning än på fristående skämt.",
+      "character_dynamics": "Hachimans cyniska och självuppoffrande arbetssätt skaver mot Yukinos ideal och Yuis vilja att bevara gruppens närhet. Serviceklubbens samarbete blir samtidigt en källa till missförstånd.",
+      "distinctive_features": "Den andra TV-säsongen av Oregairu, animerad av feel.; förskjuter seriens balans mot mer sammanhängande psykologiskt relationsdrama.",
+      "comparison_cues": [
+        "konsekvenser av social problemlösning",
+        "triangulär relationsdynamik",
+        "ironi som övergår i allvar"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/23847",
+        "https://en.wikipedia.org/wiki/My_Teen_Romantic_Comedy_SNAFU_Too%21",
+        "https://en.wikipedia.org/wiki/My_Youth_Romantic_Comedy_Is_Wrong%2C_as_I_Expected"
       ]
     },
     "25157": {
