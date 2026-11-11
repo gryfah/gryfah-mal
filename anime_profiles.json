@@ -7603,6 +7603,71 @@
         "https://en.wikipedia.org/wiki/Ao_Haru_Ride"
       ]
     },
+    "22123": {
+      "mal_id": 22123,
+      "title": "Inugami-san to Nekoyama-san",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-11T07:19:57.949Z",
+      "synopsis": "Yachiyo Inugami, utåtriktad och hundlik men förtjust i katter, möter den mer reserverade och kattlika Suzu Nekoyama, som i sin tur älskar hundar. Deras ömsesidiga attraktion och skolkamraternas reaktioner driver en kortformatig romantisk komedi.",
+      "themes": [
+        "Ömsesidig attraktion",
+        "Kontrasterande temperament",
+        "Skolvardag",
+        "Djuranknutna ordlekar"
+      ],
+      "tone": [
+        "Lekfull",
+        "Flirtig",
+        "Farsartad"
+      ],
+      "pacing_and_structure": "Tolv mycket korta tv-avsnitt byggda kring snabba situationsskämt och återkommande kontraster snarare än en lång sammanhängande dramatisk intrig.",
+      "character_dynamics": "Yachiyo tar gärna initiativ medan Suzu reagerar generat; Aki Hiiragi fungerar som jordnära motvikt och kommentator. Fler klasskamrater förstärker de djurtematiska personlighetskontrasterna.",
+      "distinctive_features": "Djurassociationer i rollfigurernas namn och beteenden är själva komedimotorn; yuri-romantik presenteras genom korta sketchar.",
+      "comparison_cues": [
+        "Kortformat och episodiska gag",
+        "Romantisk initiativtagare kontra reserverad motpart",
+        "Ensemblebaserad skolkomedi"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/22123",
+        "https://thetvdb.com/series/inugami-san-to-nekoyama-san",
+        "https://en.wikipedia.org/wiki/Inugami-san_to_Nekoyama-san"
+      ]
+    },
+    "22759": {
+      "mal_id": 22759,
+      "title": "Toaru Kagaku no Railgun S: Daiji na Koto wa Zenbu Sentou ni Osowatta",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-11T07:19:57.949Z",
+      "synopsis": "Mikoto Misaka och hennes vänner möter Konori, som delar ut flygblad för ett gammalt offentligt badhus med vikande besöksantal. Gruppen försöker hjälpa verksamheten med en ovanlig idé.",
+      "themes": [
+        "Vänskap",
+        "Gemensam problemlösning",
+        "Lokalsamhälle",
+        "Vardagskomedi"
+      ],
+      "tone": [
+        "Lättsam",
+        "Komisk",
+        "Vardaglig"
+      ],
+      "pacing_and_structure": "Fristående OVA-special i ett avsnitt; en avgränsad vardaglig premiss snarare än huvudseriens längre konflikter.",
+      "character_dynamics": "Misaka och vänkretsen agerar tillsammans för att hjälpa Konori och badhuset; samarbete och gruppens reaktioner är viktigare än konfrontation.",
+      "distinctive_features": "Sidoberättelse knuten till Railgun S, distribuerad med seriens officiella visual book; badhusets överlevnad ger en ovanligt småskalig konflikt.",
+      "comparison_cues": [
+        "Fristående franchise-special",
+        "Vardagligt gruppsamspel",
+        "Låginsatsproblem snarare än action"
+      ],
+      "uncertainties": [
+        "Detaljer om den slutliga lösningen och varje rollfigurs individuella insats har inte verifierats och återges därför inte."
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/22759",
+        "https://animetosho.org/series/toaru-kagaku-no-railgun-s-daiji-na-koto.10453"
+      ]
+    },
     "22789": {
       "mal_id": 22789,
       "title": "Barakamon",
