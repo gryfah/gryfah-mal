@@ -37,8 +37,9 @@
         ],
         "created_at_utc": "2026-11-11T01:15:42.322Z",
         "prepared_at_utc": "2026-11-11T01:15:42.322Z",
-        "delivery_attempted_at_utc": null,
-        "announced_at_utc": null
+        "delivery_attempted_at_utc": "2026-11-11T01:15:49.131Z",
+        "announced_at_utc": null,
+        "delivery_status": "attempted_unconfirmed"
       }
     },
     "items": {
