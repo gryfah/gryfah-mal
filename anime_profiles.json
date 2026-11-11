@@ -4746,6 +4746,36 @@
         "https://tv.apple.com/jp/show/steinsgate/umc.cmc.7bzye9l3t2ww0rpuv91symto7"
       ]
     },
+    "9260": {
+      "mal_id": 9260,
+      "title": "Kizumonogatari I: Tekketsu-hen",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-11T20:11:11.251Z",
+      "synopsis": "Under vårlovet möter gymnasisten Koyomi Araragi först klasskamraten Tsubasa Hanekawa och sedan den svårt skadade vampyren Kiss-shot Acerola-orion Heart-under-blade. När han försöker rädda vampyren förändras hans egen tillvaro. Första filmen i den tredelade förhistorien till Monogatari.",
+      "themes": [
+        "Självuppoffring och konsekvenser",
+        "Mötet mellan människa och övernaturligt väsen",
+        "Identitet och beroende"
+      ],
+      "tone": [
+        "Oroväckande",
+        "Blodig",
+        "Stiliserad"
+      ],
+      "pacing_and_structure": "Första akten av en sammanhängande filmtrilogi: mötena och förvandlingen etablerar konflikten snarare än att avsluta den.",
+      "character_dynamics": "Araragis nyfunna kontakt med Hanekawa kontrasteras mot det asymmetriska band som uppstår när han hjälper den sårade Kiss-shot.",
+      "distinctive_features": "Shafts visuellt särpräglade filmatisering av Nisio Isins roman, regisserad av Tatsuya Oishi; utspelas före Bakemonogatari.",
+      "comparison_cues": [
+        "Förhistoria med övernaturlig förvandling",
+        "Starkt stiliserad filmregi",
+        "En berättelse uppdelad på tre filmer"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/9260",
+        "https://www.aniplex.co.jp/lineup/kizumonogatari/"
+      ]
+    },
     "9289": {
       "mal_id": 9289,
       "title": "Hanasaku Iroha",
@@ -8910,6 +8940,36 @@
         "https://myanimelist.net/anime/31376",
         "https://www.ntv.co.jp/english/pc/2015/12/flying-witch.html",
         "https://www.crunchyroll.com/news/latest/2016/4/7/crunchyroll-adds-flying-witch-to-spring-anime-season"
+      ]
+    },
+    "31404": {
+      "mal_id": 31404,
+      "title": "Netoge no Yome wa Onnanoko ja Nai to Omotta?",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-11T20:11:11.251Z",
+      "synopsis": "Hideki Nishimura har tidigare blivit lurad av en medspelare i onlinespelet Legendary Age och misstror därför romantik på nätet. När guildkamraten Ako vill gifta sig med hans avatar visar hon sig vid en träff vara en verklig skolflicka. Hideki och de andra spelarna försöker hjälpa Ako att skilja spelrelationer från vardagslivet.",
+      "themes": [
+        "Onlineidentitet och verklig identitet",
+        "Social isolering och gemenskap",
+        "Romantik och missförstånd"
+      ],
+      "tone": [
+        "Lekfull",
+        "Romantisk",
+        "Fanservicepräglad"
+      ],
+      "pacing_and_structure": "Tolvdelad skol- och spelkomedi där guildens gemensamma aktiviteter förbinder vardagliga episoder med en återkommande relationskonflikt.",
+      "character_dynamics": "Ako ser sin spelrelation med Hidekis avatar Rusian som bindande även utanför spelet; Hideki och deras guildvänner försöker stötta henne utan att själva sluta spela.",
+      "distinctive_features": "Romantisk komedi byggd kring MMORPG-kultur, spelavatarer och en skolklubb; animerad av Project No.9 efter en light novel.",
+      "comparison_cues": [
+        "Digitala och verkliga relationer",
+        "Guildgruppens samspel",
+        "Skolkomedi med MMORPG-inslag"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/31404",
+        "https://anilist.co/anime/21290/Netoge-no-Yome-wa-Onnanoko-ja-Nai-to-Omotta/"
       ]
     },
     "31414": {
