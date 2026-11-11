@@ -7260,6 +7260,80 @@
           "Det framgår inte om det främst gäller relationen, handlingarna eller deras resultat."
         ],
         "reviewed_at_utc": "2026-11-10T10:11:01.014Z"
+      },
+      "mal-13715": {
+        "question_id": "mal-13715",
+        "mal_id": 13715,
+        "answer_fingerprint": "Den absurda hundpremissen fungerade bättre än väntat|2026-11-11T05:03:25.987Z",
+        "answered_at_utc": "2026-11-11T05:03:25.987Z",
+        "explicit_answer_summary": "Den absurda hundpremissen fungerade bättre än väntat",
+        "verified_brief_cues": [
+          "Kortformat med en enda utbyggd komisk premiss",
+          "Obekväm och absurd relationshumor"
+        ],
+        "reviewed_hypotheses": [
+          {
+            "claim": "Det uttryckliga svaret beskriver en verkspecifik förklaring, inte en generell smakregel.",
+            "verdict": "uncertain",
+            "explanation": "Enskilt svar kan inte fastställa en generell preferens eller dess styrka.",
+            "evidence_refs": [
+              "mal-13715",
+              "13715"
+            ]
+          }
+        ],
+        "unresolved_questions": [],
+        "reviewed_at_utc": "2026-11-11T05:17:47.269Z"
+      },
+      "mal-18661": {
+        "question_id": "mal-18661",
+        "mal_id": 18661,
+        "answer_fingerprint": "Sidohistorierna tillförde för lite till Nanami och Tomoes relation|2026-11-11T05:03:25.987Z",
+        "answered_at_utc": "2026-11-11T05:03:25.987Z",
+        "explicit_answer_summary": "Sidohistorierna tillförde för lite till Nanami och Tomoes relation",
+        "verified_brief_cues": [
+          "Korta romantiska sidoepisoder",
+          "Komiska missförstånd mellan etablerade huvudpersoner",
+          "Övernaturlig shoujo-romans med vardagsfokus"
+        ],
+        "reviewed_hypotheses": [
+          {
+            "claim": "Det uttryckliga svaret beskriver en verkspecifik förklaring, inte en generell smakregel.",
+            "verdict": "uncertain",
+            "explanation": "Enskilt svar kan inte fastställa en generell preferens eller dess styrka.",
+            "evidence_refs": [
+              "mal-18661",
+              "18661"
+            ]
+          }
+        ],
+        "unresolved_questions": [],
+        "reviewed_at_utc": "2026-11-11T05:17:47.269Z"
+      },
+      "mal-21647": {
+        "question_id": "mal-21647",
+        "mal_id": 21647,
+        "answer_fingerprint": "Tamako och Mochizous relationsutveckling kändes otillräcklig|2026-11-11T05:03:25.987Z",
+        "answered_at_utc": "2026-11-11T05:03:25.987Z",
+        "explicit_answer_summary": "Tamako och Mochizous relationsutveckling kändes otillräcklig",
+        "verified_brief_cues": [
+          "Romantisk utveckling ur etablerad barndomsvänskap",
+          "Avsked från en trygg plats snarare än yttre äventyr",
+          "Vardaglig detaljrikedom i långfilmsformat"
+        ],
+        "reviewed_hypotheses": [
+          {
+            "claim": "Det uttryckliga svaret beskriver en verkspecifik förklaring, inte en generell smakregel.",
+            "verdict": "uncertain",
+            "explanation": "Enskilt svar kan inte fastställa en generell preferens eller dess styrka.",
+            "evidence_refs": [
+              "mal-21647",
+              "21647"
+            ]
+          }
+        ],
+        "unresolved_questions": [],
+        "reviewed_at_utc": "2026-11-11T05:17:47.269Z"
       }
     },
     "preference_hypotheses": {
@@ -7592,6 +7666,17 @@
         "reason": "Narrativt tempo eller struktur kan jämföras, men tillräckligt oberoende stöd för en leave-one-out-prognos saknas.",
         "reviewed_at_utc": "2026-11-10T12:16:31.928Z"
       },
+      "221": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Inget tillräckligt oberoende stöd för en leave-one-out-prognos med verifierade narrativa egenskaper.",
+        "reviewed_at_utc": "2026-11-11T05:17:47.269Z"
+      },
       "226": {
         "model_version": 1,
         "user_score": 7,
@@ -7639,6 +7724,17 @@
         "match_result": "indeterminate",
         "reason": "Narrativt tempo eller struktur kan jämföras, men tillräckligt oberoende stöd för en leave-one-out-prognos saknas.",
         "reviewed_at_utc": "2026-11-10T12:16:31.928Z"
+      },
+      "320": {
+        "model_version": 1,
+        "user_score": 6,
+        "evidence_refs": [],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Inget tillräckligt oberoende stöd för en leave-one-out-prognos med verifierade narrativa egenskaper.",
+        "reviewed_at_utc": "2026-11-11T05:17:47.269Z"
       },
       "339": {
         "model_version": 1,
@@ -9251,6 +9347,17 @@
         "reason": "Tillgängliga svar visar att tempo kan vara relevant, men styrker inte en oberoende betygsprognos för detta verk.",
         "reviewed_at_utc": "2026-11-10T19:15:24.259Z"
       },
+      "6479": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Inget tillräckligt oberoende stöd för en leave-one-out-prognos med verifierade narrativa egenskaper.",
+        "reviewed_at_utc": "2026-11-11T05:17:47.269Z"
+      },
       "6547": {
         "model_version": 1,
         "user_score": 8,
@@ -9266,6 +9373,105 @@
         "match_result": "indeterminate",
         "reason": "Tillgängliga svar visar att tempo kan vara relevant, men styrker inte en oberoende betygsprognos för detta verk.",
         "reviewed_at_utc": "2026-11-10T19:15:24.259Z"
+      },
+      "6802": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Inget tillräckligt oberoende stöd för en leave-one-out-prognos med verifierade narrativa egenskaper.",
+        "reviewed_at_utc": "2026-11-11T05:17:47.269Z"
+      },
+      "6862": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Inget tillräckligt oberoende stöd för en leave-one-out-prognos med verifierade narrativa egenskaper.",
+        "reviewed_at_utc": "2026-11-11T05:17:47.269Z"
+      },
+      "6880": {
+        "model_version": 1,
+        "user_score": 6,
+        "evidence_refs": [],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Inget tillräckligt oberoende stöd för en leave-one-out-prognos med verifierade narrativa egenskaper.",
+        "reviewed_at_utc": "2026-11-11T05:17:47.269Z"
+      },
+      "6954": {
+        "model_version": 1,
+        "user_score": 6,
+        "evidence_refs": [],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Inget tillräckligt oberoende stöd för en leave-one-out-prognos med verifierade narrativa egenskaper.",
+        "reviewed_at_utc": "2026-11-11T05:17:47.269Z"
+      },
+      "7791": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Inget tillräckligt oberoende stöd för en leave-one-out-prognos med verifierade narrativa egenskaper.",
+        "reviewed_at_utc": "2026-11-11T05:17:47.269Z"
+      },
+      "8426": {
+        "model_version": 1,
+        "user_score": 8,
+        "evidence_refs": [],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Inget tillräckligt oberoende stöd för en leave-one-out-prognos med verifierade narrativa egenskaper.",
+        "reviewed_at_utc": "2026-11-11T05:17:47.269Z"
+      },
+      "8525": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Inget tillräckligt oberoende stöd för en leave-one-out-prognos med verifierade narrativa egenskaper.",
+        "reviewed_at_utc": "2026-11-11T05:17:47.269Z"
+      },
+      "8769": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Inget tillräckligt oberoende stöd för en leave-one-out-prognos med verifierade narrativa egenskaper.",
+        "reviewed_at_utc": "2026-11-11T05:17:47.269Z"
+      },
+      "8937": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Inget tillräckligt oberoende stöd för en leave-one-out-prognos med verifierade narrativa egenskaper.",
+        "reviewed_at_utc": "2026-11-11T05:17:47.269Z"
       }
     },
     "rating_recalculation": {
