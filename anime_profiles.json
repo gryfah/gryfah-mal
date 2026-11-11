@@ -8015,6 +8015,37 @@
         "https://en.wikipedia.org/wiki/My_Youth_Romantic_Comedy_Is_Wrong%2C_as_I_Expected"
       ]
     },
+    "24997": {
+      "mal_id": 24997,
+      "title": "Love Live! The School Idol Movie",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-11T12:14:53.854Z",
+      "synopsis": "Efter de äldre medlemmarnas examen planerar skol-idolgruppen μ's att avsluta verksamheten. Ett nytt framträdandetillfälle får de nio medlemmarna att fundera över gruppens betydelse och vad de vill åstadkomma under sin återstående tid tillsammans.",
+      "themes": [
+        "avsked",
+        "gruppidentitet",
+        "livsövergång",
+        "musik"
+      ],
+      "tone": [
+        "uppsluppen",
+        "nostalgisk",
+        "känslosam"
+      ],
+      "pacing_and_structure": "En 99 minuter lång film som fortsätter TV-seriens andra säsong, med musikaliska framträdanden och ett övergripande avslutningsdilemma.",
+      "character_dynamics": "Honoka och de övriga i μ's måste förena gruppens gemensamma vilja med förändringarna när äldre medlemmar lämnar skolan.",
+      "distinctive_features": "Direkt fortsättning på ursprungliga School Idol Project med framträdanden som knyts till gruppens framtidsval.",
+      "comparison_cues": [
+        "ensembledriven musikfilm",
+        "avslutning efter TV-serie",
+        "framtid efter examen"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://www.shochiku.co.jp/cinema/database/04838/",
+        "https://tv.apple.com/us/movie/love-live-the-school-idol-movie/umc.cmc.4cyt773qq3spim0drlijvmjcy"
+      ]
+    },
     "25157": {
       "mal_id": 25157,
       "title": "Trinity Seven",
@@ -8143,6 +8174,37 @@
         "https://myanimelist.net/anime/26243",
         "https://www.witstudio.co.jp/works/owarino-seraph",
         "https://www.hulu.jp/seraph-of-the-end"
+      ]
+    },
+    "26351": {
+      "mal_id": 26351,
+      "title": "Nagato Yuki-chan no Shoushitsu",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-11T12:14:53.854Z",
+      "synopsis": "I en alternativ vardagsversion av Haruhi-världen leder den blyga Yuki Nagato skolans litteraturklubb. Hon är förälskad i Kyon, medan vännen Ryouko Asakura stöttar henne. Haruhi Suzumiyas energiska inträde rubbar klubbens lugna tillvaro.",
+      "themes": [
+        "blyg förälskelse",
+        "vänskap",
+        "skolvardag",
+        "alternativ kontinuitet"
+      ],
+      "tone": [
+        "mild",
+        "romantisk",
+        "komisk"
+      ],
+      "pacing_and_structure": "En 16-avsnitts TV-serie med vardagskomedi, klubbsituationer och gradvis relationsutveckling snarare än huvudseriens övernaturliga mysterier.",
+      "character_dynamics": "Yukis försiktiga närmande till Kyon kontrasterar mot Asakuras omsorg och Haruhis utåtriktade initiativ.",
+      "distinctive_features": "Romantisk alternativvärldsspinoff som placerar etablerade Haruhi-figurer i huvudsak vardagliga roller.",
+      "comparison_cues": [
+        "alternativversion av etablerade karaktärer",
+        "blyg romantik",
+        "klubbkomedi"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://anidex.tv/en/anime/26351",
+        "https://www.myworldtheanimation.com/en/anime/nagato-yuki-chan-no-shoushitsu"
       ]
     },
     "27775": {
