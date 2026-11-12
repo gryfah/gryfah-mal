@@ -9739,6 +9739,37 @@
         "https://theanimelist.net/anime/getsuyoubi-no-tawawa"
       ]
     },
+    "34494": {
+      "mal_id": 34494,
+      "title": "Sakura Quest",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-12T06:15:44.499Z",
+      "synopsis": "Efter upprepade avslag på jobb i Tokyo tar Yoshino Koharu ett uppdrag i den avfolkande småstaden Manoyama. Ett missförstånd gör att uppdraget som turistkampanjens symboliska drottning varar ett helt år. Tillsammans med fyra unga kvinnor försöker hon ge ortens turism nytt liv.",
+      "themes": [
+        "landsbygdens avfolkning",
+        "arbete och identitet",
+        "lokal gemenskap",
+        "förändring och tradition"
+      ],
+      "tone": [
+        "vardagsnära",
+        "varmt humoristisk",
+        "eftertänksam"
+      ],
+      "pacing_and_structure": "25 avsnitt med arbetsprojekt och lokala initiativ som driver en längre utveckling under ett år; ensemblebaserad arbetslivsskildring snarare än en sammanhängande äventyrsintrig.",
+      "character_dynamics": "Yoshino kommer utifrån och samarbetar med Shiori, Maki, Ririko och Sanae, som har olika band till orten och perspektiv på dess framtid.",
+      "distinctive_features": "P.A. Works originalserie om regional utveckling, där en absurd turisttitel kontrasteras mot praktiska samhällsproblem.",
+      "comparison_cues": [
+        "arbetslivsensemble",
+        "projektvis berättelseprogression",
+        "stad kontra landsbygd"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://www.asahi.co.jp/anime/sakura-quest/",
+        "https://en.wikipedia.org/wiki/Sakura_Quest"
+      ]
+    },
     "34636": {
       "mal_id": 34636,
       "title": "Ballroom e Youkoso",
@@ -9770,6 +9801,37 @@
         "https://www.mbs.jp/ballroom/sp/",
         "https://www.bs11.jp/anime/ballroom/",
         "https://anilist.co/anime/98005"
+      ]
+    },
+    "34822": {
+      "mal_id": 34822,
+      "title": "Tsuki ga Kirei",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-12T06:15:44.499Z",
+      "synopsis": "I sista året på högstadiet hamnar Kotarō Azumi och Akane Mizuno i samma klass. Deras försiktiga närmande växer genom skolaktiviteter och meddelanden samtidigt som vänskap, framtidsval och andras känslor komplicerar den första kärleken.",
+      "themes": [
+        "första kärleken",
+        "blyghet och kommunikation",
+        "uppväxt",
+        "framtidsosäkerhet"
+      ],
+      "tone": [
+        "lågmäld",
+        "öm",
+        "realistiskt nervös"
+      ],
+      "pacing_and_structure": "En sammanhängande romantisk utveckling över tolv avsnitt med små vardagliga steg, tystnader och digital kommunikation i fokus.",
+      "character_dynamics": "Kotarō, som vill skriva, och löparen Akane lär känna varandra försiktigt; klasskamraterna Chinatsu och Takumi tillför andra känslomässiga förväntningar.",
+      "distinctive_features": "Originalanime från feel. med återhållsam ton och LINE-meddelanden som viktig del av relationens utveckling.",
+      "comparison_cues": [
+        "gradvis relationsutveckling",
+        "vardagsnära ungdomsromantik",
+        "kommunikation och missförstånd"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://www.hulu.jp/tsukigakirei",
+        "https://en.wikipedia.org/wiki/Tsuki_ga_Kirei"
       ]
     },
     "35249": {
