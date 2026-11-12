@@ -10085,6 +10085,37 @@
         "https://en.wikipedia.org/wiki/Sakura_Quest"
       ]
     },
+    "34599": {
+      "mal_id": 34599,
+      "title": "Made in Abyss",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-12T12:18:45.994Z",
+      "synopsis": "Riko växer upp i Orth vid kanten av den enorma avgrunden Abyss, där upptäcktsresande söker reliker och okända livsformer. Efter mötet med den minneslöse robotpojken Reg ger hon sig nedåt för att söka sin mor Lyza och svar om avgrundens hemligheter.",
+      "themes": [
+        "Utforskning och kunskapstörst",
+        "Förälder och barn",
+        "Utsatthet och överlevnad",
+        "Kostnaden för att gå vidare"
+      ],
+      "tone": [
+        "Äventyrlig",
+        "Mystisk",
+        "Gradvis mörkare och brutal"
+      ],
+      "pacing_and_structure": "En sammanhängande nedstigning med tydlig geografisk progression genom avgrundens skikt. Den inledande upptäckarglädjen får alltmer allvarliga konsekvenser när farorna ökar.",
+      "character_dynamics": "Rikos beslutsamhet driver expeditionen medan Reg, med större fysisk förmåga men bristande minnen, både skyddar henne och söker sin egen identitet.",
+      "distinctive_features": "Detaljerat uppbyggd vertikal fantasivärld, stark kontrast mellan barnslig visuell framtoning och fysisk fara samt förbannelsen som försvårar återfärd.",
+      "comparison_cues": [
+        "Äventyr med oåterkallelig geografisk progression",
+        "Mörkare konsekvenser bakom ett till synes sagolikt uttryck"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/34599",
+        "https://tv.apple.com/it/show/made-in-abyss/umc.cmc.6uks2o76ygoq8na988wo4ehx4",
+        "https://en.wikipedia.org/wiki/Made_in_Abyss"
+      ]
+    },
     "34636": {
       "mal_id": 34636,
       "title": "Ballroom e Youkoso",
@@ -10147,6 +10178,65 @@
       "sources": [
         "https://www.hulu.jp/tsukigakirei",
         "https://en.wikipedia.org/wiki/Tsuki_ga_Kirei"
+      ]
+    },
+    "34881": {
+      "mal_id": 34881,
+      "title": "Aho Girl",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-12T12:18:45.994Z",
+      "synopsis": "Yoshiko Hanabatake är en obotligt impulsiv gymnasieelev vars förkärlek för bananer och katastrofala skolresultat ständigt sätter hennes barndomsvän Akuru Akutsu på prov. Hans försök att få ordning på henne drar in klasskamrater och familj i nya missöden.",
+      "themes": [
+        "Vänskap under påfrestning",
+        "Sociala normer som komiskt hinder",
+        "Vardaglig absurditet"
+      ],
+      "tone": [
+        "Högljudd",
+        "Slapstickbetonad",
+        "Absurd"
+      ],
+      "pacing_and_structure": "Tolv korta avsnitt med täta, huvudsakligen fristående gagsekvenser. Återkommande figurer och konflikter ger kontinuitet snarare än en sammanhängande dramatisk intrig.",
+      "character_dynamics": "Yoshikos gränslösa entusiasm kolliderar med Akurus stränga och lättretliga ordningssinne. Sayaka försöker ofta fungera som en mer sansad motvikt.",
+      "distinctive_features": "Extremt överdriven skolkomedi där fysisk humor, upprepade personkrockar och mycket kort avsnittsformat dominerar.",
+      "comparison_cues": [
+        "Snabb gagrytm snarare än långsiktig relationsutveckling",
+        "Komik byggd på kontrasten mellan kaos och kontroll"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/34881",
+        "https://tv.apple.com/it/show/aho-girl/umc.cmc.2mzo9jui6d33nmdo59a7fqghz",
+        "https://en.wikipedia.org/wiki/Aho-Girl"
+      ]
+    },
+    "34902": {
+      "mal_id": 34902,
+      "title": "Tsurezure Children",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-12T12:18:45.994Z",
+      "synopsis": "En ensemble gymnasieelever försöker uttrycka kärlek och hantera osäkerhet, missförstånd och spirande relationer. Flera par och tänkbara par följs parallellt i korta scener som visar olika sätt att närma sig varandra.",
+      "themes": [
+        "Ung förälskelse",
+        "Kommunikationssvårigheter",
+        "Osäkerhet och ömsesidighet"
+      ],
+      "tone": [
+        "Lekfull",
+        "Romantisk",
+        "Ibland pinsamhetskomisk"
+      ],
+      "pacing_and_structure": "Tolv korta avsnitt består av flera separata vinjetter per avsnitt; återkommande par får små stegvis framåtskridande relationsbågar utan en enda central huvudhistoria.",
+      "character_dynamics": "Serien växlar mellan flera jämbördiga ungdomsrelationer, där olika personligheter reagerar på bekännelser, tvekan och missförstånd på skilda sätt.",
+      "distinctive_features": "Ensemblebaserad romantisk komedi med parallella mikroberättelser och korta, ofta dialogdrivna möten.",
+      "comparison_cues": [
+        "Flera små relationsförlopp i stället för ett huvudpar",
+        "Romantiska missförstånd och gradvis kommunikation"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/34902",
+        "https://tv.apple.com/it/show/tsuredure-children/umc.cmc.316cuppu4w7yvcpdvldohtk5j"
       ]
     },
     "35249": {
