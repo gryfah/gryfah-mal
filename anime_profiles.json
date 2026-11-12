@@ -9006,6 +9006,37 @@
         "https://tv.apple.com/jp/show/%E8%99%B9%E8%89%B2%E3%83%86%E3%82%A4%E3%82%B9/umc.cmc.1vpnadcqrxcjwsq7rosigncd0"
       ]
     },
+    "31757": {
+      "mal_id": 31757,
+      "title": "Kizumonogatari II: Nekketsu-hen",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-12T00:11:44.927Z",
+      "synopsis": "Koyomi Araragi har blivit vampyr efter att ha räddat Kiss-shot. För att återfå sin mänsklighet måste han återta hennes förlorade kroppsdelar från tre vampyrjägare. Med Meme Oshinos vägledning ställs han inför en serie farliga konfrontationer samtidigt som relationen till Kiss-shot och hans kontakt med Tsubasa Hanekawa komplicerar situationen.",
+      "themes": [
+        "mänsklighet och förvandling",
+        "skuld och beroende",
+        "våld och självbevarelse"
+      ],
+      "tone": [
+        "intensiv",
+        "blodig",
+        "övernaturlig",
+        "stiliserad"
+      ],
+      "pacing_and_structure": "Den andra filmen i en trilogi; mer koncentrerad kring tre successiva konfrontationer och fysisk action än en fristående introduktion. Förutsätter i praktiken händelserna i första filmen.",
+      "character_dynamics": "Araragi är beroende av Kiss-shot för sin möjlighet att bli människa igen, medan Oshino fungerar som kunnig men inte okomplicerad rådgivare. Hanekawas närvaro förankrar konflikten i Araragis mänskliga relationer.",
+      "distinctive_features": "Shafts starkt stiliserade bildspråk och ett vampyrdrama där återställandet av en annan varelse samtidigt är knutet till huvudpersonens egen förvandling.",
+      "comparison_cues": [
+        "upptrappande action inom sammanhängande filmtrilogi",
+        "stiliserat våld och kroppslig metamorfos",
+        "relationell skuld snarare än enkel hjälte–skurk-konflikt"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://anilist.co/anime/21399/Kizumonogatari-II-Nekketsu-hen",
+        "https://www.imdb.com/title/tt5084196/plotsummary/"
+      ]
+    },
     "31771": {
       "mal_id": 31771,
       "title": "Amanchu!",
@@ -9041,6 +9072,36 @@
         "https://tv.apple.com/jp/show/amanchu/umc.cmc.6tmuotz0bplqqnu64smz57bzq?l=en",
         "https://www.tvmaze.com/shows/15917/amanchu/episodeguide",
         "https://anilist.co/anime/21406/Amanchu/"
+      ]
+    },
+    "31793": {
+      "mal_id": 31793,
+      "title": "Mahou Shoujo Nante Mou Ii desu kara.",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-12T00:11:44.927Z",
+      "synopsis": "Yuzuka Hanami möter den misstänksamma maskoten Miton, som påstår att hon har förutsättningar att bli en magisk flicka. Förvandlingen ger henne en baddräktsliknande dräkt snarare än en traditionell hjälteutrustning, och vardagen kretsar mer kring besväret med magin än kring att besegra fiender.",
+      "themes": [
+        "magisk flicka utan traditionellt hjälteuppdrag",
+        "vardag och förlägenhet",
+        "genreparodi"
+      ],
+      "tone": [
+        "lättsam",
+        "absurd",
+        "vardagskomisk"
+      ],
+      "pacing_and_structure": "Tolv cirka fyra minuter långa kortavsnitt med små vardagssituationer och komiska variationer på magical-girl-konventioner snarare än en omfattande stridsintrig.",
+      "character_dynamics": "Yuzukas artiga och försiktiga hållning kontrasteras mot Mitons påstridiga rekrytering; deras olika syn på magin driver återkommande skämt.",
+      "distinctive_features": "Förvandlingsdräkten och avsaknaden av ett självklart monsterbekämpande uppdrag vänder på välkända magical-girl-troper.",
+      "comparison_cues": [
+        "korta episodiska sketcher",
+        "genreparodi snarare än dramatisk dekonstruktion",
+        "maskot–hjältinna-dynamik"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://anilist.co/anime/21422/Mahou-Shoujo-Nante-Mou-Ii-desu-kara",
+        "https://www.tvmaze.com/shows/10774/mahou-shoujo-nante-mou-ii-desu-kara"
       ]
     },
     "31798": {
