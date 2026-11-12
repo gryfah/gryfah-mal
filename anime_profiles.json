@@ -9265,6 +9265,69 @@
         "https://tv.apple.com/jp/show/orange/umc.cmc.335jd18qul7c99lhhie255eue"
       ]
     },
+    "33003": {
+      "mal_id": 33003,
+      "title": "Mahou Shoujo Ikusei Keikaku",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-12T01:13:17.378Z",
+      "synopsis": "Ett mobilspel ger utvalda deltagare verkliga magiska krafter. När administratörerna meddelar att antalet magiska flickor ska halveras förvandlas hjälpuppdrag och insamling av Magical Candies till en livsfarlig utslagstävling. Koyuki, som kallas Snow White, ställs inför en ordning som motsäger hennes ideal om att hjälpa andra.",
+      "themes": [
+        "Överlevnad under godtyckliga regler",
+        "Moral och solidaritet under press",
+        "Maktmissbruk och manipulation"
+      ],
+      "tone": [
+        "Mörk",
+        "Spänningsdriven",
+        "Kontrastrik mellan gullig estetik och brutalitet"
+      ],
+      "pacing_and_structure": "En tolv avsnitt lång eskalerande överlevnadsberättelse med ensembleperspektiv, konkurrerande strategier och successivt hårdare villkor.",
+      "character_dynamics": "Snow Whites hjälparideal kontrasterar mot andra deltagares självbevarelse och maktspel; La Pucelle är en viktig bundsförvant. Den stora ensemblen skapar skiftande allianser.",
+      "distinctive_features": "2016 års Lerche-adaption av Asari Endous light novels; förvandlar magical-girl-ikonografi till en elimineringstävling styrd av ett spel.",
+      "comparison_cues": [
+        "Magical-girl-dekonstruktion med explicit överlevnadsspel",
+        "Stor ensemble med skilda etiska reaktioner",
+        "Snabbt eskalerande konsekvenser"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/33003",
+        "https://www.hulu.jp/magical-girl-raising-project",
+        "https://en.wikipedia.org/wiki/Magical_Girl_Raising_Project_(TV_series)"
+      ]
+    },
+    "33051": {
+      "mal_id": 33051,
+      "title": "Kidou Senshi Gundam: Tekketsu no Orphans 2nd Season",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-12T01:13:17.378Z",
+      "synopsis": "Efter framgångarna under den första säsongen har den tidigare barnsoldatgruppen Tekkadan blivit ett etablerat säkerhetsföretag. Nya uppdrag, växande politiska ambitioner och konflikter med Gjallarhorn prövar deras möjlighet att skapa en trygg framtid på egna villkor.",
+      "themes": [
+        "Barnsoldaters försök till självbestämmande",
+        "Lojalitet och priset för makt",
+        "Politisk exploatering och klasskillnader",
+        "Krigets konsekvenser"
+      ],
+      "tone": [
+        "Allvarlig",
+        "Militärpolitisk",
+        "Tragiskt laddad"
+      ],
+      "pacing_and_structure": "Direkt fortsättning med växling mellan företagsuppdrag, fraktionspolitik och mechaslag; den längre berättelsebågen bygger vidare på första säsongens relationer.",
+      "character_dynamics": "Orga Itsuka driver gruppens strategiska vägval medan Mikazuki Augus fungerar som hans främsta stridande stöd. Deras starka lojalitet möter Tekkadans växande ansvar för fler medlemmar.",
+      "distinctive_features": "Andra halvan av Sunrises fristående Gundam-berättelse i Post Disaster-tidslinjen; fokus på tidigare exploaterade ungdomar och ett säkerhetsföretags politiska uppgång.",
+      "comparison_cues": [
+        "Mechaaction med organisations- och fraktionspolitik",
+        "Starkt sammanhållen grupp under eskalerande press",
+        "Direkt säsongsfortsättning snarare än fristående Gundam-historia"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/33051",
+        "https://www.disneyplus.com/browse/entity-614c73c1-3f0b-48e4-b7e0-077071df95d5",
+        "https://www.rottentomatoes.com/tv/mobile_suit_gundam_iron_blooded_orphans/s02"
+      ]
+    },
     "33091": {
       "mal_id": 33091,
       "title": "Planetarian: Chiisana Hoshi no Yume",
