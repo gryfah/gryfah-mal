@@ -9295,6 +9295,38 @@
       ],
       "uncertainties": []
     },
+    "32615": {
+      "mal_id": 32615,
+      "title": "Youjo Senki",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-12T04:16:19.746Z",
+      "synopsis": "I ett alternativt 1920-tal tjänstgör Tanya Degurechaff som flygande stridsmagiker i ett imperium omgivet av militära konflikter. Bakom barnsoldatens yttre finns en återfödd japansk tjänsteman vars strävan efter en säker karriär ständigt kolliderar med krigets krav och en övernaturlig makts ingripanden.",
+      "themes": [
+        "militär hierarki",
+        "överlevnad och karriärism",
+        "tro kontra rationalism",
+        "krigets logik"
+      ],
+      "tone": [
+        "mörk satir",
+        "militär action",
+        "cynisk"
+      ],
+      "pacing_and_structure": "Serialiserad militär kampanj med luftstrider, taktiska uppdrag och återkommande motsättning mellan Tanyas planer och krigets utveckling.",
+      "character_dynamics": "Tanyas instrumentella syn på befäl och underordnade kontrasterar mot deras syn på henne; Vishas roll som närstående underordnad och officerarnas bedömningar av Tanya skapar flera perspektiv på samma handlingar.",
+      "distinctive_features": "Alternativhistorisk krigsskildring med magiska flygförband och en vuxen karriärists medvetande i en flickas kropp.",
+      "comparison_cues": [
+        "taktisk konflikt snarare än traditionell hjälteresa",
+        "satir över meritokrati och byråkrati",
+        "militär action med övernaturliga inslag"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://www.bs11.jp/anime/youjo-senki/",
+        "https://www.hulu.jp/the-saga-of-tanya-the-evil",
+        "https://myanimelist.net/anime/32615"
+      ]
+    },
     "32729": {
       "mal_id": 32729,
       "title": "Orange",
@@ -9583,6 +9615,39 @@
         "https://www.crunchyroll.com/zh-tw/series/G6E58N5VY/hinako-note",
         "https://tv.apple.com/us/show/hinako-note/umc.cmc.6k7nnzcdw91kb1g9our38gwo9",
         "https://www.primevideo.com/-/nl/detail/0MI7GPLYKI5M7LN6PN1EQ0WC8R"
+      ]
+    },
+    "33988": {
+      "mal_id": 33988,
+      "title": "Demi-chan wa Kataritai",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-12T04:16:19.746Z",
+      "synopsis": "Biologiläraren Tetsuo Takahashi möter elever och en kollega som tillhör de ovanliga demi-människorna: bland andra vampyren Hikari, dullahanen Kyouko, snökvinnan Yuki och succubusen Sakie. Genom samtal om deras vardag undersöker serien både övernaturliga egenheter och vanliga skolproblem.",
+      "themes": [
+        "tillhörighet och utanförskap",
+        "vardaglig förståelse",
+        "identitet",
+        "stöd mellan lärare och elever"
+      ],
+      "tone": [
+        "varm",
+        "humoristisk",
+        "vardagsnära"
+      ],
+      "pacing_and_structure": "Mestadels episodiska samtal och skolvardag med återkommande karaktärer och små steg i deras trygghet och relationer; fokus på enskilda demi-personers perspektiv.",
+      "character_dynamics": "Tetsuo lyssnar och hjälper eleverna utan att reducera dem till deras övernaturliga drag. Hikari är utåtriktad, medan Kyouko och Yuki har andra sociala bekymmer; kollegan Sakie balanserar yrkesroll och sin egen särskilda situation.",
+      "distinctive_features": "Övernaturliga väsen behandlas som en minoritet med praktiska och sociala vardagsbehov snarare än som monsterhot.",
+      "comparison_cues": [
+        "empatisk skolkomedi",
+        "intervju- och samtalsdriven karaktärsskildring",
+        "lågmäld vardagsstruktur med fantasypremiss"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://demichan.com/story/01.html",
+        "https://demichan.com/story/04.html",
+        "https://www.crunchyroll.com/series/G6Q43113R/interviews-with-monster-girls",
+        "https://myanimelist.net/anime/33988"
       ]
     },
     "34213": {
