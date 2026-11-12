@@ -9488,6 +9488,35 @@
         "https://anime.eiga.com/movie/105323/"
       ]
     },
+    "33206": {
+      "mal_id": 33206,
+      "title": "Kobayashi-san Chi no Maid Dragon",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-12T05:12:53.644Z",
+      "synopsis": "Kontorsarbetaren Kobayashi erbjuder draken Tohru husrum efter ett oväntat möte. Tohru tar mänsklig gestalt och blir hennes självutnämnda hembiträde. Fler drakar, bland dem Kanna, börjar så småningom bli en del av deras vardag.",
+      "themes": [
+        "Vald familj",
+        "Att höra hemma",
+        "Mötet mellan olika världar"
+      ],
+      "tone": [
+        "Varm",
+        "Absurd",
+        "Vardagskomisk"
+      ],
+      "pacing_and_structure": "Vardagskomiska episoder och fantastiska avbrott varvas med återkommande frågor om relationer och tillhörighet.",
+      "character_dynamics": "Tohrus intensiva tillgivenhet kontrasterar mot Kobayashis reserverade sätt; Kanna förskjuter hushållet mot en familjelik gemenskap.",
+      "distinctive_features": "Kyoto Animations vardagsskildring blandar drakfantasy med arbetsliv och hushållsbestyr.",
+      "comparison_cues": [
+        "Övernaturliga figurer i vardagsmiljö",
+        "Vänskap och familjeband genom episodisk komedi"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/33206",
+        "https://en.wikipedia.org/wiki/Miss_Kobayashi%27s_Dragon_Maid"
+      ]
+    },
     "33433": {
       "mal_id": 33433,
       "title": "Shuumatsu no Izetta",
@@ -9581,6 +9610,36 @@
         "https://www.crunchyroll.com/series/GYX02P3MR/Masamune-kuns-Revenge",
         "https://tv.apple.com/us/show/masamune-kuns-revenge/umc.cmc.43bwertud4zw9nvuleilojqah",
         "https://theanimelist.net/anime/masamune-kun-no-revenge"
+      ]
+    },
+    "33489": {
+      "mal_id": 33489,
+      "title": "Little Witch Academia (TV)",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-12T05:12:53.644Z",
+      "synopsis": "Akko Kagari börjar på häxskolan Luna Nova efter att som barn ha inspirerats av artisten och häxan Shiny Chariot. Utan magisk familjebakgrund har hon svårt med skolans praktiska undervisning men fortsätter att försöka bli en häxa.",
+      "themes": [
+        "Uthållighet och lärande",
+        "Vänskap och rivalitet",
+        "Ideal kontra vardag"
+      ],
+      "tone": [
+        "Energisk",
+        "Komisk",
+        "Äventyrlig"
+      ],
+      "pacing_and_structure": "Skolvardag och fristående magiska missöden bildar gradvis en större berättelse om Akkos utveckling.",
+      "character_dynamics": "Akko får stöd av Lotte och Sucy men utmanas av den skickliga Diana; hennes beundran för Chariot ger en tydlig drivkraft.",
+      "distinctive_features": "TRIGGERs uttrycksfulla animation och fysisk komedi; original-TV-serie med magisk skolmiljö.",
+      "comparison_cues": [
+        "Magisk skola med karaktärsutveckling",
+        "Idealistisk huvudperson som måste lära sig hantverket"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/33489",
+        "https://www.st-trigger.co.jp/works/tv-littlewitchacademia/",
+        "https://tv.apple.com/us/show/little-witch-academia/umc.cmc.2dri38l29o9a77j7fv5nv9h2n"
       ]
     },
     "33948": {
