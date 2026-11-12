@@ -9600,6 +9600,37 @@
       ],
       "uncertainties": []
     },
+    "32603": {
+      "mal_id": 32603,
+      "title": "Okusama ga Seitokaichou!+!",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-12T20:17:22.102Z",
+      "synopsis": "Andra säsongen av kortkomedin om elevrådsordföranden Ui Wakana och viceordföranden Hayato Izumi, vars föräldrar sedan barndomen har avtalat att de ska gifta sig. Deras påtvingat nära vardag fortsätter att kollidera med skolans sociala och romantiska komplikationer.",
+      "themes": [
+        "ungdomsromantik",
+        "samboende och gränser",
+        "skolvardag"
+      ],
+      "tone": [
+        "fräck komedi",
+        "lättsam",
+        "romantisk fars"
+      ],
+      "pacing_and_structure": "Tolv avsnitt på omkring åtta minuter; korta, situationsdrivna komiska förvecklingar snarare än ett långt sammanhängande mysterium.",
+      "character_dynamics": "Ui är självsäker och pådrivande, medan Hayato ofta försöker hantera följderna av deras familjers arrangemang; elevrådsmiljön skapar ytterligare social friktion.",
+      "distinctive_features": "Uppföljare i ovanligt kort TV-format där den arrangerade relationen och skolans elevråd fungerar som återkommande komisk motor.",
+      "comparison_cues": [
+        "kort episodformat",
+        "romantisk situationskomedi",
+        "återkommande relationsförvecklingar"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/32603",
+        "https://anilist.co/anime/21610",
+        "https://www.manga-news.com/index.php/dvd/Okusama-ga-Seito-Kaicho-Saison-2"
+      ]
+    },
     "32615": {
       "mal_id": 32615,
       "title": "Youjo Senki",
@@ -10070,6 +10101,37 @@
         "https://myanimelist.net/anime/33489",
         "https://www.st-trigger.co.jp/works/tv-littlewitchacademia/",
         "https://tv.apple.com/us/show/little-witch-academia/umc.cmc.2dri38l29o9a77j7fv5nv9h2n"
+      ]
+    },
+    "33581": {
+      "mal_id": 33581,
+      "title": "Trinity Seven Movie 1: Eternity Library to Alchemic Girl",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-12T20:17:22.102Z",
+      "synopsis": "När Arata Kasuga vidrör Lilith Asamis grimoire Hermes Apocrypha framträder flickan Lilim, som betraktar dem båda som sina föräldrar. Samtidigt väcks det förbjudna Evighetsbiblioteket, där en artificiellt skapad vit demonfurste hotar Arata och hans magiska allierade.",
+      "themes": [
+        "magi och alkemi",
+        "skapelse och identitet",
+        "sammanhållning inför hot"
+      ],
+      "tone": [
+        "actionfylld fantasy",
+        "lekfull",
+        "övernaturligt dramatisk"
+      ],
+      "pacing_and_structure": "En cirka 55 minuter lång fristående filmberättelse inom den etablerade serien: ett magiskt missöde övergår i en gemensam konflikt med ett nytt hot.",
+      "character_dynamics": "Arata och läraren Lilith binds komiskt samman genom Lilims föreställning om deras föräldraskap; övriga Trinity Seven dras in när hotet mot gruppen växer.",
+      "distinctive_features": "Filmen kombinerar seriens magiska gruppdynamik med en grimoire som antar flickgestalt och den förbjudna Evighetsbibliotekets alkemi.",
+      "comparison_cues": [
+        "fantasyfilm som fortsätter en TV-serie",
+        "magi och gruppstrid",
+        "komedi kring oväntade familjeroller"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/33581",
+        "https://www.anime.com/shows/trinity-seven-eternity-library-alchemic-girl-movie",
+        "https://www.hulu.jp/trinity-seven-eternity-library-and-alchemic-girl"
       ]
     },
     "33795": {
