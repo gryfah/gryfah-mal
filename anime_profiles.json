@@ -2872,6 +2872,38 @@
         "https://myanimelist.net/anime/2332"
       ]
     },
+    "2403": {
+      "mal_id": 2403,
+      "title": "Kodomo no Jikan (TV)",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-12T11:15:05.405Z",
+      "synopsis": "Den nyanställde lågstadieläraren Daisuke Aoki får ansvar för en klass där eleven Rin Kokonoe utmanar gränserna i relationen mellan barn och vuxna. Hennes påträngande förälskelseförklaring skapar konflikter kring läraransvar, kamratrelationer och svåra familjeförhållanden.",
+      "themes": [
+        "gränser och ansvar i skolan",
+        "barndom och familjesituation",
+        "missförstånd mellan barn och vuxna"
+      ],
+      "tone": [
+        "provokativ komedi",
+        "drama"
+      ],
+      "pacing_and_structure": "Tolvdelad TV-serie som växlar skolvardag och komiska konflikter med inslag av allvarligare bakgrundsdrama; animeversionen har en egen avslutning i förhållande till mangan.",
+      "character_dynamics": "Aoki försöker hantera Rin som elev och upprätthålla sin vuxenroll. Rins relationer till klasskamraterna Kuro och Mimi ger ytterligare perspektiv på skolmiljön.",
+      "distinctive_features": "Kombinerar en avsiktligt kontroversiell lärare–elev-premiss med vardagsskildring och familjedrama; TV-sändningen hade censurerade inslag.",
+      "comparison_cues": [
+        "gränsöverskridande komedipremiss",
+        "skolvardag som återkommande episodmiljö",
+        "tonväxling mellan provokation och familjedrama"
+      ],
+      "uncertainties": [
+        "Bedömningen av tempo bygger på seriens dokumenterade upplägg, inte en fullständig avsnittsanalys."
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/2403",
+        "https://en.wikipedia.org/wiki/Kodomo_no_Jikan",
+        "https://en.wikipedia.org/wiki/List_of_Kodomo_no_Jikan_characters"
+      ]
+    },
     "2452": {
       "mal_id": 2452,
       "title": "Space Adventure Cobra",
@@ -3804,6 +3836,38 @@
         "https://myanimelist.net/anime/4903",
         "https://animecca.jp/ja/works/kyounogononi",
         "https://theanimelist.net/anime/kyou-no-5-no-2-tv"
+      ]
+    },
+    "5042": {
+      "mal_id": 5042,
+      "title": "Kiss x Sis",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-12T11:15:05.405Z",
+      "synopsis": "Keita Suminoe försöker förbereda sig inför gymnasieproven samtidigt som hans äldre styvtvilling­systrar Ako och Riko konkurrerar om hans uppmärksamhet. Familjens okonventionella inställning och systrarnas rivalitet driver en romantisk fars.",
+      "themes": [
+        "familjeroller och sociala tabun",
+        "romantisk rivalitet",
+        "studier kontra distraktioner"
+      ],
+      "tone": [
+        "burlesk komedi",
+        "provokativ romantisk fars"
+      ],
+      "pacing_and_structure": "OVA-serie om tolv avsnitt utgiven under flera år; episodiska missförstånd och konkurrenssituationer dominerar snarare än en tät sammanhängande intrig.",
+      "character_dynamics": "Ako och Riko är äldre styvsystrar med olika temperament som tävlar om Keitas uppmärksamhet; Keita försöker samtidigt fokusera på studier och hantera deras närmanden.",
+      "distinctive_features": "OVA-format med tydligt vuxenorienterad fanservice och ett återkommande konkurrensupplägg kring tre huvudpersoner.",
+      "comparison_cues": [
+        "episodisk romantisk fars",
+        "rivalitet mellan styvsystrar",
+        "studievardag som komisk kontrast"
+      ],
+      "uncertainties": [
+        "Ingen detaljerad verifiering av samtliga tolv OVA-avsnitts dramaturgi."
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/5042",
+        "https://yozora.moe/anime/5042-kiss-x-sis",
+        "https://theanimelist.net/anime/kiss-x-sis"
       ]
     },
     "5081": {
