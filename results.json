@@ -1,21 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-13T15:08:59.479354Z",
+  "updated_at": "2026-11-13T16:03:41.157310Z",
   "events": [
-    {
-      "event_id": "20261106T160048074920Z-52481-plan_to_watch-to-completed",
-      "detected_at": "2026-11-06T16:00:48.074920Z",
-      "mal_id": 52481,
-      "title": "Gimai Seikatsu",
-      "previous_status": "plan_to_watch",
-      "status": "completed",
-      "score": 7,
-      "signals": [
-        "next_up",
-        "post_watch"
-      ],
-      "mal_url": "https://myanimelist.net/anime/52481"
-    },
     {
       "event_id": "20261108T100529212644Z-58883-plan_to_watch-to-dropped",
       "detected_at": "2026-11-08T10:05:29.212644Z",
