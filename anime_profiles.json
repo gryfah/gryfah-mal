@@ -12421,6 +12421,37 @@
         "https://www.animesc.com/en/details/0OH1yM/bokutachi-wa-benkyou-ga-dekinai"
       ]
     },
+    "38329": {
+      "mal_id": 38329,
+      "title": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+      "profile_status": "partial",
+      "researched_at_utc": "2026-11-13T21:15:52.508Z",
+      "synopsis": "Filmen fortsätter Sakuta Azusagawas berättelse om ungdomssyndromet, med Shouko Makinohara och hans relation till Mai Sakurajima som centrala utgångspunkter.",
+      "themes": [
+        "minne",
+        "omsorg",
+        "romantiska förpliktelser"
+      ],
+      "tone": [
+        "melankolisk",
+        "romantisk",
+        "mystisk"
+      ],
+      "pacing_and_structure": "En långfilmsfortsättning som förutsätter tidigare kännedom om tv-seriens personer och premiss.",
+      "character_dynamics": "Sakutas tidigare möte med Shouko och hans relation till Mai bildar berättelsens relationsmässiga grund.",
+      "distinctive_features": "Övernaturliga ungdomskriser skildras genom personliga relationer.",
+      "comparison_cues": [
+        "emotionell konsekvens",
+        "relationsdilemma"
+      ],
+      "uncertainties": [
+        "Primärkällan ger inte tillräcklig detaljerad intrigbeskrivning för att markera briefen complete."
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/38329",
+        "https://ao-buta.com/dearfriend/special/memorialvisual/"
+      ]
+    },
     "38414": {
       "mal_id": 38414,
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna",
@@ -12490,6 +12521,36 @@
       "sources": [
         "https://license.kadokawa.co.jp/anime/2019summer/entry-689.html",
         "https://www.animesc.com/en/details/3FHg13/joshikousei-no-mudazukai"
+      ]
+    },
+    "38671": {
+      "mal_id": 38671,
+      "title": "Enen no Shouboutai",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-13T21:15:52.508Z",
+      "synopsis": "Shinra Kusakabe ansluter till den åttonde specialbrandkåren som bekämpar människor som spontant förvandlats till brinnande varelser och utreder fenomenets ursprung.",
+      "themes": [
+        "hjälteideal",
+        "institutionell misstro",
+        "familjeförlust"
+      ],
+      "tone": [
+        "action",
+        "mörk",
+        "komisk"
+      ],
+      "pacing_and_structure": "Säsongens 24 avsnitt förenar räddningsuppdrag, strider och en växande utredning.",
+      "character_dynamics": "Shinras hjälteambition kontrasterar mot Arthurs riddarfantasi; kapten Ōbi leder den specialiserade gruppen.",
+      "distinctive_features": "Övernaturlig brandbekämpning med flera typer av eldförmågor.",
+      "comparison_cues": [
+        "gruppdynamik",
+        "strider kontra mysterium"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/38671",
+        "https://fireforce-anime.jp/season1/story/",
+        "https://fireforce-anime.jp/season1/special/keywords.php"
       ]
     },
     "38680": {
