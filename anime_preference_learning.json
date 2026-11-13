@@ -10320,8 +10320,8 @@
       "updated_at_utc": "2026-11-10T11:17:04.036Z",
       "reassessment_required": true,
       "progress": {
-        "processed": 199,
-        "total": 317
+        "processed": 260,
+        "total": 365
       }
     },
     "completed_reassessments": {
@@ -13814,6 +13814,186 @@
         "match_result": "indeterminate",
         "reason": "Ingen oberoende, tillräckligt stark och verifierad narrativ evidens för en leave-one-out-prognos; ingen modellavvikelse flaggas.",
         "reviewed_at_utc": "2026-11-13T19:12:49.458Z"
+      },
+      "26351": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.26351",
+          "insights.completed_observations.26351"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen oberoende narrativ evidens har verifierats som uppfyller kraven för en leave-one-out-prognos för detta verk. Betyget används inte för att förutsäga sig självt.",
+        "reviewed_at_utc": "2026-11-13T22:13:08.887Z",
+        "evidence_fingerprint": "1:26351:7:2026-11-11T12:03:01.303517+00:00"
+      },
+      "27775": {
+        "model_version": 1,
+        "user_score": 9,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.27775",
+          "insights.completed_observations.27775"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen oberoende narrativ evidens har verifierats som uppfyller kraven för en leave-one-out-prognos för detta verk. Betyget används inte för att förutsäga sig självt.",
+        "reviewed_at_utc": "2026-11-13T22:13:08.887Z",
+        "evidence_fingerprint": "1:27775:9:2026-11-11T01:09:55.859054+00:00"
+      },
+      "28297": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.28297",
+          "insights.completed_observations.28297"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen oberoende narrativ evidens har verifierats som uppfyller kraven för en leave-one-out-prognos för detta verk. Betyget används inte för att förutsäga sig självt.",
+        "reviewed_at_utc": "2026-11-13T22:13:08.887Z",
+        "evidence_fingerprint": "1:28297:7:2026-11-11T10:00:29.908666+00:00"
+      },
+      "28623": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.28623",
+          "insights.completed_observations.28623"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen oberoende narrativ evidens har verifierats som uppfyller kraven för en leave-one-out-prognos för detta verk. Betyget används inte för att förutsäga sig självt.",
+        "reviewed_at_utc": "2026-11-13T22:13:08.887Z",
+        "evidence_fingerprint": "1:28623:7:2026-11-11T19:01:40.230560+00:00"
+      },
+      "28677": {
+        "model_version": 1,
+        "user_score": 6,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.28677",
+          "insights.completed_observations.28677"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen oberoende narrativ evidens har verifierats som uppfyller kraven för en leave-one-out-prognos för detta verk. Betyget används inte för att förutsäga sig självt.",
+        "reviewed_at_utc": "2026-11-13T22:13:08.887Z",
+        "evidence_fingerprint": "1:28677:6:2026-11-11T10:00:29.908666+00:00"
+      },
+      "28819": {
+        "model_version": 1,
+        "user_score": 5,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.28819",
+          "insights.completed_observations.28819"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen oberoende narrativ evidens har verifierats som uppfyller kraven för en leave-one-out-prognos för detta verk. Betyget används inte för att förutsäga sig självt.",
+        "reviewed_at_utc": "2026-11-13T22:13:08.887Z",
+        "evidence_fingerprint": "1:28819:5:2026-11-12T19:01:57.134845+00:00"
+      },
+      "28927": {
+        "model_version": 1,
+        "user_score": 6,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.28927",
+          "insights.completed_observations.28927"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen oberoende narrativ evidens har verifierats som uppfyller kraven för en leave-one-out-prognos för detta verk. Betyget används inte för att förutsäga sig självt.",
+        "reviewed_at_utc": "2026-11-13T22:13:08.887Z",
+        "evidence_fingerprint": "1:28927:6:2026-11-11T18:09:12.231514+00:00"
+      },
+      "28999": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.28999",
+          "insights.completed_observations.28999"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen oberoende narrativ evidens har verifierats som uppfyller kraven för en leave-one-out-prognos för detta verk. Betyget används inte för att förutsäga sig självt.",
+        "reviewed_at_utc": "2026-11-13T22:13:08.887Z",
+        "evidence_fingerprint": "1:28999:7:2026-11-11T10:00:29.908666+00:00"
+      },
+      "30015": {
+        "model_version": 1,
+        "user_score": 9,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.30015",
+          "insights.completed_observations.30015"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen oberoende narrativ evidens har verifierats som uppfyller kraven för en leave-one-out-prognos för detta verk. Betyget används inte för att förutsäga sig självt.",
+        "reviewed_at_utc": "2026-11-13T22:13:08.887Z",
+        "evidence_fingerprint": "1:30015:9:2026-11-11T01:09:55.859054+00:00"
+      },
+      "30279": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.30279",
+          "insights.completed_observations.30279"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen oberoende narrativ evidens har verifierats som uppfyller kraven för en leave-one-out-prognos för detta verk. Betyget används inte för att förutsäga sig självt.",
+        "reviewed_at_utc": "2026-11-13T22:13:08.887Z",
+        "evidence_fingerprint": "1:30279:7:2026-11-11T18:09:12.231514+00:00"
+      },
+      "30296": {
+        "model_version": 1,
+        "user_score": 8,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.30296",
+          "insights.completed_observations.30296"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen oberoende narrativ evidens har verifierats som uppfyller kraven för en leave-one-out-prognos för detta verk. Betyget används inte för att förutsäga sig självt.",
+        "reviewed_at_utc": "2026-11-13T22:13:08.887Z",
+        "evidence_fingerprint": "1:30296:8:2026-11-11T17:01:24.299166+00:00"
+      },
+      "30307": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.30307",
+          "insights.completed_observations.30307"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen oberoende narrativ evidens har verifierats som uppfyller kraven för en leave-one-out-prognos för detta verk. Betyget används inte för att förutsäga sig självt.",
+        "reviewed_at_utc": "2026-11-13T22:13:08.887Z",
+        "evidence_fingerprint": "1:30307:7:2026-11-11T17:01:24.299166+00:00"
       },
       "34984": {
         "model_version": 1,
