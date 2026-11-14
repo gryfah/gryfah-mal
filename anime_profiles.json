@@ -11853,6 +11853,38 @@
         "https://en.wikipedia.org/wiki/Hanebado%21"
       ]
     },
+    "37379": {
+      "mal_id": 37379,
+      "title": "Chihayafuru 3",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-14T03:18:39.507Z",
+      "synopsis": "Chihaya och hennes lagkamrater i Mizusawas karutaklubb fortsätter efter framgångarna i de nationella tävlingarna att träna för nya utmaningar. Chihaya siktar mot titeln som karutadrottning, Taichi tränar vid hennes sida och Arata undersöker möjligheten att bygga ett eget lag.",
+      "themes": [
+        "tävlingsambition",
+        "vänskap och rivalitet",
+        "personlig utveckling",
+        "ungdomsrelationer"
+      ],
+      "tone": [
+        "engagerad",
+        "tävlingsintensiv",
+        "känslomässigt laddad"
+      ],
+      "pacing_and_structure": "Tredje säsongen för vidare en sammanhängande karuta- och relationsberättelse genom träning, tävlingar och individuella vägval; tävlingsmoment varvas med vardagliga och personliga konflikter.",
+      "character_dynamics": "Chihayas, Taichis och Aratas olika ambitioner inom karuta löper parallellt med deras nära men föränderliga band; lagets gemenskap möter individuella mål.",
+      "distinctive_features": "Tävlingskaruta, där klassisk japansk poesi kombineras med snabb reaktionsförmåga, används som konkret ram för både idrottslig och emotionell utveckling.",
+      "comparison_cues": [
+        "långsiktig utveckling över flera säsonger",
+        "konkurrens och relationsdynamik",
+        "träning kontra tävling"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://www.ntv.co.jp/english/pc/2019/09/chihayafuru-3.html",
+        "https://www.hulu.jp/chihayafuru-3",
+        "https://myanimelist.net/anime/37379"
+      ]
+    },
     "37450": {
       "mal_id": 37450,
       "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
@@ -13083,6 +13115,38 @@
         "https://myanimelist.net/anime/40004",
         "https://anilist.co/anime/110229",
         "https://theanimelist.net/anime/bokutachi-wa-benkyou-ga-dekinai"
+      ]
+    },
+    "40046": {
+      "mal_id": 40046,
+      "title": "Id:Invaded",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-14T03:18:39.507Z",
+      "synopsis": "Den fängslade före detta detektiven Akihito Narihisago arbetar under namnet Sakaido med brottsutredningar genom att träda in i seriemördares fragmenterade undermedvetna världar, så kallade id-brunnar. Organisationen Kura använder tekniken Mizuhanome för att söka ledtrådar, samtidigt som en större gåta kring John Walker växer fram.",
+      "themes": [
+        "identitet och minne",
+        "brottsutredning",
+        "psykologiska trauman",
+        "verklighet och undermedvetande"
+      ],
+      "tone": [
+        "mörk",
+        "gåtfull",
+        "psykologiskt spänd"
+      ],
+      "pacing_and_structure": "Serien kombinerar fallbaserade undersökningar i surrealistiska mentala miljöer med ett övergripande mysterium som knyter samman fallen. Ledtrådar tolkas både i id-brunnarna och av utredare i verkligheten.",
+      "character_dynamics": "Narihisago/Sakaido är utredningarnas centrala problemlösare men verkar inom Kuras övervakade struktur; kollegornas analys och hans personliga bakgrund skapar olika perspektiv på fallen.",
+      "distinctive_features": "Ett originalskrivet science fiction-deckarmysterium där mördares mentala landskap fungerar som bokstavliga brottsplatser och visuella pussel.",
+      "comparison_cues": [
+        "fristående fall med övergripande mysterium",
+        "surrealistisk bildvärld",
+        "psykologisk kriminalgåta"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://id-invaded-anime.com/story/",
+        "https://license.kadokawa.co.jp/anime/2020winter/entry-668.html",
+        "https://myanimelist.net/anime/40046"
       ]
     },
     "40747": {
