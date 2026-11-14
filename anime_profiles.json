@@ -11693,6 +11693,37 @@
       "researched_at_utc": "2026-11-13T04:13:47.355Z",
       "uncertainties": []
     },
+    "36862": {
+      "mal_id": 36862,
+      "title": "Made in Abyss Movie 3: Fukaki Tamashii no Reimei",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-14T08:18:46.180Z",
+      "synopsis": "Riko, Reg och Nanachi fortsätter ned genom Avgrunden till dess femte lager. Där möter de den vita visslan Bondrewd, vars förbindelse med Nanachis förflutna och relation till flickan Prushka gör mötet mer komplicerat än en vanlig expedition.",
+      "themes": [
+        "Utforskning och priset för kunskap",
+        "Etiska gränser för forskning",
+        "Tillit och utsatthet"
+      ],
+      "tone": [
+        "Mörk",
+        "Äventyrlig",
+        "Oroande"
+      ],
+      "pacing_and_structure": "En sammanhängande långfilm som fortsätter tv-seriens berättelse; expeditionen koncentreras kring mötet med Bondrewd och hindren inför nästa nedstigning.",
+      "character_dynamics": "Riko, Reg och Nanachi samarbetar med olika erfarenheter av Avgrunden; Bondrewd framstår som både välkomnande och hotfull och Prushka ger mötet en personlig dimension.",
+      "distinctive_features": "Direkt fortsättning snarare än återberättelse; kontrasten mellan sagolik miljö och brutal forskning är central.",
+      "comparison_cues": [
+        "Äventyr med successivt mörkare etiska konflikter",
+        "En långfilmskonflikt knuten till tidigare karaktärshistoria"
+      ],
+      "uncertainties": [
+        "Förutsätter kännedom om den första tv-säsongen."
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/36862",
+        "https://tv.apple.com/pl/movie/made-in-abyss-dawn-of-the-deep-soul/umc.cmc.72tay4imoacvsohm9vyp4k09"
+      ]
+    },
     "36885": {
       "mal_id": 36885,
       "title": "Saenai Heroine no Sodatekata Fine",
@@ -12959,6 +12990,38 @@
         "https://weebe.net/media/senryu-girl-anime"
       ]
     },
+    "38799": {
+      "mal_id": 38799,
+      "title": "Koukaku Kidoutai: SAC_2045",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-14T08:18:46.180Z",
+      "synopsis": "Efter en global ekonomisk kollaps präglas år 2045 av en permanent, ekonomiskt underhållen krigföring. Motoko Kusanagi och tidigare medlemmar av Sektion 9 arbetar som legosoldater, men framväxten av så kallade post-humans leder dem tillbaka till cyberbrottslighet och säkerhetspolitik.",
+      "themes": [
+        "Artificiell intelligens och mänsklig identitet",
+        "Militariserad ekonomi",
+        "Övervakning och statlig makt"
+      ],
+      "tone": [
+        "Teknothriller",
+        "Actionorienterad",
+        "Politisk"
+      ],
+      "pacing_and_structure": "Tolvdelad första säsong med inledande legosoldatuppdrag som övergår i en större utredning; producerad i datoranimerad 3D.",
+      "character_dynamics": "Kusanagi leder ett erfaret team där Batou och övriga tidigare kollegor bär med sig sin etablerade arbetsdynamik; Aramaki fungerar som organisatorisk länk tillbaka till Sektion 9.",
+      "distinctive_features": "En 3DCG-produktion inom Stand Alone Complex-kontinuiteten med post-human-fenomenet som nytt hot.",
+      "comparison_cues": [
+        "Cyberpunk med säkerhetspolitisk intrig",
+        "Etablerad ensemble i ny teknisk och geopolitisk situation"
+      ],
+      "uncertainties": [
+        "Avser första säsongens tolv avsnitt, inte den senare säsongen eller sammanfattningsfilmen."
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/38799",
+        "https://theghostintheshell.jp/en/series/sac_2045",
+        "https://www.hulu.jp/store/ghost-in-the-shell-sac2045"
+      ]
+    },
     "38814": {
       "mal_id": 38814,
       "title": "Nobunaga-sensei no Osanazuma",
@@ -13344,6 +13407,37 @@
         "https://tv.apple.com/us/show/diary-of-our-days-at-the-breakwater/umc.cmc.785gbl2cm0ooga4afd2jmqd2v",
         "https://thetvdb.com/series/afterschool-embankment-journal",
         "https://www.animesc.com/en/details/22VZiU/houkago-teibou-nisshi"
+      ]
+    },
+    "39790": {
+      "mal_id": 39790,
+      "title": "Adachi to Shimamura",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-14T08:18:46.180Z",
+      "synopsis": "Skoleleverna Sakura Adachi och Hougetsu Shimamura lär känna varandra när de båda undviker lektioner. Deras vänskap fördjupas i vardagliga möten, samtidigt som Adachi börjar uppleva känslor som är svåra att uttrycka och Shimamura förhåller sig mer avvaktande till närhet.",
+      "themes": [
+        "Vänskap som övergår i förälskelse",
+        "Osäkerhet och kommunikation",
+        "Ungdomlig självförståelse"
+      ],
+      "tone": [
+        "Lågmäld",
+        "Varm",
+        "Eftertänksam"
+      ],
+      "pacing_and_structure": "Tolv avsnitt med vardagsnära scener, inre reflektion och gradvis relationsförskjutning snarare än stora yttre konflikter.",
+      "character_dynamics": "Adachi är mer intensivt upptagen av deras relation, medan Shimamura är socialt mer distanserad; skillnaden mellan deras förväntningar driver spänningen.",
+      "distinctive_features": "Light novel-adaption med fokus på två flickors olika perspektiv på växande närhet.",
+      "comparison_cues": [
+        "Långsam relationsutveckling genom små vardagshändelser",
+        "Asymmetrisk känslomässig investering mellan huvudpersoner"
+      ],
+      "uncertainties": [
+        "Animeversionen täcker inte nödvändigtvis hela förlagans senare relationsutveckling."
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/39790",
+        "https://anilist.co/anime/109287/Adachi-to-Shimamura"
       ]
     },
     "39792": {
