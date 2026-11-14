@@ -8892,6 +8892,28 @@
         "baseline_median_offset": -0.41000000000000014,
         "consensus_residual": -1.3999999999999995
       },
+      "39710": {
+        "mal_id": 39710,
+        "title": "Yesterday wo Utatte",
+        "observed_status": "completed",
+        "user_score": 8,
+        "mal_mean_score": 6.87,
+        "mal_num_scoring_users": 154027,
+        "mal_genres": [
+          "Adult Cast",
+          "Drama",
+          "Love Polygon",
+          "Romance",
+          "Seinen"
+        ],
+        "profile_ref": 39710,
+        "rating_band": "high",
+        "score_minus_mal": 1.13,
+        "baseline_median_offset": -0.41000000000000014,
+        "consensus_residual": 1.54,
+        "anime_snapshot_at": "2026-11-14T06:08:54.626849+00:00",
+        "observed_at_utc": "2026-11-14T06:11:59.933Z"
+      },
       "39792": {
         "mal_id": 39792,
         "title": "Eizouken ni wa Te wo Dasu na!",
@@ -8959,6 +8981,28 @@
         "consensus_residual": -0.39999999999999947,
         "anime_snapshot_at": "2026-11-14T03:01:58.652482+00:00",
         "observed_at_utc": "2026-11-14T03:18:51.665Z"
+      },
+      "40417": {
+        "mal_id": 40417,
+        "title": "Fruits Basket 2nd Season",
+        "observed_status": "completed",
+        "user_score": 9,
+        "mal_mean_score": 8.52,
+        "mal_num_scoring_users": 310400,
+        "mal_genres": [
+          "Drama",
+          "Romance",
+          "School",
+          "Shoujo",
+          "Supernatural"
+        ],
+        "profile_ref": 40417,
+        "rating_band": "high",
+        "score_minus_mal": 0.4800000000000004,
+        "baseline_median_offset": -0.41000000000000014,
+        "consensus_residual": 0.8900000000000006,
+        "anime_snapshot_at": "2026-11-14T06:08:54.626849+00:00",
+        "observed_at_utc": "2026-11-14T06:11:59.933Z"
       },
       "40483": {
         "mal_id": 40483,
@@ -9050,18 +9094,18 @@
         "n_neutral": 28,
         "n_low": 0,
         "mean_consensus_residual": -0.49499999999999983,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Adult Cast": {
-        "n_rated": 32,
-        "mean_user_score": 6.96875,
-        "n_high": 11,
+        "n_rated": 33,
+        "mean_user_score": 7,
+        "n_high": 12,
         "n_mild_positive": 10,
         "n_neutral": 10,
         "n_low": 1,
-        "mean_consensus_residual": -0.13599999999999984,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "mean_consensus_residual": -0.0819354838709676,
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Award Winning": {
@@ -9072,7 +9116,7 @@
         "n_neutral": 1,
         "n_low": 0,
         "mean_consensus_residual": 0.048974358974359186,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Sci-Fi": {
@@ -9083,7 +9127,7 @@
         "n_neutral": 25,
         "n_low": 0,
         "mean_consensus_residual": 0.12366666666666677,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Space": {
@@ -9094,7 +9138,7 @@
         "n_neutral": 3,
         "n_low": 0,
         "mean_consensus_residual": 0.048571428571428675,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Adventure": {
@@ -9105,7 +9149,7 @@
         "n_neutral": 12,
         "n_low": 0,
         "mean_consensus_residual": -0.14999999999999986,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Shounen": {
@@ -9116,7 +9160,7 @@
         "n_neutral": 21,
         "n_low": 1,
         "mean_consensus_residual": -0.40276595744680843,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Detective": {
@@ -9127,18 +9171,18 @@
         "n_neutral": 2,
         "n_low": 0,
         "mean_consensus_residual": -0.02599999999999989,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Drama": {
-        "n_rated": 129,
-        "mean_user_score": 7.488372093023256,
-        "n_high": 69,
+        "n_rated": 131,
+        "mean_user_score": 7.5038167938931295,
+        "n_high": 71,
         "n_mild_positive": 38,
         "n_neutral": 22,
         "n_low": 0,
-        "mean_consensus_residual": 0.17280000000000012,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "mean_consensus_residual": 0.18921259842519697,
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Mystery": {
@@ -9149,18 +9193,18 @@
         "n_neutral": 10,
         "n_low": 1,
         "mean_consensus_residual": -0.4088636363636361,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Supernatural": {
-        "n_rated": 53,
-        "mean_user_score": 7,
-        "n_high": 17,
+        "n_rated": 54,
+        "mean_user_score": 7.037037037037037,
+        "n_high": 18,
         "n_mild_positive": 16,
         "n_neutral": 19,
         "n_low": 1,
-        "mean_consensus_residual": -0.2108163265306121,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "mean_consensus_residual": -0.18879999999999986,
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Avant Garde": {
@@ -9171,7 +9215,7 @@
         "n_neutral": 2,
         "n_low": 0,
         "mean_consensus_residual": -0.09999999999999994,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Mecha": {
@@ -9182,7 +9226,7 @@
         "n_neutral": 11,
         "n_low": 0,
         "mean_consensus_residual": 0.3384444444444446,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Psychological": {
@@ -9193,7 +9237,7 @@
         "n_neutral": 2,
         "n_low": 0,
         "mean_consensus_residual": 0.36266666666666686,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Suspense": {
@@ -9204,18 +9248,18 @@
         "n_neutral": 3,
         "n_low": 0,
         "mean_consensus_residual": 0.020243902439024523,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Seinen": {
-        "n_rated": 51,
-        "mean_user_score": 6.9411764705882355,
-        "n_high": 14,
+        "n_rated": 52,
+        "mean_user_score": 6.961538461538462,
+        "n_high": 15,
         "n_mild_positive": 18,
         "n_neutral": 19,
         "n_low": 0,
-        "mean_consensus_residual": 0.0736000000000002,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "mean_consensus_residual": 0.1023529411764708,
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Gore": {
@@ -9226,7 +9270,7 @@
         "n_neutral": 6,
         "n_low": 0,
         "mean_consensus_residual": -0.06699999999999996,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Horror": {
@@ -9237,7 +9281,7 @@
         "n_neutral": 5,
         "n_low": 0,
         "mean_consensus_residual": 0.010000000000000064,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Super Power": {
@@ -9248,7 +9292,7 @@
         "n_neutral": 4,
         "n_low": 0,
         "mean_consensus_residual": -0.1787499999999998,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Comedy": {
@@ -9259,7 +9303,7 @@
         "n_neutral": 57,
         "n_low": 0,
         "mean_consensus_residual": -0.2327586206896549,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Ecchi": {
@@ -9270,18 +9314,18 @@
         "n_neutral": 28,
         "n_low": 0,
         "mean_consensus_residual": -0.1933333333333332,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Romance": {
-        "n_rated": 133,
-        "mean_user_score": 7.082706766917293,
-        "n_high": 45,
+        "n_rated": 135,
+        "mean_user_score": 7.103703703703704,
+        "n_high": 47,
         "n_mild_positive": 50,
         "n_neutral": 37,
         "n_low": 1,
-        "mean_consensus_residual": 0.042960000000000165,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "mean_consensus_residual": 0.061417322834645835,
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "CGDCT": {
@@ -9292,7 +9336,7 @@
         "n_neutral": 13,
         "n_low": 0,
         "mean_consensus_residual": -0.38999999999999985,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Gag Humor": {
@@ -9303,18 +9347,18 @@
         "n_neutral": 6,
         "n_low": 0,
         "mean_consensus_residual": -1.0136363636363634,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "School": {
-        "n_rated": 151,
-        "mean_user_score": 6.947019867549669,
-        "n_high": 38,
+        "n_rated": 152,
+        "mean_user_score": 6.9605263157894735,
+        "n_high": 39,
         "n_mild_positive": 68,
         "n_neutral": 45,
         "n_low": 0,
-        "mean_consensus_residual": -0.025539568345323428,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "mean_consensus_residual": -0.018999999999999684,
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Military": {
@@ -9325,7 +9369,7 @@
         "n_neutral": 10,
         "n_low": 0,
         "mean_consensus_residual": -0.12457142857142849,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Fantasy": {
@@ -9336,7 +9380,7 @@
         "n_neutral": 13,
         "n_low": 0,
         "mean_consensus_residual": -0.33395348837209277,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Isekai": {
@@ -9347,18 +9391,18 @@
         "n_neutral": 2,
         "n_low": 0,
         "mean_consensus_residual": -0.54,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Love Polygon": {
-        "n_rated": 25,
-        "mean_user_score": 7.56,
-        "n_high": 15,
+        "n_rated": 26,
+        "mean_user_score": 7.576923076923077,
+        "n_high": 16,
         "n_mild_positive": 4,
         "n_neutral": 6,
         "n_low": 0,
-        "mean_consensus_residual": 0.27608695652173937,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "mean_consensus_residual": 0.32875000000000026,
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Harem": {
@@ -9369,7 +9413,7 @@
         "n_neutral": 15,
         "n_low": 0,
         "mean_consensus_residual": 0.025769230769230937,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Mythology": {
@@ -9380,7 +9424,7 @@
         "n_neutral": 5,
         "n_low": 1,
         "mean_consensus_residual": -0.817,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Hentai": {
@@ -9391,7 +9435,7 @@
         "n_neutral": 1,
         "n_low": 0,
         "mean_consensus_residual": 0.30500000000000016,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": true
       },
       "Historical": {
@@ -9402,18 +9446,18 @@
         "n_neutral": 1,
         "n_low": 0,
         "mean_consensus_residual": -1.0199999999999998,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": true
       },
       "Shoujo": {
-        "n_rated": 20,
-        "mean_user_score": 7.4,
-        "n_high": 9,
+        "n_rated": 21,
+        "mean_user_score": 7.476190476190476,
+        "n_high": 10,
         "n_mild_positive": 7,
         "n_neutral": 4,
         "n_low": 0,
-        "mean_consensus_residual": 0.11444444444444463,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "mean_consensus_residual": 0.15526315789473705,
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Showbiz": {
@@ -9424,7 +9468,7 @@
         "n_neutral": 0,
         "n_low": 0,
         "mean_consensus_residual": -0.15000000000000036,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": true
       },
       "Mahou Shoujo": {
@@ -9435,7 +9479,7 @@
         "n_neutral": 2,
         "n_low": 0,
         "mean_consensus_residual": -0.12400000000000003,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Iyashikei": {
@@ -9446,7 +9490,7 @@
         "n_neutral": 6,
         "n_low": 0,
         "mean_consensus_residual": -0.30599999999999994,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Slice of Life": {
@@ -9457,7 +9501,7 @@
         "n_neutral": 9,
         "n_low": 0,
         "mean_consensus_residual": -0.11769230769230757,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Visual Arts": {
@@ -9468,7 +9512,7 @@
         "n_neutral": 1,
         "n_low": 0,
         "mean_consensus_residual": -0.3039999999999997,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Girls Love": {
@@ -9479,7 +9523,7 @@
         "n_neutral": 6,
         "n_low": 0,
         "mean_consensus_residual": 0.39090909090909115,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Music": {
@@ -9490,7 +9534,7 @@
         "n_neutral": 2,
         "n_low": 0,
         "mean_consensus_residual": 0.011818181818182,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Organized Crime": {
@@ -9501,7 +9545,7 @@
         "n_neutral": 1,
         "n_low": 0,
         "mean_consensus_residual": -0.9299999999999993,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": true
       },
       "Josei": {
@@ -9512,7 +9556,7 @@
         "n_neutral": 0,
         "n_low": 0,
         "mean_consensus_residual": 0.258,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Anthropomorphic": {
@@ -9523,7 +9567,7 @@
         "n_neutral": 1,
         "n_low": 0,
         "mean_consensus_residual": -0.06999999999999984,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": true
       },
       "Kids": {
@@ -9534,7 +9578,7 @@
         "n_neutral": 0,
         "n_low": 0,
         "mean_consensus_residual": 0.11000000000000032,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": true
       },
       "Workplace": {
@@ -9545,7 +9589,7 @@
         "n_neutral": 5,
         "n_low": 0,
         "mean_consensus_residual": -0.4212499999999999,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Otaku Culture": {
@@ -9556,7 +9600,7 @@
         "n_neutral": 4,
         "n_low": 0,
         "mean_consensus_residual": -0.07499999999999991,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Urban Fantasy": {
@@ -9567,7 +9611,7 @@
         "n_neutral": 4,
         "n_low": 0,
         "mean_consensus_residual": -0.2018181818181816,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Video Game": {
@@ -9578,7 +9622,7 @@
         "n_neutral": 3,
         "n_low": 0,
         "mean_consensus_residual": -0.41249999999999987,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": true
       },
       "Vampire": {
@@ -9589,7 +9633,7 @@
         "n_neutral": 4,
         "n_low": 0,
         "mean_consensus_residual": -0.8462499999999998,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "High Stakes Game": {
@@ -9600,7 +9644,7 @@
         "n_neutral": 2,
         "n_low": 0,
         "mean_consensus_residual": -0.09999999999999987,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": true
       },
       "Survival": {
@@ -9611,7 +9655,7 @@
         "n_neutral": 2,
         "n_low": 0,
         "mean_consensus_residual": -0.4233333333333334,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Crossdressing": {
@@ -9622,7 +9666,7 @@
         "n_neutral": 0,
         "n_low": 0,
         "mean_consensus_residual": 0.7300000000000004,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": true
       },
       "Erotica": {
@@ -9633,7 +9677,7 @@
         "n_neutral": 2,
         "n_low": 0,
         "mean_consensus_residual": -0.09999999999999964,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": true
       },
       "Time Travel": {
@@ -9644,7 +9688,7 @@
         "n_neutral": 1,
         "n_low": 0,
         "mean_consensus_residual": 0.828,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Childcare": {
@@ -9655,7 +9699,7 @@
         "n_neutral": 4,
         "n_low": 0,
         "mean_consensus_residual": -0.6399999999999998,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Sports": {
@@ -9666,7 +9710,7 @@
         "n_neutral": 3,
         "n_low": 0,
         "mean_consensus_residual": 0.09285714285714317,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Strategy Game": {
@@ -9677,7 +9721,7 @@
         "n_neutral": 0,
         "n_low": 0,
         "mean_consensus_residual": 0.3285714285714287,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Performing Arts": {
@@ -9688,7 +9732,7 @@
         "n_neutral": 0,
         "n_low": 0,
         "mean_consensus_residual": 0.22800000000000012,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Pets": {
@@ -9699,7 +9743,7 @@
         "n_neutral": 1,
         "n_low": 0,
         "mean_consensus_residual": 1.71,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": true
       },
       "Idols (Female)": {
@@ -9710,7 +9754,7 @@
         "n_neutral": 0,
         "n_low": 0,
         "mean_consensus_residual": 0.006000000000000227,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": false
       },
       "Reincarnation": {
@@ -9721,7 +9765,7 @@
         "n_neutral": 0,
         "n_low": 0,
         "mean_consensus_residual": -0.8100000000000005,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": true
       },
       "Parody": {
@@ -9732,7 +9776,7 @@
         "n_neutral": 1,
         "n_low": 0,
         "mean_consensus_residual": 0.31333333333333346,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": true
       },
       "Love Status Quo": {
@@ -9743,7 +9787,7 @@
         "n_neutral": 0,
         "n_low": 0,
         "mean_consensus_residual": 0.45500000000000007,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": true
       },
       "Team Sports": {
@@ -9754,7 +9798,7 @@
         "n_neutral": 1,
         "n_low": 0,
         "mean_consensus_residual": 0.23000000000000043,
-        "last_updated_utc": "2026-11-14T05:12:58.375Z",
+        "last_updated_utc": "2026-11-14T06:11:59.933Z",
         "insufficient_evidence": true
       }
     },
