@@ -12213,8 +12213,8 @@
       "updated_at_utc": "2026-11-10T11:17:04.036Z",
       "reassessment_required": true,
       "progress": {
-        "processed": 344,
-        "total": 399
+        "processed": 359,
+        "total": 403
       }
     },
     "completed_reassessments": {
@@ -17120,6 +17120,244 @@
         "match_result": "indeterminate",
         "reason": "Otillräcklig oberoende, verkspecifik evidens för en leave-one-out-prognos; ingen modellavvikelse flaggas.",
         "reviewed_at_utc": "2026-11-14T12:13:06.241Z"
+      },
+      "37579": {
+        "model_version": 1,
+        "user_score": 6,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.37579",
+          "insights.completed_observations.37579"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Otillräckligt oberoende och entydigt underlag för en leave-one-out-prognos av betygsklass; ingen smakmodellavvikelse fastställd.",
+        "reviewed_at_utc": "2026-11-14T15:10:48.534Z"
+      },
+      "37614": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.37614",
+          "insights.completed_observations.37614"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Otillräckligt oberoende och entydigt underlag för en leave-one-out-prognos av betygsklass; ingen smakmodellavvikelse fastställd.",
+        "reviewed_at_utc": "2026-11-14T15:10:48.534Z"
+      },
+      "37722": {
+        "model_version": 1,
+        "user_score": 6,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.37722",
+          "insights.completed_observations.37722"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Otillräckligt oberoende och entydigt underlag för en leave-one-out-prognos av betygsklass; ingen smakmodellavvikelse fastställd.",
+        "reviewed_at_utc": "2026-11-14T15:10:48.534Z"
+      },
+      "37786": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.37786",
+          "insights.completed_observations.37786"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Otillräckligt oberoende och entydigt underlag för en leave-one-out-prognos av betygsklass; ingen smakmodellavvikelse fastställd.",
+        "reviewed_at_utc": "2026-11-14T15:10:48.534Z"
+      },
+      "37920": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.37920",
+          "insights.completed_observations.37920"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Otillräckligt oberoende och entydigt underlag för en leave-one-out-prognos av betygsklass; ingen smakmodellavvikelse fastställd.",
+        "reviewed_at_utc": "2026-11-14T15:10:48.534Z"
+      },
+      "37956": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.37956",
+          "insights.completed_observations.37956"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Otillräckligt oberoende och entydigt underlag för en leave-one-out-prognos av betygsklass; ingen smakmodellavvikelse fastställd.",
+        "reviewed_at_utc": "2026-11-14T15:10:48.534Z"
+      },
+      "37976": {
+        "model_version": 1,
+        "user_score": 8,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.37976",
+          "insights.completed_observations.37976"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Otillräckligt oberoende och entydigt underlag för en leave-one-out-prognos av betygsklass; ingen smakmodellavvikelse fastställd.",
+        "reviewed_at_utc": "2026-11-14T15:10:48.534Z"
+      },
+      "37982": {
+        "model_version": 1,
+        "user_score": 8,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.37982",
+          "insights.completed_observations.37982"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Otillräckligt oberoende och entydigt underlag för en leave-one-out-prognos av betygsklass; ingen smakmodellavvikelse fastställd.",
+        "reviewed_at_utc": "2026-11-14T15:10:48.534Z"
+      },
+      "37993": {
+        "model_version": 1,
+        "user_score": 6,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.37993",
+          "insights.completed_observations.37993"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Otillräckligt oberoende och entydigt underlag för en leave-one-out-prognos av betygsklass; ingen smakmodellavvikelse fastställd.",
+        "reviewed_at_utc": "2026-11-14T15:10:48.534Z"
+      },
+      "38080": {
+        "model_version": 1,
+        "user_score": 8,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.38080",
+          "insights.completed_observations.38080"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Otillräckligt oberoende och entydigt underlag för en leave-one-out-prognos av betygsklass; ingen smakmodellavvikelse fastställd.",
+        "reviewed_at_utc": "2026-11-14T15:10:48.534Z"
+      },
+      "38101": {
+        "model_version": 1,
+        "user_score": 9,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.38101",
+          "insights.completed_observations.38101"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Otillräckligt oberoende och entydigt underlag för en leave-one-out-prognos av betygsklass; ingen smakmodellavvikelse fastställd.",
+        "reviewed_at_utc": "2026-11-14T15:10:48.534Z"
+      },
+      "38186": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.38186",
+          "insights.completed_observations.38186"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Otillräckligt oberoende och entydigt underlag för en leave-one-out-prognos av betygsklass; ingen smakmodellavvikelse fastställd.",
+        "reviewed_at_utc": "2026-11-14T15:10:48.534Z"
+      },
+      "38680": {
+        "model_version": 1,
+        "user_score": 9,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.38680",
+          "insights.completed_observations.38680"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Otillräckligt oberoende och entydigt underlag för en leave-one-out-prognos av betygsklass; ingen smakmodellavvikelse fastställd.",
+        "reviewed_at_utc": "2026-11-14T15:10:48.534Z"
+      },
+      "38787": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.38787",
+          "insights.completed_observations.38787"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Otillräckligt oberoende och entydigt underlag för en leave-one-out-prognos av betygsklass; ingen smakmodellavvikelse fastställd.",
+        "reviewed_at_utc": "2026-11-14T15:10:48.534Z"
+      },
+      "38814": {
+        "model_version": 1,
+        "user_score": 6,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.38814",
+          "insights.completed_observations.38814"
+        ],
+        "applicable_hypotheses": [
+          "narrative_pacing_and_progression"
+        ],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Otillräckligt oberoende och entydigt underlag för en leave-one-out-prognos av betygsklass; ingen smakmodellavvikelse fastställd.",
+        "reviewed_at_utc": "2026-11-14T15:10:48.534Z"
       }
     },
     "rating_recalculation": {
