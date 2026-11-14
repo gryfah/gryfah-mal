@@ -14266,6 +14266,69 @@
         "https://en.wikipedia.org/wiki/86_(TV_series)"
       ]
     },
+    "42192": {
+      "mal_id": 42192,
+      "title": "Edens Zero",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-14T23:11:08.952Z",
+      "synopsis": "Shiki har vuxit upp bland robotar på nöjesparksplaneten Granbell. När videokreatören Rebecca Bluegarden och hennes katt Happy anländer får han för första gången möjlighet att resa ut bland stjärnorna. Tillsammans söker de nya vänner och den mytomspunna kosmiska gestalten Mother.",
+      "themes": [
+        "Vänskap och tillhörighet",
+        "Människor och maskiner",
+        "Upptäcktsresor",
+        "Lojalitet"
+      ],
+      "tone": [
+        "Äventyrlig",
+        "Energisk",
+        "Humoristisk med allvarligare inslag"
+      ],
+      "pacing_and_structure": "En fortlöpande rymdresa som delas upp i planetbesök, nya bekantskaper och actionkonflikter; tv-säsongens 25 avsnitt utvecklar successivt besättningen och resans mål.",
+      "character_dynamics": "Shikis rättframma vänskapssökande kontrasterar mot Rebeccas större erfarenhet av världen; Happy är hennes nära följeslagare. Nya allierade tillkommer under färden.",
+      "distinctive_features": "Rymdfantasy efter Hiro Mashimas manga med gravitationsbaserade Ether Gear-krafter och en besättning som formas under resans gång.",
+      "comparison_cues": [
+        "Grupporienterat shounenäventyr",
+        "Växling mellan humor, action och känslomässiga inslag",
+        "Löpande världsbygge genom separata resmål"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/42192",
+        "https://www.netflix.com/nf/title/81261630",
+        "https://www.hulu.jp/edens-zero"
+      ]
+    },
+    "42361": {
+      "mal_id": 42361,
+      "title": "Ijiranaide, Nagatoro-san",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-14T23:11:08.952Z",
+      "synopsis": "Den blyge gymnasieeleven som kallas Senpai blir föremål för den yngre eleven Hayase Nagatoros envisa retande efter ett möte i skolans bibliotek. Deras återkommande möten i och kring skolans konstmiljö utvecklar en besvärlig relation där pinsamheter och växande närhet blandas.",
+      "themes": [
+        "Retande och gränser",
+        "Social osäkerhet",
+        "Tonårsattraktion",
+        "Gradvis relationsförändring"
+      ],
+      "tone": [
+        "Provokativt komisk",
+        "Generad",
+        "Romantiskt lekfull"
+      ],
+      "pacing_and_structure": "Återkommande vardagliga skolsituationer och komiska provokationer; relationsförändringen sker gradvis snarare än genom en tät yttre intrig.",
+      "character_dynamics": "Nagatoro driver ofta samspelet genom att utmana och genera sin äldre skolkamrat, medan hans tillbakadragenhet ger henne övertaget; deras ömsesidiga intresse blir allt tydligare utan att den inledande obalansen försvinner direkt.",
+      "distinctive_features": "Romantisk skolkomedi byggd kring retande som central mekanik; animeadaption av Nanashis manga, producerad av Telecom Animation Film.",
+      "comparison_cues": [
+        "Romantisk utveckling via upprepade vardagssituationer",
+        "Obekväm humor och asymmetrisk initiativfördelning",
+        "Skillnad mellan tidig hård jargong och senare mjukare samspel"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/42361",
+        "https://theanimelist.net/anime/ijiranaide-nagatoro-san"
+      ]
+    },
     "42519": {
       "mal_id": 42519,
       "title": "Bokutachi wa Benkyou ga Dekinai! Chapel no Kane wa [X] wo Shukufuku Suru",
@@ -14487,6 +14550,39 @@
       ],
       "profile_status": "complete",
       "researched_at_utc": "2026-11-06T14:21:18.186Z"
+    },
+    "48590": {
+      "mal_id": 48590,
+      "title": "Mini Dragon",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-14T23:11:08.952Z",
+      "synopsis": "En serie mycket korta vardagssketcher med Kobayashi, draken Tohru, Kanna och övriga figurer från Kobayashi-san Chi no Maid Dragon. Kyoto Animation publicerade miniatyravsnitten inför andra tv-säsongen.",
+      "themes": [
+        "Vardagsgemenskap mellan människor och drakar",
+        "Vänskap och hemmaliv",
+        "Lekfulla karaktärsporträtt"
+      ],
+      "tone": [
+        "Lättsam",
+        "Varm",
+        "Absurdistiskt komisk"
+      ],
+      "pacing_and_structure": "Självständiga, cirka två minuter långa vinjetter med en enskild situation eller poäng; ingen sammanhängande huvudkonflikt behöver följas.",
+      "character_dynamics": "Tohrus hängivenhet för Kobayashi och Kannas plats i deras ovanliga hushåll ger återkommande utgångspunkter för sketcherna; även andra bekanta figurer dyker upp.",
+      "distinctive_features": "Kyoto Animations kortformatskomplement till tv-serien; 13 huvudsakliga nätpublicerade miniatyravsnitt under våren 2021.",
+      "comparison_cues": [
+        "Mycket korta karaktärsbaserade sketcher",
+        "Vardaglig fantasy snarare än fortlöpande intrig",
+        "Bonusmaterial som förutsätter viss bekantskap med huvudserien"
+      ],
+      "uncertainties": [
+        "Vissa kataloger räknar även tre senare specialavsnitt och anger därför totalt 16; MAL-posten här omfattar 13."
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/48590",
+        "https://notify.moe/anime/DKuqyKlMR/",
+        "https://anilape.com/en/anime/kobayashi-san-chi-no-maidragon-s-mini-dra-132096"
+      ]
     },
     "49160": {
       "mal_id": 49160,
