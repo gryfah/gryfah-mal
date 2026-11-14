@@ -869,7 +869,7 @@
         "mal_id": 23447,
         "title": "Ano Natsu de Matteru: Bokutachi wa Koukou Saigo no Natsu wo Sugoshinagara, Ano Natsu de Matteiru.",
         "created_round": 400,
-        "status": "open",
+        "status": "answered",
         "question": "Du gav Ano Natsu de Matteru: Bokutachi wa Koukou Saigo no Natsu wo Sugoshinagara, Ano Natsu de Matteiru. 5/10 jämfört med MAL 7.16/10. Din justerade avvikelse är -1.75 (lägre än konsensus). Vilken del förklarar främst ditt betyg?",
         "options": [
           "Berättelsens kort tillägg till etablerad relationsensemble",
@@ -881,14 +881,28 @@
         "detection_reasons": [
           "consensus_residual_threshold"
         ],
-        "created_at_utc": "2026-11-14T13:12:47.762Z"
+        "created_at_utc": "2026-11-14T13:12:47.762Z",
+        "answer": {
+          "raw_response": "a",
+          "selected_options": [
+            "Berättelsens kort tillägg till etablerad relationsensemble"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-14T20:57:36.806Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde \"Berättelsens kort tillägg till etablerad relationsensemble\"; orsakernas närmare innebörd och värderingsriktning ska inte antas utöver svaret.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "mal-30503": {
         "question_id": "mal-30503",
         "mal_id": 30503,
         "title": "Noragami Aragoto",
         "created_round": 400,
-        "status": "open",
+        "status": "answered",
         "question": "Du gav Noragami Aragoto 6/10 jämfört med MAL 8.14/10. Din justerade avvikelse är -1.73 (lägre än konsensus). Vilken del förklarar främst ditt betyg?",
         "options": [
           "Berättelsens övernaturlig action med relationskonflikter",
@@ -900,14 +914,28 @@
         "detection_reasons": [
           "consensus_residual_threshold"
         ],
-        "created_at_utc": "2026-11-14T13:12:47.762Z"
+        "created_at_utc": "2026-11-14T13:12:47.762Z",
+        "answer": {
+          "raw_response": "c",
+          "selected_options": [
+            "Berättelsens växling mellan komedi och allvar"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-14T20:57:36.806Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde \"Berättelsens växling mellan komedi och allvar\"; orsakernas närmare innebörd och värderingsriktning ska inte antas utöver svaret.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "mal-31757": {
         "question_id": "mal-31757",
         "mal_id": 31757,
         "title": "Kizumonogatari II: Nekketsu-hen",
         "created_round": 400,
-        "status": "open",
+        "status": "answered",
         "question": "Du gav Kizumonogatari II: Nekketsu-hen 6/10 jämfört med MAL 8.56/10. Din justerade avvikelse är -2.15 (lägre än konsensus). Vilken del förklarar främst ditt betyg?",
         "options": [
           "Berättelsens upptrappande action inom sammanhängande filmtrilogi",
@@ -919,14 +947,26 @@
         "detection_reasons": [
           "consensus_residual_threshold"
         ],
-        "created_at_utc": "2026-11-14T13:12:47.762Z"
+        "created_at_utc": "2026-11-14T13:12:47.762Z",
+        "answer": {
+          "raw_response": "shaft estetik",
+          "selected_options": [],
+          "free_text": "shaft estetik",
+          "answered_at_utc": "2026-11-14T20:57:36.806Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren angav \"shaft estetik\" som förklaring; eventuell värderingsriktning utöver ordalydelsen är inte fastställd.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "mal-32729": {
         "question_id": "mal-32729",
         "mal_id": 32729,
         "title": "Orange",
         "created_round": 400,
-        "status": "open",
+        "status": "answered",
         "question": "Du gav Orange 9/10 jämfört med MAL 7.63/10. Din justerade avvikelse är 1.78 (högre än konsensus). Vilken del förklarar främst ditt betyg?",
         "options": [
           "Berättelsens relationers utveckling genom konkreta val",
@@ -938,14 +978,28 @@
         "detection_reasons": [
           "consensus_residual_threshold"
         ],
-        "created_at_utc": "2026-11-14T13:12:47.762Z"
+        "created_at_utc": "2026-11-14T13:12:47.762Z",
+        "answer": {
+          "raw_response": "c",
+          "selected_options": [
+            "Berättelsens gruppens ansvar för en utsatt vän"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-14T20:57:36.806Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde \"Berättelsens gruppens ansvar för en utsatt vän\"; orsakernas närmare innebörd och värderingsriktning ska inte antas utöver svaret.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "mal-33161": {
         "question_id": "mal-33161",
         "mal_id": 33161,
         "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA",
         "created_round": 400,
-        "status": "open",
+        "status": "answered",
         "question": "Du gav Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA 6/10 jämfört med MAL 8.02/10. Din justerade avvikelse är -1.61 (lägre än konsensus). Vilken del förklarar främst ditt betyg?",
         "options": [
           "Berättelsens dialogdrivet relationsdrama i miniformat",
@@ -957,14 +1011,28 @@
         "detection_reasons": [
           "consensus_residual_threshold"
         ],
-        "created_at_utc": "2026-11-14T13:12:47.762Z"
+        "created_at_utc": "2026-11-14T13:12:47.762Z",
+        "answer": {
+          "raw_response": "e",
+          "selected_options": [
+            "Minns inte"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-14T20:57:36.806Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde \"Minns inte\"; orsakernas närmare innebörd och värderingsriktning ska inte antas utöver svaret.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "mal-33206": {
         "question_id": "mal-33206",
         "mal_id": 33206,
         "title": "Kobayashi-san Chi no Maid Dragon",
         "created_round": 400,
-        "status": "open",
+        "status": "answered",
         "question": "Du gav Kobayashi-san Chi no Maid Dragon 9/10 jämfört med MAL 7.89/10. Din justerade avvikelse är 1.52 (högre än konsensus). Vilken del förklarar främst ditt betyg?",
         "options": [
           "Berättelsens övernaturliga figurer i vardagsmiljö",
@@ -975,14 +1043,28 @@
         "detection_reasons": [
           "consensus_residual_threshold"
         ],
-        "created_at_utc": "2026-11-14T13:12:47.762Z"
+        "created_at_utc": "2026-11-14T13:12:47.762Z",
+        "answer": {
+          "raw_response": "b",
+          "selected_options": [
+            "Berättelsens vänskap och familjeband genom episodisk komedi"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-14T20:57:36.806Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde \"Berättelsens vänskap och familjeband genom episodisk komedi\"; orsakernas närmare innebörd och värderingsriktning ska inte antas utöver svaret.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "mal-33352": {
         "question_id": "mal-33352",
         "mal_id": 33352,
         "title": "Violet Evergarden",
         "created_round": 400,
-        "status": "open",
+        "status": "answered",
         "question": "Du gav Violet Evergarden 10/10 jämfört med MAL 8.7/10. Din justerade avvikelse är 1.71 (högre än konsensus). Vilken del förklarar främst ditt betyg?",
         "options": [
           "Berättelsens episodiska människoöden som bygger en större personlig båge",
@@ -994,14 +1076,28 @@
         "detection_reasons": [
           "consensus_residual_threshold"
         ],
-        "created_at_utc": "2026-11-14T13:12:47.762Z"
+        "created_at_utc": "2026-11-14T13:12:47.762Z",
+        "answer": {
+          "raw_response": "b",
+          "selected_options": [
+            "Berättelsens känslomässig kommunikation genom brev"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-14T20:57:36.806Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde \"Berättelsens känslomässig kommunikation genom brev\"; orsakernas närmare innebörd och värderingsriktning ska inte antas utöver svaret.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "mal-33487": {
         "question_id": "mal-33487",
         "mal_id": 33487,
         "title": "Masamune-kun no Revenge",
         "created_round": 400,
-        "status": "open",
+        "status": "answered",
         "question": "Du gav Masamune-kun no Revenge 8/10 jämfört med MAL 6.75/10. Din justerade avvikelse är 1.66 (högre än konsensus). Vilken del förklarar främst ditt betyg?",
         "options": [
           "Berättelsens romantik byggd på hemlig agenda",
@@ -1013,14 +1109,28 @@
         "detection_reasons": [
           "consensus_residual_threshold"
         ],
-        "created_at_utc": "2026-11-14T13:12:47.762Z"
+        "created_at_utc": "2026-11-14T13:12:47.762Z",
+        "answer": {
+          "raw_response": "b",
+          "selected_options": [
+            "Berättelsens hämndplan som krockar med verkliga känslor"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-14T20:57:36.806Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde \"Berättelsens hämndplan som krockar med verkliga känslor\"; orsakernas närmare innebörd och värderingsriktning ska inte antas utöver svaret.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "mal-33581": {
         "question_id": "mal-33581",
         "mal_id": 33581,
         "title": "Trinity Seven Movie 1: Eternity Library to Alchemic Girl",
         "created_round": 400,
-        "status": "open",
+        "status": "answered",
         "question": "Du gav Trinity Seven Movie 1: Eternity Library to Alchemic Girl 5/10 jämfört med MAL 7.22/10. Din justerade avvikelse är -1.81 (lägre än konsensus). Vilken del förklarar främst ditt betyg?",
         "options": [
           "Berättelsens fantasyfilm som fortsätter en TV-serie",
@@ -1032,14 +1142,28 @@
         "detection_reasons": [
           "consensus_residual_threshold"
         ],
-        "created_at_utc": "2026-11-14T13:12:47.762Z"
+        "created_at_utc": "2026-11-14T13:12:47.762Z",
+        "answer": {
+          "raw_response": "e",
+          "selected_options": [
+            "Minns inte"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-14T20:57:36.806Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde \"Minns inte\"; orsakernas närmare innebörd och värderingsriktning ska inte antas utöver svaret.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "mal-34382": {
         "question_id": "mal-34382",
         "mal_id": 34382,
         "title": "Citrus",
         "created_round": 400,
-        "status": "open",
+        "status": "answered",
         "question": "Du gav Citrus 9/10 jämfört med MAL 6.42/10. Din justerade avvikelse är 2.99 (högre än konsensus). Vilken del förklarar främst ditt betyg?",
         "options": [
           "Berättelsens romantik genom konflikt och osäker kommunikation",
@@ -1051,14 +1175,28 @@
         "detection_reasons": [
           "consensus_residual_threshold"
         ],
-        "created_at_utc": "2026-11-14T13:12:47.762Z"
+        "created_at_utc": "2026-11-14T13:12:47.762Z",
+        "answer": {
+          "raw_response": "b",
+          "selected_options": [
+            "Berättelsens styvsyskonrelation som social och emotionell komplikation"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-14T20:57:36.806Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde \"Berättelsens styvsyskonrelation som social och emotionell komplikation\"; orsakernas närmare innebörd och värderingsriktning ska inte antas utöver svaret.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "mal-34383": {
         "question_id": "mal-34383",
         "mal_id": 34383,
         "title": "Netsuzou TRap",
         "created_round": 400,
-        "status": "open",
+        "status": "answered",
         "question": "Du gav Netsuzou TRap 8/10 jämfört med MAL 5.3/10. Din justerade avvikelse är 3.11 (högre än konsensus). Vilken del förklarar främst ditt betyg?",
         "options": [
           "Berättelsens romantisk triangulering med två parallella par",
@@ -1070,14 +1208,28 @@
         "detection_reasons": [
           "consensus_residual_threshold"
         ],
-        "created_at_utc": "2026-11-14T13:12:47.762Z"
+        "created_at_utc": "2026-11-14T13:12:47.762Z",
+        "answer": {
+          "raw_response": "c",
+          "selected_options": [
+            "Berättelsens hemlighet och relationsmässiga konsekvenser"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-14T20:57:36.806Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde \"Berättelsens hemlighet och relationsmässiga konsekvenser\"; orsakernas närmare innebörd och värderingsriktning ska inte antas utöver svaret.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "mal-35849": {
         "question_id": "mal-35849",
         "mal_id": 35849,
         "title": "Darling in the FranXX",
         "created_round": 400,
-        "status": "open",
+        "status": "answered",
         "question": "Du gav Darling in the FranXX 10/10 jämfört med MAL 7.21/10. Din justerade avvikelse är 3.20 (högre än konsensus). Vilken del förklarar främst ditt betyg?",
         "options": [
           "Berättelsens romantik sammanflätad med mecha-action",
@@ -1089,14 +1241,29 @@
         "detection_reasons": [
           "consensus_residual_threshold"
         ],
-        "created_at_utc": "2026-11-14T13:12:47.762Z"
+        "created_at_utc": "2026-11-14T13:12:47.762Z",
+        "answer": {
+          "raw_response": "ab",
+          "selected_options": [
+            "Berättelsens romantik sammanflätad med mecha-action",
+            "Berättelsens ungdomsgrupp under institutionell kontroll"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-14T20:57:36.806Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde \"Berättelsens romantik sammanflätad med mecha-action\" och \"Berättelsens ungdomsgrupp under institutionell kontroll\"; orsakernas närmare innebörd och värderingsriktning ska inte antas utöver svaret.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "mal-35928": {
         "question_id": "mal-35928",
         "mal_id": 35928,
         "title": "Devils Line",
         "created_round": 400,
-        "status": "open",
+        "status": "answered",
         "question": "Du gav Devils Line 8/10 jämfört med MAL 6.83/10. Din justerade avvikelse är 1.58 (högre än konsensus). Vilken del förklarar främst ditt betyg?",
         "options": [
           "Berättelsens romantik där fysisk närhet innebär fara",
@@ -1108,14 +1275,28 @@
         "detection_reasons": [
           "consensus_residual_threshold"
         ],
-        "created_at_utc": "2026-11-14T13:12:47.762Z"
+        "created_at_utc": "2026-11-14T13:12:47.762Z",
+        "answer": {
+          "raw_response": "a",
+          "selected_options": [
+            "Berättelsens romantik där fysisk närhet innebär fara"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-14T20:57:36.806Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde \"Berättelsens romantik där fysisk närhet innebär fara\"; orsakernas närmare innebörd och värderingsriktning ska inte antas utöver svaret.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "mal-36296": {
         "question_id": "mal-36296",
         "mal_id": 36296,
         "title": "Hinamatsuri",
         "created_round": 400,
-        "status": "open",
+        "status": "answered",
         "question": "Du gav Hinamatsuri 6/10 jämfört med MAL 8.11/10. Din justerade avvikelse är -1.70 (lägre än konsensus). Vilken del förklarar främst ditt betyg?",
         "options": [
           "Berättelsens absurd komedi med omsorgsrelation",
@@ -1127,14 +1308,28 @@
         "detection_reasons": [
           "consensus_residual_threshold"
         ],
-        "created_at_utc": "2026-11-14T13:12:47.762Z"
+        "created_at_utc": "2026-11-14T13:12:47.762Z",
+        "answer": {
+          "raw_response": "c",
+          "selected_options": [
+            "Berättelsens episodiska upptåg med känslomässiga inslag"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-14T20:57:36.806Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde \"Berättelsens episodiska upptåg med känslomässiga inslag\"; orsakernas närmare innebörd och värderingsriktning ska inte antas utöver svaret.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "mal-37171": {
         "question_id": "mal-37171",
         "mal_id": 37171,
         "title": "Asobi Asobase",
         "created_round": 400,
-        "status": "open",
+        "status": "answered",
         "question": "Du gav Asobi Asobase 6/10 jämfört med MAL 8.19/10. Din justerade avvikelse är -1.78 (lägre än konsensus). Vilken del förklarar främst ditt betyg?",
         "options": [
           "Berättelsens sketchernas träffsäkerhet",
@@ -1146,14 +1341,28 @@
         "detection_reasons": [
           "consensus_residual_threshold"
         ],
-        "created_at_utc": "2026-11-14T13:12:47.762Z"
+        "created_at_utc": "2026-11-14T13:12:47.762Z",
+        "answer": {
+          "raw_response": "b",
+          "selected_options": [
+            "Berättelsens reaktionshumor"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-14T20:57:36.806Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde \"Berättelsens reaktionshumor\"; orsakernas närmare innebörd och värderingsriktning ska inte antas utöver svaret.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "mal-37517": {
         "question_id": "mal-37517",
         "mal_id": 37517,
         "title": "Happy Sugar Life",
         "created_round": 400,
-        "status": "open",
+        "status": "answered",
         "question": "Du gav Happy Sugar Life 8/10 jämfört med MAL 6.75/10. Din justerade avvikelse är 1.66 (högre än konsensus). Vilken del förklarar främst ditt betyg?",
         "options": [
           "Berättelsens kärlek som besatthet",
@@ -1164,14 +1373,28 @@
         "detection_reasons": [
           "consensus_residual_threshold"
         ],
-        "created_at_utc": "2026-11-14T13:12:47.762Z"
+        "created_at_utc": "2026-11-14T13:12:47.762Z",
+        "answer": {
+          "raw_response": "b",
+          "selected_options": [
+            "Berättelsens moralisk förskjutning bakom vardaglig fasad"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-14T20:57:36.806Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde \"Berättelsens moralisk förskjutning bakom vardaglig fasad\"; orsakernas närmare innebörd och värderingsriktning ska inte antas utöver svaret.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "mal-37773": {
         "question_id": "mal-37773",
         "mal_id": 37773,
         "title": "Yuru Yuri,",
         "created_round": 400,
-        "status": "open",
+        "status": "answered",
         "question": "Du gav Yuru Yuri, 5/10 jämfört med MAL 7.7/10. Din justerade avvikelse är -2.29 (lägre än konsensus). Vilken del förklarar främst ditt betyg?",
         "options": [
           "Berättelsens ensemblebaserad slice of life-komedi",
@@ -1183,14 +1406,28 @@
         "detection_reasons": [
           "consensus_residual_threshold"
         ],
-        "created_at_utc": "2026-11-14T13:12:47.762Z"
+        "created_at_utc": "2026-11-14T13:12:47.762Z",
+        "answer": {
+          "raw_response": "b",
+          "selected_options": [
+            "Berättelsens jubileumsspecial med bekanta karaktärer"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-14T20:57:36.806Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde \"Berättelsens jubileumsspecial med bekanta karaktärer\"; orsakernas närmare innebörd och värderingsriktning ska inte antas utöver svaret.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "mal-37982": {
         "question_id": "mal-37982",
         "mal_id": 37982,
         "title": "Domestic na Kanojo",
         "created_round": 400,
-        "status": "open",
+        "status": "answered",
         "question": "Du gav Domestic na Kanojo 8/10 jämfört med MAL 6.6/10. Din justerade avvikelse är 1.81 (högre än konsensus). Vilken del förklarar främst ditt betyg?",
         "options": [
           "Berättelsens romantik med tydliga sociala tabun",
@@ -1202,14 +1439,29 @@
         "detection_reasons": [
           "consensus_residual_threshold"
         ],
-        "created_at_utc": "2026-11-14T13:12:47.762Z"
+        "created_at_utc": "2026-11-14T13:12:47.762Z",
+        "answer": {
+          "raw_response": "ac",
+          "selected_options": [
+            "Berättelsens romantik med tydliga sociala tabun",
+            "Berättelsens melodram med hemligheter och triangeldynamik"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-14T20:57:36.806Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde \"Berättelsens romantik med tydliga sociala tabun\" och \"Berättelsens melodram med hemligheter och triangeldynamik\"; orsakernas närmare innebörd och värderingsriktning ska inte antas utöver svaret.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "mal-38101": {
         "question_id": "mal-38101",
         "mal_id": 38101,
         "title": "5-toubun no Hanayome",
         "created_round": 400,
-        "status": "open",
+        "status": "answered",
         "question": "Du gav 5-toubun no Hanayome 9/10 jämfört med MAL 7.62/10. Din justerade avvikelse är 1.79 (högre än konsensus). Vilken del förklarar främst ditt betyg?",
         "options": [
           "Berättelsens romantisk ensemble med konkurrerande relationer",
@@ -1221,14 +1473,29 @@
         "detection_reasons": [
           "consensus_residual_threshold"
         ],
-        "created_at_utc": "2026-11-14T13:12:47.762Z"
+        "created_at_utc": "2026-11-14T13:12:47.762Z",
+        "answer": {
+          "raw_response": "ab",
+          "selected_options": [
+            "Berättelsens romantisk ensemble med konkurrerande relationer",
+            "Berättelsens förtroendeutveckling genom återkommande vardagssituationer"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-14T20:57:36.806Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde \"Berättelsens romantisk ensemble med konkurrerande relationer\" och \"Berättelsens förtroendeutveckling genom återkommande vardagssituationer\"; orsakernas närmare innebörd och värderingsriktning ska inte antas utöver svaret.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "mal-38524": {
         "question_id": "mal-38524",
         "mal_id": 38524,
         "title": "Shingeki no Kyojin Season 3 Part 2",
         "created_round": 400,
-        "status": "open",
+        "status": "answered",
         "question": "Du gav Shingeki no Kyojin Season 3 Part 2 7/10 jämfört med MAL 9.06/10. Din justerade avvikelse är -1.65 (lägre än konsensus). Vilken del förklarar främst ditt betyg?",
         "options": [
           "Berättelsens högintensiv kamp med strategiska val",
@@ -1240,14 +1507,26 @@
         "detection_reasons": [
           "consensus_residual_threshold"
         ],
-        "created_at_utc": "2026-11-14T13:12:47.762Z"
+        "created_at_utc": "2026-11-14T13:12:47.762Z",
+        "answer": {
+          "raw_response": "d filler säsong",
+          "selected_options": [],
+          "free_text": "filler säsong",
+          "answered_at_utc": "2026-11-14T20:57:36.806Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren angav \"filler säsong\" som förklaring; eventuell värderingsriktning utöver ordalydelsen är inte fastställd.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "mal-39017": {
         "question_id": "mal-39017",
         "mal_id": 39017,
         "title": "Kyokou Suiri",
         "created_round": 400,
-        "status": "open",
+        "status": "answered",
         "question": "Du gav Kyokou Suiri 4/10 jämfört med MAL 6.92/10. Din justerade avvikelse är -2.51 (lägre än konsensus). Vilken del förklarar främst ditt betyg?",
         "options": [
           "Berättelsens dialogdrivet mysterium",
@@ -1258,14 +1537,29 @@
         "detection_reasons": [
           "consensus_residual_threshold"
         ],
-        "created_at_utc": "2026-11-14T13:12:47.762Z"
+        "created_at_utc": "2026-11-14T13:12:47.762Z",
+        "answer": {
+          "raw_response": "ab",
+          "selected_options": [
+            "Berättelsens dialogdrivet mysterium",
+            "Berättelsens övernaturlig problemlösning"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-14T20:57:36.806Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde \"Berättelsens dialogdrivet mysterium\" och \"Berättelsens övernaturlig problemlösning\"; orsakernas närmare innebörd och värderingsriktning ska inte antas utöver svaret.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "mal-39545": {
         "question_id": "mal-39545",
         "mal_id": 39545,
         "title": "Fragtime",
         "created_round": 400,
-        "status": "open",
+        "status": "answered",
         "question": "Du gav Fragtime 8/10 jämfört med MAL 6.57/10. Din justerade avvikelse är 1.84 (högre än konsensus). Vilken del förklarar främst ditt betyg?",
         "options": [
           "Berättelsens övernaturligt grepp som relationsmotor",
@@ -1276,14 +1570,29 @@
         "detection_reasons": [
           "consensus_residual_threshold"
         ],
-        "created_at_utc": "2026-11-14T13:12:47.762Z"
+        "created_at_utc": "2026-11-14T13:12:47.762Z",
+        "answer": {
+          "raw_response": "ab",
+          "selected_options": [
+            "Berättelsens övernaturligt grepp som relationsmotor",
+            "Berättelsens kort romantiskt drama med social friktion"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-14T20:57:36.806Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde \"Berättelsens övernaturligt grepp som relationsmotor\" och \"Berättelsens kort romantiskt drama med social friktion\"; orsakernas närmare innebörd och värderingsriktning ska inte antas utöver svaret.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "mal-39710": {
         "question_id": "mal-39710",
         "mal_id": 39710,
         "title": "Yesterday wo Utatte",
         "created_round": 400,
-        "status": "open",
+        "status": "answered",
         "question": "Du gav Yesterday wo Utatte 8/10 jämfört med MAL 6.87/10. Din justerade avvikelse är 1.54 (högre än konsensus). Vilken del förklarar främst ditt betyg?",
         "options": [
           "Berättelsens relationsval och obesvarade känslor",
@@ -1295,14 +1604,30 @@
         "detection_reasons": [
           "consensus_residual_threshold"
         ],
-        "created_at_utc": "2026-11-14T13:12:47.762Z"
+        "created_at_utc": "2026-11-14T13:12:47.762Z",
+        "answer": {
+          "raw_response": "abc",
+          "selected_options": [
+            "Berättelsens relationsval och obesvarade känslor",
+            "Berättelsens långsam vardagsrealism",
+            "Berättelsens sorg och svårigheten att gå vidare"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-14T20:57:36.806Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde \"Berättelsens relationsval och obesvarade känslor\" och \"Berättelsens långsam vardagsrealism\" och \"Berättelsens sorg och svårigheten att gå vidare\"; orsakernas närmare innebörd och värderingsriktning ska inte antas utöver svaret.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "mal-40716": {
         "question_id": "mal-40716",
         "mal_id": 40716,
         "title": "Kakushigoto",
         "created_round": 400,
-        "status": "open",
+        "status": "answered",
         "question": "Du gav Kakushigoto 6/10 jämfört med MAL 7.96/10. Din justerade avvikelse är -1.55 (lägre än konsensus). Vilken del förklarar främst ditt betyg?",
         "options": [
           "Berättelsens förälder–barn-relation",
@@ -1313,7 +1638,21 @@
         "detection_reasons": [
           "consensus_residual_threshold"
         ],
-        "created_at_utc": "2026-11-14T13:12:47.762Z"
+        "created_at_utc": "2026-11-14T13:12:47.762Z",
+        "answer": {
+          "raw_response": "b",
+          "selected_options": [
+            "Berättelsens komedi med emotionell inramning"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-14T20:57:36.806Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde \"Berättelsens komedi med emotionell inramning\"; orsakernas närmare innebörd och värderingsriktning ska inte antas utöver svaret.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       }
     }
   },
