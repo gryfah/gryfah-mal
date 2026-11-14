@@ -13277,6 +13277,38 @@
       "researched_at_utc": "2026-11-13T18:16:00.851Z",
       "uncertainties": []
     },
+    "39535": {
+      "mal_id": 39535,
+      "title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-14T18:14:21.289Z",
+      "synopsis": "En arbetslös, isolerad vuxen dör och återföds som barnet Rudeus Greyrat i en värld med magi och svärd. Med minnen från sitt tidigare liv försöker han använda sin andra chans bättre; hans uppväxt präglas av magistudier, nya vänskaper och uppdrag som lärare åt den unga adelsflickan Eris.",
+      "themes": [
+        "andra chanser",
+        "personlig utveckling",
+        "skam och tidigare misslyckanden",
+        "familj och tillhörighet"
+      ],
+      "tone": [
+        "äventyrlig",
+        "humoristisk",
+        "ibland obekväm och allvarlig"
+      ],
+      "pacing_and_structure": "Första TV-delens elva avsnitt följer Rudeus barndom kronologiskt, med successivt större social och geografisk räckvidd; vardagsmoment varvas med magiträning och konflikter.",
+      "character_dynamics": "Roxy är Rudeus magilärare, Sylphiette en vän från barndomen och Eris en temperamentsfull elev som han själv undervisar. Relationerna testar hans mognad och hans förmåga att bemöta andra.",
+      "distinctive_features": "Reinkarnationsfantasy med huvudpersonens vuxna minnen kvar i ett barns liv; stark betoning på långsiktig uppväxt snarare än omedelbar hjälteroll.",
+      "comparison_cues": [
+        "reinkarnation med bibehållna minnen",
+        "uppväxt- och lärlingsstruktur",
+        "huvudperson med tydliga moraliska brister",
+        "magiskt världsbygge genom vardagsliv"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://www.hulu.jp/mushoku-tensei-jobless-reincarnation",
+        "https://tv.apple.com/jp/show/%E7%84%A1%E8%81%B7%E8%BB%A2%E7%94%9F-%E7%95%B0%E4%B8%96%E7%95%8C%E8%A1%8C%E3%81%A3%E3%81%9F%E3%82%89%E6%9C%AC%E6%B0%97%E3%81%A0%E3%81%99/umc.cmc.1iml9zf6tbswbntb6qo1vf8ou"
+      ]
+    },
     "39545": {
       "mal_id": 39545,
       "title": "Fragtime",
@@ -13308,6 +13340,37 @@
         "https://myanimelist.net/anime/39545",
         "https://theanimelist.net/anime/fragtime",
         "https://www.imdb.com/title/tt11343974/"
+      ]
+    },
+    "39547": {
+      "mal_id": 39547,
+      "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-14T18:14:21.289Z",
+      "synopsis": "Tredje och avslutande TV-säsongen om Hachiman Hikigaya, Yukino Yukinoshita och Yui Yuigahama i skolans serviceklubb. Inför examen får klubben en sista begäran från Yukino, samtidigt som Iroha ber om hjälp med en skolbal. Frågan om en uppriktig relation mellan de tre får allt större tyngd.",
+      "themes": [
+        "uppriktighet och självbedrägeri",
+        "vänskap och romantisk osäkerhet",
+        "ansvar och självständighet",
+        "avslut och förändring"
+      ],
+      "tone": [
+        "eftertänksam",
+        "relationsspänd",
+        "bitvis komisk"
+      ],
+      "pacing_and_structure": "Tolv avsnitt med en sammanhängande avslutande relationskonflikt, där skolbalens praktiska problem fungerar som ram för personliga avgöranden.",
+      "character_dynamics": "Hachimans indirekta problemlösning utmanas av Yukinos vilja att agera självständigt och Yuis känslor för båda; Iroha för in skolbalen som yttre konflikt.",
+      "distinctive_features": "Finalsäsong som prioriterar konsekvenserna av serviceklubbens tidigare relationsmönster framför fristående klubbuppdrag.",
+      "comparison_cues": [
+        "relationsupplösning efter lång uppbyggnad",
+        "subtext och svårigheter att uttrycka känslor",
+        "praktiskt skolprojekt som relationskatalysator"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://www.tvguide.or.jp/db/anime/oregairu/season3/",
+        "https://www.tbs.co.jp/anime/oregairu/"
       ]
     },
     "39575": {
