@@ -12990,6 +12990,39 @@
         "https://anidex.tv/en/anime/39326"
       ]
     },
+    "39388": {
+      "mal_id": 39388,
+      "title": "Koisuru Asteroid",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-14T04:10:53.133Z",
+      "synopsis": "Mira Kinohata lovade som barn Ao Manaka att en dag upptäcka en asteroid. I gymnasiet återförenas de i skolans kombinerade astronomi- och geologiklubb och försöker tillsammans med klubbkamraterna närma sig det gamla löftet.",
+      "themes": [
+        "vänskap",
+        "naturvetenskaplig nyfikenhet",
+        "gemensamma mål",
+        "klubbgemenskap"
+      ],
+      "tone": [
+        "varm",
+        "lättsam",
+        "optimistisk"
+      ],
+      "pacing_and_structure": "Tolv avsnitt av vardagsnära klubbaktiviteter och lärande med gradvis framåtrörelse mot en gemensam ambition, snarare än tät konfliktintrig.",
+      "character_dynamics": "Mira är initiativrik och målmedveten; Ao delar hennes barndomslöfte, medan klubbens andra medlemmar vidgar perspektivet till geologi och grupparbete.",
+      "distinctive_features": "Astronomi och geologi får konkreta aktiviteter och ett långsiktigt asteroidmål som sammanhållande motiv.",
+      "comparison_cues": [
+        "skolklubbs-slice-of-life med konkret vetenskapligt ämne",
+        "barndomslöfte som driver vardagsberättelse"
+      ],
+      "uncertainties": [
+        "Briefen värderar inte vetenskapliga detaljers exakthet avsnitt för avsnitt."
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/39388",
+        "https://www.thetvdb.com/series/koisuru-asteroid",
+        "https://kaize.io/anime/koisuru-asteroid"
+      ]
+    },
     "39456": {
       "mal_id": 39456,
       "title": "Sounan desu ka?",
@@ -13020,6 +13053,74 @@
       "profile_status": "complete",
       "researched_at_utc": "2026-11-13T18:16:00.851Z",
       "uncertainties": []
+    },
+    "39545": {
+      "mal_id": 39545,
+      "title": "Fragtime",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-14T04:10:53.133Z",
+      "synopsis": "Den tillbakadragna skoleleven Misuzu Moritani kan stoppa tiden tre minuter åt gången. När hon upptäcker att klasskamraten Haruka Murakami förblir rörlig under tidsstoppet uppstår en oväntad och komplicerad närhet mellan dem.",
+      "themes": [
+        "social isolering",
+        "intimitet",
+        "makt och gränser",
+        "självbild"
+      ],
+      "tone": [
+        "romantisk",
+        "introspektiv",
+        "bitvis obekväm"
+      ],
+      "pacing_and_structure": "En cirka timslång film som använder ett övernaturligt grepp för ett koncentrerat relationsdrama snarare än för action eller tidsreseintriger.",
+      "character_dynamics": "Misuzus osäkerhet och Harukas självsäkerhet skapar en asymmetrisk relation där bådas avsikter och sårbarheter behöver förstås.",
+      "distinctive_features": "Tidsstopp på tre minuter och en person som är immun gör privatliv och samtycke till konkreta relationsfrågor.",
+      "comparison_cues": [
+        "övernaturligt grepp som relationsmotor",
+        "kort romantiskt drama med social friktion"
+      ],
+      "uncertainties": [
+        "Enskilda sceners betydelse och fullständig upplösning ingår inte i den spoilerfria briefen."
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/39545",
+        "https://theanimelist.net/anime/fragtime",
+        "https://www.imdb.com/title/tt11343974/"
+      ]
+    },
+    "39575": {
+      "mal_id": 39575,
+      "title": "Somali to Mori no Kamisama",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-14T04:10:53.133Z",
+      "synopsis": "I en värld där människor nästan utrotats hittar en skogsvaktande golem flickan Somali. Han tar henne under sitt beskydd och reser genom främmande samhällen för att söka efter andra människor, samtidigt som hennes ursprung behöver döljas.",
+      "themes": [
+        "föräldraskap",
+        "tillhörighet",
+        "utsatthet",
+        "fördomar",
+        "omsorg"
+      ],
+      "tone": [
+        "ömsint",
+        "melankolisk",
+        "äventyrlig",
+        "hotfull"
+      ],
+      "pacing_and_structure": "Episodisk resa genom olika miljöer med återkommande möten och faror, sammanhållen av sökandet efter Somalis familj och en växande föräldrarelation.",
+      "character_dynamics": "Den reserverade golemens beskyddaransvar kontrasteras mot Somalis nyfikenhet och tillit; deras band utvecklas genom resans vardag och risker.",
+      "distinctive_features": "Detaljerad fantasymiljö där människors utsatta ställning och en icke-mänsklig vårdnadshavare bär det emotionella dramat.",
+      "comparison_cues": [
+        "found-family-relation i fantasyresa",
+        "episodiska möten med övergripande sökande"
+      ],
+      "uncertainties": [
+        "Avslutningens detaljer utelämnas för att undvika spoilers."
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/39575",
+        "https://www.satelight.co.jp/en/works/somali-and-the-forest-spirit/",
+        "https://tv.apple.com/us/show/somali-and-the-forest-spirit/umc.cmc.1wp11iln7umwunq1zpp3nef2d"
+      ]
     },
     "39730": {
       "mal_id": 39730,
