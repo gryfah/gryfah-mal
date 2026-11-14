@@ -3618,6 +3618,29 @@
         "anime_snapshot_at": "2026-11-14T13:02:16.759086+00:00",
         "observed_at_utc": "2026-11-10T01:19:39.044Z"
       },
+      "3786": {
+        "mal_id": 3786,
+        "title": "Shin Evangelion Movie:||",
+        "observed_status": "completed",
+        "user_score": 10,
+        "mal_mean_score": 8.58,
+        "mal_num_scoring_users": 199742,
+        "mal_genres": [
+          "Award Winning",
+          "Drama",
+          "Mecha",
+          "Psychological",
+          "Sci-Fi",
+          "Suspense"
+        ],
+        "profile_ref": 3786,
+        "rating_band": "high",
+        "score_minus_mal": 1.42,
+        "baseline_median_offset": -0.41000000000000014,
+        "consensus_residual": 1.83,
+        "anime_snapshot_at": "2026-11-14T20:03:11.740956+00:00",
+        "observed_at_utc": "2026-11-14T20:17:16.838Z"
+      },
       "3989": {
         "mal_id": 3989,
         "title": "Suna no Bara: Yuki no Mokushiroku",
@@ -10128,26 +10151,26 @@
         "last_updated_utc": "2026-11-14T18:14:33.954Z"
       },
       "Award Winning": {
-        "n_rated": 39,
-        "mean_user_score": 7.666666666666667,
-        "n_high": 22,
+        "n_rated": 40,
+        "mean_user_score": 7.725,
+        "n_high": 23,
         "n_mild_positive": 16,
         "n_neutral": 1,
         "n_low": 0,
-        "mean_consensus_residual": 0.048974358974359186,
+        "mean_consensus_residual": 0.09350000000000021,
         "insufficient_evidence": false,
-        "last_updated_utc": "2026-11-14T18:14:33.954Z"
+        "last_updated_utc": "2026-11-14T20:17:16.838Z"
       },
       "Sci-Fi": {
-        "n_rated": 95,
-        "mean_user_score": 7.157894736842105,
-        "n_high": 37,
+        "n_rated": 96,
+        "mean_user_score": 7.1875,
+        "n_high": 38,
         "n_mild_positive": 33,
         "n_neutral": 25,
         "n_low": 0,
-        "mean_consensus_residual": 0.1276842105263159,
+        "mean_consensus_residual": 0.1454166666666668,
         "insufficient_evidence": false,
-        "last_updated_utc": "2026-11-14T18:14:33.954Z"
+        "last_updated_utc": "2026-11-14T20:17:16.838Z"
       },
       "Space": {
         "n_rated": 14,
@@ -10194,15 +10217,15 @@
         "last_updated_utc": "2026-11-14T18:14:33.954Z"
       },
       "Drama": {
-        "n_rated": 139,
-        "mean_user_score": 7.532374100719425,
-        "n_high": 76,
+        "n_rated": 140,
+        "mean_user_score": 7.55,
+        "n_high": 77,
         "n_mild_positive": 40,
         "n_neutral": 23,
         "n_low": 0,
-        "mean_consensus_residual": 0.19335766423357675,
+        "mean_consensus_residual": 0.205217391304348,
         "insufficient_evidence": false,
-        "last_updated_utc": "2026-11-14T18:14:33.954Z"
+        "last_updated_utc": "2026-11-14T20:17:16.838Z"
       },
       "Mystery": {
         "n_rated": 51,
@@ -10238,37 +10261,37 @@
         "last_updated_utc": "2026-11-14T18:14:33.954Z"
       },
       "Mecha": {
-        "n_rated": 47,
-        "mean_user_score": 7.297872340425532,
-        "n_high": 19,
+        "n_rated": 48,
+        "mean_user_score": 7.354166666666667,
+        "n_high": 20,
         "n_mild_positive": 17,
         "n_neutral": 11,
         "n_low": 0,
-        "mean_consensus_residual": 0.3853191489361704,
+        "mean_consensus_residual": 0.4154166666666668,
         "insufficient_evidence": false,
-        "last_updated_utc": "2026-11-14T18:14:33.954Z"
+        "last_updated_utc": "2026-11-14T20:17:16.838Z"
       },
       "Psychological": {
-        "n_rated": 32,
-        "mean_user_score": 7.75,
-        "n_high": 20,
+        "n_rated": 33,
+        "mean_user_score": 7.818181818181818,
+        "n_high": 21,
         "n_mild_positive": 10,
         "n_neutral": 2,
         "n_low": 0,
-        "mean_consensus_residual": 0.3896774193548389,
+        "mean_consensus_residual": 0.4346875000000001,
         "insufficient_evidence": false,
-        "last_updated_utc": "2026-11-14T18:14:33.954Z"
+        "last_updated_utc": "2026-11-14T20:17:16.838Z"
       },
       "Suspense": {
-        "n_rated": 47,
-        "mean_user_score": 7.51063829787234,
-        "n_high": 23,
+        "n_rated": 48,
+        "mean_user_score": 7.5625,
+        "n_high": 24,
         "n_mild_positive": 20,
         "n_neutral": 4,
         "n_low": 0,
-        "mean_consensus_residual": 0.03326086956521755,
+        "mean_consensus_residual": 0.07148936170212782,
         "insufficient_evidence": false,
-        "last_updated_utc": "2026-11-14T18:14:33.954Z"
+        "last_updated_utc": "2026-11-14T20:17:16.838Z"
       },
       "Seinen": {
         "n_rated": 54,
@@ -13895,6 +13918,17 @@
         "match_result": "indeterminate",
         "reason": "Den nuvarande hypotesen om berättelsetempo är preliminär och saknar tillräcklig oberoende, entydig evidens för att förutsäga detta verks betyg. Ingen smakmodellavvikelse fastställs.",
         "reviewed_at_utc": "2026-11-10T18:12:49.296Z"
+      },
+      "3786": {
+        "model_version": 1,
+        "user_score": 10,
+        "evidence_refs": [],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen tillräckligt stark oberoende narrativ evidens för en leave-one-out-prognos.",
+        "reviewed_at_utc": "2026-11-14T20:17:16.838Z"
       },
       "3989": {
         "model_version": 1,
