@@ -10516,6 +10516,28 @@
         "anime_snapshot_at": "2026-11-14T23:01:44.476572+00:00",
         "observed_at_utc": "2026-11-14T23:11:33.153Z"
       },
+      "42351": {
+        "mal_id": 42351,
+        "title": "Senpai ga Uzai Kouhai no Hanashi",
+        "observed_status": "completed",
+        "user_score": 7,
+        "mal_mean_score": 7.51,
+        "mal_num_scoring_users": 179904,
+        "mal_genres": [
+          "Adult Cast",
+          "Comedy",
+          "Love Status Quo",
+          "Romance",
+          "Workplace"
+        ],
+        "profile_ref": 42351,
+        "rating_band": "mild_positive",
+        "score_minus_mal": -0.5099999999999998,
+        "baseline_median_offset": -0.41000000000000014,
+        "consensus_residual": -0.09999999999999964,
+        "anime_snapshot_at": "2026-11-15T07:08:27.315331+00:00",
+        "observed_at_utc": "2026-11-15T07:14:04.458Z"
+      },
       "42361": {
         "mal_id": 42361,
         "title": "Ijiranaide, Nagatoro-san",
@@ -11089,15 +11111,15 @@
         "last_updated_utc": "2026-11-15T07:13:29.287Z"
       },
       "Adult Cast": {
-        "n_rated": 39,
+        "n_rated": 40,
         "mean_user_score": 7,
         "n_high": 14,
-        "n_mild_positive": 12,
+        "n_mild_positive": 13,
         "n_neutral": 12,
         "n_low": 1,
-        "mean_consensus_residual": -0.10384615384615373,
+        "mean_consensus_residual": -0.10374999999999987,
         "insufficient_evidence": false,
-        "last_updated_utc": "2026-11-15T07:13:29.287Z"
+        "last_updated_utc": "2026-11-15T07:14:04.458Z"
       },
       "Award Winning": {
         "n_rated": 40,
@@ -11287,15 +11309,15 @@
         "last_updated_utc": "2026-11-15T07:13:29.287Z"
       },
       "Comedy": {
-        "n_rated": 145,
-        "mean_user_score": 6.6482758620689655,
+        "n_rated": 146,
+        "mean_user_score": 6.6506849315068495,
         "n_high": 18,
-        "n_mild_positive": 63,
+        "n_mild_positive": 64,
         "n_neutral": 64,
         "n_low": 0,
-        "mean_consensus_residual": -0.18538461538461523,
+        "mean_consensus_residual": -0.18479166666666652,
         "insufficient_evidence": false,
-        "last_updated_utc": "2026-11-15T07:13:29.287Z"
+        "last_updated_utc": "2026-11-15T07:14:04.458Z"
       },
       "Ecchi": {
         "n_rated": 42,
@@ -11309,15 +11331,15 @@
         "last_updated_utc": "2026-11-15T07:13:29.287Z"
       },
       "Romance": {
-        "n_rated": 154,
-        "mean_user_score": 7.103896103896104,
+        "n_rated": 155,
+        "mean_user_score": 7.103225806451613,
         "n_high": 52,
-        "n_mild_positive": 57,
+        "n_mild_positive": 58,
         "n_neutral": 44,
         "n_low": 1,
-        "mean_consensus_residual": 0.07618421052631599,
+        "mean_consensus_residual": 0.07503267973856229,
         "insufficient_evidence": false,
-        "last_updated_utc": "2026-11-15T07:13:29.287Z"
+        "last_updated_utc": "2026-11-15T07:14:04.458Z"
       },
       "CGDCT": {
         "n_rated": 36,
@@ -11573,15 +11595,15 @@
         "last_updated_utc": "2026-11-15T07:13:29.287Z"
       },
       "Workplace": {
-        "n_rated": 12,
-        "mean_user_score": 6.75,
+        "n_rated": 13,
+        "mean_user_score": 6.769230769230769,
         "n_high": 2,
-        "n_mild_positive": 4,
+        "n_mild_positive": 5,
         "n_neutral": 6,
         "n_low": 0,
-        "mean_consensus_residual": -0.22333333333333316,
+        "mean_consensus_residual": -0.21384615384615366,
         "insufficient_evidence": false,
-        "last_updated_utc": "2026-11-15T07:13:29.287Z"
+        "last_updated_utc": "2026-11-15T07:14:04.458Z"
       },
       "Otaku Culture": {
         "n_rated": 18,
@@ -11771,15 +11793,15 @@
         "last_updated_utc": "2026-11-15T07:13:29.287Z"
       },
       "Love Status Quo": {
-        "n_rated": 6,
-        "mean_user_score": 6.666666666666667,
+        "n_rated": 7,
+        "mean_user_score": 6.714285714285714,
         "n_high": 0,
-        "n_mild_positive": 4,
+        "n_mild_positive": 5,
         "n_neutral": 2,
         "n_low": 0,
-        "mean_consensus_residual": 0.06166666666666668,
+        "mean_consensus_residual": 0.03857142857142864,
         "insufficient_evidence": false,
-        "last_updated_utc": "2026-11-15T07:13:29.287Z"
+        "last_updated_utc": "2026-11-15T07:14:04.458Z"
       },
       "Team Sports": {
         "n_rated": 1,
