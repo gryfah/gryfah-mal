@@ -2,7 +2,7 @@
 
 **Inventering:** 2026-11-15 10:31:37 (lokal tid).  
 **Källa:** lokalt körd PowerShell-inventering, `comfyui_inventering.json`.  
-**Status:** installerade filer och vissa Git-commits inventerade; körbar Python/PyTorch-miljö och externa modellvägar **inte** verifierade.  
+**Status:** hårdvara, ComfyUI-runtime, huvudbibliotekets filer och uppstart av custom nodes verifierade genom lokala inventeringen och startloggen. Externa modellvägar, enskilda filers innehåll och fungerande arbetsflöden är fortfarande inte verifierade.  
 **Viktigt:** detta GitHub-repository är publikt. Inventeringen beskriver enbart filnamn, inte modellinnehåll. Ingen fil har körts eller funktionstestats av inventeringen.
 
 ## Installation och miljö
@@ -11,13 +11,62 @@
 - ComfyUI: `Comfy-Org/ComfyUI`, branch `master`, commit `eee59185ff4f43ae2d9ad122b245619d27d9daad`.
 - `ComfyUI/main.py`: finns.
 - `ComfyUI/extra_model_paths.yaml`: **finns**, men innehåll och refererade externa mappar har **inte** lästs. Alla nedanstående listor gäller bara lokala undermappar under `ComfyUI/models`.
-- Skriptets `Environment` är **tomt objekt `{}`**. Ingen versionsinformation för ComfyUI:s Python, PyTorch, CUDA-runtime, Triton, SageAttention, xFormers, Transformers eller Diffusers kan utläsas. Detta är inte bevis för att paketen saknas.
-- Systemets Python 3.15.2 enligt den separata datorinventeringen ska **inte** antas vara ComfyUI:s Python.
+- Inventeringsskriptets `Environment` var **tomt (`{}`)**, men användarens **faktiska ComfyUI-startlogg från 2026-11-15 10:32** fastställer nedanstående Python-, PyTorch- och CUDA-runtime.
+- Systemets Python **3.15.2** och ComfyUI:s inbyggda Python **3.13.14** är **olika miljöer**.
 - Datorns separata hårdvaruinventering: RTX 5070 med 12 227 MiB VRAM, 16 GiB RAM, i7-9700K, Windows 11. Se [datorprofilen](datorprofil.md).
+
+## Verifierad runtime från faktisk uppstart
+
+**Källa:** ComfyUI-konsollogg daterad 2026-11-15, uppstart 10:32:28. Uppgifterna nedan är observerade under uppstart, inte en installationsgissning.
+
+| Del | Verifierat värde |
+| --- | --- |
+| ComfyUI | **0.45.0**, Git-commit `eee59185ff4f43ae2d9ad122b245619d27d9daad` |
+| Distributionsform | Windows portable; `--windows-standalone-build --enable-manager` |
+| Körbar Python | `C:\\ComfyUI_windows_portable\\python_embeded\\python.exe` |
+| Python | **3.13.14**, 64 bit |
+| PyTorch | **2.10.0+cu130** |
+| PyTorch CUDA-runtime | **CUDA 13.0** (framgår av `+cu130`, inte samma som drivrutinens CUDA UMD 13.5) |
+| GPU | **NVIDIA RTX 5070** på `cuda:0`, `cudaMallocAsync` |
+| ComfyUI rapporterat minne | **12 200 MB VRAM**, **16 209 MB system-RAM** |
+| VRAM-läge | `NORMAL_VRAM` |
+| GPU-offloading | Asynkron viktoffloading, **2 streams**, **6483 MB pinned memory** |
+| DynamicVRAM | Detekterat och **aktiverat** |
+| Attention backend | **PyTorch attention** |
+| `comfy-aimdo` | **0.6.0**; NVML pressure enabled |
+| `comfy-kitchen` | **0.2.41**; CUDA-backend tillgänglig, Triton-backend tillgänglig men **disabled** för comfy-kitchen |
+| Triton | **Tillgänglig** enligt SeedVR2:s optimeringskontroll, versionsnummer okänt |
+| SageAttention | **Inte installerat / gick inte att importera** vid uppstart |
+| Flash Attention | **Inte tillgängligt** enligt SeedVR2:s kontroll |
+| Conv3D-workaround | Aktiv, PyTorch 2.10.0, cuDNN-kod **91200** |
+| ComfyUI frontend | **1.59.1** |
+| Workflow templates | **0.11.107** |
+| Embedded docs | **0.5.16** |
+| Easy-Use | **v1.4.1**, laddad |
+| Krea2Edit | **v2.0.0**, laddad |
+| ComfyUI-GGUF | Importerad; loggen anger full torch-compile tillåten |
+| Manager | Startad, GitPython-backend, public network mode |
+| Temporär arbetskatalog | `ComfyUI/output/Persontransfer/temp` (relativt ComfyUI-roten) |
+
+**Tolkning:** `PyTorch 2.10.0+cu130` anger PyTorch-byggens CUDA-runtime, medan tidigare `nvidia-smi` rapporterade drivrutin 621.24 / CUDA UMD 13.5. Ingen motsättning föreligger. Installerat fristående CUDA Toolkit är fortfarande inte verifierat.
+
+### Bekräftad uppstart av custom nodes
+
+Startloggen listar importtider för **samtliga 17 kataloger** i tabellen nedan, från <0,1 s till **5,8 s** för `comfyui-easy-use`. Loggen innehåller dessutom `websocket_image_save.py`, en enskild Pythonfil som **inte** ingick i inventeringens 17 kataloger. Det finns inga registrerade importfel i detta loggutdrag. Detta bekräftar uppstart/import, **inte** att varje enskild node eller workflow är funktionstestad.
+
+### Observerade varningar och kända begränsningar
+
+- Windows-installationen tvingade **single-GPU mode** på grund av en NVIDIA-relaterad fråga. Startloggen nämner `--cuda-device all` som möjlig avstängning; det finns inget behov av att ändra inställningen på denna en-GPU-konfiguration.
+- `sageattention` kunde inte importeras. SeedVR2 rapporterade **SageAttention ❌ / Flash Attention ❌ / Triton ✅**. Detta är valfria optimeringar, inte ett bevis på att Wan eller SeedVR2 är trasiga.
+- `rgthree-comfy` varnar uttryckligen för kompatibilitets- och prestandaproblem med ComfyUI:s **Nodes 2.0**. Undvik att aktivera Nodes 2.0 utan behov när rgthree-workflows används.
+- Frontend rapporterade import av föråldrade API:er (`/scripts/ui.js`, `/extensions/core/widgetInputs.js`, `/scripts/ui/components/button.js`), men loggen anger inte säkert vilken extension som ansvarar för varje anrop.
+- Tillfällig katalog under `output/Persontransfer/temp` kunde inte tas bort: **WinError 5, åtkomst nekad**. Skanningen fortsatte och exkluderade den katalogen för processen.
+- Manager använde under uppstart en äldre registry-cache eftersom uppdateringen fortfarande pågick.
+- Inventeringsskriptets kataloglista ger **inte** hashar, viktmetadata, exakta aktiva modellkombinationer eller resultat från inferens.
 
 ## Omfattning
 
-**147 inventerade modellfiler**, varav **85** i standardkategorier och **62** i övriga modellmappar; **17** kataloger för custom nodes. Filtyper omfattar Safetensors, GGUF, PyTorch-checkpoints och ONNX. Filstorlekar i källrapporten är avrundade GiB, inte hashar. Mappar utan matchande fil kan ändå innehålla konfiguration, tokenizer, bilder eller andra filer som skriptet inte inventerar.
+**147 inventerade modellfiler**, varav **85** i standardkategorier och **62** i övriga modellmappar; **17** kataloger för custom nodes. Den **kompletta, maskinläsbara originalinventeringen**, inklusive samtliga 147 filers exakta relativa sökväg, avrundad storlek, filtyp och ändringsdatum, finns i [comfyui-modellregister.json](comfyui-modellregister.json). Filtyper omfattar Safetensors, GGUF, PyTorch-checkpoints och ONNX. Filstorlekar i källrapporten är avrundade GiB, inte hashar. Mappar utan matchande fil kan ändå innehålla konfiguration, tokenizer, bilder eller andra filer som skriptet inte inventerar.
 
 | Standardmapp | Antal modellfiler |
 | --- | ---: |
@@ -122,7 +171,7 @@ Filnamn och identifierbara familjer i rapporten:
 - Qwen3.5 9B: Heretic Q5_K_M.
 - Dirty-Muse-Writer: Q6_K.
 
-Vissa projektorer är separata GGUF-filer; att de finns betyder inte att alla modell-/projektorkombinationer fungerar. Gemma4 Q3-/Q4-/Q2- och Qwen3.8 Q3-/IQ2-varianter är separata lokala modeller. Den exakta modellfilinventeringen finns i den ursprungliga `comfyui_inventering.json` från 2026-11-15.
+Vissa projektorer är separata GGUF-filer; att de finns betyder inte att alla modell-/projektorkombinationer fungerar. Gemma4 Q3-/Q4-/Q2- och Qwen3.8 Q3-/IQ2-varianter är separata lokala modeller. Samtliga LLM-filnamn med relativa sökvägar, storlekar och ändringsdatum finns i [modellregistret](comfyui-modellregister.json).
 
 ## Övriga modellmappar (62 filer i 26 kataloger)
 
@@ -169,14 +218,14 @@ Att `models/wan` är tom innebär inte att Wan saknas: Wan-filer finns i `checkp
 
 **Ej rapporterad Git-commit** kan bero på att katalogen saknar `.git` eller att Git-kommandot inte kunde läsa den; det innebär inte att noden är inaktiv.
 
-## Prioriterade kunskapsluckor
+## Återstående kunskapsluckor
 
-1. **ComfyUI Python-miljön:** inbyggd Python-plats, version, `torch.__version__`, `torch.version.cuda`, CUDA-enhet, Triton, SageAttention, xFormers, FlashAttention och andra paket. Inventeringens `Environment={}` måste undersökas.
-2. **`extra_model_paths.yaml`:** externa modellmappar kan innehålla ytterligare diffusion models, LoRA, checkpoints och text encoders. Inga externa sökvägar traverserades.
-3. **Funktion/kompatibilitet:** katalogexistens säger inte att en custom node kan importeras; filnamn säger inte att en modell laddar eller fungerar med viss VAE/textencoder.
-4. **Metadata:** exakta filstorlekar i byte, SHA-256 för deduplicering, Safetensors metadata (utan att läsa vikter) och GGUF-metadata behövs för säkrare identifiering.
-5. **Prestanda:** faktisk VRAM-förbrukning, CPU-RAM-offloading, latens, upplösning, frames och samplerkonfiguration måste mätas.
+1. **`extra_model_paths.yaml`:** externa modellmappar kan innehålla ytterligare diffusion models, LoRA, checkpoints och text encoders. Konfigurationsfilens innehåll och dessa mappar har inte inventerats.
+2. **Ytterligare paket:** exakt versionsnummer för Triton, Transformers, Diffusers, xFormers och andra beroenden framgår inte av uppstartsloggen. SageAttention saknades vid uppstart, och Flash Attention rapporterades otillgängligt av SeedVR2.
+3. **Funktion/kompatibilitet:** node-import är observerad, men en modellfil på disk är inte bevis för att modellen kan laddas eller fungerar med en viss VAE, encoder eller sampler.
+4. **Metadata:** exakta filstorlekar i byte, SHA-256 för deduplicering, Safetensors headers och GGUF-metadata behövs för säkrare identifiering.
+5. **Prestanda:** faktisk VRAM-förbrukning per workflow, CPU-RAM-offloading, latens, upplösning, frameantal och samplerinställningar måste mätas.
 
 ## Arbetsregel för framtida projekt
 
-Denna fil är referensen för vilka modellfiler som **fanns** vid inventeringen. Undvik att föreslå ny nedladdning av en modell som redan finns på listan innan versions- och filkompatibilitet kontrollerats. Läs datorprofilen för hårdvaran. Anta inte att en modell fungerar enbart för att filen finns; fråga bara efter ytterligare uppgifter när det påverkar beslutet.
+Denna fil och [det kompletta JSON-registret](comfyui-modellregister.json) är referensen för vilka modellfiler som **fanns** vid inventeringen. Undvik att föreslå ny nedladdning av en modell som redan finns på listan innan versions- och filkompatibilitet kontrollerats. Läs datorprofilen för hårdvaran. Anta inte att en modell fungerar enbart för att filen finns; fråga bara efter ytterligare uppgifter när det påverkar beslutet.
