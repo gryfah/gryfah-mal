@@ -15583,6 +15583,67 @@
         "https://natalie.mu/eiga/film/187598"
       ]
     },
+    "49310": {
+      "mal_id": 49310,
+      "title": "Fruits Basket: Prelude",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-15T11:15:48.062Z",
+      "synopsis": "Filmen förenar återblickar på Fruits Basket med en förhistoria om Tohrus föräldrar Kyoko och Katsuya Honda samt en epilog. Den nya förhistorien följer hur deras möte och relation påverkar Kyokos liv.",
+      "themes": [
+        "Familj och generationsarv",
+        "Sorg och förlust",
+        "Förändring genom kärlek"
+      ],
+      "tone": [
+        "Melankolisk",
+        "Romantisk",
+        "Känslosam"
+      ],
+      "pacing_and_structure": "Långfilm i tre delar: sammanfattande återblickar, förhistoria och epilog. Förutsätter i hög grad bekantskap med huvudserien.",
+      "character_dynamics": "Kyoko och Katsuya är förhistoriens huvudpar; deras relation ger sammanhang till Tohrus familjebakgrund. Ramberättelsen knyter an till Tohru och Kyo.",
+      "distinctive_features": "Film från 2022 producerad av TMS Entertainment, regisserad av Yoshihide Ibata; kombinerar tidigare seriematerial med nytt föräldramaterial och epilog.",
+      "comparison_cues": [
+        "Familjehistoria genom tillbakablick",
+        "Romantisk förhistoria",
+        "Kombination av recap och nytt drama"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/49310",
+        "https://en.wikipedia.org/wiki/Fruits_Basket%3A_Prelude"
+      ]
+    },
+    "49520": {
+      "mal_id": 49520,
+      "title": "Aharen-san wa Hakarenai",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-15T11:15:48.062Z",
+      "synopsis": "Den tystlåtna gymnasieeleven Reina Aharen har svårt att avgöra lämpligt avstånd till andra. När bänkgrannen Raidou plockar upp hennes suddgummi börjar en ovanlig vänskap som utvecklas genom vardagliga missförstånd.",
+      "themes": [
+        "Social osäkerhet",
+        "Vänskap och tillit",
+        "Personliga gränser"
+      ],
+      "tone": [
+        "Varm",
+        "Absurd",
+        "Lågmält humoristisk"
+      ],
+      "pacing_and_structure": "Episodisk skolkomedi med korta situationer och en gradvis fördjupad relation.",
+      "character_dynamics": "Aharen är fåordig och har svårt att bedöma närhet; Raidou är välvillig men tolkar ofta hennes beteende genom överdrivna fantasier.",
+      "distinctive_features": "Asato Mizus manga adapterad av Felix Film; stillsam framtoning kontrasterar mot överdrivna föreställningar och komiska eskaleringar.",
+      "comparison_cues": [
+        "Vardaglig relationskomedi",
+        "Absurd humor ur sociala missförstånd",
+        "Gradvis vänskapsutveckling"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/49520",
+        "https://www.mbs.jp/aharen/",
+        "https://www.crunchyroll.com/id/series/GNVHKN72N/aharen-san-wa-hakarenai"
+      ]
+    },
     "49605": {
       "mal_id": 49605,
       "title": "Ganbare Douki-chan",
