@@ -1,92 +1,101 @@
-# Datorprofil – gemensam referens för AI-projekt
+# Datorprofil – gemensam maskinreferens
 
-**Status:** Ofullständig – hårdvaran är ännu inte inventerad på den faktiska datorn.  
-**Senast sammanställd:** 2026-11-15  
-**Princip:** Okänt betyder inte noll, saknas eller inkompatibelt. Gissa aldrig hårdvaruvärden.  
-**Integritet:** Publicera inte datornamn, användarnamn, serienummer, MAC-adresser, IP-adresser, licensnycklar eller personliga filvägar här.
+**Inventerad:** 2026-11-15 10:20:48 (Europe/Stockholm)  
+**Källa:** Lokalt insamlad `datorinventering.json` från Windows PowerShell.  
+**Status:** Kärnhårdvara verifierad; AI-miljön och vissa komponenter återstår att inventera.  
+**Integritet:** Serienummer, datornamn, användarnamn, MAC/IP, licensnycklar och privata sökvägar ska inte läggas in i denna publika fil.
 
-## Verifierat genom tidigare användaruppgifter
+## Sammanfattning för alla projekt
 
-| Område | Uppgift | Säkerhet |
+| Del | Verifierad specifikation |
+| --- | --- |
+| Operativsystem | Windows 11 Home, 64-bit, version 10.0.26300, build 26300 |
+| Processor | Intel Core i7-9700K @ 3,60 GHz; **8 kärnor / 8 trådar** |
+| Moderkort | Alienware **0T76PD** |
+| BIOS | **1.0.26** |
+| Arbetsminne | **16 GiB** (2 × 8 GiB), **2400 MHz** konfigurerat |
+| Diskret GPU | **NVIDIA GeForce RTX 5070** |
+| Dedikerat GPU-minne | **12 227 MiB (~11,94 GiB)** enligt `nvidia-smi` |
+| NVIDIA-drivrutin | **621.24** enligt `nvidia-smi` |
+| CUDA UMD (drivrutinsrapport) | **13.5** – inte ett mått på installerat CUDA Toolkit |
+| Integrerad GPU | Intel UHD Graphics 630 |
+| Identifierad fysisk SSD | **Predator SSD GM7 4TB**, rapporterad storlek **3815,44 GiB** |
+| C: | **3814,33 GiB** totalt; **1861,77 GiB** ledigt vid inventering |
+| G: | **2054 GiB** totalt; **1484,46 GiB** ledigt vid inventering |
+| Python i PATH | **Python 3.15.2** |
+| PyTorch | **Ej fastställt** (fältet i insamlingsrapporten är tomt) |
+| ComfyUI-/Wan-miljö | Används enligt användaruppgift; versioner och Python-miljö ännu inte inventerade |
+
+## Hårdvarudetaljer
+
+### CPU / moderkort / RAM
+
+- Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz; 8 fysiska kärnor och 8 logiska processorer.
+- Alienware 0T76PD, BIOS 1.0.26.
+- Två minnesmoduler om 8 GiB vardera, 2400 MHz rapporterad och konfigurerad hastighet.
+- RAM-modulernas rapporterade artikelnummer: `XJ69DF-MIE` (båda). Tillverkarkoden `01980000802C` är inte tolkad.
+- Kanaler, faktiskt timings, lediga DIMM-platser och maximal stödd kapacitet är inte verifierade.
+
+### Grafik och drivrutiner
+
+| Adapter | Windows-drivrutinsversion | Kommentar |
 | --- | --- | --- |
-| Plattform | Windows-PC | Användaruppgift |
-| Gränssnitt för generativ AI | ComfyUI körs lokalt | Användaruppgift |
-| Bild-/videoprojekt | Lokala flöden för bild/video; Wan används/utvärderas | Användaruppgift |
-| Lokala språkmodeller | Gemma 26B har nämnts i planerade arbetsflöden | Avsedd användning; installation ej verifierad |
-| Lagring | SSD finns, och diskuteras i samband med nästan fullt lagringsutrymme | Användaruppgift; storlek okänd |
-| Windows-växlingsfil | Finns/har funnits | Användaruppgift; nuvarande inställning okänd |
+| NVIDIA GeForce RTX 5070 | 32.0.16.2124 | `nvidia-smi` anger 621.24 |
+| Intel UHD Graphics 630 | 27.20.100.9664 | Integrerad grafik |
 
-## Hårdvara – inväntar lokal inventering
+`nvidia-smi` rapporterade **12227 MiB totalt GPU-minne** och **11158 MiB ledigt** vid inventeringstillfället, alltså ungefär **1069 MiB upptaget**. Dessa siffror är en ögonblicksbild, inte konstant tillgängligt minne.
 
-| Komponent | Exakt modell / kapacitet | Status |
-| --- | --- | --- |
-| Processor (CPU), kärnor/trådar | Okänt | Ej avläst |
-| Moderkort och BIOS/UEFI | Okänt | Ej avläst |
-| Installerat RAM | Okänt | Ej avläst |
-| Grafikkort (GPU), eventuella flera kort | Okänt | Ej avläst |
-| Dedikerat grafikminne (VRAM) | Okänt | Ej avläst |
-| Grafikdrivrutin | Okänt | Ej avläst |
-| CUDA-drivrutinsstöd / CUDA Toolkit | Okänt | Ej avläst |
-| Diskar: modell, typ, storlek och ledigt utrymme | Okänt | Ej avläst |
-| Windows-utgåva, version och build | Okänt | Ej avläst |
-| Python och PyTorch | Okänt | Ej avläst |
-| ComfyUI-version och installationsvariant | Okänt | Ej avläst |
-| GPU-kylning/temperatur under belastning | Okänt | Ej mätt |
-| Nätaggregat och effektgränser | Okänt | Kräver separat kontroll |
-| Skärmupplösning | Okänt | Ej avläst |
+**Viktigt:** Windows `Win32_VideoController.AdapterRAM` rapporterade ~4 GiB för RTX 5070, men denna äldre WMI-egenskap är olämplig för att fastställa VRAM på moderna kort. **Använd 12227 MiB från `nvidia-smi`**, inte 4 GiB.
 
-## AI-kapacitet – får inte antas innan inventeringen är klar
+Drivrutinens CUDA UMD-version **13.5** visar drivrutinsmiljön; installerad CUDA Toolkit och PyTorch CUDA-runtime är fortfarande **okända**. GPU:ns belastningstemperatur, TGP och faktisk uthållig prestanda är inte uppmätta.
 
-För ComfyUI, diffusion och Wan ska bedömningar baseras på **GPU-modell, faktisk dedikerad VRAM, drivrutin, PyTorch/CUDA-version, RAM, ledigt diskutrymme, modellstorlek, precision och offloading**. CUDA-värdet i `nvidia-smi` är drivrutinens högsta stödda CUDA-version, inte nödvändigtvis den installerade CUDA Toolkit-versionen. *Delat* GPU-minne är inte samma sak som dedikerat VRAM.
+### Lagring
 
-När mätvärden har hämtats, fyll även i:
-- Verifierat fungerande modeller, upplösningar, batchstorlekar och videolängder.
-- Faktiska minnesgränser, genereringstid och vanliga out-of-memory-fel.
-- Placering av modellbibliotek (endast generiska enhetsbeteckningar; inga privata sökvägar).
-- Eventuell samkörning med andra processer på grafikkortet.
-- Versionslåsningar och kända kompatibilitetsproblem.
+Inventeringen listade **en identifierad fysisk disk**, Predator SSD GM7 4TB (3815,44 GiB). Windows klassificerade den under `Win32_DiskDrive` som `SCSI` och `Fixed hard disk media`; dessa generiska fält ska **inte** användas för att dra slutsatsen att disken är en mekanisk hårddisk.
 
-## Engångsinventering på Windows
+| Volym | Kapacitet | Ledigt | Kommentar |
+| --- | ---: | ---: | --- |
+| C: | 3814,33 GiB | 1861,77 GiB | Matchar storleksmässigt den identifierade 4 TB-disken |
+| G: | 2054 GiB | 1484,46 GiB | **Fysisk bakomliggande lagring ej identifierad** |
 
-Öppna **PowerShell** på datorn och kör nedanstående kod. Den ändrar inte systeminställningar. Den läser maskinuppgifter och skriver en rapport på skrivbordet. Läs igenom rapporten innan du delar den. Rapporten utelämnar avsiktligt datornamn, användarnamn, serienummer, nätverksidentifierare och lokala installationssökvägar.
+**Anmärkning:** G: syns som separat logisk volym men inte som separat enhet i rapportens lista över fysiska diskar. Anta inte att båda volymerna ligger på samma disk, och summera inte volymerna som verifierad fysisk kapacitet. Möjliga förklaringar kräver ytterligare inventering.
+
+## Mjukvara och lokala AI-flöden
+
+- Windows 11 Home 64-bit, build 26300.
+- `python --version` gav **Python 3.15.2** i den miljö där inventeringsskriptet kördes.
+- `PyTorch`-fältet var **tomt**. Det fastställer varken att PyTorch är installerat eller att det saknas; en isolerad ComfyUI-miljö kan använda en annan Python.
+- `CUDA_Toolkit` fanns inte som fält i den uppladdade rapporten. Status **okänd**.
+- `DirectX` markerades **ej insamlat**.
+- Enligt tidigare användaruppgifter används ComfyUI, Wan-baserad video och experiment med lokala språkmodeller (bl.a. Gemma 26B). Exakt installerad version, modellprecision, ramverk, modellplacering och VRAM-offloading är ej verifierade.
+
+## Praktiska riktlinjer för modellval och felsökning
+
+Maskinen har **cirka 12 GiB dedikerat GPU-minne** och **16 GiB system-RAM**. Dessa två pooler är inte utbytbara med samma prestanda. Vid förslag om ComfyUI, Wan, LLM eller uppskalning ska en lösning utvärderas med dessa utgångsvärden; antag **inte** 16+12 GiB som en gemensam snabb minnespool.
+
+- Vid GPU-minnesproblem: kontrollera modellprecision/kvantisering, upplösning, antal frames, batchstorlek, samtidiga processer, temporära buffertar och offloading.
+- Vid CPU/RAM- och diskbaserad offloading kan **16 GiB RAM** vara den praktiska flaskhalsen även om grafikkortet inte är fullt.
+- Ge inte exakta prestandalöften utan test; CPU-generation, PCIe, minnesbandbredd, GPU-minne och implementation kan påverka kraftigt.
+- Kontrollera tillgängligt VRAM vid körtillfället: inventeringens lediga 11158 MiB gäller endast klockslaget ovan.
+- Håll isär drivrutin (621.24), CUDA UMD (13.5), CUDA Toolkit (okänd), PyTorch CUDA-runtime (okänd) och ComfyUI:s Python (okänd).
+
+## Återstående kontrollpunkter
+
+1. **ComfyUI:** installationsmetod (portable/venv), Python-version, PyTorch-version, `torch.version.cuda`, `torch.cuda.is_available()`, ComfyUI-commit/version, relevanta custom nodes.
+2. **G:-volymens lagring:** fysisk enhet eller annan underliggande volymteknik; anslutningstyp och verkligt ledigt utrymme.
+3. **System:** nätaggregat, GPU-variant, temperaturer vid last, RAM-uppgraderingsmöjligheter, växlingsfilens storlek och lagringsplats.
+4. **Arbetsflöden:** uppmätta genereringstider, fungerande videolängder och resolutioner, modeller/precision, VRAM-toppar samt dokumenterade OOM-fel.
+
+### Fördjupad kontroll vid behov
+
+Kör i ComfyUI:s **egen Python-miljö**, inte nödvändigtvis den `python` som finns i PATH:
 
 ```powershell
-$ErrorActionPreference = 'SilentlyContinue'
-$report = [ordered]@{}
-$os = Get-CimInstance Win32_OperatingSystem
-$cpu = @(Get-CimInstance Win32_Processor)
-$board = Get-CimInstance Win32_BaseBoard
-$bios = Get-CimInstance Win32_BIOS
-$ram = @(Get-CimInstance Win32_PhysicalMemory)
-$gpu = @(Get-CimInstance Win32_VideoController)
-$disks = @(Get-CimInstance Win32_DiskDrive)
-$volumes = @(Get-CimInstance Win32_LogicalDisk -Filter "DriveType=3")
-$report['Inventeringsdatum'] = (Get-Date -Format 'yyyy-MM-dd HH:mm:ss zzz')
-$report['Windows'] = [ordered]@{ Caption=$os.Caption; Version=$os.Version; Build=$os.BuildNumber; Architecture=$os.OSArchitecture }
-$report['CPU'] = @($cpu | ForEach-Object { [ordered]@{ Model=$_.Name.Trim(); Cores=$_.NumberOfCores; Threads=$_.NumberOfLogicalProcessors } })
-$report['Motherboard'] = [ordered]@{ Manufacturer=$board.Manufacturer; Product=$board.Product; BIOSVersion=($bios.SMBIOSBIOSVersion -join ', ') }
-$report['RAM'] = [ordered]@{
-  TotalGiB=[math]::Round(($ram | Measure-Object -Property Capacity -Sum).Sum / 1GB,2)
-  Modules=@($ram | ForEach-Object { [ordered]@{ CapacityGiB=[math]::Round($_.Capacity/1GB,2); SpeedMHz=$_.Speed; ConfiguredClockMHz=$_.ConfiguredClockSpeed; Manufacturer=$_.Manufacturer; PartNumber=$_.PartNumber } })
-}
-$report['GPU'] = @($gpu | ForEach-Object { [ordered]@{ Name=$_.Name; DriverVersion=$_.DriverVersion; AdapterRAM_ReportedBytes=$_.AdapterRAM } })
-$report['PhysicalDisks'] = @($disks | ForEach-Object { [ordered]@{ Model=$_.Model; Interface=$_.InterfaceType; SizeGiB=[math]::Round($_.Size/1GB,2); MediaType=$_.MediaType } })
-$report['Volumes'] = @($volumes | ForEach-Object { [ordered]@{ Drive=$_.DeviceID; SizeGiB=[math]::Round($_.Size/1GB,2); FreeGiB=[math]::Round($_.FreeSpace/1GB,2) } })
-$report['Python'] = (& python --version 2>&1 | Out-String).Trim()
-$report['PyTorch'] = (& python -c "import torch; print('torch='+torch.__version__); print('torch_cuda='+str(torch.version.cuda)); print('cuda_available='+str(torch.cuda.is_available())); print('gpu_names='+str([torch.cuda.get_device_name(i) for i in range(torch.cuda.device_count())]))" 2>&1 | Out-String).Trim()
-$report['NvidiaSMI'] = (& nvidia-smi --query-gpu=name,driver_version,memory.total,memory.free --format=csv,noheader,nounits 2>&1 | Out-String).Trim()
-$report['NvidiaSMI_DriverCUDA'] = (& nvidia-smi 2>&1 | Select-Object -First 4 | Out-String).Trim()
-$report['CUDA_Toolkit'] = (& nvcc --version 2>&1 | Out-String).Trim()
-$report['DirectX'] = 'Ej insamlat'
-$out = Join-Path ([Environment]::GetFolderPath('Desktop')) 'datorinventering.json'
-$report | ConvertTo-Json -Depth 8 | Set-Content -Path $out -Encoding UTF8
-Write-Host "Inventering skapad: $out"
+python -c "import sys, torch; print('Python:',sys.version); print('PyTorch:',torch.__version__); print('Torch CUDA:',torch.version.cuda); print('CUDA available:',torch.cuda.is_available()); print('GPUs:',[torch.cuda.get_device_name(i) for i in range(torch.cuda.device_count())])"
 ```
 
-**Viktigt:** Om ett kommando saknas är det inte bevis för att motsvarande program saknas i alla Python-/ComfyUI-miljöer. En separat ComfyUI-virtuell miljö kan ha andra paket än det `python` som finns i PATH. Win32_VideoControllers rapporterade AdapterRAM kan vara fel eller begränsat; använd i första hand `nvidia-smi` för NVIDIA-kort.
+För kopplingen mellan G: och fysisk disk kan Windows PowerShell-kommandona `Get-Volume`, `Get-Partition` och `Get-Disk` användas. Granska resultaten och utelämna unika enhetsidentifierare före publicering.
 
-## Användning i framtida projekt
+## Referenspolicy
 
-Använd den här filen som gemensam referens när du bedömer datorns prestanda, modellkompatibilitet och minnesgränser. Kontrollera **status och inventeringsdatum** innan en uppgift används som fakta. Hämta alltid de verkliga maskinvärdena från användarens insamlade rapport, inte från lösa antaganden eller gamla resonemang.
-
-**Nästa steg:** Kör engångsinventeringen, granska `datorinventering.json` och dela resultatet. Ersätt därefter alla `Okänt`-fält med verifierade uppgifter och datum.
+Detta är **den gemensamma maskinprofilen** för framtida projekt. Läs den när datorns förmåga, prestanda eller kompatibilitet diskuteras. Håll isär **uppmätt**, **uppgivet** och **okänt**. Uppdatera datum och värden när datorn uppgraderas. Datorprofilen är en statisk ögonblicksbild, inte liveövervakning.
