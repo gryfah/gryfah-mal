@@ -23,8 +23,8 @@
 | C: | **3814,33 GiB** totalt; **1861,77 GiB** ledigt vid inventering |
 | G: | **2054 GiB** totalt; **1484,46 GiB** ledigt vid inventering |
 | Python i PATH | **Python 3.15.2** |
-| PyTorch | **Ej fastställt** (fältet i insamlingsrapporten är tomt) |
-| ComfyUI-/Wan-miljö | Används enligt användaruppgift; versioner och Python-miljö ännu inte inventerade |
+| PyTorch i ComfyUI | **2.10.0+cu130**, verifierat i startlogg 2026-11-15 |
+| ComfyUI | **0.45.0**, Python **3.13.14**, portable installation; [detaljinventering](comfyui-inventering.md) |
 
 ## Hårdvarudetaljer
 
@@ -62,16 +62,16 @@ Inventeringen listade **en identifierad fysisk disk**, Predator SSD GM7 4TB (381
 
 ## ComfyUI-installation – separat inventering 2026-11-15
 
-En fördjupad inventering av `C:\\ComfyUI_windows_portable` finns i **[ComfyUI-inventeringen](comfyui-inventering.md)**. Den dokumenterar ComfyUI Git-commit `eee59185ff4f43ae2d9ad122b245619d27d9daad`, **147 modellfiler** inklusive UNet, Wan, LoRA, text encoders, VAE, GGUF och **17 custom-node-kataloger**. `extra_model_paths.yaml` finns, men dess externa sökvägar har inte inventerats. **ComfyUI:s Python/PyTorch/CUDA-paketversioner är fortfarande okända** eftersom miljöfältet i insamlingsrapporten var tomt.
+En fördjupad inventering av `C:\\ComfyUI_windows_portable` finns i **[ComfyUI-inventeringen](comfyui-inventering.md)**. Den dokumenterar ComfyUI Git-commit `eee59185ff4f43ae2d9ad122b245619d27d9daad`, **147 modellfiler** inklusive UNet, Wan, LoRA, text encoders, VAE, GGUF och **17 custom-node-kataloger**. `extra_model_paths.yaml` finns, men dess externa sökvägar har inte inventerats. **Aktiva ComfyUI-versioner är nu verifierade genom startloggen:** Python 3.13.14, PyTorch 2.10.0+cu130, ComfyUI 0.45.0. [Hela det maskinläsbara modellregistret](comfyui-modellregister.json) omfattar samtliga 147 inventerade filer.
 
 ## Mjukvara och lokala AI-flöden
 
 - Windows 11 Home 64-bit, build 26300.
 - `python --version` gav **Python 3.15.2** i den miljö där inventeringsskriptet kördes.
-- `PyTorch`-fältet var **tomt**. Det fastställer varken att PyTorch är installerat eller att det saknas; en isolerad ComfyUI-miljö kan använda en annan Python.
+- Den ursprungliga inventeringens `PyTorch`-fält var **tomt**, men senare **ComfyUI-startlogg verifierar PyTorch 2.10.0+cu130** i installationens inbyggda Python 3.13.14. System-Python 3.15.2 är separat.
 - `CUDA_Toolkit` fanns inte som fält i den uppladdade rapporten. Status **okänd**.
 - `DirectX` markerades **ej insamlat**.
-- Enligt tidigare användaruppgifter används ComfyUI, Wan-baserad video och experiment med lokala språkmodeller (bl.a. Gemma 26B). Exakt installerad version, modellprecision, ramverk, modellplacering och VRAM-offloading är ej verifierade.
+- ComfyUI **0.45.0**, Python **3.13.14**, PyTorch **2.10.0+cu130** och DynamicVRAM/offloading verifierades i uppstartsloggen. Wan-, Krea2-, Qwen- och GGUF-modellfiler samt custom nodes är dokumenterade i [ComfyUI-inventeringen](comfyui-inventering.md). Faktiska workflow-prestanda och fungerande modellkombinationer är fortfarande ej verifierade.
 
 ## Praktiska riktlinjer för modellval och felsökning
 
@@ -85,7 +85,7 @@ Maskinen har **cirka 12 GiB dedikerat GPU-minne** och **16 GiB system-RAM**. Des
 
 ## Återstående kontrollpunkter
 
-1. **ComfyUI:** installationsmetod (portable/venv), Python-version, PyTorch-version, `torch.version.cuda`, `torch.cuda.is_available()`, ComfyUI-commit/version, relevanta custom nodes.
+1. **ComfyUI:** installation, Python, PyTorch, CUDA-enhet, ComfyUI-commit/version och importerade custom nodes är verifierade. Återstår: exakt version på fler paket, extra modellvägar, metadata om modellernas faktiska innehåll och funktionstester.
 2. **G:-volymens lagring:** fysisk enhet eller annan underliggande volymteknik; anslutningstyp och verkligt ledigt utrymme.
 3. **System:** nätaggregat, GPU-variant, temperaturer vid last, RAM-uppgraderingsmöjligheter, växlingsfilens storlek och lagringsplats.
 4. **Arbetsflöden:** uppmätta genereringstider, fungerande videolängder och resolutioner, modeller/precision, VRAM-toppar samt dokumenterade OOM-fel.
