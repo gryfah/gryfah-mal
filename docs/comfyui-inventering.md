@@ -17,7 +17,7 @@
 
 ## Omfattning
 
-**147 inventerade modellfiler**, varav **88** i standardkategorier och **59** i övriga modellmappar; **17** kataloger för custom nodes. Filtyper omfattar Safetensors, GGUF, PyTorch-checkpoints och ONNX. Filstorlekar i källrapporten är avrundade GiB, inte hashar. Mappar utan matchande fil kan ändå innehålla konfiguration, tokenizer, bilder eller andra filer som skriptet inte inventerar.
+**147 inventerade modellfiler**, varav **85** i standardkategorier och **62** i övriga modellmappar; **17** kataloger för custom nodes. Filtyper omfattar Safetensors, GGUF, PyTorch-checkpoints och ONNX. Filstorlekar i källrapporten är avrundade GiB, inte hashar. Mappar utan matchande fil kan ändå innehålla konfiguration, tokenizer, bilder eller andra filer som skriptet inte inventerar.
 
 | Standardmapp | Antal modellfiler |
 | --- | ---: |
@@ -124,7 +124,7 @@ Filnamn och identifierbara familjer i rapporten:
 
 Vissa projektorer är separata GGUF-filer; att de finns betyder inte att alla modell-/projektorkombinationer fungerar. Gemma4 Q3-/Q4-/Q2- och Qwen3.8 Q3-/IQ2-varianter är separata lokala modeller. Den exakta modellfilinventeringen finns i den ursprungliga `comfyui_inventering.json` från 2026-11-15.
 
-## Övriga modellmappar (59 filer i 26 kataloger)
+## Övriga modellmappar (62 filer i 26 kataloger)
 
 | Katalog | Antal | Exempel eller funktion |
 | --- | ---: | --- |
