@@ -19630,6 +19630,130 @@
       "eligible_flag_count": 43,
       "completed_at_utc": "2026-11-14T13:12:36.818Z",
       "milestone": "400"
+    },
+    "explicit_user_qualitative_evidence": {
+      "premise_execution_20261115": {
+        "id": "premise_execution_20261115",
+        "mal_ids": [
+          634,
+          8861,
+          37517,
+          35849
+        ],
+        "kind": "general_preference",
+        "verbatim": "jag uppskattar om man genomför en premiss väl oavsett. väl utförd ägd och utstuderad ecchi kan ge lika höga betyg som lika väl utförd kostymdrama. slösa inte min tid, äg din ip, mjölka den inte, kom till slutsats",
+        "interpretation": "Explicit genreövergripande princip: konsekvent och målmedvetet genomförande, respekt för tittarens tid, undvikande av utdragen exploatering, och en meningsfull upplösning kan väga tyngre än genre. Inte en universell regel om korta serier eller enbart lyckliga slut.",
+        "limitations": [
+          "Kvalitetsomdömen får inte härledas cirkulärt ur användarbetyget.",
+          "Identifiera verkliga motexempel och bedöm vilka egenskaper som kan beläggas från externa verkbriefar."
+        ],
+        "source": "explicit_user_statement_in_current_chat",
+        "recorded_date": "2026-11-15",
+        "evidence_status": "direct_verbatim_with_separate_cautious_interpretation",
+        "model_review_status": "pending"
+      },
+      "franxx_relationships_20261115": {
+        "id": "franxx_relationships_20261115",
+        "mal_ids": [
+          35849
+        ],
+        "kind": "specific_work",
+        "verbatim": "för tbh är mecha I franxx subpar. relationer däremot, peak.",
+        "interpretation": "Användaren gav Darling in the FranXX 10/10 men värderar seriens mecha-del som undermålig och relationerna som exceptionellt starka. Genrens förekomst ska inte behandlas som den positiva orsaken till betyget.",
+        "limitations": [
+          "Mecha-ramverket kan vara narrativt funktionellt även om användaren inte uppskattar dess eget genomförande."
+        ],
+        "source": "explicit_user_statement_in_current_chat",
+        "recorded_date": "2026-11-15",
+        "evidence_status": "direct_verbatim_with_separate_cautious_interpretation",
+        "model_review_status": "pending"
+      },
+      "happy_sugar_life_motivation_20261115": {
+        "id": "happy_sugar_life_motivation_20261115",
+        "mal_ids": [
+          37517
+        ],
+        "kind": "specific_work",
+        "verbatim": "gillade du den pga yandere? Nej jag gillade den för hur den framgångsrikt porträtterade två personer ställda mot världen (enligt deras uppfattning) och hur de fann ultimat lycka hos varandra i en nattsvart verklighet.",
+        "interpretation": "Det höga betyget för Happy Sugar Life motiveras uttryckligen av framgångsrik gestaltning av två personers subjektivt upplevda gemenskap och lycka i en mörk omvärld; inte av yandere-arketypen som sådan. Parentesen 'enligt deras uppfattning' är viktig; inget moraliskt godkännande kan antas.",
+        "limitations": [
+          "Dra inte en generell slutsats om dragning till yandere, tabu eller våld."
+        ],
+        "source": "explicit_user_statement_in_current_chat",
+        "recorded_date": "2026-11-15",
+        "evidence_status": "direct_verbatim_with_separate_cautious_interpretation",
+        "model_review_status": "pending"
+      },
+      "koi_kaze_execution_20261115": {
+        "id": "koi_kaze_execution_20261115",
+        "mal_ids": [
+          634
+        ],
+        "kind": "specific_work",
+        "verbatim": "Koi kaze. problematisk story som genomförs oerhört verklighetstrogen och förankrad. äger premissen, håller tonen, mjölkar inte och kommer till slutsat",
+        "interpretation": "Koi Kaze (8/10) uppskattas för realistisk förankring, konsekvent ton, att en obekväm premiss tas på allvar, att berättelsen inte dras ut och att den når sin slutsats.",
+        "limitations": [
+          "Tycke för genomförandet är inte automatiskt tycke för premissens moral eller själva tabut."
+        ],
+        "source": "explicit_user_statement_in_current_chat",
+        "recorded_date": "2026-11-15",
+        "evidence_status": "direct_verbatim_with_separate_cautious_interpretation",
+        "model_review_status": "pending"
+      },
+      "yosuga_koi_kaze_comparison_20261115": {
+        "id": "yosuga_koi_kaze_comparison_20261115",
+        "mal_ids": [
+          8861,
+          634
+        ],
+        "kind": "cross_work",
+        "verbatim": "vi har storyn om det där tvillingparet. sora nånting. Där genomförs en liknande dramaturgi men med något sämre resultat.",
+        "interpretation": "Användaren jämför sannolikt Yosuga no Sora (6/10) med Koi Kaze (8/10): liknande dramaturgisk ambition men något sämre genomförande. Exakt varför resultatet blev sämre angavs inte.",
+        "limitations": [
+          "Titeln identifierades genom kontext och behöver inte behandlas som explicit bekräftad av användaren.",
+          "Ange inte fragmenterad struktur eller ojämn ton som användarens motiv utan uttryckligt stöd."
+        ],
+        "source": "explicit_user_statement_in_current_chat",
+        "recorded_date": "2026-11-15",
+        "evidence_status": "direct_verbatim_with_separate_cautious_interpretation",
+        "model_review_status": "pending"
+      },
+      "twgok_arc_format_20261115": {
+        "id": "twgok_arc_format_20261115",
+        "mal_ids": [
+          8525,
+          10080,
+          16706
+        ],
+        "kind": "cross_work",
+        "verbatim": "twgok. formatet med block berättelser där jag gav den ip höga betyg men inte kunde klara av nån annan ip som jobbade i samma format",
+        "interpretation": "Användaren uppskattar TWGOK trots block/arc-formatet (MAL 7,7,8), men har ogillat en annan, fortfarande oidentifierad serie med liknande format. Själva formatet är därför inte en tillräcklig prediktor för uppskattning.",
+        "limitations": [
+          "Den andra IP:n är INTE bekräftat Amagami SS, trots att den titeln föreslogs i samtalet.",
+          "Undvik att tillskriva användaren specifika skäl som reset-kontinuitet eller sammanhängande romans utan nya uppgifter.",
+          "Seiren 7/10 är ytterligare anledning att undvika ett generellt avståndstagande från blockformat."
+        ],
+        "source": "explicit_user_statement_in_current_chat",
+        "recorded_date": "2026-11-15",
+        "evidence_status": "direct_verbatim_with_separate_cautious_interpretation",
+        "model_review_status": "pending"
+      },
+      "anti_genre_determinism_20261115": {
+        "id": "anti_genre_determinism_20261115",
+        "mal_ids": [
+          35849
+        ],
+        "kind": "general_preference",
+        "verbatim": "ai, jag ser höga betyg på franxx gundam, macross, etc etc så rimligen kommer du älska gundam - insert subtitle. Fredrik, nej. rakt av nej.",
+        "interpretation": "Användaren avvisar extrapolering från liknande franchise-/genrekomponenter till automatisk uppskattning av nästa titel. Prognoser måste väga vilka komponenter som faktiskt drev betyget och kan behöva avstå från säker rekommendation.",
+        "limitations": [
+          "Uttalandet är en kritik mot förenklade rekommendationer, inte ett belägg för att användaren ogillar en särskild Gundam-titel."
+        ],
+        "source": "explicit_user_statement_in_current_chat",
+        "recorded_date": "2026-11-15",
+        "evidence_status": "direct_verbatim_with_separate_cautious_interpretation",
+        "model_review_status": "pending"
+      }
     }
   }
 }
