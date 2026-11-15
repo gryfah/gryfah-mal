@@ -60,6 +60,10 @@ Inventeringen listade **en identifierad fysisk disk**, Predator SSD GM7 4TB (381
 
 **Anmärkning:** G: syns som separat logisk volym men inte som separat enhet i rapportens lista över fysiska diskar. Anta inte att båda volymerna ligger på samma disk, och summera inte volymerna som verifierad fysisk kapacitet. Möjliga förklaringar kräver ytterligare inventering.
 
+## ComfyUI-installation – separat inventering 2026-11-15
+
+En fördjupad inventering av `C:\\ComfyUI_windows_portable` finns i **[ComfyUI-inventeringen](comfyui-inventering.md)**. Den dokumenterar ComfyUI Git-commit `eee59185ff4f43ae2d9ad122b245619d27d9daad`, **147 modellfiler** inklusive UNet, Wan, LoRA, text encoders, VAE, GGUF och **17 custom-node-kataloger**. `extra_model_paths.yaml` finns, men dess externa sökvägar har inte inventerats. **ComfyUI:s Python/PyTorch/CUDA-paketversioner är fortfarande okända** eftersom miljöfältet i insamlingsrapporten var tomt.
+
 ## Mjukvara och lokala AI-flöden
 
 - Windows 11 Home 64-bit, build 26300.
