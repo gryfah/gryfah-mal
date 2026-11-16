@@ -17598,6 +17598,38 @@
         "https://tv.apple.com/es/show/shy/umc.cmc.2j72ywkexsiz57as41mcbqcz0"
       ]
     },
+    "53262": {
+      "mal_id": 53262,
+      "title": "Hoshikuzu Telepath",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-16T10:21:12.766Z",
+      "synopsis": "Den blyga gymnasieeleven Umika Konohoshi har svårt att tala med andra och drömmer om att nå ut i rymden. När klasskamraten Yuu Akeuchi säger sig vara utomjording finner Umika en oväntad vän. Tillsammans med andra elever börjar de bygga raketer, samtidigt som Umika försöker våga uttrycka sig.",
+      "themes": [
+        "Kommunikationssvårigheter och tillhörighet",
+        "Vänskap och samarbete",
+        "Rymddrömmar som gemensamt mål"
+      ],
+      "tone": [
+        "Ömsint",
+        "Hoppfull",
+        "Lättsam med osäkra och känslosamma inslag"
+      ],
+      "pacing_and_structure": "Skolvardag och grupparbete byggs kring små steg i raketprojektet; tekniska försök och personliga hinder avlöser varandra snarare än ett stort rymdäventyr.",
+      "character_dynamics": "Umikas tillbakadragenhet kontrasteras mot Yuus öppna entusiasm. Haruno bidrar med stöd och Matataki med tekniskt kunnande och en mer kantig hållning, vilket skapar friktion och utveckling i gruppen.",
+      "distinctive_features": "Pannkontakt, kallad 'foreheadpathy', används som ett konkret uttryck för att förstå känslor när orden inte räcker till.",
+      "comparison_cues": [
+        "Ensemble som samlas kring praktiskt projekt",
+        "Social ångest skildrad genom vardagliga interaktioner",
+        "Lågmält drama inom en söt skolserie"
+      ],
+      "uncertainties": [
+        "Yuus påstående om utomjordiskt ursprung bör behandlas som seriens premiss, inte ett verifierat faktum inom berättelsen."
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/53262",
+        "https://tv.apple.com/us/show/stardust-telepath/umc.cmc.t8qce133jnl2lgk6dpxzp72u"
+      ]
+    },
     "53379": {
       "mal_id": 53379,
       "title": "Uchi no Kaisha no Chiisai Senpai no Hanashi",
@@ -17730,6 +17762,36 @@
       ],
       "profile_status": "complete",
       "researched_at_utc": "2026-11-06T14:20:21.625Z"
+    },
+    "53833": {
+      "mal_id": 53833,
+      "title": "Watashi no Oshi wa Akuyaku Reijou.",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-16T10:21:12.766Z",
+      "synopsis": "Kontorsarbetaren Rei vaknar som Rae Taylor i sitt favoritspel, ett romantiskt fantasyspel där hjältinnan normalt uppvaktar prinsar. Rae väljer i stället att öppet uppvakta spelets högdragna antagonist Claire François och använder sin kunskap om spelvärlden för att navigera skolans konflikter.",
+      "themes": [
+        "Kärlek som bryter mot förväntade romantiska roller",
+        "Klasskillnader och privilegier",
+        "Spelkunskap och självbestämmande"
+      ],
+      "tone": [
+        "Lekfull",
+        "Romantisk",
+        "Bitvis samhällskritisk"
+      ],
+      "pacing_and_structure": "Skolbaserad romantisk komedi med återkommande uppvaktning och konflikter, som gradvis vidgar perspektivet mot klassmotsättningar i fantasyriket.",
+      "character_dynamics": "Raes offensiva, ofta skämtsamma närmanden möter Claires stolthet och motstånd. Deras skilda sociala positioner ger förhållandet en konflikt utöver den komiska dynamiken.",
+      "distinctive_features": "Otome-isekai som medvetet förkastar spelets förväntade prinsromans till förmån för hjältinnans förälskelse i skurken.",
+      "comparison_cues": [
+        "Romantik mellan två kvinnliga huvudpersoner",
+        "Metahumor kring dejtingspelskonventioner",
+        "Komedi som övergår i tydligare sociala konflikter"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/53833",
+        "https://www.crunchyroll.com/series/GVDHX851V/im-in-love-with-the-villainess"
+      ]
     },
     "53912": {
       "mal_id": 53912,
