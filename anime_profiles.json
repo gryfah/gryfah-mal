@@ -805,6 +805,40 @@
       "researched_at_utc": "2026-11-07T20:12:41.538Z",
       "uncertainties": []
     },
+    "366": {
+      "mal_id": 366,
+      "title": "AIKa",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-16T23:16:56.329Z",
+      "synopsis": "Efter en global katastrof har stora landområden sjunkit under havsytan. Aika Sumeragi arbetar med att bärga värdefulla föremål och information ur översvämmade områden. Tillsammans med Rion hamnar hon i strid med forskaren Hagen och hans paramilitära Delmo-styrka.",
+      "themes": [
+        "skattjakt och bärgning",
+        "teknologiskt maktmissbruk",
+        "överlevnad efter katastrof",
+        "partnerskap"
+      ],
+      "tone": [
+        "actionbetonad",
+        "lättsam",
+        "överdriven",
+        "sexuellt anspelande"
+      ],
+      "pacing_and_structure": "Kort OVA med ett inledande sammanhängande äventyr och senare mer fristående konfrontationer; högt fokus på slagsmål och visuella gags snarare än långsam världsetablering.",
+      "character_dynamics": "Den kompetenta Aika fungerar som den drivande agenten medan Rion är hennes mindre erfarna följeslagare. Hagen och Delmo-styrkan står för det återkommande yttre hotet.",
+      "distinctive_features": "Kombinerar postapokalyptisk undervattensmiljö och spionaction med mycket framträdande fanservice och slapstickartad stridskoreografi.",
+      "comparison_cues": [
+        "action kontra fanservice",
+        "kompetent huvudperson och yngre partner",
+        "kort OVA-format",
+        "episodisk antagonistkonflikt"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/366",
+        "https://tv.apple.com/jp/show/aika/umc.cmc.8xu39y8acmz3dxsxz30oq1xs",
+        "https://en.wikipedia.org/wiki/Agent_Aika"
+      ]
+    },
     "369": {
       "mal_id": 369,
       "title": "Boogiepop wa Warawanai",
@@ -1383,6 +1417,40 @@
         "https://myanimelist.net/anime/572",
         "https://www.ghibli.jp/works/nausicaa/",
         "https://en.wikipedia.org/wiki/Nausica%C3%A4_of_the_Valley_of_the_Wind_%28film%29"
+      ]
+    },
+    "573": {
+      "mal_id": 573,
+      "title": "Saber Marionette J",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-16T23:16:56.329Z",
+      "synopsis": "På koloniplaneten Terra II lever en mansdominerad mänsklig civilisation där kvinnoliknande robotar, marionetter, fyller olika roller. Den unge Otaru Mamiya väcker tre ovanliga marionetter – Lime, Cherry och Bloodberry – vars så kallade maiden circuits ger dem egna känslor. Deras vardag och band till Otaru dras in i en konflikt med den expansiva staten Gartland.",
+      "themes": [
+        "artificiellt liv och känslor",
+        "mänsklighet och identitet",
+        "vänskap och tillgivenhet",
+        "maktkonflikt"
+      ],
+      "tone": [
+        "komisk",
+        "äventyrlig",
+        "sentimental",
+        "bitvis dramatisk"
+      ],
+      "pacing_and_structure": "TV-serie med återkommande situationskomik och relationsepisoder som gradvis kopplas till en större politisk och science fiction-betonad konflikt.",
+      "character_dynamics": "Lime är impulsiv och lekfull, Cherry omsorgsfull och romantiskt orienterad och Bloodberry mer direkt och kraftfull; deras olikheter skapar både konkurrens och sammanhållning kring Otaru. Faust och hans egna marionetter bildar en konfliktfylld motpol.",
+      "distinctive_features": "Blandar 1990-talets haremkomedi och action med frågan om emotionell autonomi hos artificiella människor i ett samhälle utan biologiska kvinnor.",
+      "comparison_cues": [
+        "episodisk humor kontra övergripande intrig",
+        "robotars känsloliv",
+        "trio med kontrasterande personligheter",
+        "romantisk rivalitet"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/573",
+        "https://animeguides.com/guides/detaille/sabermarionnettej.html",
+        "https://en.wikipedia.org/wiki/Saber_Marionette_J"
       ]
     },
     "578": {
