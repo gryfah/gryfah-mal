@@ -15290,6 +15290,39 @@
         "https://www.aniplex.co.jp/lineup/Vivy/story/"
       ]
     },
+    "46431": {
+      "mal_id": 46431,
+      "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan: Dakara, Shishunki wa Owarazu ni, Seishun wa Tsuzuiteiku.",
+      "profile_status": "partial",
+      "researched_at_utc": "2026-11-16T15:16:59.312Z",
+      "synopsis": "Ett fristående bonusavsnitt som följer den tredje säsongen av Oregairu. Hachiman Hikigaya och hans bekantskapskrets kring skolans serviceklubb fortsätter att hantera vardagsliv och relationer efter huvudseriens avslutning.",
+      "themes": [
+        "Ungdomstidens fortsättning",
+        "Vänskap och romantiska relationer",
+        "Förändrade roller efter skolklubbens tidigare konflikter"
+      ],
+      "tone": [
+        "Vardaglig",
+        "Relationsorienterad",
+        "Lätt komisk"
+      ],
+      "pacing_and_structure": "Ett enda cirka 24 minuter långt OVA-avsnitt, utgivet som bonus till ett spel 2023; ingen fristående säsong eller ny längre intrig.",
+      "character_dynamics": "Hachiman, Yukino och Yui har en etablerad relationshistoria från tv-serien. Bonusavsnittet förutsätter kännedom om den, snarare än att introducera en ny ensemble.",
+      "distinctive_features": "Tillhör Oregairus avslutande Kan-del och distribuerades med begränsad utgåva av seriens spel för PlayStation 4 och Nintendo Switch.",
+      "comparison_cues": [
+        "Epilogliknande bonusmaterial snarare än ny huvudberättelse",
+        "Dialog och relationer i redan etablerad ensemble",
+        "Kortformat med beroende av tidigare säsonger"
+      ],
+      "uncertainties": [
+        "Tillgängliga katalogbeskrivningar verifierar utgivning och sammanhang men ger begränsad detaljerad, tillförlitlig handlingsinformation om just detta OVA-avsnitt."
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/46431",
+        "https://anilist.co/anime/128643/Yahari-Ore-no-Seishun-Love-Come-wa-Machigatteiru-Kan-Dakara-Shishunki-wa-Owarazu-ni-Seishun-wa-Tsuzuiteiku/",
+        "https://theanimelist.net/anime/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan-dakara-shishunki-wa-owarazu-ni-seishun-wa-tsuzuiteiku"
+      ]
+    },
     "47158": {
       "mal_id": 47158,
       "title": "Tomodachi no Imouto ga Ore ni dake Uzai",
@@ -18273,6 +18306,39 @@
       "sources": [
         "https://myanimelist.net/anime/54856",
         "https://en.wikipedia.org/wiki/Horimiya:_The_Missing_Pieces"
+      ]
+    },
+    "54870": {
+      "mal_id": 54870,
+      "title": "Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-16T15:16:59.312Z",
+      "synopsis": "När Mai Sakurajima tar studenten ser hennes pojkvän Sakuta Azusagawa en liten flicka som liknar Mai som barn. Samtidigt vill Sakutas och Kaedes mor åter träffa sin dotter efter en lång frånvaro. Ett nytt oförklarligt fenomen drabbar Sakuta när familjerelationerna ställs i centrum.",
+      "themes": [
+        "Familj och återförening",
+        "Skuld och sårbarhet",
+        "Övergång till vuxenlivet",
+        "Identitet och övernaturliga manifestationer av psykiska konflikter"
+      ],
+      "tone": [
+        "Eftertänksam",
+        "Melankolisk",
+        "Övernaturligt gåtfull",
+        "Varmt relationsdramatisk"
+      ],
+      "pacing_and_structure": "En sammanhållen långfilm från 2023, byggd kring ett nytt fall av seriens pubertetssyndrom och en familjekonflikt; förutsätter tidigare berättelse om Sakuta och Kaede.",
+      "character_dynamics": "Sakutas omsorg om systern Kaede och deras komplicerade förhållande till modern bär familjedramat. Mai är Sakutas etablerade partner och en central del av hans vardag.",
+      "distinctive_features": "CloverWorks-film som fortsätter light novel-seriens kombination av vardagliga känslokonflikter och övernaturliga anomalier; knyter en ny gåta till Sakutas familjehistoria.",
+      "comparison_cues": [
+        "Övernaturlig metafor för personlig konflikt",
+        "Familjeåterförening snarare än ny romantisk huvudrelation",
+        "Långfilmsformat med kontinuitetsberoende"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/54870",
+        "https://thetvdb.com/movies/seishun-buta-yarou-wa-randoseru-girl-no-yume-wo-minai",
+        "https://www.mirailist.com/anime/24918/rascal-does-not-dream-of-a-knapsack-kid"
       ]
     },
     "54968": {
