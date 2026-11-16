@@ -418,6 +418,42 @@
       "profile_status": "complete",
       "researched_at_utc": "2026-11-08T01:15:19.748Z"
     },
+    "145": {
+      "mal_id": 145,
+      "title": "Kareshi Kanojo no Jijou",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-16T22:19:58.778Z",
+      "synopsis": "Yukino Miyazawa har byggt sin identitet kring att framstå som skolans perfekta och omtyckta elev. När den lika framgångsrike Souichirou Arima överträffar henne uppstår rivalitet; när han upptäcker hennes privata, mindre polerade sida utvecklas deras relation gradvis mot en mer uppriktig närhet.",
+      "themes": [
+        "självbild och fasader",
+        "prestationskrav",
+        "förälskelse",
+        "sårbarhet och tillit",
+        "mognad"
+      ],
+      "tone": [
+        "romantisk",
+        "självironiskt komisk",
+        "introspektiv",
+        "stundvis allvarlig"
+      ],
+      "pacing_and_structure": "26-avsnitts skolromans som rör sig från rivalitet och situationskomik mot relations- och identitetsdrama. Regin använder uttrycksfulla visuella avbrott och varierad framställning snarare än en konsekvent naturalistisk ton.",
+      "character_dynamics": "Yukinos behov av bekräftelse kolliderar med Arimas till synes oklanderliga personlighet; när båda får anledning att ifrågasätta sina offentliga roller uppstår ömsesidig förståelse och romantiskt intresse.",
+      "distinctive_features": "Hideaki Annos tv-regi, Gainax/J.C.Staff-produktion och en självmedveten kombination av psykologisk monolog, stiliserad komedi och shoujo-romans.",
+      "comparison_cues": [
+        "romans där social maskering är kärnkonflikt",
+        "stilistiskt experimentell tv-regi",
+        "relation som utvecklas genom ömsesidig sårbarhet"
+      ],
+      "uncertainties": [
+        "Animeadaptionen täcker inte hela mangans fortsatta berättelse; seriens slut ska inte förväxlas med förlagans slut."
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/145",
+        "https://www.enoki-films.co.jp/pro_karekano.php",
+        "https://en.wikipedia.org/wiki/Kare_Kano"
+      ]
+    },
     "164": {
       "mal_id": 164,
       "title": "Mononoke Hime",
@@ -2279,6 +2315,41 @@
         "https://www.rottentomatoes.com/m/macross_plus_movie_edition"
       ]
     },
+    "1251": {
+      "mal_id": 1251,
+      "title": "Fushigi no Umi no Nadia",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-16T22:19:58.778Z",
+      "synopsis": "I en alternativ version av 1889 möter den unge uppfinnaren Jean den gåtfulla Nadia, som bär ett eftertraktat blått smycke. Deras flykt undan juveltjuvar växer till ett äventyr kring kapten Nemo, ubåten Nautilus och en större konflikt om avancerad teknik och världens framtid.",
+      "themes": [
+        "identitet och ursprung",
+        "vetenskap och teknik",
+        "frihet kontra makt",
+        "vänskap och tillit",
+        "upptäcktsresa"
+      ],
+      "tone": [
+        "äventyrlig",
+        "mystisk",
+        "komisk",
+        "ibland mörk och dramatisk"
+      ],
+      "pacing_and_structure": "39-avsnittsserie som börjar med ungdomligt jakt- och reseäventyr och successivt växlar mot större science fiction-konflikter; skiftar mellan lättsammare mellanspel och sammanhängande dramatik.",
+      "character_dynamics": "Jean är nyfiken, uppfinningsrik och söker kontakt; Nadia är självständig och försiktig med tillit. Grandis och hennes följeslagare börjar som förföljare, medan Nemo blir en central vuxenfigur kring vilken äventyret vidgas.",
+      "distinctive_features": "Jules Verne-inspirerad retrofuturism, 1800-talsmiljö, den avancerade ubåten Nautilus och en blandning av äventyrsromantik och teknologisk science fiction.",
+      "comparison_cues": [
+        "äventyrsserie med växande övergripande mysterium",
+        "kontrast mellan lekfulla resescener och mörkare konflikt",
+        "relationsutveckling i ett stort ensembleäventyr"
+      ],
+      "uncertainties": [
+        "Detaljer om seriens ojämna produktions- och avsnittsperioder har inte verifierats mot primär källa och värderas därför inte här."
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/1251",
+        "https://en.wikipedia.org/wiki/Nadia:_The_Secret_of_Blue_Water"
+      ]
+    },
     "1270": {
       "mal_id": 1270,
       "title": "Black Magic M-66",
@@ -2562,6 +2633,40 @@
         "https://anilist.co/anime/1462",
         "https://theanimelist.net/anime/memories",
         "https://en.wikipedia.org/wiki/Memories_(1995_film)"
+      ]
+    },
+    "1470": {
+      "mal_id": 1470,
+      "title": "City Hunter",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-16T22:19:58.778Z",
+      "synopsis": "I Tokyos Shinjuku tar den skicklige skytten och problemlösaren Ryo Saeba upp riskfyllda uppdrag som privat 'sweeper'. Efter att hans kollega Hideyuki Makimura dödats blir Hideyukis syster Kaori Ryos partner. Deras klientfall blandar brottsbekämpning med ett återkommande komiskt gräl om Ryos kvinnojakt.",
+      "themes": [
+        "brott och rättvisa",
+        "partnerskap och förtroende",
+        "storstadens undre värld",
+        "ansvar efter förlust"
+      ],
+      "tone": [
+        "actionbetonad",
+        "burleskt komisk",
+        "stundvis allvarlig"
+      ],
+      "pacing_and_structure": "Lång tv-serie med många uppdrags- och klientcentrerade avsnitt; actionfallen bryts ofta av slapstick och återkommande karaktärskomik snarare än en enda oavbruten intrig.",
+      "character_dynamics": "Ryo är professionellt kompetent men privat ansvarslös och flirtig; Kaori organiserar uppdragen och utmanar hans beteende. Partnerskapet förenar praktiskt samarbete, konflikter och antydd romantisk spänning.",
+      "distinctive_features": "1980-talets Shinjuku-miljö, skjutvapenaction, privatdetektivfall och den överdrivna komiska kontrasten mellan Ryos yrkesroll och hans uppvaktningar.",
+      "comparison_cues": [
+        "fallbaserad action med återkommande duo",
+        "slapstick insprängd i kriminalberättelse",
+        "lång serie med episodisk variation"
+      ],
+      "uncertainties": [
+        "Enskilda senare avsnitts utveckling och slutpunkt har inte detaljgranskats."
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/1470",
+        "https://www.primevideo.com/-/zh_TW/detail/0POLSB1COHVATKUBCXU70G51U8",
+        "https://www.tvmaze.com/shows/7067/city-hunter"
       ]
     },
     "1519": {
