@@ -15222,7 +15222,7 @@
       "updated_at_utc": "2026-11-10T11:17:04.036Z",
       "reassessment_required": true,
       "progress": {
-        "processed": 520,
+        "processed": 529,
         "total": 529
       }
     },
@@ -22415,6 +22415,76 @@
         "reason": "Ingen tillräckligt stark och oberoende narrativ evidens för en leave-one-out-prognos; ingen modellavvikelse fastställs.",
         "reviewed_at_utc": "2026-11-16T21:14:20.347Z"
       },
+      "57334": {
+        "model_version": 1,
+        "user_score": 8,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.57334",
+          "insights.completed_observations.57334"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen verifierad oberoende evidens med tillräcklig styrka för säker betygsklassprognos.",
+        "reviewed_at_utc": "2026-11-16T21:14:35.308Z"
+      },
+      "58272": {
+        "model_version": 1,
+        "user_score": 8,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.58272",
+          "insights.completed_observations.58272"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen verifierad oberoende evidens med tillräcklig styrka för säker betygsklassprognos.",
+        "reviewed_at_utc": "2026-11-16T21:14:35.308Z"
+      },
+      "58390": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.58390",
+          "insights.completed_observations.58390"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen verifierad oberoende evidens med tillräcklig styrka för säker betygsklassprognos.",
+        "reviewed_at_utc": "2026-11-16T21:14:35.308Z"
+      },
+      "58788": {
+        "model_version": 1,
+        "user_score": 8,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.58788",
+          "insights.completed_observations.58788"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen verifierad oberoende evidens med tillräcklig styrka för säker betygsklassprognos.",
+        "reviewed_at_utc": "2026-11-16T21:14:35.308Z"
+      },
+      "59360": {
+        "model_version": 1,
+        "user_score": 6,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.59360",
+          "insights.completed_observations.59360"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen verifierad oberoende evidens med tillräcklig styrka för säker betygsklassprognos.",
+        "reviewed_at_utc": "2026-11-16T21:14:35.308Z"
+      },
       "59848": {
         "model_version": 1,
         "user_score": 7,
@@ -22425,6 +22495,62 @@
         "match_result": "indeterminate",
         "reason": "Ingen tillräckligt styrkt, oberoende narrativ jämförelse för en leave-one-out-prognos; avstår från modellflagga.",
         "reviewed_at_utc": "2026-11-15T05:20:05.815Z"
+      },
+      "59897": {
+        "model_version": 1,
+        "user_score": 8,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.59897",
+          "insights.completed_observations.59897"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen verifierad oberoende evidens med tillräcklig styrka för säker betygsklassprognos.",
+        "reviewed_at_utc": "2026-11-16T21:14:35.308Z"
+      },
+      "59978": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.59978",
+          "insights.completed_observations.59978"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen verifierad oberoende evidens med tillräcklig styrka för säker betygsklassprognos.",
+        "reviewed_at_utc": "2026-11-16T21:14:35.308Z"
+      },
+      "60083": {
+        "model_version": 1,
+        "user_score": 6,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.60083",
+          "insights.completed_observations.60083"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen verifierad oberoende evidens med tillräcklig styrka för säker betygsklassprognos.",
+        "reviewed_at_utc": "2026-11-16T21:14:35.308Z"
+      },
+      "60543": {
+        "model_version": 1,
+        "user_score": 7,
+        "evidence_refs": [
+          "anime_profiles.json:profiles.60543",
+          "insights.completed_observations.60543"
+        ],
+        "applicable_hypotheses": [],
+        "prediction_band": "uncertain",
+        "model_confidence": "insufficient",
+        "match_result": "indeterminate",
+        "reason": "Ingen verifierad oberoende evidens med tillräcklig styrka för säker betygsklassprognos.",
+        "reviewed_at_utc": "2026-11-16T21:14:35.308Z"
       }
     },
     "rating_recalculation": {
@@ -22455,7 +22581,15 @@
         "source": "explicit_user_statement_in_current_chat",
         "recorded_date": "2026-11-15",
         "evidence_status": "direct_verbatim_with_separate_cautious_interpretation",
-        "model_review_status": "pending"
+        "model_review_status": "reviewed",
+        "model_reviewed_at_utc": "2026-11-16T21:14:35.308Z",
+        "model_review_note": "Uttrycklig princip om konsekvent genomförande noterad. Verksjämförelser är ännu inte oberoende prövade; ingen ny generell prediktionsregel eller modellversion.",
+        "model_evidence_refs": [
+          "anime_profiles.json:profiles.634",
+          "anime_profiles.json:profiles.8861",
+          "anime_profiles.json:profiles.37517",
+          "anime_profiles.json:profiles.35849"
+        ]
       },
       "franxx_relationships_20261115": {
         "id": "franxx_relationships_20261115",
@@ -22471,7 +22605,12 @@
         "source": "explicit_user_statement_in_current_chat",
         "recorded_date": "2026-11-15",
         "evidence_status": "direct_verbatim_with_separate_cautious_interpretation",
-        "model_review_status": "pending"
+        "model_review_status": "reviewed",
+        "model_reviewed_at_utc": "2026-11-16T21:14:35.308Z",
+        "model_review_note": "Verkspecifik uppgift: relationsskildringen uppskattas trots kritik mot mecha-delen. Ingen genrekausal slutsats eller ny modellversion.",
+        "model_evidence_refs": [
+          "anime_profiles.json:profiles.35849"
+        ]
       },
       "happy_sugar_life_motivation_20261115": {
         "id": "happy_sugar_life_motivation_20261115",
@@ -22487,7 +22626,12 @@
         "source": "explicit_user_statement_in_current_chat",
         "recorded_date": "2026-11-15",
         "evidence_status": "direct_verbatim_with_separate_cautious_interpretation",
-        "model_review_status": "pending"
+        "model_review_status": "reviewed",
+        "model_reviewed_at_utc": "2026-11-16T21:14:35.308Z",
+        "model_review_note": "Verkspecifik uppgift om subjektiv samhörighet och berättelsens genomförande. Ingen slutsats om yandere som preferens och ingen ny modellversion.",
+        "model_evidence_refs": [
+          "anime_profiles.json:profiles.37517"
+        ]
       },
       "koi_kaze_execution_20261115": {
         "id": "koi_kaze_execution_20261115",
