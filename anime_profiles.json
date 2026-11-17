@@ -5055,6 +5055,37 @@
         "https://www.anime.digital/anime/saki"
       ]
     },
+    "5678": {
+      "mal_id": 5678,
+      "title": "Kobato.",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-17T06:12:17.350Z",
+      "synopsis": "Den godtrogna Kobato Hanato försöker läka människors känslomässiga sår och samla de symboliska belöningarna i en flaska för att få sin egen önskan uppfylld. Den talande följeslagaren Ioryogi vägleder henne, medan arbetet kring en förskola för henne i kontakt med människor som behöver hjälp.",
+      "themes": [
+        "medkänsla",
+        "läkning",
+        "önskningar",
+        "vardagsrelationer"
+      ],
+      "tone": [
+        "varm",
+        "melankolisk",
+        "fantasifull"
+      ],
+      "pacing_and_structure": "En episodiskt uppbyggd vardagsfantasy där enskilda möten och problem gradvis binds till Kobatos större uppdrag.",
+      "character_dynamics": "Kobatos uppriktighet kontrasterar mot Ioryogis barska vägledning; hennes kontakt med förskolans vuxna, bland andra Fujimoto, ger återkommande relationer.",
+      "distinctive_features": "CLAMP-förlaga; 24-avsnittsserie från Madhouse där ett konkret samlaruppdrag förenas med berättelser om andra människors bekymmer.",
+      "comparison_cues": [
+        "enskilda hjälpuppdrag kontra övergripande mål",
+        "samspelet mellan lättsam komedi och sorg"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/5678",
+        "https://theanimelist.net/anime/kobato",
+        "https://en.wikipedia.org/wiki/Kobato"
+      ]
+    },
     "5680": {
       "mal_id": 5680,
       "title": "K-On!",
@@ -5213,6 +5244,37 @@
         "https://myanimepulse.com/anime/6164"
       ],
       "researched_at_utc": "2026-11-08T17:14:16.626Z"
+    },
+    "6203": {
+      "mal_id": 6203,
+      "title": "Sasameki Koto",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-17T06:12:17.350Z",
+      "synopsis": "Den studiebegåvade och atletiska Sumika Murasame är hemligt förälskad i sin nära vän Ushio Kazama. Ushio tycker själv om flickor men dras till ett helt annat slags person än Sumika, vilket gör vänskapen och Sumikas försök att visa sina känslor komplicerade.",
+      "themes": [
+        "obesvarad kärlek",
+        "vänskap",
+        "självbild",
+        "sociala förväntningar"
+      ],
+      "tone": [
+        "lättsam",
+        "öm",
+        "bitvis vemodig"
+      ],
+      "pacing_and_structure": "Skolromantisk ensemblekomedi med vardagliga episoder och återkommande missförstånd; den centrala känslokonflikten utvecklas parallellt med gruppens upptåg.",
+      "character_dynamics": "Sumika vill vara nära Ushio men vågar inte riskera vänskapen; klasskamrater som Tomoe och Miyako skapar ytterligare perspektiv på öppna och dolda relationer.",
+      "distinctive_features": "13-avsnittsanime från AIC, efter Takashi Ikedas manga; blandar yuriromantik med skolkomedi utan att förlora huvudpersonens inre konflikt.",
+      "comparison_cues": [
+        "hur länge den hemliga förälskelsen driver handlingen",
+        "balans mellan ensemblehumor och relationsförändring"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/6203",
+        "https://www.tvmaze.com/shows/24303/sasameki-koto",
+        "https://tsuzuku.blog/anime/sasameki-koto"
+      ]
     },
     "6213": {
       "mal_id": 6213,
@@ -5551,6 +5613,37 @@
       "sources": [
         "https://myanimelist.net/anime/7593",
         "https://www.anime.digital/anime/kissxsis-tv"
+      ]
+    },
+    "7647": {
+      "mal_id": 7647,
+      "title": "Arakawa Under the Bridge",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-17T06:12:17.350Z",
+      "synopsis": "Den välbärgade Kou Ichinomiya har uppfostrats att aldrig stå i skuld till någon. När den egensinniga Nino räddar honom ur floden försöker han återgälda tjänsten och hamnar i ett märkligt samhälle under Arakawabron, där invånarna följer sina egna regler.",
+      "themes": [
+        "skuld och ömsesidighet",
+        "identitet",
+        "gemenskap",
+        "sociala normer"
+      ],
+      "tone": [
+        "absurd",
+        "lekfull",
+        "satirisk"
+      ],
+      "pacing_and_structure": "Snabb, skissartad komedistruktur med korta infall och återkommande karaktärsgags; Kous anpassning till livet under bron ger en sammanhållande ram.",
+      "character_dynamics": "Kous prestations- och statusorienterade synsätt krockar med Ninos okonventionella världsbild och den brokiga gruppen under bron.",
+      "distinctive_features": "Shafts animeversion av Hikaru Nakamuras manga; bisarra rollfigurer och deadpan-dialog driver en social satir om vad som räknas som ett normalt liv.",
+      "comparison_cues": [
+        "sketchernas täthet kontra långsiktig progression",
+        "huvudpersonens kulturkrock med gruppen"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/7647",
+        "https://en.wikipedia.org/wiki/Arakawa_Under_the_Bridge",
+        "https://en.wikipedia.org/wiki/List_of_Arakawa_Under_the_Bridge_episodes"
       ]
     },
     "7791": {
