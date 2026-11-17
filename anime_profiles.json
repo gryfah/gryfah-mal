@@ -6914,6 +6914,39 @@
         "https://myanimelist.net/anime/10800"
       ]
     },
+    "11013": {
+      "mal_id": 11013,
+      "title": "Inu x Boku SS",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-17T08:21:16.371Z",
+      "synopsis": "Ririchiyo Shirakiin flyttar till Maison de Ayakashi för att bli självständig. Hon får den överdrivet hängivne livvakten Soushi Miketsukami, medan husets invånare visar sig ha övernaturliga anor. Hennes svårigheter att kommunicera och skapa närhet driver relationsberättelsen.",
+      "themes": [
+        "självständighet",
+        "social osäkerhet",
+        "tillit",
+        "beskydd",
+        "övernaturligt arv"
+      ],
+      "tone": [
+        "romantisk",
+        "komisk",
+        "övernaturlig",
+        "periodvis allvarlig"
+      ],
+      "pacing_and_structure": "Episodiska vardagsmöten i bostadshuset kombineras med successiv relationsutveckling och övernaturliga inslag.",
+      "character_dynamics": "Ririchiyo vill stå på egna ben men har svårt att uttrycka sig; Soushis nästan gränslösa hängivenhet skapar både komik och friktion. Övriga boende utgör en excentrisk ensemble.",
+      "distinctive_features": "SS betecknar personliga livvakter i ett bostadshus där hyresgäster och beskyddare har anknytning till yokai.",
+      "comparison_cues": [
+        "romans mellan reserverad huvudperson och hängiven beskyddare",
+        "övernaturlig ensemblekomedi",
+        "social osäkerhet som relationsdrivkraft"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/11013",
+        "https://en.wikipedia.org/wiki/Inu_%C3%97_Boku_SS"
+      ]
+    },
     "11111": {
       "mal_id": 11111,
       "title": "Another",
@@ -6976,6 +7009,40 @@
         "https://myanimelist.net/anime/11179/Papa_no_Iukoto_wo_Kikinasai",
         "https://thetvdb.com/series/listen-to-me-girls-i-am-your-father",
         "https://www.mycartoonlist.net/anime/11179/"
+      ]
+    },
+    "11433": {
+      "mal_id": 11433,
+      "title": "Ano Natsu de Matteru",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-17T08:21:16.371Z",
+      "synopsis": "Kaito Kirishima planerar att filma tillsammans med sina vänner under sommarlovet efter en märklig nattlig händelse. Den nyinflyttade Ichika Takatsuki bjuds in i projektet; romantiska känslor och en science fiction-hemlighet gör sommaren mer komplicerad.",
+      "themes": [
+        "ung kärlek",
+        "vänskap",
+        "filmprojekt",
+        "hemligheter",
+        "science fiction"
+      ],
+      "tone": [
+        "somrig",
+        "romantisk",
+        "melankolisk",
+        "lättsam"
+      ],
+      "pacing_and_structure": "Tolv avsnitt där ett gemensamt filmprojekt binder ihop gruppscener, romantiska förvecklingar och en allt tydligare science fiction-intrig.",
+      "character_dynamics": "Kaitos intresse för Ichika påverkar vänkretsen; Tetsurou för in henne i projektet medan Kanna, Mio och Remon bidrar till gruppens skilda känsloband.",
+      "distinctive_features": "Originalanime från J.C.Staff (2012) som blandar amatörfilm, sommarromantik och ett utomjordiskt mysterium.",
+      "comparison_cues": [
+        "romantisk ensemble med obesvarade känslor",
+        "vardag med science fiction-inslag",
+        "skapande projekt som dramaturgisk ram"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/11433",
+        "https://www.animesc.com/en/details/4hps2T/ano-natsu-de-matteru",
+        "https://www.tvmaze.com/shows/42508/ano-natsu-de-matteru"
       ]
     },
     "11499": {
