@@ -1933,7 +1933,7 @@
         ],
         "multiple_select": true,
         "created_round": "final_inventory",
-        "status": "unanswered",
+        "status": "answered",
         "created_at_utc": "2026-11-17T19:12:13.232Z",
         "evidence": {
           "observed_status": "dropped",
@@ -1947,7 +1947,22 @@
           "https://myanimelist.net/anime/25835",
           "https://theanimelist.net/anime/shirobako",
           "https://en.wikipedia.org/wiki/Shirobako"
-        ]
+        ],
+        "answer": {
+          "raw_response": "6bc",
+          "selected_options": [
+            "Ensemblen var svår att engagera sig i",
+            "Branschskildringen var inte intressant för mig"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-17T19:57:22.428Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde: Ensemblen var svår att engagera sig i; Branschskildringen var inte intressant för mig. Inga ytterligare motiv angavs; valen anger möjliga bidragande orsaker.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "dropped-1698-final": {
         "question_id": "dropped-1698-final",
@@ -1964,7 +1979,7 @@
         ],
         "multiple_select": true,
         "created_round": "final_inventory",
-        "status": "unanswered",
+        "status": "answered",
         "created_at_utc": "2026-11-17T19:12:13.232Z",
         "evidence": {
           "observed_status": "dropped",
@@ -1978,7 +1993,23 @@
           "https://myanimelist.net/anime/1698",
           "https://anilist.co/anime/1698/Nodame-Cantabile",
           "https://en.wikipedia.org/wiki/Nodame_Cantabile"
-        ]
+        ],
+        "answer": {
+          "raw_response": "7abc",
+          "selected_options": [
+            "Den musikaliska inriktningen intresserade mig inte",
+            "Romantiken eller huvudpersonernas dynamik fungerade inte",
+            "Komikens ton störde dramat"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-17T19:57:22.428Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde: Den musikaliska inriktningen intresserade mig inte; Romantiken eller huvudpersonernas dynamik fungerade inte; Komikens ton störde dramat. Inga ytterligare motiv angavs; valen anger möjliga bidragande orsaker.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "dropped-34636-final": {
         "question_id": "dropped-34636-final",
@@ -1995,7 +2026,7 @@
         ],
         "multiple_select": true,
         "created_round": "final_inventory",
-        "status": "unanswered",
+        "status": "answered",
         "created_at_utc": "2026-11-17T19:12:13.232Z",
         "evidence": {
           "observed_status": "dropped",
@@ -2009,7 +2040,23 @@
           "https://www.mbs.jp/ballroom/sp/",
           "https://www.bs11.jp/anime/ballroom/",
           "https://anilist.co/anime/98005"
-        ]
+        ],
+        "answer": {
+          "raw_response": "8abc",
+          "selected_options": [
+            "Tränings- och tävlingsupplägget blev enformigt",
+            "Karaktärsrelationerna och rivaliteten engagerade inte",
+            "Dansens visuella gestaltning fungerade inte för mig"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-17T19:57:22.428Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde: Tränings- och tävlingsupplägget blev enformigt; Karaktärsrelationerna och rivaliteten engagerade inte; Dansens visuella gestaltning fungerade inte för mig. Inga ytterligare motiv angavs; valen anger möjliga bidragande orsaker.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "dropped-28223-final": {
         "question_id": "dropped-28223-final",
@@ -2026,7 +2073,7 @@
         ],
         "multiple_select": true,
         "created_round": "final_inventory",
-        "status": "unanswered",
+        "status": "answered",
         "created_at_utc": "2026-11-17T19:12:13.232Z",
         "evidence": {
           "observed_status": "dropped",
@@ -2040,7 +2087,21 @@
           "https://myanimelist.net/anime/28223",
           "https://www.ntv.co.jp/english/pc/2014/12/death-parade.html",
           "https://en.wikipedia.org/wiki/Death_Parade"
-        ]
+        ],
+        "answer": {
+          "raw_response": "9d",
+          "selected_options": [
+            "Jag påbörjade den aldrig eller sköt upp den"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-17T19:57:22.428Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde: Jag påbörjade den aldrig eller sköt upp den. Inga ytterligare motiv angavs; valen anger möjliga bidragande orsaker.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "dropped-237-final": {
         "question_id": "dropped-237-final",
@@ -2057,7 +2118,7 @@
         ],
         "multiple_select": true,
         "created_round": "final_inventory",
-        "status": "unanswered",
+        "status": "answered",
         "created_at_utc": "2026-11-17T19:12:13.232Z",
         "evidence": {
           "observed_status": "dropped",
@@ -2071,7 +2132,22 @@
           "https://myanimelist.net/anime/237",
           "https://tv.apple.com/mt/show/eureka-seven/umc.cmc.1hqnhjp8ews7bs7teg3btjh55",
           "https://www.imdb.com/title/tt0765491/plotsummary/"
-        ]
+        ],
+        "answer": {
+          "raw_response": "10ab",
+          "selected_options": [
+            "Den långa utvecklingsbågen tappade fart",
+            "Rentons och Eurekas relationsutveckling fungerade inte"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-17T19:57:22.428Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde: Den långa utvecklingsbågen tappade fart; Rentons och Eurekas relationsutveckling fungerade inte. Inga ytterligare motiv angavs; valen anger möjliga bidragande orsaker.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "dropped-19815-final": {
         "question_id": "dropped-19815-final",
@@ -2088,7 +2164,7 @@
         ],
         "multiple_select": true,
         "created_round": "final_inventory",
-        "status": "unanswered",
+        "status": "answered",
         "created_at_utc": "2026-11-17T19:12:13.232Z",
         "evidence": {
           "observed_status": "dropped",
@@ -2102,7 +2178,22 @@
           "https://myanimelist.net/anime/19815",
           "https://theanimelist.net/anime/no-game-no-life",
           "https://en.wikipedia.org/wiki/No_Game_No_Life"
-        ]
+        ],
+        "answer": {
+          "raw_response": "11cd",
+          "selected_options": [
+            "Fanservice eller stil störde berättelsen",
+            "Jag hann aldrig börja eller lade den åt sidan"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-17T19:57:22.428Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde: Fanservice eller stil störde berättelsen; Jag hann aldrig börja eller lade den åt sidan. Inga ytterligare motiv angavs; valen anger möjliga bidragande orsaker.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "dropped-18679-final": {
         "question_id": "dropped-18679-final",
@@ -2119,7 +2210,7 @@
         ],
         "multiple_select": true,
         "created_round": "final_inventory",
-        "status": "unanswered",
+        "status": "answered",
         "created_at_utc": "2026-11-17T19:12:13.232Z",
         "evidence": {
           "observed_status": "dropped",
@@ -2133,7 +2224,22 @@
           "https://myanimelist.net/anime/18679",
           "https://www.st-trigger.co.jp/works/kill-la-kill/",
           "https://tv.apple.com/lt/show/kill-la-kill/umc.cmc.6zdjbkioffsa9hbx3s1c6uf1g"
-        ]
+        ],
+        "answer": {
+          "raw_response": "12ac",
+          "selected_options": [
+            "Det visuella överdrivet höga tempot tröttade ut mig",
+            "Karaktärerna och deras konflikter engagerade inte"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-17T19:57:22.428Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde: Det visuella överdrivet höga tempot tröttade ut mig; Karaktärerna och deras konflikter engagerade inte. Inga ytterligare motiv angavs; valen anger möjliga bidragande orsaker.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "dropped-17549-final": {
         "question_id": "dropped-17549-final",
@@ -2150,7 +2256,7 @@
         ],
         "multiple_select": true,
         "created_round": "final_inventory",
-        "status": "unanswered",
+        "status": "answered",
         "created_at_utc": "2026-11-17T19:12:13.232Z",
         "evidence": {
           "observed_status": "dropped",
@@ -2164,7 +2270,22 @@
           "https://myanimelist.net/anime/17549",
           "https://en.wikipedia.org/wiki/Non_Non_Biyori",
           "https://en.wikipedia.org/wiki/List_of_Non_Non_Biyori_episodes"
-        ]
+        ],
+        "answer": {
+          "raw_response": "13bc",
+          "selected_options": [
+            "Humorn och karaktärernas samspel fungerade inte",
+            "Landsbygdsmiljön och stämningen räckte inte"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-17T19:57:22.428Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde: Humorn och karaktärernas samspel fungerade inte; Landsbygdsmiljön och stämningen räckte inte. Inga ytterligare motiv angavs; valen anger möjliga bidragande orsaker.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "dropped-35968-final": {
         "question_id": "dropped-35968-final",
@@ -2181,7 +2302,7 @@
         ],
         "multiple_select": true,
         "created_round": "final_inventory",
-        "status": "unanswered",
+        "status": "answered",
         "created_at_utc": "2026-11-17T19:12:13.232Z",
         "evidence": {
           "observed_status": "dropped",
@@ -2195,7 +2316,23 @@
           "https://myanimelist.net/anime/35968",
           "https://lufas.won.fyi/anime/35968/wotaku-ni-koi-wa-muzukashii",
           "https://theanimelist.net/anime/wotaku-ni-koi-wa-muzukashii"
-        ]
+        ],
+        "answer": {
+          "raw_response": "14abc",
+          "selected_options": [
+            "Den etablerade vuxenromantiken utvecklades inte som jag önskade",
+            "Hobby- och arbetsplatshumorn fungerade inte",
+            "Karaktärsdynamiken engagerade inte"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-17T19:57:22.428Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde: Den etablerade vuxenromantiken utvecklades inte som jag önskade; Hobby- och arbetsplatshumorn fungerade inte; Karaktärsdynamiken engagerade inte. Inga ytterligare motiv angavs; valen anger möjliga bidragande orsaker.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "dropped-2924-final": {
         "question_id": "dropped-2924-final",
@@ -2212,7 +2349,7 @@
         ],
         "multiple_select": true,
         "created_round": "final_inventory",
-        "status": "unanswered",
+        "status": "answered",
         "created_at_utc": "2026-11-17T19:12:13.232Z",
         "evidence": {
           "observed_status": "dropped",
@@ -2226,7 +2363,22 @@
           "https://myanimelist.net/anime/2924",
           "https://www.tvmaze.com/shows/16231/ef-a-tale-of-memories",
           "https://tv.apple.com/jp/show/efa-tale-of-memories/umc.cmc.6zaruubbuxrjf1lp5rl47thor"
-        ]
+        ],
+        "answer": {
+          "raw_response": "15ab",
+          "selected_options": [
+            "De parallella romansspåren var svåra att engagera sig i",
+            "Minnes- och melodramupplägget fungerade inte"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-17T19:57:22.428Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde: De parallella romansspåren var svåra att engagera sig i; Minnes- och melodramupplägget fungerade inte. Inga ytterligare motiv angavs; valen anger möjliga bidragande orsaker.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "dropped-2605-final": {
         "question_id": "dropped-2605-final",
@@ -2243,7 +2395,7 @@
         ],
         "multiple_select": true,
         "created_round": "final_inventory",
-        "status": "unanswered",
+        "status": "answered",
         "created_at_utc": "2026-11-17T19:12:13.232Z",
         "evidence": {
           "observed_status": "dropped",
@@ -2257,7 +2409,23 @@
           "https://myanimelist.net/anime/2605",
           "https://anilist.co/anime/2605/Sayonara-Zetsubou-Sensei",
           "https://en.wikipedia.org/wiki/Sayonara%2C_Zetsubou-Sensei"
-        ]
+        ],
+        "answer": {
+          "raw_response": "16abc",
+          "selected_options": [
+            "Den språk- och kulturberoende satiren fungerade inte",
+            "Shafts visuella uttryck blev för dominerande",
+            "Sketchformatet saknade önskad progression"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-17T19:57:22.428Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde: Den språk- och kulturberoende satiren fungerade inte; Shafts visuella uttryck blev för dominerande; Sketchformatet saknade önskad progression. Inga ytterligare motiv angavs; valen anger möjliga bidragande orsaker.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "dropped-17895-final": {
         "question_id": "dropped-17895-final",
@@ -2274,7 +2442,7 @@
         ],
         "multiple_select": true,
         "created_round": "final_inventory",
-        "status": "unanswered",
+        "status": "answered",
         "created_at_utc": "2026-11-17T19:12:13.232Z",
         "evidence": {
           "observed_status": "dropped",
@@ -2287,7 +2455,22 @@
         "sources": [
           "https://myanimelist.net/anime/17895",
           "https://www.imdb.com/title/tt3105452/plotsummary/"
-        ]
+        ],
+        "answer": {
+          "raw_response": "17bc",
+          "selected_options": [
+            "Minnes- och identitetstemat tilltalade mig inte",
+            "Tempot under seriens längre relationsbåge tappade mig"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-17T19:57:22.428Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde: Minnes- och identitetstemat tilltalade mig inte; Tempot under seriens längre relationsbåge tappade mig. Inga ytterligare motiv angavs; valen anger möjliga bidragande orsaker.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "dropped-7724-final": {
         "question_id": "dropped-7724-final",
@@ -2304,7 +2487,7 @@
         ],
         "multiple_select": true,
         "created_round": "final_inventory",
-        "status": "unanswered",
+        "status": "answered",
         "created_at_utc": "2026-11-17T19:12:13.232Z",
         "evidence": {
           "observed_status": "dropped",
@@ -2318,7 +2501,22 @@
           "https://myanimelist.net/anime/7724",
           "https://en.wikipedia.org/wiki/Shiki_(novel)",
           "https://athome.fandango.com/content/browse/details/Shiki-Part-1/380325"
-        ]
+        ],
+        "answer": {
+          "raw_response": "18ac",
+          "selected_options": [
+            "Den långsamma skräckuppbyggnaden tappade mig",
+            "Bygemenskapen och mysteriets personer engagerade inte"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-17T19:57:22.428Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde: Den långsamma skräckuppbyggnaden tappade mig; Bygemenskapen och mysteriets personer engagerade inte. Inga ytterligare motiv angavs; valen anger möjliga bidragande orsaker.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "dropped-32979-final": {
         "question_id": "dropped-32979-final",
@@ -2335,7 +2533,7 @@
         ],
         "multiple_select": true,
         "created_round": "final_inventory",
-        "status": "unanswered",
+        "status": "answered",
         "created_at_utc": "2026-11-17T19:12:13.232Z",
         "evidence": {
           "observed_status": "dropped",
@@ -2349,7 +2547,23 @@
           "https://myanimelist.net/anime/32979",
           "https://anilist.co/anime/21714/Flip-Flappers",
           "https://theanimelist.net/anime/flip-flappers"
-        ]
+        ],
+        "answer": {
+          "raw_response": "19abc",
+          "selected_options": [
+            "De visuellt skiftande fantasivärldarna fungerade inte",
+            "Relationen mellan huvudpersonerna engagerade inte",
+            "Berättelsens experimentella struktur blev svår att följa"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-17T19:57:22.428Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde: De visuellt skiftande fantasivärldarna fungerade inte; Relationen mellan huvudpersonerna engagerade inte; Berättelsens experimentella struktur blev svår att följa. Inga ytterligare motiv angavs; valen anger möjliga bidragande orsaker.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       }
     }
   },
