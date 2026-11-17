@@ -1,0 +1,4420 @@
+{
+  "experiment_id": "mal_blindtest_v1",
+  "role": "blind_cases",
+  "count": 105,
+  "cases": [
+    {
+      "mal_id": 937,
+      "title": "Appleseed",
+      "mal_mean_score": 6.51,
+      "mal_num_scoring_users": 16064,
+      "genres": [
+        "Mecha",
+        "Military",
+        "Sci-Fi"
+      ],
+      "studios": [
+        "Gainax"
+      ],
+      "media_type": "ova",
+      "release_year": 1988,
+      "num_episodes": 1,
+      "brief": {
+        "synopsis": "I den högteknologiska staden Olympus arbetar Deunan Knute och cyborgen Briareos med säkerhetsuppdrag. Stadens ordnade samhälle, där människor och konstruerade bioroider lever sida vid sida, utmanas av ett våldsamt angrepp mot dess styrsystem.",
+        "themes": [
+          "utopins pris",
+          "människor och bioroider",
+          "säkerhet kontra frihet",
+          "teknikberoende samhälle"
+        ],
+        "tone": [
+          "cyberpunk",
+          "militär action",
+          "samhällskritisk"
+        ],
+        "pacing_and_structure": "Fristående OVA-film som sammanför polisaktion, cybernetiska konflikter och en koncentrerad samhällsintrig i Olympus.",
+        "character_dynamics": "Deunan och hennes cyborgpartner Briareos bildar ett etablerat operativt par; deras samarbete ställs mot en motståndare som ifrågasätter stadens samhällsmodell.",
+        "distinctive_features": "1988 års traditionellt animerade tolkning av Masamune Shirows Appleseed; fokus på Olympus, bioroider och beväpnade insatsstyrkor.",
+        "comparison_cues": [
+          "cyberpunk med samhällsfrågor",
+          "partnerskap mellan människa och cyborg",
+          "utopikritik via säkerhetsintrig"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 1151,
+      "title": "Dominion",
+      "mal_mean_score": 6.86,
+      "mal_num_scoring_users": 8650,
+      "genres": [
+        "Comedy",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": [
+        "Agent 21"
+      ],
+      "media_type": "ova",
+      "release_year": 1988,
+      "num_episodes": 4,
+      "brief": {
+        "synopsis": "I den svårt förorenade framtidsstaden New-Port City tar polisen till pansarfordon mot brottsligheten. Leona Ozaki ansluter till den ökända stridsvagnspolisen och bygger med kollegan Al en mindre tank, Bonaparte. Hennes entusiasm kolliderar med avdelningens redan våldsamma arbetsmetoder medan brottslingen Buaku och Puma-systrarna ställer till problem.",
+        "themes": [
+          "Militariserad ordningsmakt och övervåld",
+          "Miljöförstöring som vardagsvillkor",
+          "Arbetslag och lojalitet",
+          "Teknik som personlig identitet"
+        ],
+        "tone": [
+          "Burlesk",
+          "Satirisk",
+          "Actionkomisk"
+        ],
+        "pacing_and_structure": "Fyra OVA-avsnitt med brottsbekämpning, kaotiska fordonsinsatser och slapstick; mer polisiär fars än realistiskt procedurdrama.",
+        "character_dynamics": "Leonas intensiva förhållande till sin tank kontrasterar mot den lugnare partnern Al och en överdrivet hårdför poliskår; Buaku och Puma-systrarna fungerar som återkommande motståndare.",
+        "distinctive_features": "Masamune Shirows cyberpunkfärgade polisvärld förenar små pansarfordon, miljödystopi och absurda följdskador av polisinsatser.",
+        "comparison_cues": [
+          "Militariserad polis skildrad som satir snarare än hjälteepos",
+          "En kvinnlig tankförare vars maskin är central för karaktären",
+          "Kort, episodisk 1980-tals-OVA med hög komedifaktor"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 47,
+      "title": "Akira",
+      "mal_mean_score": 8.16,
+      "mal_num_scoring_users": 576431,
+      "genres": [
+        "Action",
+        "Gore",
+        "Horror",
+        "Sci-Fi",
+        "Seinen",
+        "Super Power"
+      ],
+      "studios": [
+        "Tokyo Movie Shinsha"
+      ],
+      "media_type": "movie",
+      "release_year": 1988,
+      "num_episodes": 1,
+      "brief": {
+        "synopsis": "I Neo-Tokyo dras motorcykelgängsledaren Kaneda och hans vän Tetsuo in i ett hemligt statligt experiment när Tetsuo utvecklar förödande psykiska krafter. Deras konflikt växer fram mot en bakgrund av politisk oro och ett samhälle präglat av tidigare katastrofer.",
+        "themes": [
+          "makt och maktlöshet",
+          "vänskap som bryts ned",
+          "militär kontroll och experiment",
+          "samhällelig kollaps",
+          "identitet och kroppslig förändring"
+        ],
+        "tone": [
+          "intensiv",
+          "hotfull",
+          "dystopisk",
+          "våldsam"
+        ],
+        "pacing_and_structure": "En långfilm med tät eskalering från gängkonflikter och stadsoro till science fiction-katastrof; visuell och ljudmässig intensitet bär mycket av berättandet.",
+        "character_dynamics": "Kanedas självbild som beskyddare och Tetsuos växande frustration och behov av självständighet driver den personliga konflikten; myndigheter försöker samtidigt kontrollera Tetsuo.",
+        "distinctive_features": "Detaljerad handritad animation, neonpräglat Neo-Tokyo, motorcykelikonografi och en blandning av politisk dystopi och kroppsskräck.",
+        "comparison_cues": [
+          "vänskapskonflikt under extrem maktförskjutning",
+          "cyberpunkliknande stadsdystopi",
+          "kroppsskräck och psykiska krafter",
+          "visuell täthet framför långsam exposition"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 949,
+      "title": "Top wo Nerae! Gunbuster",
+      "mal_mean_score": 7.85,
+      "mal_num_scoring_users": 59993,
+      "genres": [
+        "Award Winning",
+        "Comedy",
+        "Drama",
+        "Mecha",
+        "Military",
+        "Sci-Fi",
+        "Space"
+      ],
+      "studios": [
+        "Gainax"
+      ],
+      "media_type": "ova",
+      "release_year": 1988,
+      "num_episodes": 6,
+      "brief": {
+        "synopsis": "Den unga Noriko Takaya antas till en utbildning för piloter som ska möta ett hot från främmande rymdvarelser. Hon kämpar med sin osäkerhet och jämförelsen med sin berömde far, medan den skickliga Kazumi Amano blir både förebild och partner i ett uppdrag som växer långt bortom träningsskolan.",
+        "themes": [
+          "att växa genom disciplin och tvivel",
+          "mentorskap och konkurrens",
+          "personliga uppoffringar i kosmisk konflikt",
+          "relativistisk tid och separation"
+        ],
+        "tone": [
+          "inledningsvis energisk träningsdramatik",
+          "storslagen rymdopera",
+          "alltmer vemodig"
+        ],
+        "pacing_and_structure": "Sexdelad OVA från 1988–1989 som börjar som sportinspirerad pilotträning och gradvis förskjuts till större militär rymdscience fiction. Tidsskillnader under rymdresor får växande dramatisk betydelse.",
+        "character_dynamics": "Norikos osäkerhet och ambition står i kontrast till Kazumis skicklighet; deras samarbete och relation till instruktören Koichiro Ohta bär träningsdelen och dess övergång till skarpt uppdrag.",
+        "distinctive_features": "Hideaki Annos regidebut i OVA-format; kombinerar mecha, sportanime-struktur och relativistisk rymdresa i en tät sexdelad berättelse.",
+        "comparison_cues": [
+          "träning som övergår i rymdkrig",
+          "mentor- och partnerrelation",
+          "tidsskillnad som känslomässig konflikt"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 1029,
+      "title": "Omoide Poroporo",
+      "mal_mean_score": 7.45,
+      "mal_num_scoring_users": 87416,
+      "genres": [
+        "Drama",
+        "Josei",
+        "Romance"
+      ],
+      "studios": [
+        "Studio Ghibli"
+      ],
+      "media_type": "movie",
+      "release_year": 1991,
+      "num_episodes": 1,
+      "brief": {
+        "synopsis": "Den 27-åriga kontorsanställda Taeko lämnar Tokyo för en vistelse på landsbygden 1982. Arbetet med skörden och mötet med Toshio väcker minnen från hennes skolår 1966, vilket får henne att ompröva sina vuxna livsval och förhållandet mellan barndomens förväntningar och nuets möjligheter.",
+        "themes": [
+          "Minnets påverkan på identitet",
+          "Barndomens sociala förväntningar",
+          "Stadsliv och landsbygd",
+          "Vuxenblivande och självbestämmande"
+        ],
+        "tone": [
+          "Eftertänksam",
+          "Nostalgisk",
+          "Vardagsrealistisk",
+          "Varmt vemodig"
+        ],
+        "pacing_and_structure": "Långsamt vardagsdrama som växlar mellan Taekos vuxna nutid och detaljerade barndomsminnen, utan konventionell actionintrig.",
+        "character_dynamics": "Taekos samtal med den jordnära Toshio ger en kontrast till hennes uppväxtminnen och hjälper henne att formulera egna önskemål om framtiden.",
+        "distinctive_features": "Isao Takahatas film från Studio Ghibli väver samman två tidsplan och skildrar vuxna livsval genom konkreta minnen av skolgång och familj.",
+        "comparison_cues": [
+          "Vuxen kvinnlig huvudperson med två sammanflätade tidsplan",
+          "Lågmäld självprövning snarare än melodram",
+          "Landsbygdsvistelse som katalysator för livsbeslut"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 3989,
+      "title": "Suna no Bara: Yuki no Mokushiroku",
+      "mal_mean_score": 6.29,
+      "mal_num_scoring_users": 2615,
+      "genres": [
+        "Action",
+        "Seinen"
+      ],
+      "studios": [
+        "J.C.Staff"
+      ],
+      "media_type": "ova",
+      "release_year": 1993,
+      "num_episodes": 1,
+      "brief": {
+        "synopsis": "Mariko Rosebank leder den helt kvinnliga antiterrorstyrkan C.A.T. När gruppen anlitas för att skydda ett internationellt toppmöte hotas säkerhetsuppdraget av ett planerat attentat.",
+        "themes": [
+          "Professionell lojalitet under hot",
+          "Säkerhetsansvar och terrorism",
+          "Gruppsamverkan i en militärliknande miljö"
+        ],
+        "tone": [
+          "Actionbetonad",
+          "Spänningsinriktad"
+        ],
+        "pacing_and_structure": "Fristående OVA från 1993, cirka 47 minuter; ett avgränsat bevakningsuppdrag driver handlingen.",
+        "character_dynamics": "Mariko fungerar som ledare för C.A.T.; relationerna skildras främst genom styrkans gemensamma uppdrag snarare än en lång personlig utvecklingsbåge.",
+        "distinctive_features": "Kaoru Shintanis mangaförlaga, ett helt kvinnligt antiterrorförband och skyddet av ett internationellt toppmöte.",
+        "comparison_cues": [
+          "Hur trovärdigt säkerhetsarbete och gruppdisciplin gestaltas",
+          "Ensembleaction med professionella vuxna kvinnor",
+          "Skillnaden mellan taktisk spänning och persondrama"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 43,
+      "title": "Koukaku Kidoutai",
+      "mal_mean_score": 8.27,
+      "mal_num_scoring_users": 372350,
+      "genres": [
+        "Adult Cast",
+        "Award Winning",
+        "Detective",
+        "Mecha",
+        "Mystery",
+        "Psychological",
+        "Sci-Fi",
+        "Seinen",
+        "Suspense"
+      ],
+      "studios": [
+        "Production I.G"
+      ],
+      "media_type": "movie",
+      "release_year": 1995,
+      "num_episodes": 1,
+      "brief": {
+        "synopsis": "År 2029 utreder major Motoko Kusanagi och säkerhetssektion 9 intrång i cybernetiska hjärnor. Jakten på hackaren Puppet Master ställer frågor om medvetande, identitet och gränsen mellan människa och maskin.",
+        "themes": [
+          "Medvetandets identitet",
+          "Kropp och självbestämmande",
+          "Statlig övervakning och informationsmakt"
+        ],
+        "tone": [
+          "Filosofisk",
+          "Kylig",
+          "Kontemplativ",
+          "Spänningsfylld"
+        ],
+        "pacing_and_structure": "Långfilm som växlar mellan koncentrerad cyberkriminalutredning, korta våldsamma insatser och långsamma urbana betraktelser.",
+        "character_dynamics": "Kusanagis existentiella frågor kontrasteras mot kollegan Batous praktiska lojalitet och sektionens institutionella uppdrag.",
+        "distinctive_features": "Mamoru Oshiis filmatisering från 1995; cyberpunkmiljö med kroppsliga proteser, hjärnhackning och ett uttryck som låter tystnad och stadsmiljö bära filosofiska frågor.",
+        "comparison_cues": [
+          "Identitet och medvetande snarare än enbart teknisk action",
+          "Filosofiska pauser mitt i polisthriller",
+          "Professionell relation mellan Kusanagi och Batou"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 493,
+      "title": "Armitage III: Poly-Matrix",
+      "mal_mean_score": 7.07,
+      "mal_num_scoring_users": 8353,
+      "genres": [
+        "Detective",
+        "Mecha",
+        "Military",
+        "Mystery",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "studios": [
+        "AIC"
+      ],
+      "media_type": "movie",
+      "release_year": 1996,
+      "num_episodes": 1,
+      "brief": {
+        "synopsis": "Polisen Ross Sylibus anländer till Mars och dras in i en mordutredning tillsammans med den temperamentsfulla Naomi Armitage. Offren visar sig vara avancerade androider som är svåra att skilja från människor, vilket gör jakten på mördaren till en konflikt om identitet och robotars ställning i samhället.",
+        "themes": [
+          "Artificiellt liv och mänsklig identitet",
+          "Fördomar och diskriminering",
+          "Institutionell makt och mörkläggning",
+          "Tillit mellan partners"
+        ],
+        "tone": [
+          "Cyberpunkpräglad",
+          "Actionintensiv",
+          "Noirartad"
+        ],
+        "pacing_and_structure": "Långfilmsversion som omredigerar den tidigare fyrdelade OVA-berättelsen till en tätare, sammanhängande kriminalintrig.",
+        "character_dynamics": "Ross bär med sig misstro mot robotar efter ett tidigare trauma; samarbetet med Armitage utmanar hans föreställningar samtidigt som de utreder morden.",
+        "distinctive_features": "Marskoloni, polisthriller och androider av tredje generationen; filmversion av Armitage III med särskild internationell dubbning.",
+        "comparison_cues": [
+          "Skillnaden i tempo och berättarutrymme mot Armitage III-OVA",
+          "Robotidentitet behandlad genom en mordutredning",
+          "Partnerskap som prövar fördomar mot artificiellt liv"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 440,
+      "title": "Shoujo Kakumei Utena",
+      "mal_mean_score": 8.26,
+      "mal_num_scoring_users": 73985,
+      "genres": [
+        "Award Winning",
+        "Drama",
+        "Mahou Shoujo",
+        "Psychological",
+        "School"
+      ],
+      "studios": [
+        "J.C.Staff"
+      ],
+      "media_type": "tv",
+      "release_year": 1997,
+      "num_episodes": 39,
+      "brief": {
+        "synopsis": "Efter ett barndomsmöte med en prins bestämmer sig Utena Tenjou för att själv bli en prins. På Ohtori-akademin dras hon in i ritualiserade dueller där vinnaren får en särskild relation till Anthy Himemiya, den så kallade Rosenbruden.",
+        "themes": [
+          "Könsroller och ideal",
+          "Makt och objektifiering",
+          "Identitet och självbestämmande",
+          "Idealiserad räddning kontra faktisk autonomi"
+        ],
+        "tone": [
+          "Symbolisk",
+          "Teatralisk",
+          "Psykologiskt laddad",
+          "Bitvis absurd"
+        ],
+        "pacing_and_structure": "39-avsnittsserie med återkommande duellstruktur, stiliserade ritualer och successivt fördjupade relationer och symboler.",
+        "character_dynamics": "Utenas önskan att skydda Anthy möter ett system där Anthy behandlas som en ägodel; deras relation ställer välmenande hjälparideal mot Anthys egen handlingsfrihet.",
+        "distinctive_features": "Originalserie från J.C.Staff, 1997, som förenar skolmiljö, sagomotiv, återkommande dueller och utpräglat symboliskt bildspråk.",
+        "comparison_cues": [
+          "Relationsdrama uttryckt genom ritual och symbolik",
+          "Kritik av prins- och räddarroller",
+          "Repetitiv episodform med långsamt fördjupade motiv"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 1002,
+      "title": "Top wo Nerae 2! Diebuster",
+      "mal_mean_score": 7.59,
+      "mal_num_scoring_users": 39334,
+      "genres": [
+        "Award Winning",
+        "Comedy",
+        "Drama",
+        "Mecha",
+        "Sci-Fi",
+        "Space"
+      ],
+      "studios": [
+        "Gainax"
+      ],
+      "media_type": "ova",
+      "release_year": 2004,
+      "num_episodes": 6,
+      "brief": {
+        "synopsis": "Nono drömmer om att bli rymdpilot och möter elitpiloten Lal'C. Hon försöker bli en del av Fraternity, vars unga Topless-piloter försvarar solsystemet mot rymdmonster med hjälp av Buster Machines.",
+        "themes": [
+          "Ambition och förebilder",
+          "Tillhörighet och erkännande",
+          "Ansvar inför ett yttre hot",
+          "Att växa in i en hjälteroll"
+        ],
+        "tone": [
+          "Energisk",
+          "Storskalig",
+          "Känslomässigt laddad"
+        ],
+        "pacing_and_structure": "Sexdelad science fiction-OVA från 2004–2006; kombinerar pilottävlan, karaktärsutveckling och växande rymdstrider.",
+        "character_dynamics": "Nono idealiserar Lal'C och söker hennes erkännande, medan deras skilda erfarenheter skapar spänning mellan entusiasm och professionalism.",
+        "distinctive_features": "Gainax uppföljare till Gunbuster med Topless-piloter, Buster Machines och tydlig kontrast mellan Nonos dröm och piloternas krävande verklighet.",
+        "comparison_cues": [
+          "Mentorskap och idealisering jämfört med Gunbuster",
+          "Hur rymdstrider och personlig mognad balanseras",
+          "Stilskiftet mellan de två Gunbuster-serierna"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 855,
+      "title": "Strawberry Panic",
+      "mal_mean_score": 7.27,
+      "mal_num_scoring_users": 62190,
+      "genres": [
+        "Drama",
+        "Girls Love",
+        "School"
+      ],
+      "studios": [
+        "Madhouse"
+      ],
+      "media_type": "tv",
+      "release_year": 2006,
+      "num_episodes": 26,
+      "brief": {
+        "synopsis": "Aoi Nagisa börjar på flickakademin St. Miator på Astraea Hill, där tre närliggande skolor binds samman av traditioner och en gemensam Etoile-hierarki. Hennes möte med den upphöjda Shizuma Hanazono drar in henne i skolornas relationer och sociala förväntningar.",
+        "themes": [
+          "Förälskelse och sociala roller",
+          "Skolhierarki och tradition",
+          "Idealiserad status och personlig sårbarhet",
+          "Det förflutnas betydelse för närhet"
+        ],
+        "tone": [
+          "Romantiskt melodramatisk",
+          "Högtidlig",
+          "Skolromantisk"
+        ],
+        "pacing_and_structure": "26-avsnittsserie som växlar mellan skolvardag, relationsdrama och den ceremoniella Etoile-ordningen.",
+        "character_dynamics": "Nagisa är nykomling i en etablerad social struktur; Shizumas ställning som Etoile och hennes tidigare erfarenheter påverkar hur deras närmande kan utvecklas.",
+        "distinctive_features": "Tre sammanlänkade flickskolor och en formell Etoile-institution ger den romantiska berättelsen ett uttalat ceremoniellt ramverk.",
+        "comparison_cues": [
+          "Romantik i en hierarkisk internatskolemiljö",
+          "Kontrast mellan nykomling och skolans idealfigur",
+          "Melodrama kopplat till tradition och status"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 1519,
+      "title": "Black Lagoon: The Second Barrage",
+      "mal_mean_score": 8.18,
+      "mal_num_scoring_users": 346715,
+      "genres": [
+        "Action",
+        "Adult Cast",
+        "Organized Crime",
+        "Seinen"
+      ],
+      "studios": [
+        "Madhouse"
+      ],
+      "media_type": "tv",
+      "release_year": 2006,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "Andra säsongen fortsätter följa Rock, en tidigare japansk kontorsanställd som blivit medlem i Lagoon Company i den kriminellt styrda hamnstaden Roanapur. Besättningen dras in i uppdrag och konflikter mellan olika brottsnätverk, medan Rock försöker förena sin kvarvarande moral med den våldsamma miljö där han nu lever.",
+        "themes": [
+          "Moralisk kompromiss i en laglös miljö",
+          "Tillhörighet efter uppbrott från ett tidigare liv",
+          "Makt och lojalitet i organiserad brottslighet"
+        ],
+        "tone": [
+          "Hårdkokt",
+          "Våldsam",
+          "Cynisk med mörk humor"
+        ],
+        "pacing_and_structure": "Tolv avsnitt som fortsätter direkt efter första säsongen; flera sammanhängande kriminalhistorier med snabba konfrontationer och mer utdragna moraliska konflikter.",
+        "character_dynamics": "Rocks tveksamhet inför våld ställs mot Revys impulsiva och beväpnade handlingssätt. Hans plats i gruppen prövas samtidigt som kriminella maktspel ställer hans principer mot praktiska överlevnadsval.",
+        "distinctive_features": "Madhouse-producerad fortsättning som förlägger hårdkokt action till sydostasiatiska Roanapur och kontrasterar en före detta tjänstemans perspektiv med professionella kriminellas.",
+        "comparison_cues": [
+          "Hur en huvudperson förändras när han stannar i en moraliskt komprometterad miljö",
+          "Relationen mellan en tveksam förhandlare och en våldsbenägen partner",
+          "Fleravsnittsbågar med kriminella fraktioner snarare än fristående äventyr"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 1530,
+      "title": "Kanon (2006)",
+      "mal_mean_score": 7.94,
+      "mal_num_scoring_users": 144245,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Supernatural"
+      ],
+      "studios": [
+        "Kyoto Animation"
+      ],
+      "media_type": "tv",
+      "release_year": 2006,
+      "num_episodes": 24,
+      "brief": {
+        "synopsis": "Yuuichi Aizawa återvänder efter sju år till en snötäckt stad där han brukade besöka sin kusin. Hans barndomsminnen är fragmentariska, men möten med flera unga kvinnor som känner honom börjar gradvis öppna det förflutna.",
+        "themes": [
+          "Minnesförlust och återkomst",
+          "Barndomens ouppklarade band",
+          "Omsorg och försoning",
+          "Vardag och övernaturlighet"
+        ],
+        "tone": [
+          "Vintermelankolisk",
+          "Varm",
+          "Mystisk"
+        ],
+        "pacing_and_structure": "24-avsnittsserie med sammanlänkade personliga berättelsebågar där vardagliga möten och minnesfragment stegvis fördjupar mysterierna.",
+        "character_dynamics": "Yuuichis återupptagna relation med kusinen Nayuki och hans möten med andra bekanta från barndomen gör honom till en länk mellan flera personliga historier.",
+        "distinctive_features": "Kyoto Animations 2006-adaptation av Keys visuella roman; snömiljön och återvändarens bristande minne strukturerar dramat.",
+        "comparison_cues": [
+          "Minnesåterkomst som motor för relationsdrama",
+          "Flera individuella berättelsebågar kring en huvudperson",
+          "Vintermiljö och lågmäld vardag mot övernaturliga inslag"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 2034,
+      "title": "Lovely★Complex",
+      "mal_mean_score": 8.03,
+      "mal_num_scoring_users": 326851,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "School",
+        "Shoujo"
+      ],
+      "studios": [
+        "Toei Animation"
+      ],
+      "media_type": "tv",
+      "release_year": 2007,
+      "num_episodes": 24,
+      "brief": {
+        "synopsis": "Risa Koizumi är ovanligt lång och Atsushi Ootani ovanligt kort för sina respektive kön. Klasskamraterna behandlar dem som en komisk duo, medan deras egna förälskelser först riktas åt andra håll. Deras gräl och gemensamma intressen utvecklas gradvis till en närmare relation.",
+        "themes": [
+          "Självbild och kroppsliga normer",
+          "Vänskap som möjlig grund för kärlek",
+          "Sociala förväntningar",
+          "Ömsesidig förståelse bakom komik"
+        ],
+        "tone": [
+          "Livlig",
+          "Humoristisk",
+          "Romantisk"
+        ],
+        "pacing_and_structure": "Romantisk skolkome­di i 24 avsnitt; bygger på återkommande verbala dueller och en stegvis förändring av huvudpersonernas relation.",
+        "character_dynamics": "Risa och Ootani retas och argumenterar med varandra men delar erfarenheten av att bli bedömda efter sin längd; deras gemensamma musikintresse ger en annan kontaktpunkt.",
+        "distinctive_features": "Längdskillnaden vänder på vanliga könsförväntningar och används både som komisk motor och som hinder för huvudpersonernas självbild.",
+        "comparison_cues": [
+          "Från komisk rivalitet till romantiskt intresse",
+          "Kroppsliga normer som relationshinder",
+          "Skolromantik med uttalad slapstick och dialogdriven kemi"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 2403,
+      "title": "Kodomo no Jikan (TV)",
+      "mal_mean_score": 6.69,
+      "mal_num_scoring_users": 56631,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Ecchi",
+        "School"
+      ],
+      "studios": [
+        "Studio Barcelona"
+      ],
+      "media_type": "tv",
+      "release_year": 2007,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "Den nyanställde lågstadieläraren Daisuke Aoki får ansvar för en klass där eleven Rin Kokonoe utmanar gränserna i relationen mellan barn och vuxna. Hennes påträngande förälskelseförklaring skapar konflikter kring läraransvar, kamratrelationer och svåra familjeförhållanden.",
+        "themes": [
+          "gränser och ansvar i skolan",
+          "barndom och familjesituation",
+          "missförstånd mellan barn och vuxna"
+        ],
+        "tone": [
+          "provokativ komedi",
+          "drama"
+        ],
+        "pacing_and_structure": "Tolvdelad TV-serie som växlar skolvardag och komiska konflikter med inslag av allvarligare bakgrundsdrama; animeversionen har en egen avslutning i förhållande till mangan.",
+        "character_dynamics": "Aoki försöker hantera Rin som elev och upprätthålla sin vuxenroll. Rins relationer till klasskamraterna Kuro och Mimi ger ytterligare perspektiv på skolmiljön.",
+        "distinctive_features": "Kombinerar en avsiktligt kontroversiell lärare–elev-premiss med vardagsskildring och familjedrama; TV-sändningen hade censurerade inslag.",
+        "comparison_cues": [
+          "gränsöverskridande komedipremiss",
+          "skolvardag som återkommande episodmiljö",
+          "tonväxling mellan provokation och familjedrama"
+        ],
+        "profile_status": "complete",
+        "uncertainties": [
+          "Bedömningen av tempo bygger på seriens dokumenterade upplägg, inte en fullständig avsnittsanalys."
+        ]
+      }
+    },
+    {
+      "mal_id": 3299,
+      "title": "H2O: Footprints in the Sand",
+      "mal_mean_score": 6.98,
+      "mal_num_scoring_users": 49360,
+      "genres": [
+        "Drama",
+        "Harem",
+        "Romance",
+        "School",
+        "Supernatural"
+      ],
+      "studios": [
+        "Zexcs"
+      ],
+      "media_type": "tv",
+      "release_year": 2008,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "Takuma Hirose, en gymnasieelev med synnedsättning, flyttar till en lantlig by för att bo hos sin farbror. Där lär han känna den utstötta Hayami Kohinata, klassrepresentanten Hinata Kagura och den gåtfulla Otoha. Hans försök att förstå och hjälpa Hayami för honom närmare byns nedärvda konflikter.",
+        "themes": [
+          "Social utfrysning och kollektiv skuld",
+          "Sorg och bearbetning",
+          "Tillit kontra nedärvda fördomar",
+          "Synförmåga som berättarmotiv"
+        ],
+        "tone": [
+          "Melodramatisk",
+          "Romantisk",
+          "Mystisk",
+          "Bitvis mörk"
+        ],
+        "pacing_and_structure": "Tolv avsnitt; inleds som skol- och relationsdrama i lantmiljö och bygger successivt upp hemligheter med övernaturliga inslag.",
+        "character_dynamics": "Takumas omtanke om Hayami står i kontrast till bybornas fientlighet. Hinata har en mer accepterad ställning i skolan, medan Otoha tillför ett övernaturligt perspektiv på Takumas situation.",
+        "distinctive_features": "Visual novel-adaption från ZEXCS där en huvudpersons synnedsättning och ett lokalsamhälles historia vävs samman med romantik och mystik.",
+        "comparison_cues": [
+          "Relation där en utomstående utmanar en grupps behandling av en utstött person",
+          "Lantlig skolmiljö med hemligheter snarare än ren vardagsromantik",
+          "Övernaturliga inslag kopplade till huvudpersonens perceptionsförmåga"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 4535,
+      "title": "Candy Boy: Nonchalant Talk of the Certain Twin Sisters in Daily Life",
+      "mal_mean_score": 6.75,
+      "mal_num_scoring_users": 36218,
+      "genres": [
+        "Girls Love",
+        "Love Polygon",
+        "School"
+      ],
+      "studios": [
+        "AIC"
+      ],
+      "media_type": "ona",
+      "release_year": 2008,
+      "num_episodes": 7,
+      "brief": {
+        "synopsis": "Tvillingsystrarna Yukino och Kanade Sakurai bor tillsammans på internat under gymnasietiden. Deras starka och romantiskt laddade närhet rubbas när Kanade misstolkar kontakten mellan Yukino och den yngre eleven Sakuya Kamiyama, som i själva verket är intresserad av Kanade.",
+        "themes": [
+          "Syskonnärhet och romantisk osäkerhet",
+          "Svartsjuka och kommunikation",
+          "Skolvardag"
+        ],
+        "tone": [
+          "Mjuk",
+          "Vardagshumoristisk",
+          "Romantisk"
+        ],
+        "pacing_and_structure": "En ONA-serie på sju korta avsnitt om ungefär en kvart vardera, där vardagliga situationer och relationella missförstånd driver handlingen.",
+        "character_dynamics": "Yukino och Kanade står varandra mycket nära; Sakuya är förälskad i Kanade och hennes kontakt med Yukino skapar en triangelliknande dynamik. Yngre systern Shizuku förekommer också.",
+        "distinctive_features": "Originalproducerad kortformatsserie från 2008–2009 med skolinternatet som central miljö.",
+        "comparison_cues": [
+          "Jämför med Side Story For Archive: hur pilotens konflikt byggs ut till episodisk vardag",
+          "Sakuya som katalysator för svartsjuka snarare än ett konventionellt kärleksintresse för Yukino"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 5116,
+      "title": "Candy Boy Episode: EX01 - Mirai Yohouzu",
+      "mal_mean_score": 6.75,
+      "mal_num_scoring_users": 15612,
+      "genres": [
+        "Girls Love",
+        "School"
+      ],
+      "studios": [
+        "AIC"
+      ],
+      "media_type": "ova",
+      "release_year": 2008,
+      "num_episodes": 1,
+      "brief": {
+        "synopsis": "Ett kort extraavsnitt som utspelar sig före den ursprungliga Candy☆Boy-berättelsen. Yukino och Kanade Sakurai flyttar in i sitt studentrum i Tokyo och skickar bilder hem till sin yngre syster Shizuku.",
+        "themes": [
+          "Att flytta hemifrån",
+          "Syskonband över avstånd",
+          "Gemensam vardag"
+        ],
+        "tone": [
+          "Varm",
+          "Vardaglig",
+          "Lågmäld"
+        ],
+        "pacing_and_structure": "En kort prequelvinjett som etablerar boendesituationen snarare än utvecklar huvudseriens romantiska konflikt.",
+        "character_dynamics": "Yukino och Kanade inleder sitt gemensamma boende; kontakten med Shizuku förankrar dem i familjen de lämnat hemma.",
+        "distinctive_features": "EX01, även kallad Forecast of the Future, skildrar flytten till Tokyo före huvudberättelsen.",
+        "comparison_cues": [
+          "Jämför familjeorienterad etablering med huvudseriens romantiska missförstånd",
+          "Flytt- och internatmiljön som startpunkt för systrarnas gemensamma vardag"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 4224,
+      "title": "Toradora!",
+      "mal_mean_score": 8.03,
+      "mal_num_scoring_users": 1491313,
+      "genres": [
+        "Drama",
+        "Love Polygon",
+        "Romance",
+        "School"
+      ],
+      "studios": [
+        "J.C.Staff"
+      ],
+      "media_type": "tv",
+      "release_year": 2008,
+      "num_episodes": 25,
+      "brief": {
+        "synopsis": "Ryuuji Takasu ser skrämmande ut men är omtänksam och sköter gärna hushållssysslor. Den temperamentsfulla Taiga Aisaka är förälskad i hans vän Kitamura, medan Ryuuji själv tycker om Taigas vän Minori. De två gör en överenskommelse om att hjälpa varandra med sina respektive förälskelser.",
+        "themes": [
+          "Förälskelse och vänskap",
+          "Första intryck kontra personlighet",
+          "Familjeförhållanden och tillhörighet"
+        ],
+        "tone": [
+          "Komisk",
+          "Känslosam",
+          "Vardagsnära"
+        ],
+        "pacing_and_structure": "En 25 avsnitt lång romantisk skoldramakomedi som börjar med vardagskonflikter och ett gemensamt kärleksprojekt, medan relationerna fördjupas under seriens gång.",
+        "character_dynamics": "Ryuuji är praktisk och omsorgsfull medan Taiga ofta reagerar impulsivt; deras samarbete påverkar även vänskapskretsen kring Minori och Kitamura.",
+        "distinctive_features": "De två huvudpersonernas ömsesidiga hjälp med andra förälskelser ger en tydlig grund för både situationskomik och relationell förändring.",
+        "comparison_cues": [
+          "Ömsesidig hjälp med obesvarade förälskelser",
+          "Kontrast mellan yttre rykte och verklig personlighet",
+          "Övergång från skoldagskomik till relationsdrama"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 4903,
+      "title": "Kyou no 5 no 2 (TV)",
+      "mal_mean_score": 7.2,
+      "mal_num_scoring_users": 14764,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "School",
+        "Seinen"
+      ],
+      "studios": [
+        "Xebec"
+      ],
+      "media_type": "tv",
+      "release_year": 2008,
+      "num_episodes": 13,
+      "brief": {
+        "synopsis": "Den tretton avsnitt långa TV-serien följer Ryouta Satou och klasskamraterna i femteklassens klass 5-2. Vardagliga lekar, rivalitet och pinsamma missförstånd kring begynnande förälskelser skapar korta komiska episoder i en grupp där barnen gärna försöker verka mer vuxna än de är.",
+        "themes": [
+          "Barndom och begynnande pubertet",
+          "Klassgemenskap",
+          "Vänskap och social osäkerhet",
+          "Vardagliga missförstånd"
+        ],
+        "tone": [
+          "Lekfull",
+          "Busig",
+          "Lättsam"
+        ],
+        "pacing_and_structure": "Episodisk skolvardagskomedi med flera korta situationer snarare än en övergripande dramatisk intrig; 13 TV-avsnitt från 2008.",
+        "character_dynamics": "Ryouta står i centrum men samspelet med barndomsvännen Chika Koizumi och övriga klasskamrater bär skämten; gruppens försök att förstå varandras reaktioner leder till återkommande förvecklingar.",
+        "distinctive_features": "TV-version från Xebec baserad på Koharu Sakurabas manga, skild från den tidigare OVA-adaptionen; fokus på en femteklass snarare än tonåriga gymnasieelever.",
+        "comparison_cues": [
+          "Jämför med Minami-ke utifrån författarskap och vardagskomik, men håll isär åldersmiljöerna",
+          "Bedöm hur korta skolincidenter skapar humor utan större sammanhängande handling",
+          "Jämför TV-versionens ensemblefokus med den äldre OVA-versionen"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 4087,
+      "title": "Michiko to Hatchin",
+      "mal_mean_score": 7.83,
+      "mal_num_scoring_users": 66796,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "studios": [
+        "Manglobe"
+      ],
+      "media_type": "tv",
+      "release_year": 2008,
+      "num_episodes": 22,
+      "brief": {
+        "synopsis": "Efter en fängelseflykt söker Michiko Malandro en man ur sitt förflutna. Hon tar med sig Hana, kallad Hatchin, som lever hos en våldsam fosterfamilj och har en koppling till mannen. De reser tillsammans genom det fiktiva, sydamerikanskt inspirerade landet Diamandra och möter både kriminalitet och utsatthet.",
+        "themes": [
+          "Frihet och flykt",
+          "Vald familj och tillit",
+          "Föräldraskap och övergivenhet",
+          "Social utsatthet och kriminalitet"
+        ],
+        "tone": [
+          "Rå",
+          "Energisk",
+          "Melankolisk",
+          "Äventyrlig"
+        ],
+        "pacing_and_structure": "22 avsnitts roadmovie-liknande TV-berättelse där möten på resan och sökandet efter en frånvarande man löper parallellt.",
+        "character_dynamics": "Den impulsiva och självständiga Michiko och den mer försiktiga Hatchin är motpoler som tvingas förhandla om tillit och ansvar medan de reser tillsammans.",
+        "distinctive_features": "Fiktiv latinamerikansk miljö, utpräglad roadmovie-struktur och två kvinnliga huvudpersoner med stor ålders- och erfarenhetsskillnad; regisserad av Sayo Yamamoto.",
+        "comparison_cues": [
+          "Reseskildring som utvecklar en ojämlik men växande relation",
+          "Kriminaldrama kombinerat med omsorgstema",
+          "Sydamerikanskt inspirerad audiovisuell miljö",
+          "Frånvarande förälder som sökmotiv"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 6479,
+      "title": "Candy Boy Episode: EX02 - Shiawase Kyouyuu Riron",
+      "mal_mean_score": 6.7,
+      "mal_num_scoring_users": 14297,
+      "genres": [
+        "Girls Love",
+        "School"
+      ],
+      "studios": [
+        "AIC"
+      ],
+      "media_type": "special",
+      "release_year": 2009,
+      "num_episodes": 1,
+      "brief": {
+        "synopsis": "Ett fristående kort specialavsnitt till Candy Boy där Sakuya bjuder in systrarna Kanade, Yukino och Shizuku till en privat stund i en simhall. Besöket utvecklas till lekfulla förvecklingar kring Sakuya som vill fotografera Kanade och den nära relationen mellan Kanade och Yukino.",
+        "themes": [
+          "närhet mellan syskon",
+          "vardagsintimitet",
+          "svartsjuka och uppmärksamhet",
+          "lekfulla missförstånd"
+        ],
+        "tone": [
+          "lättsam",
+          "öm",
+          "retfull"
+        ],
+        "pacing_and_structure": "Ett kort, självständigt specialavsnitt med en enda huvudsituation i simhallen; situationskomedi snarare än övergripande intrig.",
+        "character_dynamics": "Kanade och Yukino är tvillingsystrar med en uttalat intim relation. Sakuya är starkt fäst vid Kanade och driver på fotograferingen; lillasystern Shizuku deltar i utflykten.",
+        "distinctive_features": "Poolmiljö, koncentrerad ensemble och kontrast mellan Sakuya som pådrivande beundrare och systrarnas ömsesidiga närhet.",
+        "comparison_cues": [
+          "kort relationsdriven special",
+          "vardaglig Girls Love-dynamik",
+          "komedi kring fotografering och gränser"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 6164,
+      "title": "Aoi Hana",
+      "mal_mean_score": 7.09,
+      "mal_num_scoring_users": 39030,
+      "genres": [
+        "Drama",
+        "Girls Love",
+        "School"
+      ],
+      "studios": [
+        "J.C.Staff"
+      ],
+      "media_type": "tv",
+      "release_year": 2009,
+      "num_episodes": 11,
+      "brief": {
+        "synopsis": "Barndomsvännerna Fumi Manjoume och Akira Okudaira återförenas efter många år, men går nu i olika flickskolor. Medan de försöker hitta tillbaka till sin vänskap brottas Fumi med känslor för en äldre skolelev och frågor om kärlek och identitet.",
+        "themes": [
+          "Återfunnen vänskap",
+          "Samkönad förälskelse",
+          "Att växa upp och förstå sina känslor",
+          "Självständighet i nära relationer"
+        ],
+        "tone": [
+          "Varsam",
+          "Eftertänksam",
+          "Lågmält romantisk"
+        ],
+        "pacing_and_structure": "Elva avsnitts relationsdrama där skoldagar, samtal och gradvis förändrade känslor driver berättelsen snarare än spektakulära konflikter.",
+        "character_dynamics": "Den tillbakadragna Fumi söker trygghet och orientering i sina relationer; den mer utåtriktade Akira försöker stödja sin återfunna vän utan att alla deras erfarenheter är desamma.",
+        "distinctive_features": "Takako Shimuras manga i en J.C.Staff-adaption som behandlar flickors romantiska känslor och vänskap som parallella, inte utbytbara, relationer.",
+        "comparison_cues": [
+          "Realistiskt relationsdrama snarare än yuri som ren genredekoration",
+          "Skillnaden mellan vänskap och romantisk attraktion",
+          "Återförening och personlig mognad i två skolmiljöer"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 6379,
+      "title": "Kyou no 5 no 2 (TV): Takarabako",
+      "mal_mean_score": 7.05,
+      "mal_num_scoring_users": 3769,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "School",
+        "Seinen"
+      ],
+      "studios": [
+        "Xebec"
+      ],
+      "media_type": "ova",
+      "release_year": 2009,
+      "num_episodes": 1,
+      "brief": {
+        "synopsis": "En fristående OVA knuten till 2008 års TV-version av Kyou no 5 no 2, om Ryouta Satou, Chika Koizumi och deras klasskamrater i klass 5-2. Den fortsätter seriens vardagliga skolkomedi med lekar, små konflikter och missförstånd i en grupp barndomsvänner.",
+        "themes": [
+          "Barndomsvänskap",
+          "Skolvardagens sociala spel",
+          "Retande och missförstånd"
+        ],
+        "tone": [
+          "Lekfull",
+          "Vardagligt komisk",
+          "Lättsam"
+        ],
+        "pacing_and_structure": "En kort OVA om cirka 28 minuter, utgiven som bonus till en begränsad mangautgåva; anknyter till TV-seriens episodiska skolvardag snarare än en självständig längre berättelse.",
+        "character_dynamics": "Ryouta och Chika har en etablerad barndomsrelation; deras övriga klasskamrater bidrar med lekar, retande och skiftande gruppkonstellationer.",
+        "distinctive_features": "Bonus-OVA från 2009 med samma stab och röstensemble som 2008 års Xebec-serie; bör inte sammanblandas med den äldre separata OVA-adaptionen.",
+        "comparison_cues": [
+          "Kort bonusavsnitt snarare än ny säsong",
+          "Gruppbaserad skolkomedi",
+          "Vardagssituationer med lätt retfulla undertoner"
+        ],
+        "profile_status": "complete",
+        "uncertainties": [
+          "De tillgängliga beskrivningarna specificerar inte en separat, detaljerad episodhandling; inga enskilda scener tillskrivs därför denna OVA."
+        ]
+      }
+    },
+    {
+      "mal_id": 6862,
+      "title": "K-On!: Live House!",
+      "mal_mean_score": 7.86,
+      "mal_num_scoring_users": 106566,
+      "genres": [
+        "CGDCT",
+        "Comedy",
+        "Music",
+        "School"
+      ],
+      "studios": [
+        "Kyoto Animation"
+      ],
+      "media_type": "special",
+      "release_year": 2010,
+      "num_episodes": 1,
+      "brief": {
+        "synopsis": "I ett extraavsnitt till K-On! blir Houkago Tea Time inbjudna av Ritsus gamla skolkamrat att spela på en livescen under nyårsafton. Bandet möter andra musiker och får för första gången känna på en konsertlokals förberedelser och nervositet.",
+        "themes": [
+          "Vänskap genom gemensamt musicerande",
+          "Att våga uppträda inför en ny publik",
+          "Ungdomligt samarbete"
+        ],
+        "tone": [
+          "Varm",
+          "Vardagshumoristisk",
+          "Förväntansfull"
+        ],
+        "pacing_and_structure": "En fristående OVA på omkring 23 minuter som följer inbjudan, förberedelserna och den första spelningen i en liveklubb snarare än en längre dramatisk konflikt.",
+        "character_dynamics": "Ritsu förmedlar kontakten med arrangörerna; de övriga medlemmarna i skolbandet reagerar olika på möjligheten att spela utanför skolmiljön.",
+        "distinctive_features": "Flyttar bandet från skolans musikklubb till en riktig konsertlokal och låter mötet med andra band stå i centrum.",
+        "comparison_cues": [
+          "Första spelning utanför skolmiljön",
+          "Kortformat med fokus på scennerver och bandgemenskap",
+          "Vardagskomedi knuten till konkret musikframträdande"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 9379,
+      "title": "Denpa Onna to Seishun Otoko",
+      "mal_mean_score": 7.11,
+      "mal_num_scoring_users": 132718,
+      "genres": [
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "studios": [
+        "Shaft"
+      ],
+      "media_type": "tv",
+      "release_year": 2011,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "Gymnasisten Makoto Niwa flyttar till sin moster Meme när föräldrarna arbetar utomlands. Där möter han kusinen Erio Touwa, som gömmer sig i en futon och hävdar att hon är utomjording. Makotos försök att få ett normalt ungdomsliv kolliderar med hennes föreställningsvärld och stadens andra excentriska ungdomar.",
+        "themes": [
+          "Ungdomsidentitet och föreställningar om normalitet",
+          "Familjeband och social isolering",
+          "Fantasi kontra vardaglig verklighet"
+        ],
+        "tone": [
+          "Egenartat komisk",
+          "Drömsk",
+          "Varmt absurd"
+        ],
+        "pacing_and_structure": "Episodiskt relations- och vardagsdrama där Makoto räknar sina upplevda ungdomspoäng; märkliga samtal och möten driver handlingen mer än yttre konflikter.",
+        "character_dynamics": "Makoto är både skeptisk och omtänksam inför Erio; mostern Meme och klasskamraterna Ryuko och Maekawa ger olika kontraster till hans idealiserade ungdomsliv.",
+        "distinctive_features": "Erio i sin futon, Makotos poängräkning och Shafts visuella gestaltning av en vardag som upplevs märklig.",
+        "comparison_cues": [
+          "Jämför hur vardaglig excentricitet och familjeansvar balanseras",
+          "Skilj fantasifulla påståenden från faktiskt science fiction-innehåll",
+          "Bedöm samspelet mellan episodisk komik och Erio–Makotos relation"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 9989,
+      "title": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+      "mal_mean_score": 8.28,
+      "mal_num_scoring_users": 1046518,
+      "genres": [
+        "Drama",
+        "Supernatural"
+      ],
+      "studios": [
+        "A-1 Pictures"
+      ],
+      "media_type": "tv",
+      "release_year": 2011,
+      "num_episodes": 11,
+      "brief": {
+        "synopsis": "Barndomsvännerna som en gång bildade en nära grupp har glidit isär efter Menmas död. Flera år senare upplever den tillbakadragne Jinta att Menma återvänder och ber honom uppfylla en önskan. Försöket för de tidigare vännerna samman och tvingar dem att konfrontera sådant de länge undvikit.",
+        "themes": [
+          "Sorg och skuld",
+          "Barndomsvänskap och förändring",
+          "Försoning",
+          "Outtalade känslor"
+        ],
+        "tone": [
+          "Vemodig",
+          "Ömsint",
+          "Emotionellt laddad"
+        ],
+        "pacing_and_structure": "Sammanhängande kort dramaserie där återföreningen gradvis blottlägger olika reaktioner på en gemensam förlust.",
+        "character_dynamics": "Jinta isolerar sig medan de andra tidigare vännerna har utvecklat skilda sätt att leva med det som hänt; Menmas önskan blir en katalysator för möten och konflikter.",
+        "distinctive_features": "En återvändande barndomsvän som bara huvudpersonen uppfattar, en gammal hemlig samlingsplats och ett sorgedrama förankrat i ungdomarnas skilda liv.",
+        "comparison_cues": [
+          "Gruppdynamik präglad av gemensam förlust",
+          "Övernaturlig premiss som motor för realistiska känslokonflikter",
+          "Kort serie med koncentrerad emotionell uppbyggnad"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 10161,
+      "title": "No.6",
+      "mal_mean_score": 7.55,
+      "mal_num_scoring_users": 217806,
+      "genres": [
+        "Action",
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "studios": [
+        "Bones"
+      ],
+      "media_type": "tv",
+      "release_year": 2011,
+      "num_episodes": 11,
+      "brief": {
+        "synopsis": "I den till synes perfekta stadsstaten No. 6 hjälper privilegierade Shion en skadad rymling, Nezumi, och förlorar därmed sin samhällsställning. När de möts igen flera år senare börjar Shion se den auktoritära ordning och ojämlikhet som den välordnade staden döljer.",
+        "themes": [
+          "Utopi och social kontroll",
+          "Klass och privilegier",
+          "Tillit över samhällsgränser",
+          "Lojalitet och moralisk självständighet"
+        ],
+        "tone": [
+          "Dystopisk",
+          "Spänningsfylld",
+          "Relationsdriven"
+        ],
+        "pacing_and_structure": "Kort sammanhängande dystopisk berättelse med mysterium kring stadens styre och ett centralt växande förtroende mellan huvudpersonerna.",
+        "character_dynamics": "Shions idealism och skyddade uppväxt ställs mot Nezumis misstro mot systemet och erfarenhet av livet utanför stadens privilegier.",
+        "distinctive_features": "En steril framtidsstad som kontrasteras mot dess marginaliserade omgivning; ett personligt möte får långtgående politiska konsekvenser.",
+        "comparison_cues": [
+          "Jämför förhållandet mellan dystopiskt världsbygge och Shion–Nezumis band",
+          "Undersök om maktkritiken eller karaktärskonflikten bär dramat",
+          "Jämför hur olika erfarenheter av samma samhälle påverkar deras val"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 10721,
+      "title": "Mawaru Penguindrum",
+      "mal_mean_score": 7.92,
+      "mal_num_scoring_users": 113822,
+      "genres": [
+        "Avant Garde",
+        "Drama",
+        "Mystery",
+        "Psychological",
+        "Supernatural",
+        "Suspense"
+      ],
+      "studios": [
+        "Brain's Base"
+      ],
+      "media_type": "tv",
+      "release_year": 2011,
+      "num_episodes": 24,
+      "brief": {
+        "synopsis": "Bröderna Kanba och Shouma Takakura försöker skydda sin svårt sjuka syster Himari. När hon oväntat återvänder från döden genom kraften hos en märklig pingvinmössa får de i uppdrag att hitta det gåtfulla föremålet Penguindrum för att förlänga hennes liv. Sökandet leder dem in i en alltmer symbolisk och ödesmättad berättelse.",
+        "themes": [
+          "Syskonlojalitet och uppoffring",
+          "Öde och val",
+          "Familjeband",
+          "Identitet och hemligheter"
+        ],
+        "tone": [
+          "Surrealistisk",
+          "Melodramatisk",
+          "Lekfull men hotfull",
+          "Gåtfull"
+        ],
+        "pacing_and_structure": "Fortlöpande mysterium med återkommande symboler, absurda inslag och gradvis utvidgade samband; vardagliga situationer avbryts av starkt stiliserade sekvenser.",
+        "character_dynamics": "Kanba och Shouma delar omsorgen om Himari men förhåller sig olika till kravet att rädda henne; systerns sköra situation ger brödernas sökande dess drivkraft.",
+        "distinctive_features": "Kunihiko Ikuharas serie från 2011 kombinerar pingvinmotiv, transformationer och visuellt symbolberättande med ett familjedrama.",
+        "comparison_cues": [
+          "Symbolisk dramaturgi snarare än rakt berättat mysterium",
+          "Syskonens ansvar som drivkraft",
+          "Växling mellan absurd komik och mörk familjetragedi"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 10800,
+      "title": "Chihayafuru",
+      "mal_mean_score": 8.17,
+      "mal_num_scoring_users": 197303,
+      "genres": [
+        "Drama",
+        "Josei",
+        "Love Polygon",
+        "Romance",
+        "School",
+        "Sports",
+        "Strategy Game"
+      ],
+      "studios": [
+        "Madhouse"
+      ],
+      "media_type": "tv",
+      "release_year": 2011,
+      "num_episodes": 25,
+      "brief": {
+        "synopsis": "Chihaya Ayase upptäcker tävlingskaruta genom klasskamraten Arata Wataya. Flera år efter att barndomsvännerna skilts åt bildar hon tillsammans med Taichi Mashima en karutaklubb på gymnasiet för att utvecklas som spelare och återknyta kontakten genom sporten.",
+        "themes": [
+          "Egen ambition och självbild",
+          "Vänskap och avstånd",
+          "Laganda och tävlingsdisciplin",
+          "Klassisk japansk poesi"
+        ],
+        "tone": [
+          "Engagerad",
+          "Tävlingsintensiv",
+          "Känslomässig"
+        ],
+        "pacing_and_structure": "Längre sportdrama där klubbens uppbyggnad, träning och matcher varvas med relationell utveckling; karutas snabba kortdueller ger tydliga spänningshöjdpunkter.",
+        "character_dynamics": "Chihayas målmedvetenhet knyter ihop barndomsvännerna Arata och Taichi; klubbkamraternas skilda styrkor skapar ett kollektivt tävlingsprojekt.",
+        "distinctive_features": "Tävlingskaruta bygger på dikter ur Hyakunin Isshu och kombinerar minne, hörsel och explosiv reaktionsförmåga.",
+        "comparison_cues": [
+          "Sportdrama med traditionell poesi som tävlingssystem",
+          "Barndomsvänskap och återförening över avstånd",
+          "Klubbgemenskap och individuella tävlingsmål"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 10620,
+      "title": "Mirai Nikki (TV)",
+      "mal_mean_score": 7.37,
+      "mal_num_scoring_users": 1290270,
+      "genres": [
+        "Action",
+        "Gore",
+        "High Stakes Game",
+        "Psychological",
+        "Shounen",
+        "Supernatural",
+        "Survival",
+        "Suspense"
+      ],
+      "studios": [
+        "asread."
+      ],
+      "media_type": "tv",
+      "release_year": 2011,
+      "num_episodes": 26,
+      "brief": {
+        "synopsis": "Den isolerade eleven Yukiteru Amano upptäcker att dagboken i hans mobil förutser framtida händelser. Tillsammans med klasskamraten Yuno Gasai, som har en egen framtidsdagbok, dras han in i en dödlig tävling mellan tolv dagboksinnehavare om att efterträda guden Deus Ex Machina.",
+        "themes": [
+          "Överlevnad och makt",
+          "Kontroll kontra osäker framtid",
+          "Besatthet och tillit",
+          "Ensamhet och beroende"
+        ],
+        "tone": [
+          "Paranoid",
+          "Våldsam",
+          "Melodramatiskt intensiv"
+        ],
+        "pacing_and_structure": "Serialiserad överlevnadsthriller i 26 avsnitt där dagböckernas olika förutsägelser ger taktiska konfrontationer och återkommande omkastningar.",
+        "character_dynamics": "Yukiterus osäkerhet kontrasterar mot Yunos handlingskraft och intensiva fixering vid honom; deras ömsesidiga beroende skapar både skydd och fara.",
+        "distinctive_features": "Varje tävlande har en framtidsdagbok med särskilda begränsningar; den romantiskt laddade huvudrelationen löper genom ett våldsamt dödsspel.",
+        "comparison_cues": [
+          "Framtidsförutsägelser som taktisk mekanik",
+          "Kärleksrelation där omsorg och hot sammanfaller",
+          "Högt tempo och eskalerande dödsspel"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 11179,
+      "title": "Papa no Iukoto wo Kikinasai!",
+      "mal_mean_score": 7.24,
+      "mal_num_scoring_users": 105492,
+      "genres": [
+        "Childcare",
+        "Comedy",
+        "Romance"
+      ],
+      "studios": [
+        "feel."
+      ],
+      "media_type": "tv",
+      "release_year": 2012,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "Universitetsstudenten Yuuta Segawa tar hand om sina tre systerdöttrar Sora, Miu och Hina sedan hans syster och hennes make försvunnit i en flygolycka. Han väljer att hålla systrarna tillsammans i sin lilla lägenhet i stället för att låta släkten dela upp dem. Det nya hushållet måste hitta rutiner samtidigt som de hanterar förlusten.",
+        "themes": [
+          "Vald familj och omsorgsansvar",
+          "Sorg och vardaglig återhämtning",
+          "Syskonsammanhållning",
+          "Studier och försörjning under familjeansvar"
+        ],
+        "tone": [
+          "Varm",
+          "Vardagligt komisk",
+          "Bitvis sorgsen"
+        ],
+        "pacing_and_structure": "Familjekomedi med vardagsproblem kring trångboddhet, skola och omsorg, med en allvarligare förlust som utgångspunkt; tv-serie om 12 avsnitt.",
+        "character_dynamics": "Yuuta är en oerfaren ung vårdnadshavare; den äldre Sora, mellansystern Miu och den yngsta Hina har olika behov och temperament. Yuuta försöker hålla dem samman trots att han själv fortfarande är student.",
+        "distinctive_features": "En ung student blir ansvarig för tre barn i en enrumslägenhet; kontrasten mellan komiska hushållssituationer och den bakomliggande familjetragedin bär serien.",
+        "comparison_cues": [
+          "Familjebildning genom konkret vardagsansvar",
+          "Barn i tre olika åldrar under samma tak",
+          "Komedi med sorg som underliggande premiss"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 12189,
+      "title": "Hyouka",
+      "mal_mean_score": 8.04,
+      "mal_num_scoring_users": 699248,
+      "genres": [
+        "Mystery",
+        "School",
+        "Slice of Life"
+      ],
+      "studios": [
+        "Kyoto Animation"
+      ],
+      "media_type": "tv",
+      "release_year": 2012,
+      "num_episodes": 22,
+      "brief": {
+        "synopsis": "Houtarou Oreki vill hushålla med sin energi, men går med i skolans klassikerklubb och dras av Eru Chitandas nyfikenhet in i vardagliga mysterier tillsammans med Satoshi Fukube och Mayaka Ibara.",
+        "themes": [
+          "Nyfikenhet kontra passivitet",
+          "Vänskap och självbild",
+          "Vardagliga mysterier"
+        ],
+        "tone": [
+          "Eftertänksam",
+          "Lekfull",
+          "Lågmält gåtfull"
+        ],
+        "pacing_and_structure": "Episodiska skolmysterier varvas med längre trådar kring klubbens historia; problemlösning och samtal snarare än våld driver berättelsen.",
+        "character_dynamics": "Orekis motvilja att engagera sig kontrasteras mot Chitandas ihärdiga nyfikenhet; Satoshi och Mayaka bidrar med egna perspektiv och etablerade vänskapsband.",
+        "distinctive_features": "Kyoto Animations bearbetning av Honobu Yonezawas Classic Literature Club-romaner använder skolans små gåtor för att synliggöra karaktärernas tankesätt.",
+        "comparison_cues": [
+          "Jämför hur vardagsmysterier skapar karaktärsutveckling",
+          "Skilj lågmält mysterium från thrillerdriven spänning"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 14227,
+      "title": "Tonari no Kaibutsu-kun",
+      "mal_mean_score": 7.45,
+      "mal_num_scoring_users": 660127,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "School",
+        "Shoujo"
+      ],
+      "studios": [
+        "Brain's Base"
+      ],
+      "media_type": "tv",
+      "release_year": 2012,
+      "num_episodes": 13,
+      "brief": {
+        "synopsis": "Shizuku Mizutani prioriterar sina betyg framför alla sociala band. När hon lämnar skolmaterial till den frånvarande klasskamraten Haru Yoshida tolkar han gesten som början på en vänskap och uttrycker snart romantiskt intresse. Deras olika sätt att hantera närhet, konflikter och känslor gör relationen både komisk och svårnavigerad.",
+        "themes": [
+          "Social isolering",
+          "Att lära sig förstå känslor",
+          "Vänskap och romantisk närhet",
+          "Skolprestation kontra relationer"
+        ],
+        "tone": [
+          "Livlig",
+          "Romantiskt komisk",
+          "Stundtals kantig"
+        ],
+        "pacing_and_structure": "13 avsnitt med snabb relationsutveckling, återkommande missförstånd och en växande krets av klasskamrater snarare än ett långsamt etablerat parförhållande.",
+        "character_dynamics": "Den reserverade, målinriktade Shizuku ställs mot den impulsive, känslomässigt direkta Haru, vars rykte som bråkstake döljer social osäkerhet; vännernas närvaro gör deras relation mindre isolerad.",
+        "distinctive_features": "Robicos shoujo-manga adapterad av Brain's Base; bygger komik på kontrasten mellan en känslomässigt återhållen toppstudent och en oförutsägbar skolkamrat.",
+        "comparison_cues": [
+          "Snabbt uttalade känslor men svårigheter att bygga fungerande närhet",
+          "Kontrast mellan studiefokus och socialt kaos",
+          "Skolromantik där båda huvudpersonerna behöver lära sig samspel"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 14289,
+      "title": "Suki tte Ii na yo.",
+      "mal_mean_score": 7.38,
+      "mal_num_scoring_users": 376586,
+      "genres": [
+        "Drama",
+        "Romance",
+        "School",
+        "Shoujo"
+      ],
+      "studios": [
+        "Zexcs"
+      ],
+      "media_type": "tv",
+      "release_year": 2012,
+      "num_episodes": 13,
+      "brief": {
+        "synopsis": "Mei Tachibana har undvikit nära relationer efter ett svek i barndomen. När den populäre Yamato Kurosawa söker kontakt växer en romans fram som utmanar hennes misstro och öppnar för nya vänskaper.",
+        "themes": [
+          "tillit efter svek",
+          "romantik",
+          "social isolering"
+        ],
+        "tone": [
+          "känslosam",
+          "romantisk"
+        ],
+        "pacing_and_structure": "Relationsdrivet skoldrama där en relativt tidigt etablerad relation prövas av osäkerhet och missförstånd.",
+        "character_dynamics": "Meis reserverade hållning kontrasteras mot Yamatos sociala självsäkerhet; deras närmande påverkar också hennes relationer till andra elever.",
+        "distinctive_features": "Tyngdpunkten ligger på tillit och kommunikation inom en påbörjad relation, inte enbart på vägen fram till ett parbildande.",
+        "comparison_cues": [
+          "romantik efter tidigt närmande",
+          "tillit och social återhämtning",
+          "missförstånd i en etablerad relation"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 14131,
+      "title": "Girls & Panzer",
+      "mal_mean_score": 7.55,
+      "mal_num_scoring_users": 165760,
+      "genres": [
+        "Action",
+        "CGDCT",
+        "Military",
+        "School"
+      ],
+      "studios": [
+        "Actas"
+      ],
+      "media_type": "tv",
+      "release_year": 2012,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "Miho Nishizumi byter till Ōarai flickskola för att komma bort från stridsvagnssporten sensha-dō, men skolans elevråd återinför sporten och hon hamnar åter i en besättning med nya vänner. Skolan deltar sedan i tävlingar mot andra skolor.",
+        "themes": [
+          "Laganda och ledarskap",
+          "Att ompröva tidigare erfarenheter",
+          "Tävlingsstrategi och samarbete"
+        ],
+        "tone": [
+          "Energisk",
+          "Kamratlig",
+          "Tävlingsinriktad"
+        ],
+        "pacing_and_structure": "Skolvardag och lagbygge leder över i taktiskt utformade stridsvagnsmatcher med tydlig turneringsstruktur.",
+        "character_dynamics": "Miho för med sig erfarenhet men tvekar inför sporten; Saori Takebe och Hana Isuzu är bland de första som välkomnar henne, och gruppens samarbete blir avgörande.",
+        "distinctive_features": "Den fiktiva skolsporten använder historiska stridsvagnar som tävlingsredskap snarare än att skildra ett faktiskt krig.",
+        "comparison_cues": [
+          "Jämför hur taktiska matcher bygger lagrelationer",
+          "Skilj militär estetik från seriens idrotts- och skolberättelse"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 16001,
+      "title": "Kokoro Connect: Michi Random",
+      "mal_mean_score": 7.9,
+      "mal_num_scoring_users": 178970,
+      "genres": [
+        "Drama",
+        "Romance",
+        "School",
+        "Supernatural"
+      ],
+      "studios": [
+        "SILVER LINK."
+      ],
+      "media_type": "special",
+      "release_year": 2012,
+      "num_episodes": 4,
+      "brief": {
+        "synopsis": "Medlemmarna i Yamaboshi-gymnasiets kulturklubb drabbas av ett nytt övernaturligt fenomen: deras verkliga känslor förmedlas oförutsägbart till varandra. Samtidigt hotas klubbens framtid och relationerna sätts under press inför alla hjärtans dag.",
+        "themes": [
+          "Privata känslor kontra social fasad",
+          "Sårbarhet och tillit",
+          "Vänskap under press",
+          "Romantisk osäkerhet"
+        ],
+        "tone": [
+          "Känsloladdad",
+          "Intim",
+          "Bitvis humoristisk"
+        ],
+        "pacing_and_structure": "Fyra sammanhängande specialavsnitt som fortsätter tv-seriens berättelse; en ny övernaturlig regel skapar successivt mer direkta konflikter i gruppen.",
+        "character_dynamics": "Taichi, Himeko, Iori och övriga klubbmedlemmar måste hantera vad andra faktiskt får höra av deras inre liv; Fuusenkazura fungerar som katalysator snarare än traditionell samtalspartner.",
+        "distinctive_features": "Avslutande fyra avsnitt till Kokoro Connect, baserade på light novel-material; känsloöverföring används som ett konkret dramaturgiskt test av gruppens relationer.",
+        "comparison_cues": [
+          "Övernaturligt grepp som blottlägger relationer",
+          "Ensemble där inre konflikt blir gemensamt problem",
+          "Kort fortsättning med fokus på känslomässig upplösning"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 14355,
+      "title": "Yama no Susume",
+      "mal_mean_score": 6.87,
+      "mal_num_scoring_users": 32679,
+      "genres": [
+        "Adventure",
+        "CGDCT",
+        "Iyashikei",
+        "Slice of Life"
+      ],
+      "studios": [
+        "8bit"
+      ],
+      "media_type": "tv",
+      "release_year": 2013,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "Den höjdrädda och tillbakadragna Aoi återser sin utåtriktade barndomsvän Hinata, som älskar bergsvandring. Hinata vill återuppleva en soluppgång som de såg tillsammans som barn. För Aoi innebär deras utflykter att försiktigt närma sig en aktivitet som både skrämmer och lockar, och att bygga upp självförtroende genom små gemensamma erfarenheter.",
+        "themes": [
+          "Vänskap som drivkraft för att pröva något nytt",
+          "Höjdrädsla och gradvis självständighet",
+          "Naturupplevelser och gemensamma minnen"
+        ],
+        "tone": [
+          "Varm",
+          "Vardagligt lekfull",
+          "Lågmäld"
+        ],
+        "pacing_and_structure": "Första säsongen består av tolv korta avsnitt om cirka fem minuter. Fokus ligger på vardagliga förberedelser, mindre utflykter och relationen mellan vännerna, inte ett långt tävlings- eller expeditionsdrama.",
+        "character_dynamics": "Den försiktiga Aoi kontrasteras mot Hinatas entusiasm och initiativförmåga. Deras gemensamma barndomsminne ger vandringen ett personligt mål; Aois tvekan och Hinatas pådrivande roll skapar små friktioner och framsteg.",
+        "distinctive_features": "Bergsvandring berättad i mycket korta avsnitt, med höjdrädsla och återknytandet till en barndomsvän som utgångspunkt.",
+        "comparison_cues": [
+          "Kortformatsberättande och dess utrymme för karaktärsutveckling",
+          "Naturaktivitet som ram för vänskap snarare än tävling",
+          "Hur den höjdrädda huvudpersonen gradvis möter sin osäkerhet"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 16417,
+      "title": "Tamako Market",
+      "mal_mean_score": 7.41,
+      "mal_num_scoring_users": 190729,
+      "genres": [
+        "Iyashikei",
+        "Slice of Life"
+      ],
+      "studios": [
+        "Kyoto Animation"
+      ],
+      "media_type": "tv",
+      "release_year": 2013,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "Tamako Kitashirakawa är gymnasieelev och dotter till en mochi-handlare i shoppinggatan Usagiyama. Hennes välbekanta vardag bland butiksägare, familj och vänner får ett märkligt tillskott när den talande fågeln Dera flyttar in hos henne.",
+        "themes": [
+          "Lokalsamhälle och tillhörighet",
+          "Familj och generationsband",
+          "Vardagsrutiner och förändring"
+        ],
+        "tone": [
+          "Varm",
+          "Lekfull",
+          "Vardagsnära"
+        ],
+        "pacing_and_structure": "Episodisk vardagskomedi med shoppinggatan som återkommande miljö; fågelns upptåg ger en lätt absurd kontrast till den invanda vardagen.",
+        "character_dynamics": "Tamako är djupt förankrad i familjens butik och i grannskapet; Dera är en högljudd och påträngande gäst som rubbar rutinerna.",
+        "distinctive_features": "Kyoto Animations originalserie med mochi-butiker och en hel shoppinggata som socialt nav snarare än en vanlig skolklubb.",
+        "comparison_cues": [
+          "Lokalsamhälle och familjeföretag som berättelsens centrum",
+          "Talandefågelns komiska intrång i vardagsrealism",
+          "Lågmäld vardagsserie snarare än målstyrt sport- eller äventyrsdrama"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 14397,
+      "title": "Chihayafuru 2",
+      "mal_mean_score": 8.37,
+      "mal_num_scoring_users": 139872,
+      "genres": [
+        "Drama",
+        "Josei",
+        "Love Polygon",
+        "Romance",
+        "School",
+        "Sports",
+        "Strategy Game"
+      ],
+      "studios": [
+        "Madhouse"
+      ],
+      "media_type": "tv",
+      "release_year": 2013,
+      "num_episodes": 25,
+      "brief": {
+        "synopsis": "Chihaya Ayase går nu andra året på gymnasiet och försöker stärka Mizusawas tävlingskarutaklubb. När nya medlemmar söker sig dit blir utmaningen inte bara att vinna matcher utan också att lära ut spelet och få ett lag med olika drivkrafter att fungera tillsammans.",
+        "themes": [
+          "Lagbygge och mentorskap",
+          "Tävlingsambition och uthållighet",
+          "Vänskap och outtalade känslor",
+          "Individuell skicklighet kontra lagets behov"
+        ],
+        "tone": [
+          "Engagerad",
+          "Varm",
+          "Tävlingsintensiv"
+        ],
+        "pacing_and_structure": "Fortsättning med träning, rekrytering och längre karutamatcher där taktik och koncentration driver spänningen; vardagliga klubbscener varvas med tävling.",
+        "character_dynamics": "Chihayas passion för karuta och Taichis ansvar i klubben möter nya medlemmar som Sumire Hanano, vars första intresse är Taichi, och Akihiro Tsukuba, som kommer med en annan karutaerfarenhet. Arata förblir viktig för Chihayas relation till spelet.",
+        "distinctive_features": "Tävlingskaruta förenar klassisk japansk poesi, reflexer och minnesstrategi; andra säsongen prövar klubbens förmåga att ta in nybörjare.",
+        "comparison_cues": [
+          "Sportdrama där mental strategi är lika viktig som fysisk snabbhet",
+          "Fortsättningssäsong med nybörjare i etablerad ensemble",
+          "Relationer som utvecklas parallellt med tävlingsmål"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 17341,
+      "title": "Yama no Susume: Kabe tte Kowakunai no?",
+      "mal_mean_score": 6.74,
+      "mal_num_scoring_users": 13493,
+      "genres": [
+        "Adventure",
+        "CGDCT",
+        "Iyashikei",
+        "Slice of Life"
+      ],
+      "studios": [
+        "8bit"
+      ],
+      "media_type": "special",
+      "release_year": 2013,
+      "num_episodes": 1,
+      "brief": {
+        "synopsis": "I detta korta specialavsnitt provar Aoi Yukimura och hennes vänner klättring på en inomhusvägg. Aoi blir osäker inför höjden och de svåra greppen, medan Kaede Saitou förklarar hur klättringen fungerar och hjälper gruppen att våga försöka.",
+        "themes": [
+          "Att möta höjdrädsla",
+          "Vänskapligt stöd",
+          "Att lära sig en ny friluftsanknuten färdighet"
+        ],
+        "tone": [
+          "Varm",
+          "Uppmuntrande",
+          "Vardagsnära"
+        ],
+        "pacing_and_structure": "Ett fristående, cirka sex minuter långt specialavsnitt med en enda tydligt avgränsad aktivitet snarare än en längre dramatisk båge.",
+        "character_dynamics": "Aoi är tveksam inför utmaningen; den mer erfarna Kaede fungerar som praktisk vägledare och de övriga vännerna bildar ett stödjande sammanhang.",
+        "distinctive_features": "Flyttar seriens intresse för berg och höjder till en klättervägg inomhus; ett kort tillägg till första tv-säsongen.",
+        "comparison_cues": [
+          "Kort vardagsutmaning med konkret färdighetsmoment",
+          "Vänskap som uppmuntran snarare än konflikt",
+          "Höjdrädsla och små steg mot större självförtroende"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 16782,
+      "title": "Kotonoha no Niwa",
+      "mal_mean_score": 7.85,
+      "mal_num_scoring_users": 562562,
+      "genres": [
+        "Award Winning",
+        "Drama",
+        "Romance",
+        "Visual Arts"
+      ],
+      "studios": [
+        "CoMix Wave Films"
+      ],
+      "media_type": "movie",
+      "release_year": 2013,
+      "num_episodes": 1,
+      "brief": {
+        "synopsis": "Den unge Takao Akizuki, som vill bli skomakare, skolkar under regniga morgnar för att skissa skor i en trädgård i Tokyo. Där möter han Yukari Yukino, en äldre kvinna som bär på egna bekymmer. Deras återkommande möten under regnperioden skapar en försiktig närhet samtidigt som deras livssituationer förblir olika.",
+        "themes": [
+          "ensamhet och samhörighet",
+          "ålders- och livsskillnader",
+          "drömmar och yrkesskicklighet",
+          "förgängliga möten"
+        ],
+        "tone": [
+          "melankolisk",
+          "stillsam",
+          "romantisk",
+          "eftertänksam"
+        ],
+        "pacing_and_structure": "En fristående film på cirka 46 minuter; upprepade möten i samma regniga miljö bygger relationen genom blickar, samtal och årstidens förändring.",
+        "character_dynamics": "Takao söker en riktning för sin framtid och uttrycker sig genom skodesign; Yukari är vuxen men känslomässigt vilsen. Deras samtal ger ett tillfälligt andrum utan att sudda ut olikheterna.",
+        "distinctive_features": "Makoto Shinkais detaljrika regn- och naturmiljöer, skomakarhantverket som återkommande motiv och en intim berättelse förlagd till en park under regnperioden.",
+        "comparison_cues": [
+          "visuellt driven kortfilm",
+          "återhållsam relationsdramaturgi",
+          "melankoli och säsongsmotiv",
+          "kontrast mellan livsfaser"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 18495,
+      "title": "Kitaku-bu Katsudou Kiroku",
+      "mal_mean_score": 6.77,
+      "mal_num_scoring_users": 18482,
+      "genres": [
+        "CGDCT",
+        "Comedy",
+        "School"
+      ],
+      "studios": [
+        "Nomad"
+      ],
+      "media_type": "tv",
+      "release_year": 2013,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "När Natsuki Andou säger att hon tänker tillhöra 'gå-hem-klubben' menar hon att hon inte ska gå med i någon klubb alls. På skolan visar sig emellertid en sådan klubb verkligen finnas. Hon och Karin Touno dras in i en grupp excentriska elever som hittar på allt möjligt i stället för att bedriva någon traditionell klubbverksamhet.",
+        "themes": [
+          "Skolvardagens absurditeter",
+          "Vänskap och gruppgemenskap",
+          "Parodi på skolklubbsberättelser"
+        ],
+        "tone": [
+          "Absurd",
+          "Lekfull",
+          "Självmedvetet komisk"
+        ],
+        "pacing_and_structure": "Episodisk skolkomedi med korta sketcher, snabba skämt och metahumor snarare än en sammanhängande intrig.",
+        "character_dynamics": "Natsuki fungerar ofta som den mer jordnära reaktionen på klubbens infall; energiska ordföranden Sakura, den mycket rika Claire och kampkonstskickliga Botan skapar komiska kontraster. Karin är den andra nya medlemmen.",
+        "distinctive_features": "Själva klubbens namn bygger på ett skämt om att inte gå med i klubbar; överdrivna karaktärsegenskaper och fjärde-väggen-humor används i en vardaglig skolmiljö.",
+        "comparison_cues": [
+          "Skolkomedi med metaskämt",
+          "Sketchdriven snarare än intrigdriven struktur",
+          "En mer återhållsam huvudperson mot excentrisk ensemble"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 18119,
+      "title": "Servant x Service",
+      "mal_mean_score": 7.61,
+      "mal_num_scoring_users": 101430,
+      "genres": [
+        "Adult Cast",
+        "Comedy",
+        "Seinen",
+        "Workplace"
+      ],
+      "studios": [
+        "A-1 Pictures"
+      ],
+      "media_type": "tv",
+      "release_year": 2013,
+      "num_episodes": 13,
+      "brief": {
+        "synopsis": "Tre nyanställda kommunala tjänstemän – Lucy Yamagami, Yutaka Hasebe och Saya Miyoshi – försöker hitta sin plats på en offentlig förvaltning. Lucy vill få upprättelse för sitt osannolikt långa registrerade namn, Hasebe smiter gärna undan arbete och Miyoshi kämpar med ovana arbetsuppgifter och besvärliga besökare.",
+        "themes": [
+          "arbetsplatsrelationer",
+          "byråkrati och medborgarkontakt",
+          "personliga egenheter",
+          "vardagsromantik"
+        ],
+        "tone": [
+          "lättsam",
+          "vardagskomisk",
+          "smått satirisk"
+        ],
+        "pacing_and_structure": "13-avsnittig ensemblekomedi med korta, återkommande arbetsplatssituationer och löpande relationsutveckling snarare än ett centralt äventyr.",
+        "character_dynamics": "Lucy är plikttrogen och frustrerad, Hasebe skämtsam och undvikande, Miyoshi försiktig; handledaren Taishi Ichimiya har svårt att vägleda nykomlingarna trots sin tjänstetid.",
+        "distinctive_features": "Vardagskomedi på ett japanskt kommunalkontor med handläggning, medborgarmöten och administrativt arbete som komisk fond; bygger på en fyrarutig manga.",
+        "comparison_cues": [
+          "arbetsplatsbaserad ensemblekomedi",
+          "komik ur byråkratiska situationer",
+          "kontrast mellan plikt och lättja",
+          "lågmäld relationsutveckling"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 16011,
+      "title": "Tokyo Ravens",
+      "mal_mean_score": 7.4,
+      "mal_num_scoring_users": 231592,
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Romance",
+        "School",
+        "Urban Fantasy"
+      ],
+      "studios": [
+        "8bit"
+      ],
+      "media_type": "tv",
+      "release_year": 2013,
+      "num_episodes": 24,
+      "brief": {
+        "synopsis": "Harutora Tsuchimikado kommer från en släkt av onmyōji men saknar själv förmågan att uppfatta andlig energi. När hans barndomsvän Natsume, arvtagare till släktens huvudgren, återkommer dras han in i konflikter kring andlig magi och börjar utbilda sig vid en onmyō-skola i Tokyo.",
+        "themes": [
+          "Familjearv och förväntningar",
+          "Lojalitet och barndomslöften",
+          "Övernaturliga hot i ett modernt samhälle",
+          "Identitet och tillhörighet"
+        ],
+        "tone": [
+          "Dramatisk",
+          "Övernaturligt äventyrlig",
+          "Skolkomisk i vardagspartier"
+        ],
+        "pacing_and_structure": "Inleder med Harutoras inträde i den magiska världen och förenar skolvardag, träning och relationer med allt större konflikter kring onmyō-magin.",
+        "character_dynamics": "Harutora och Natsume binds av gemensam uppväxt och skilda positioner inom Tsuchimikado-familjen; hennes etablerade magiska roll kontrasterar mot hans inledande oerfarenhet.",
+        "distinctive_features": "Modern urban fantasy som använder japansk onmyōdō, andliga katastrofer och en specialiserad magisk utbildningsmiljö; TV-adaption av Kōhei Azanos light novels.",
+        "comparison_cues": [
+          "Magisk skolmiljö med växande yttre hot",
+          "Barndomsrelation och familjeplikter",
+          "Traditionell japansk ockultism i modern miljö"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 20047,
+      "title": "Sakura Trick",
+      "mal_mean_score": 6.94,
+      "mal_num_scoring_users": 129026,
+      "genres": [
+        "Comedy",
+        "Girls Love",
+        "School",
+        "Seinen"
+      ],
+      "studios": [
+        "Studio Deen"
+      ],
+      "media_type": "tv",
+      "release_year": 2014,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "Barndomsvännerna Haruka Takayama och Yuu Sonoda börjar gymnasiet tillsammans men hamnar långt ifrån varandra i klassrummet. För att göra sin relation särskild börjar de kyssas i hemlighet. Deras närhet, svartsjuka och vardagsliv utvecklas tillsammans med klasskamraternas relationer under skolans sista årskullar.",
+        "themes": [
+          "vänskap som blir romantik",
+          "närhet och svartsjuka",
+          "skolvardag",
+          "hemlig intimitet"
+        ],
+        "tone": [
+          "lättsam",
+          "romantisk",
+          "busig",
+          "ibland vemodig"
+        ],
+        "pacing_and_structure": "Episodisk romantisk skolkomedi efter fyrpanelsmanga, med korta vardagssituationer och återkommande kyssar snarare än en starkt framåtdriven intrig.",
+        "character_dynamics": "Haruka är starkt fäst vid Yuu och reagerar när andra får hennes uppmärksamhet; Yuu är mer utåtriktad. Vännerna Kotone och Shizuku ger en parallell relationsdynamik, medan Yuus äldre syster Mitsuki komplicerar parets försök till diskretion.",
+        "distinctive_features": "Fysisk romantisk närhet är en uttrycklig del av grundpremissen, inte enbart undertext; skolan ska läggas ned efter att den sista årskullen gått ut.",
+        "comparison_cues": [
+          "uttalad flickromantik",
+          "episodisk fyrpanelsstruktur",
+          "flera parallella relationer",
+          "skolmiljö med lätt vemod"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 19429,
+      "title": "Akuma no Riddle",
+      "mal_mean_score": 6.59,
+      "mal_num_scoring_users": 133672,
+      "genres": [
+        "Action",
+        "Girls Love",
+        "High Stakes Game",
+        "School",
+        "Suspense"
+      ],
+      "studios": [
+        "Diomedéa"
+      ],
+      "media_type": "tv",
+      "release_year": 2014,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "På internatskolan Myoujou placeras Haru Ichinose i den särskilda Svarta klassen, där hennes klasskamrater i hemlighet är lönnmördare med uppdrag att döda henne. Tokaku Azuma, själv utsänd för att döda Haru, börjar i stället skydda henne mot de övriga.",
+        "themes": [
+          "Lojalitet kontra uppdrag",
+          "Tillit under hot",
+          "Val och överlevnad"
+        ],
+        "tone": [
+          "Spänningsdriven",
+          "Mörk",
+          "Stundtals melodramatisk"
+        ],
+        "pacing_and_structure": "En sammanhängande överlevnadskonflikt med återkommande separata attentatsförsök och gradvis fördjupning av Tokakus beslut.",
+        "character_dynamics": "Haru försöker överleva och fullfölja skolgången; Tokaku rör sig från potentiell angripare till beskyddare medan övriga klasskamrater har konkurrerande uppdrag.",
+        "distinctive_features": "Sluten skolmiljö med tolv kvinnliga lönnmördare, en gemensam måltavla och formaliserade regler för attentatsförsöken.",
+        "comparison_cues": [
+          "Skyddsrelation under yttre hot",
+          "Episodiska konfrontationer inom en sammanhängande premiss",
+          "Moralisk konflikt mellan yrkesroll och personligt val"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 22123,
+      "title": "Inugami-san to Nekoyama-san",
+      "mal_mean_score": 6.51,
+      "mal_num_scoring_users": 39621,
+      "genres": [
+        "Comedy",
+        "Girls Love",
+        "School"
+      ],
+      "studios": [
+        "Seven"
+      ],
+      "media_type": "tv",
+      "release_year": 2014,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "Yachiyo Inugami, utåtriktad och hundlik men förtjust i katter, möter den mer reserverade och kattlika Suzu Nekoyama, som i sin tur älskar hundar. Deras ömsesidiga attraktion och skolkamraternas reaktioner driver en kortformatig romantisk komedi.",
+        "themes": [
+          "Ömsesidig attraktion",
+          "Kontrasterande temperament",
+          "Skolvardag",
+          "Djuranknutna ordlekar"
+        ],
+        "tone": [
+          "Lekfull",
+          "Flirtig",
+          "Farsartad"
+        ],
+        "pacing_and_structure": "Tolv mycket korta tv-avsnitt byggda kring snabba situationsskämt och återkommande kontraster snarare än en lång sammanhängande dramatisk intrig.",
+        "character_dynamics": "Yachiyo tar gärna initiativ medan Suzu reagerar generat; Aki Hiiragi fungerar som jordnära motvikt och kommentator. Fler klasskamrater förstärker de djurtematiska personlighetskontrasterna.",
+        "distinctive_features": "Djurassociationer i rollfigurernas namn och beteenden är själva komedimotorn; yuri-romantik presenteras genom korta sketchar.",
+        "comparison_cues": [
+          "Kortformat och episodiska gag",
+          "Romantisk initiativtagare kontra reserverad motpart",
+          "Ensemblebaserad skolkomedi"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 22789,
+      "title": "Barakamon",
+      "mal_mean_score": 8.36,
+      "mal_num_scoring_users": 366310,
+      "genres": [
+        "Childcare",
+        "Iyashikei",
+        "Slice of Life",
+        "Visual Arts"
+      ],
+      "studios": [
+        "Kinema Citrus"
+      ],
+      "media_type": "tv",
+      "release_year": 2014,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "Den unge kalligrafen Seishuu Handa tappar behärskningen och slår en framstående kritiker efter att hans prisbelönta verk beskrivits som ooriginellt. Som följd skickas han till en ö i Gotō-arkipelagen för att ompröva sitt sätt att arbeta. I stället för den ensamhet han väntat sig möter han en påträngande men varm bygemenskap, inte minst den energiska flickan Naru, som ständigt stör hans arbetsro.",
+        "themes": [
+          "Konstnärlig originalitet och självkritik",
+          "Att växa genom möten med andra",
+          "Gemenskap mellan generationer",
+          "Stadsliv kontra övardag"
+        ],
+        "tone": [
+          "Varm",
+          "Humoristisk",
+          "Livsbejakande"
+        ],
+        "pacing_and_structure": "Tolv avsnitt som följer Handas vardag på ön, där komiska möten med byborna blandas med hans gradvisa utveckling som konstnär. En serie små sociala situationer bygger en större förändring snarare än ett sammanhängande tävlingsdrama.",
+        "character_dynamics": "Den stolte, lättretlige Handa försöker hålla distans till öborna men den orädda Naru och de andra invånarna kliver ständigt in i hans liv. Skillnaden mellan hans kontrollbehov och deras informella gemenskap utmanar hans självbild.",
+        "distinctive_features": "Kalligrafi och kreativ prestationsångest skildras genom en temperamentsfull stadsbos möte med barn och vuxna på en avlägsen ö.",
+        "comparison_cues": [
+          "Konstnärlig utveckling genom social gemenskap",
+          "Relationen mellan den vuxne Handa och barnet Naru",
+          "Vardagskomedi med tydlig personlig förändring"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 21435,
+      "title": "Yama no Susume Second Season",
+      "mal_mean_score": 7.59,
+      "mal_num_scoring_users": 17121,
+      "genres": [
+        "Adventure",
+        "CGDCT",
+        "Iyashikei",
+        "Slice of Life"
+      ],
+      "studios": [
+        "8bit"
+      ],
+      "media_type": "tv",
+      "release_year": 2014,
+      "num_episodes": 24,
+      "brief": {
+        "synopsis": "Aoi Yukimura, som är höjdrädd och tidigare föredragit inomhusaktiviteter, fortsätter att upptäcka vandring och bergsbestigning tillsammans med barndomsvännen Hinata Kuraue. Kaede Saitou och Kokona Aoba följer också med på utflykter där praktiska förberedelser och personliga utmaningar blir lika viktiga som själva topparna.",
+        "themes": [
+          "Vänskap genom gemensamma aktiviteter",
+          "Gradvis självförtroende",
+          "Att hantera motgångar",
+          "Naturupplevelser"
+        ],
+        "tone": [
+          "Varm",
+          "Vardaglig",
+          "Eftertänksam"
+        ],
+        "pacing_and_structure": "24 korta avsnitt som växlar vardagsscener och vandringsetapper; flera utflykter bildar längre utvecklingsbågar snarare än helt fristående skämt.",
+        "character_dynamics": "Aois försiktighet kontrasterar mot Hinatas framåtanda; Kaede bidrar med erfarenhet och Kokona med lugn entusiasm. Gruppen hjälper varandra utan att alla har samma förutsättningar.",
+        "distinctive_features": "Bergsvandringens konkreta förberedelser och landskap skildras i ett slice-of-life-format med ungefär 13 minuter långa avsnitt; animation av 8bit.",
+        "comparison_cues": [
+          "Vardagsdrama med sammanhängande personligt framåtskridande",
+          "Vänskap kring en praktisk hobby",
+          "Korta avsnitt med naturmiljöer"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 23273,
+      "title": "Shigatsu wa Kimi no Uso",
+      "mal_mean_score": 8.64,
+      "mal_num_scoring_users": 1498942,
+      "genres": [
+        "Drama",
+        "Love Polygon",
+        "Music",
+        "Performing Arts",
+        "Romance",
+        "School",
+        "Shounen"
+      ],
+      "studios": [
+        "A-1 Pictures"
+      ],
+      "media_type": "tv",
+      "release_year": 2014,
+      "num_episodes": 22,
+      "brief": {
+        "synopsis": "Kousei Arima var ett omtalat pianounderbarn, men efter moderns död förlorar han förmågan att uppfatta ljudet från sitt eget pianospel och drar sig undan musiken. När barndomsvännen Tsubaki för honom samman med den frisinnade violinisten Kaori Miyazono möter han ett sätt att spela som står i skarp kontrast till den strikta disciplin han vuxit upp med. Mötet ger honom anledning att återvända till musiken och konfrontera det som håller honom tillbaka.",
+        "themes": [
+          "Sorg och kreativ blockering",
+          "Musik som personligt uttryck",
+          "Ungdomlig vänskap och förälskelse",
+          "Kontroll kontra musikalisk frihet"
+        ],
+        "tone": [
+          "Emotionell",
+          "Romantisk",
+          "Melankolisk"
+        ],
+        "pacing_and_structure": "En sammanhängande musikalisk ungdomsberättelse där relationer, repetitioner och framträdanden driver Kouseis återkomst till pianot. Serien växlar mellan skolliv och musikaliska situationer och låter kontrasten mellan tidigare disciplin och friare spel återkomma.",
+        "character_dynamics": "Kousei bär på en komplicerad relation till moderns minne och sin tidigare musikaliska identitet. Kaoris utåtriktade, självständiga sätt att spela fungerar som en utmaning för honom, medan Tsubaki har en långvarig vänskapsrelation till Kousei och försöker stötta honom.",
+        "distinctive_features": "En pianists psykologiska blockering gestaltas genom att han inte kan höra sitt eget instrument; violinistens fria spel blir motbild till hans tidigare mekaniska precision.",
+        "comparison_cues": [
+          "Musikframträdanden som uttryck för psykiska konflikter",
+          "Hur sorg och relationer vävs in i huvudpersonens återkomst till musiken",
+          "Spänningen mellan teknisk perfektion och personlig tolkning"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 26243,
+      "title": "Owari no Seraph",
+      "mal_mean_score": 7.49,
+      "mal_num_scoring_users": 796758,
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Military",
+        "Shounen",
+        "Vampire"
+      ],
+      "studios": [
+        "Wit Studio"
+      ],
+      "media_type": "tv",
+      "release_year": 2015,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "Efter att ett okänt virus slagit ut stora delar av mänskligheten kontrollerar vampyrer de överlevande barnen och använder deras blod. Yuuichirou Hyakuya flyr från fångenskapen efter ett misslyckat flyktförsök tillsammans med sin närmaste vän Mikaela och deras fosterfamilj. Fyra år senare ansluter han sig till den japanska kejserliga demonarméns vampyrbekämpande styrka.",
+        "themes": [
+          "Förlust av vald familj",
+          "Hämnd och lojalitet",
+          "Mänsklighetens överlevnad",
+          "Vänskap under konflikt"
+        ],
+        "tone": [
+          "Mörk",
+          "Dramatisk",
+          "Militär och actioninriktad"
+        ],
+        "pacing_and_structure": "En fortlöpande postapokalyptisk konflikt; inledande fångenskap och flykt följs av militär utbildning, gruppbildning och strider med övernaturliga vapen. Första tv-säsongen är en del av en större berättelse.",
+        "character_dynamics": "Yuuichirous starka band till Mikaela driver hans motivation. I demonarmén måste hans impulsiva hämndbegär fungera tillsammans med disciplin och samarbete i en ny grupp.",
+        "distinctive_features": "Mangaadaption animerad av WIT STUDIO; förenar vampyrstyrt postapokalyptiskt samhälle, militära förband och demonvapen.",
+        "comparison_cues": [
+          "Vänskapsband över fiendelinjer",
+          "Hämndmotiv som möter krav på gruppdisciplin",
+          "Övernaturlig militär action med fortgående intrig"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 28677,
+      "title": "Yamada-kun to 7-nin no Majo",
+      "mal_mean_score": 7.51,
+      "mal_num_scoring_users": 484203,
+      "genres": [
+        "Comedy",
+        "Harem",
+        "Mystery",
+        "Romance",
+        "School",
+        "Shounen",
+        "Supernatural"
+      ],
+      "studios": [
+        "LIDENFILMS"
+      ],
+      "media_type": "tv",
+      "release_year": 2015,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "Problemeleven Ryuu Yamada och toppstudenten Urara Shiraishi byter oväntat kropp efter en kyss. Tillsammans med Toranosuke Miyamura och skolans klubb för övernaturliga studier börjar de undersöka sju elever med särskilda krafter.",
+        "themes": [
+          "identitet och perspektivbyte",
+          "skolrelationer",
+          "hemligheter och tillit"
+        ],
+        "tone": [
+          "lekfull",
+          "romantisk",
+          "mysteriefylld"
+        ],
+        "pacing_and_structure": "En 12-avsnitts skolkomedi som växlar kroppbytesförvecklingar med sökandet efter de sju häxorna och deras olika krafter.",
+        "character_dynamics": "Yamadas impulsivitet och Shiraishis återhållsamhet skapar kontrast; Miyamura fungerar som organisatorisk drivkraft för klubbens undersökning.",
+        "distinctive_features": "Kyssar aktiverar olika övernaturliga krafter; kroppbytet gör att eleverna bokstavligen får uppleva varandras sociala position.",
+        "comparison_cues": [
+          "kroppsbyte som relationsmotor",
+          "episodiska upptäckter inom sammanhängande mysterium",
+          "skolklubb och romantisk komedi"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 28819,
+      "title": "Okusama ga Seitokaichou!",
+      "mal_mean_score": 6.54,
+      "mal_num_scoring_users": 160489,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Romance",
+        "School",
+        "Shounen"
+      ],
+      "studios": [
+        "Seven"
+      ],
+      "media_type": "tv",
+      "release_year": 2015,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "Hayato Izumi förlorar elevrådsvalet mot Ui Wakana och blir vice ordförande. När Ui flyttar in hos honom visar det sig att deras föräldrar sedan länge avtalat att de ska gifta sig; Hayato försöker hålla arrangemanget hemligt i skolan.",
+        "themes": [
+          "Arrangerad förlovning",
+          "Skolpolitik som komediram",
+          "Hemlig samlevnad och gränser"
+        ],
+        "tone": [
+          "Fräck",
+          "Farsartad",
+          "Romantisk komedi"
+        ],
+        "pacing_and_structure": "Tolv korta avsnitt, omkring åtta minuter vardera, med snabba situationsskämt och återkommande pinsamma sammanstötningar snarare än långsamt utvecklad intrig.",
+        "character_dynamics": "Hayatos försiktiga och regelorienterade hållning kontrasteras mot Uis rättframma närmanden. Disciplinkommitténs Rin Misumi tillför en konkurrerande skolauktoritet och nya missförstånd.",
+        "distinctive_features": "Elevrådsvalet och en föräldraöverenskommelse förenar skolkomedi med sambo- och förlovningsfars; tydlig ecchi-profil.",
+        "comparison_cues": [
+          "Korta komedisegment",
+          "Kontrast mellan återhållsam och framfusig huvudperson",
+          "Arrangerad relation som premiss"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 30296,
+      "title": "Rakudai Kishi no Cavalry",
+      "mal_mean_score": 7.41,
+      "mal_num_scoring_users": 607340,
+      "genres": [
+        "Action",
+        "Ecchi",
+        "Fantasy",
+        "Romance",
+        "School",
+        "Urban Fantasy"
+      ],
+      "studios": [
+        "SILVER LINK.",
+        "Nexus"
+      ],
+      "media_type": "tv",
+      "release_year": 2015,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "På Hagun-akademin utbildas elever som kan framkalla vapen ur sina själar. Ikki Kurogane betraktas som misslyckad på grund av sin låga magiska förmåga, men förlitar sig på träning och teknik. Mötet med den högt rankade prinsessan Stella Vermillion utvecklas från rivalitet till ett nära samarbete samtidigt som skolans kvalstrider närmar sig.",
+        "themes": [
+          "förmåga kontra social rang",
+          "disciplin och erkännande",
+          "rivalitet och förtroende",
+          "romantisk närhet"
+        ],
+        "tone": [
+          "tävlingsinriktad",
+          "romantisk",
+          "dramatisk",
+          "periodvis komisk"
+        ],
+        "pacing_and_structure": "Tolv avsnitt som kombinerar akademins kvalmatcher och dueller med en fortskridande relation mellan huvudpersonerna; striderna knyts till Ikkis kamp för erkännande.",
+        "character_dynamics": "Ikki och Stella inleder som motståndare och rumskamrater med olika status och styrkor; deras respekt växer genom träning och gemensamma prövningar. Ikkis syster Shizuku bidrar med familjerelaterad spänning.",
+        "distinctive_features": "En låggraderad svärdskämpe ställs mot ett hierarkiskt magisystem; romantiken mellan de centrala rivalerna ges kontinuerligt utrymme vid sidan av turneringsintrigen.",
+        "comparison_cues": [
+          "underdog i magisk skolmiljö",
+          "dueller med teknik kontra råstyrka",
+          "romantisk utveckling parallellt med tävlingsbåge"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 28927,
+      "title": "Owari no Seraph: Nagoya Kessen-hen",
+      "mal_mean_score": 7.61,
+      "mal_num_scoring_users": 511781,
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Military",
+        "Shounen",
+        "Vampire"
+      ],
+      "studios": [
+        "Wit Studio"
+      ],
+      "media_type": "tv",
+      "release_year": 2015,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "Efter återföreningen med Mikaela, som nu är vampyr, försöker Yuichiro bli starkare och finna ett sätt att hjälpa honom. Samtidigt får Guren Ichinose order att leda ett förebyggande anfall mot vampyradeln i Nagoya medan hotet mot Tokyo växer.",
+        "themes": [
+          "Vald familj och lojalitet",
+          "Mänsklighet och förvandling",
+          "Militär konflikt",
+          "Makt och överlevnad"
+        ],
+        "tone": [
+          "Dramatisk",
+          "Stridsinriktad",
+          "Mörk"
+        ],
+        "pacing_and_structure": "Direkt fortsättning på första säsongen: träning med förbannade vapen och gruppsamspel leder mot en större militär operation. Serien kombinerar personliga mål med eskalerande strider.",
+        "character_dynamics": "Yuichiros vilja att rädda Mikaela löper parallellt med hans ansvar mot Shinoas grupp. Guren leder soldaterna under order från Kureto Hiiragi, vilket binder ungdomarnas personliga konflikter till militärens planer.",
+        "distinctive_features": "Andra tv-delen av den postapokalyptiska vampyrberättelsen, producerad av Wit Studio; Nagoyaoperationen står i centrum.",
+        "comparison_cues": [
+          "Militär lagdynamik och övernaturliga strider",
+          "Barndomsvänskap över fiendegränser",
+          "Fortsättningssäsong med större konflikt"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 31793,
+      "title": "Mahou Shoujo Nante Mou Ii desu kara.",
+      "mal_mean_score": 5.95,
+      "mal_num_scoring_users": 12962,
+      "genres": [
+        "Comedy",
+        "Mahou Shoujo"
+      ],
+      "studios": [
+        "PINE JAM"
+      ],
+      "media_type": "tv",
+      "release_year": 2016,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "Yuzuka Hanami möter den misstänksamma maskoten Miton, som påstår att hon har förutsättningar att bli en magisk flicka. Förvandlingen ger henne en baddräktsliknande dräkt snarare än en traditionell hjälteutrustning, och vardagen kretsar mer kring besväret med magin än kring att besegra fiender.",
+        "themes": [
+          "magisk flicka utan traditionellt hjälteuppdrag",
+          "vardag och förlägenhet",
+          "genreparodi"
+        ],
+        "tone": [
+          "lättsam",
+          "absurd",
+          "vardagskomisk"
+        ],
+        "pacing_and_structure": "Tolv cirka fyra minuter långa kortavsnitt med små vardagssituationer och komiska variationer på magical-girl-konventioner snarare än en omfattande stridsintrig.",
+        "character_dynamics": "Yuzukas artiga och försiktiga hållning kontrasteras mot Mitons påstridiga rekrytering; deras olika syn på magin driver återkommande skämt.",
+        "distinctive_features": "Förvandlingsdräkten och avsaknaden av ett självklart monsterbekämpande uppdrag vänder på välkända magical-girl-troper.",
+        "comparison_cues": [
+          "korta episodiska sketcher",
+          "genreparodi snarare än dramatisk dekonstruktion",
+          "maskot–hjältinna-dynamik"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 31804,
+      "title": "Kuma Miko",
+      "mal_mean_score": 6.32,
+      "mal_num_scoring_users": 32401,
+      "genres": [
+        "Comedy",
+        "Seinen"
+      ],
+      "studios": [
+        "Kinema Citrus",
+        "EMT Squared"
+      ],
+      "media_type": "tv",
+      "release_year": 2016,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "Den fjortonåriga tempelflickan Machi bor i en avlägsen bergsby tillsammans med Natsu, en talande björn som fungerar som hennes beskyddare. Hon vill börja skolan i storstaden, men Natsu oroar sig för hur hon ska klara vardagen utanför byn och ger henne prövningar för att förbereda henne.",
+        "themes": [
+          "landsbygd kontra stad",
+          "självständighet och osäkerhet",
+          "tradition och modern vardag"
+        ],
+        "tone": [
+          "vardagskomisk",
+          "absurd",
+          "ibland pinsamhetsbaserad"
+        ],
+        "pacing_and_structure": "Tolv avsnitt med återkommande vardagsprövningar och komiska situationer kring Machis bristande stadsvana; den övergripande drivkraften är hennes önskan att lämna byn.",
+        "character_dynamics": "Machi söker större självständighet medan den omtänksamma men överbeskyddande Natsu bromsar och testar henne. Kusinen Yoshio försöker dessutom engagera henne i byns utveckling.",
+        "distinctive_features": "En talande björn som vardaglig förmyndare och en shintotempelflickas kulturkrock med moderna stadsvanor.",
+        "comparison_cues": [
+          "episodiska prövningar snarare än tät intrig",
+          "komik ur beskydd kontra frigörelse",
+          "landsbygdsmiljö med övernaturlig premiss"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 33190,
+      "title": "Planetarian: Hoshi no Hito",
+      "mal_mean_score": 7.82,
+      "mal_num_scoring_users": 18101,
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "studios": [
+        "David Production"
+      ],
+      "media_type": "movie",
+      "release_year": 2016,
+      "num_episodes": 1,
+      "brief": {
+        "synopsis": "I en framtid där krig har ödelagt civilisationen vandrar en äldre man mellan små samhällen och berättar om stjärnhimlen, som människor knappt längre kan se. Ett möte med tre barn leder berättelsen tillbaka till hans yngre dagar och en robotflicka vid ett planetarium i en övergiven stad.",
+        "themes": [
+          "Minnet av en förlorad civilisation",
+          "Kunskapsöverföring mellan generationer",
+          "Hopp under katastrofala omständigheter",
+          "Människans förhållande till stjärnhimlen"
+        ],
+        "tone": [
+          "Melankolisk",
+          "Eftertänksam",
+          "Försiktigt hoppfull"
+        ],
+        "pacing_and_structure": "Långfilm med en ramberättelse om den äldre stjärnberättaren och återblickar som knyter an till den tidigare Planetarian-berättelsen; betonar samtal, minnen och känslomässig kontinuitet snarare än tät action.",
+        "character_dynamics": "Den äldre resenären delar sin kunskap med barnen Levi, Job och Ruth; minnet av robotflickan Yumemi ger hans uppdrag en personlig förankring.",
+        "distinctive_features": "Postapokalyptisk science fiction byggd kring ett planetarium och astronomi; långfilmsversion från David Production som återbesöker och fortsätter berättelsen från Keys visual novel.",
+        "comparison_cues": [
+          "Ramberättelse där minnen får ny betydelse",
+          "Stillfärdig science fiction med emotionellt fokus",
+          "Människor och artificiell intelligens i en ödelagd värld"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 32603,
+      "title": "Okusama ga Seitokaichou!+!",
+      "mal_mean_score": 6.56,
+      "mal_num_scoring_users": 96831,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Romance",
+        "School",
+        "Shounen"
+      ],
+      "studios": [
+        "Seven"
+      ],
+      "media_type": "tv",
+      "release_year": 2016,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "Andra säsongen av kortkomedin om elevrådsordföranden Ui Wakana och viceordföranden Hayato Izumi, vars föräldrar sedan barndomen har avtalat att de ska gifta sig. Deras påtvingat nära vardag fortsätter att kollidera med skolans sociala och romantiska komplikationer.",
+        "themes": [
+          "ungdomsromantik",
+          "samboende och gränser",
+          "skolvardag"
+        ],
+        "tone": [
+          "fräck komedi",
+          "lättsam",
+          "romantisk fars"
+        ],
+        "pacing_and_structure": "Tolv avsnitt på omkring åtta minuter; korta, situationsdrivna komiska förvecklingar snarare än ett långt sammanhängande mysterium.",
+        "character_dynamics": "Ui är självsäker och pådrivande, medan Hayato ofta försöker hantera följderna av deras familjers arrangemang; elevrådsmiljön skapar ytterligare social friktion.",
+        "distinctive_features": "Uppföljare i ovanligt kort TV-format där den arrangerade relationen och skolans elevråd fungerar som återkommande komisk motor.",
+        "comparison_cues": [
+          "kort episodformat",
+          "romantisk situationskomedi",
+          "återkommande relationsförvecklingar"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 33795,
+      "title": "Mahou Shoujo Nante Mou Ii desu kara. Second Season",
+      "mal_mean_score": 6.12,
+      "mal_num_scoring_users": 7277,
+      "genres": [
+        "Comedy",
+        "Mahou Shoujo"
+      ],
+      "studios": [
+        "PINE JAM"
+      ],
+      "media_type": "tv",
+      "release_year": 2016,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "Yuzuka Hanami fortsätter sitt vardagsliv som magisk flicka efter mötet med maskoten Miton. Hennes vattenmagi och den besvärande baddräktsförvandlingen blir föremål för korta vardagliga episoder med vännen Chiya och andra magiska flickor, bland dem Mafuyu.",
+        "themes": [
+          "Magisk identitet utan traditionella hjälteuppdrag",
+          "Vänskap och vardagskomik",
+          "Förväntningar på magiska flickor"
+        ],
+        "tone": [
+          "Lättsam",
+          "Absurd",
+          "Vardagsnära"
+        ],
+        "pacing_and_structure": "Tolv ungefär fyra minuter långa avsnitt med fristående vardagssituationer och återkommande skämt; fortsätter första säsongens upplägg snarare än en omfattande stridsberättelse.",
+        "character_dynamics": "Yuzukas osäkerhet kring sin roll kontrasterar mot Chiyas starka engagemang i henne och Mitons opålitliga vägledning. Mafuyu och övriga bekanta utvidgar den lilla kretsens magiska vardag.",
+        "distinctive_features": "Magical-girl-parodi där den klassiska förvandlingen leder till baddräkt och praktiska vardagsproblem snarare än monsterstrider.",
+        "comparison_cues": [
+          "Kortformat med situationsbaserad komedi",
+          "Magical-girl-troper utan heroisk huvudkonflikt",
+          "Återkommande relationer snarare än omfattande intrig"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 32615,
+      "title": "Youjo Senki",
+      "mal_mean_score": 7.96,
+      "mal_num_scoring_users": 583872,
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Isekai",
+        "Military",
+        "Reincarnation"
+      ],
+      "studios": [
+        "Nut"
+      ],
+      "media_type": "tv",
+      "release_year": 2017,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "I ett alternativt 1920-tal tjänstgör Tanya Degurechaff som flygande stridsmagiker i ett imperium omgivet av militära konflikter. Bakom barnsoldatens yttre finns en återfödd japansk tjänsteman vars strävan efter en säker karriär ständigt kolliderar med krigets krav och en övernaturlig makts ingripanden.",
+        "themes": [
+          "militär hierarki",
+          "överlevnad och karriärism",
+          "tro kontra rationalism",
+          "krigets logik"
+        ],
+        "tone": [
+          "mörk satir",
+          "militär action",
+          "cynisk"
+        ],
+        "pacing_and_structure": "Serialiserad militär kampanj med luftstrider, taktiska uppdrag och återkommande motsättning mellan Tanyas planer och krigets utveckling.",
+        "character_dynamics": "Tanyas instrumentella syn på befäl och underordnade kontrasterar mot deras syn på henne; Vishas roll som närstående underordnad och officerarnas bedömningar av Tanya skapar flera perspektiv på samma handlingar.",
+        "distinctive_features": "Alternativhistorisk krigsskildring med magiska flygförband och en vuxen karriärists medvetande i en flickas kropp.",
+        "comparison_cues": [
+          "taktisk konflikt snarare än traditionell hjälteresa",
+          "satir över meritokrati och byråkrati",
+          "militär action med övernaturliga inslag"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 32949,
+      "title": "Kuzu no Honkai",
+      "mal_mean_score": 7.06,
+      "mal_num_scoring_users": 359421,
+      "genres": [
+        "Drama",
+        "Love Polygon",
+        "Romance",
+        "School",
+        "Seinen"
+      ],
+      "studios": [
+        "Lerche"
+      ],
+      "media_type": "tv",
+      "release_year": 2017,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "Hanabi och Mugi verkar vara ett par, men båda är förälskade i andra personer. De inleder en relation för att lindra ensamheten och den obesvarade kärleken.",
+        "themes": [
+          "obesvarad kärlek",
+          "ensamhet",
+          "emotionella kompromisser"
+        ],
+        "tone": [
+          "melankolisk",
+          "intim",
+          "psykologiskt obekväm"
+        ],
+        "pacing_and_structure": "Ett sammanhängande relationsdrama i tolv avsnitt, med växande konflikter kring närhet och hemliga motiv.",
+        "character_dynamics": "Hanabi längtar efter barndomsvännen Narumi, Mugi efter Akane. Deras relation bygger på att de vet att de egentligen längtar efter andra.",
+        "distinctive_features": "En skenbart idealisk skolromans fungerar som medvetet substitut för två obesvarade förälskelser.",
+        "comparison_cues": [
+          "relation byggd på ömsesidig ensamhet",
+          "känslomässiga följder av obesvarad kärlek",
+          "psykologiskt relationsdrama"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 34881,
+      "title": "Aho Girl",
+      "mal_mean_score": 6.7,
+      "mal_num_scoring_users": 295171,
+      "genres": [
+        "Comedy",
+        "Gag Humor",
+        "School",
+        "Shounen"
+      ],
+      "studios": [
+        "Diomedéa"
+      ],
+      "media_type": "tv",
+      "release_year": 2017,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "Yoshiko Hanabatake är en obotligt impulsiv gymnasieelev vars förkärlek för bananer och katastrofala skolresultat ständigt sätter hennes barndomsvän Akuru Akutsu på prov. Hans försök att få ordning på henne drar in klasskamrater och familj i nya missöden.",
+        "themes": [
+          "Vänskap under påfrestning",
+          "Sociala normer som komiskt hinder",
+          "Vardaglig absurditet"
+        ],
+        "tone": [
+          "Högljudd",
+          "Slapstickbetonad",
+          "Absurd"
+        ],
+        "pacing_and_structure": "Tolv korta avsnitt med täta, huvudsakligen fristående gagsekvenser. Återkommande figurer och konflikter ger kontinuitet snarare än en sammanhängande dramatisk intrig.",
+        "character_dynamics": "Yoshikos gränslösa entusiasm kolliderar med Akurus stränga och lättretliga ordningssinne. Sayaka försöker ofta fungera som en mer sansad motvikt.",
+        "distinctive_features": "Extremt överdriven skolkomedi där fysisk humor, upprepade personkrockar och mycket kort avsnittsformat dominerar.",
+        "comparison_cues": [
+          "Snabb gagrytm snarare än långsiktig relationsutveckling",
+          "Komik byggd på kontrasten mellan kaos och kontroll"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 34525,
+      "title": "Centaur no Nayami",
+      "mal_mean_score": 6.42,
+      "mal_num_scoring_users": 42512,
+      "genres": [
+        "Fantasy",
+        "School",
+        "Seinen",
+        "Slice of Life",
+        "Urban Fantasy"
+      ],
+      "studios": [
+        "Haoliners Animation"
+      ],
+      "media_type": "tv",
+      "release_year": 2017,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "Den blyga gymnasieeleven Himeno är en kentaur i en värld där människor har många olika kroppstyper, som horn, vingar och svansar. Med vännerna Nozomi och Kyouko hanterar hon skola, vänskap och vardagliga ungdomsfrågor i ett samhälle där sådana kroppsliga olikheter är normala.",
+        "themes": [
+          "Vänskap",
+          "Skolvardag",
+          "Kroppslig olikhet och sociala normer",
+          "Identitet"
+        ],
+        "tone": [
+          "Vardaglig",
+          "Lättsam",
+          "Periodvis samhällsreflekterande"
+        ],
+        "pacing_and_structure": "Tolv TV-avsnitt med huvudsakligen episodiska vardagssituationer; den fantastiska världsbyggnaden kontrasteras mot välbekanta skol- och vänskapssituationer.",
+        "character_dynamics": "Himeno är försiktig och blyg; hennes vänskap med Nozomi och Kyouko ger utrymme för olika temperament och perspektiv i gruppen, snarare än en enda central romantisk intrig.",
+        "distinctive_features": "Slice-of-life i en konsekvent icke-mänskligt utformad samhällsmiljö; vardagslivet behandlas som vardagligt trots kentaurer, vingar och horn.",
+        "comparison_cues": [
+          "Skolvardag i alternativ samhällsordning",
+          "Episodiskt vänskapsfokus",
+          "Fantastisk premiss med lågmäld vardagsstruktur"
+        ],
+        "profile_status": "complete",
+        "uncertainties": [
+          "Enskilda avsnitts tonvariationer och sociala teman beskrivs inte i detalj här."
+        ]
+      }
+    },
+    {
+      "mal_id": 34984,
+      "title": "Koi wa Ameagari no You ni",
+      "mal_mean_score": 7.46,
+      "mal_num_scoring_users": 138662,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Seinen"
+      ],
+      "studios": [
+        "Wit Studio"
+      ],
+      "media_type": "tv",
+      "release_year": 2018,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "Den tidigare lovande sprintern Akira Tachibana har lämnat löparbanan efter en skada. På sitt deltidsarbete på restaurangen Garden utvecklar hon känslor för den 45-årige chefen Masami Kondou. Deras kontakt väcker frågor om framtidsdrömmar, förlust och olika skeden i livet.",
+        "themes": [
+          "avbrutna livsdrömmar",
+          "åldersskillnad och förälskelse",
+          "självbild och återhämtning"
+        ],
+        "tone": [
+          "melankolisk",
+          "lågmäld",
+          "varsamt romantisk"
+        ],
+        "pacing_and_structure": "Tolv avsnitt med vardagliga möten, eftertänksam relationsutveckling och parallella personliga konflikter snarare än snabb intrig.",
+        "character_dynamics": "Akira är direkt i sin förälskelse men osäker på sin riktning efter skadan; Kondou är omtänksam och självkritisk, med egna övergivna ambitioner. Deras skilda livssituationer formar mötena.",
+        "distinctive_features": "Wit Studios TV-adaption av Jun Mayuzukis manga använder regn, restaurangmiljö och friidrott som återkommande berättelseankare.",
+        "comparison_cues": [
+          "romantisk dynamik över generationsgräns",
+          "återupptagande av avbrutna ambitioner",
+          "lågmäld vardagsdramaturgi"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 33531,
+      "title": "Juushinki Pandora",
+      "mal_mean_score": 6.32,
+      "mal_num_scoring_users": 13348,
+      "genres": [
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": [
+        "Satelight"
+      ],
+      "media_type": "tv",
+      "release_year": 2018,
+      "num_episodes": 26,
+      "brief": {
+        "synopsis": "Sju år efter att en kvantreaktor orsakat en katastrofal biologisk och teknologisk omvandling hotas mänsklighetens kvarvarande städer av B.R.A.I., snabbt utvecklande biomekaniska varelser. Forskaren Leon Lau, som var inblandad i katastrofen, försöker tillsammans med Chloe hitta ett sätt att möta hotet nära Neo Xianglong.",
+        "themes": [
+          "teknologiskt ansvar",
+          "överlevnad efter katastrof",
+          "evolution och mänsklig kontroll",
+          "vald familj"
+        ],
+        "tone": [
+          "apokalyptisk",
+          "actionorienterad",
+          "teknologiskt spekulativ"
+        ],
+        "pacing_and_structure": "En 26-avsnitts originalserie som förenar katastrofens bakgrund och forskning med återkommande mecha-strider och försvar av en hotad stad.",
+        "character_dynamics": "Leon och Chloe kallar varandra syskon genom ett familjekontrakt snarare än blodsband; hans vetenskapliga skuld och hennes praktiska stöd präglar deras samarbete.",
+        "distinctive_features": "Shoji Kawamoris originalprojekt med Satelights mecha-design; B.R.A.I. blandar biologisk evolution och maskinteknik.",
+        "comparison_cues": [
+          "mecha som svar på ekologisk katastrof",
+          "forskaransvar som konfliktmotor",
+          "vald familj vid sidan av striderna"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 36793,
+      "title": "3D Kanojo: Real Girl",
+      "mal_mean_score": 6.86,
+      "mal_num_scoring_users": 186054,
+      "genres": [
+        "Otaku Culture",
+        "Romance",
+        "School",
+        "Shoujo"
+      ],
+      "studios": [
+        "Hoods Entertainment"
+      ],
+      "media_type": "tv",
+      "release_year": 2018,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "Gymnasieeleven Hikari Tsutsui föredrar anime och spel framför socialt umgänge och är van vid att stå utanför. När han får städa skolans bassäng tillsammans med den frispråkiga Iroha Igarashi börjar en oväntad relation som utmanar hans föreställningar om andra människor.",
+        "themes": [
+          "Social isolering",
+          "Fördomar och rykten",
+          "Första kärleken",
+          "Självbild"
+        ],
+        "tone": [
+          "Romantisk",
+          "Komisk",
+          "Bitvis dramatisk"
+        ],
+        "pacing_and_structure": "En tolv avsnitt lång första tv-säsong som bygger relationen genom skolvardag, missförstånd och gradvis förändrade sociala band; berättelsen fortsätter i en andra säsong.",
+        "character_dynamics": "Den tillbakadragne Hikari misstror sin omgivning medan Iroha är mer direkt och tar initiativ. Hennes intresse tvingar honom att ompröva både sin självbild och sina antaganden om henne.",
+        "distinctive_features": "Kontrasten mellan en pojkes idealiserade tvådimensionella värld och en komplicerad verklig relation är berättelsens uttalade premiss.",
+        "comparison_cues": [
+          "Romantik mellan socialt olika huvudpersoner",
+          "Missförstånd och omprövade fördomar",
+          "Otaku-identitet som relationshinder"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 36214,
+      "title": "Asagao to Kase-san.",
+      "mal_mean_score": 7.68,
+      "mal_num_scoring_users": 57930,
+      "genres": [
+        "Girls Love",
+        "School",
+        "Shoujo"
+      ],
+      "studios": [
+        "Zexcs"
+      ],
+      "media_type": "ova",
+      "release_year": 2018,
+      "num_episodes": 1,
+      "brief": {
+        "synopsis": "Yui Yamada, en tillbakadragen gymnasieelev som ägnar sig åt skolans planteringar, har börjat träffa Tomoka Kase, en framstående friidrottare. Filmen följer hur de försöker förstå varandras känslor och vårda sin nya relation trots olikheter i temperament och osäkerhet inför framtiden.",
+        "themes": [
+          "första kärleken",
+          "tillit och osäkerhet",
+          "ungdomsrelationer",
+          "framtidsval"
+        ],
+        "tone": [
+          "varm",
+          "romantisk",
+          "varsamt humoristisk"
+        ],
+        "pacing_and_structure": "En sammanhållen OVA på knappt en timme med fokus på vardagliga möten och känslomässiga förskjutningar snarare än ett omfattande episodiskt persongalleri.",
+        "character_dynamics": "Yamadas blyghet och växtintresse kontrasterar mot Kases utåtriktade framtoning och idrottsliga självsäkerhet. Deras ömsesidiga omsorg, snarare än en ensidig uppvaktning, driver relationsskildringen.",
+        "distinctive_features": "En flickromans där paret redan har inlett sitt förhållande; trädgårdsarbetet fungerar som en återkommande konkret miljö för berättelsens omsorgstema.",
+        "comparison_cues": [
+          "relation efter den första bekännelsen",
+          "lågmält relationsdrama i kortfilmsformat",
+          "kontrast mellan introvert och utåtriktad partner"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 35821,
+      "title": "Chio-chan no Tsuugakuro",
+      "mal_mean_score": 7.46,
+      "mal_num_scoring_users": 55875,
+      "genres": [
+        "Comedy",
+        "Seinen"
+      ],
+      "studios": [
+        "Diomedéa"
+      ],
+      "media_type": "tv",
+      "release_year": 2018,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "Chio Miyamo vill ta sig obemärkt till skolan, men vägen kantas av absurda hinder. Hon improviserar med tvivelaktigt användbara färdigheter från västerländska datorspel och hamnar i märkliga situationer med vännen Manana.",
+        "themes": [
+          "vardagskaos",
+          "social förlägenhet",
+          "vänskap",
+          "spelvanor"
+        ],
+        "tone": [
+          "absurd",
+          "energisk",
+          "slapstickbetonad"
+        ],
+        "pacing_and_structure": "Episodisk komedi i tolv avsnitt med fristående, eskalerande händelser på väg till skolan.",
+        "character_dynamics": "Chios försök att förbli anonym kolliderar med Mananas konkurrerande vänskap och den populära klasskamraten Yukis sociala självklarhet.",
+        "distinctive_features": "Skolvägen förvandlas till actionparodi och fysisk komik med datorspelsreferenser.",
+        "comparison_cues": [
+          "sketchkomedi",
+          "spelmekanik i vardagen",
+          "komisk vänskapsrivalitet"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 36726,
+      "title": "Yuragi-sou no Yuuna-san",
+      "mal_mean_score": 6.96,
+      "mal_num_scoring_users": 138493,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Harem",
+        "Romance",
+        "Shounen",
+        "Supernatural"
+      ],
+      "studios": [
+        "Xebec"
+      ],
+      "media_type": "tv",
+      "release_year": 2018,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "Den skuldsatte exorcisten Kogarashi Fuyuzora flyttar in på det billiga pensionatet Yuragi-sou, ett tidigare värdshus med varma källor. Där bor spöket Yuuna, som inte kan lämna platsen, och flera andra hyresgäster med övernaturliga anknytningar.",
+        "themes": [
+          "övernaturligt samboende",
+          "vardagsliv",
+          "romantisk förvecklingskomedi"
+        ],
+        "tone": [
+          "burlesk",
+          "lättsam",
+          "fanservicepräglad"
+        ],
+        "pacing_and_structure": "Tolv avsnitt med återkommande komiska situationer kring pensionatets invånare, inslag av övernaturliga konflikter och relationsförvecklingar.",
+        "character_dynamics": "Kogarashi vill hjälpa Yuuna och samtidigt bli accepterad bland de kvinnliga hyresgästerna; deras olika gränser och reaktioner driver komedin.",
+        "distinctive_features": "Kombinerar spökhistoria och exorcism med kollektivboende, haremkomedi och uttalad ecchi-humor.",
+        "comparison_cues": [
+          "övernaturlig kollektivkomedi",
+          "återkommande pinsamma situationer",
+          "romantisk ensemble"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 33010,
+      "title": "FLCL Progressive",
+      "mal_mean_score": 6.33,
+      "mal_num_scoring_users": 44857,
+      "genres": [
+        "Avant Garde",
+        "Comedy",
+        "Mecha",
+        "Parody",
+        "Sci-Fi"
+      ],
+      "studios": [
+        "Production I.G",
+        "Signal.MD",
+        "Production GoodBook"
+      ],
+      "media_type": "movie",
+      "release_year": 2018,
+      "num_episodes": 1,
+      "brief": {
+        "synopsis": "Hidomi lever ett tillbakadraget liv mellan skolan och moderns kafé. När den gitarrbeväpnade Haruko dyker upp och märkliga robotar attackerar staden dras Hidomi och klasskamraten Ide in i konflikten kring Medical Mechanica.",
+        "themes": [
+          "tonårsidentitet",
+          "känslomässig avskärmning",
+          "förändring och självbestämmande"
+        ],
+        "tone": [
+          "surrealistisk",
+          "kaotisk",
+          "komisk",
+          "ibland mörk"
+        ],
+        "pacing_and_structure": "Sexdelad science fiction-berättelse, även utgiven som japansk sammanställningsfilm; vardagsscener bryts av snabbt eskalerande mekaniska och kroppsligt absurda händelser.",
+        "character_dynamics": "Hidomis reserverade förhållningssätt kontrasterar mot Ides mer utåtriktade intresse och Harukos påträngande agenda; Jinyu fungerar som en annan kraft i dragkampen om Hidomi.",
+        "distinctive_features": "Gitarrer, märkliga huvudrelaterade robotfenomen och Medical Mechanica återkommer från FLCL, men berättelsen fokuserar på Hidomis isolering och reaktion på omvärlden.",
+        "comparison_cues": [
+          "huvudpersonens avskärmning kontra yttre kaos",
+          "hög visuell och narrativ intensitet",
+          "fortsättning med ny central ungdomsduo"
+        ],
+        "profile_status": "complete",
+        "uncertainties": [
+          "MAL-posten avser filmversionen; specifik klippning och rytm kan avvika från TV-utgåvan."
+        ]
+      }
+    },
+    {
+      "mal_id": 37579,
+      "title": "Tonari no Kyuuketsuki-san",
+      "mal_mean_score": 7.1,
+      "mal_num_scoring_users": 46884,
+      "genres": [
+        "CGDCT",
+        "Comedy",
+        "Supernatural",
+        "Vampire"
+      ],
+      "studios": [
+        "Studio Gokumi",
+        "AXsiZ"
+      ],
+      "media_type": "tv",
+      "release_year": 2018,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "Skolflickan Akari Amano söker upp den mystiska Sophie Twilight och upptäcker en vampyr som hellre beställer blod på nätet än angriper människor. Deras samboende blir grunden för vardagskomedi.",
+        "themes": [
+          "vänskap",
+          "vardagsliv",
+          "övernaturligt i modern miljö"
+        ],
+        "tone": [
+          "lättsam",
+          "varm",
+          "lekfull"
+        ],
+        "pacing_and_structure": "Tolv avsnitt med episodisk vardagskomedi byggd på korta situationsskämt snarare än en stor sammanhängande konflikt.",
+        "character_dynamics": "Akaris entusiasm och Sophies reserverade, otakuintresserade personlighet skapar en kontrast; deras umgänge utvidgas genom vänner.",
+        "distinctive_features": "Vampyrmotivet används främst som vardaglig kontrast till modern konsumtion och hobbykultur.",
+        "comparison_cues": [
+          "övernaturlig slice-of-life",
+          "komedi om samboende och olika temperament"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 37956,
+      "title": "3D Kanojo: Real Girl 2nd Season",
+      "mal_mean_score": 7.67,
+      "mal_num_scoring_users": 113180,
+      "genres": [
+        "Otaku Culture",
+        "Romance",
+        "School",
+        "Shoujo"
+      ],
+      "studios": [
+        "Hoods Entertainment"
+      ],
+      "media_type": "tv",
+      "release_year": 2019,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "I andra säsongen försöker den tidigare isolerade otakun Hikari Tsutsui och hans flickvän Iroha Igarashi fördjupa sin relation samtidigt som skolvardag och omgivningens förväntningar skapar nya prövningar. Skolfestivalens förberedelser belastar Tsutsui, och vännen Yuuto Itous känslor för Sumie Ayado skapar en parallell relationskonflikt.",
+        "themes": [
+          "relationsansvar",
+          "social mognad",
+          "självbild och utanförskap",
+          "vänskap och obesvarad kärlek"
+        ],
+        "tone": [
+          "romantiskt dramatisk",
+          "ibland lättsam",
+          "känslomässigt uppriktig"
+        ],
+        "pacing_and_structure": "Direkt fortsättning i tolv avsnitt; mer sammanhängande relationsutveckling och följder av tidigare etablerade band än en fristående episodisk komedi.",
+        "character_dynamics": "Tsutsui och Iroha måste förena olika sociala erfarenheter och förväntningar. Itous känslor för Ayado fungerar som kontrast till huvudparets etablerade förhållande.",
+        "distinctive_features": "En fortsättningssäsong där ett redan bildat par och deras vänkrets möter konsekvenser av relationernas utveckling, med skolfestivalen som en konkret konfliktmiljö.",
+        "comparison_cues": [
+          "romantik efter parbildning",
+          "parallella relationstrådar",
+          "social utveckling med återkommande konsekvenser"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 38680,
+      "title": "Fruits Basket 1st Season",
+      "mal_mean_score": 8.2,
+      "mal_num_scoring_users": 460233,
+      "genres": [
+        "Drama",
+        "Love Polygon",
+        "Romance",
+        "School",
+        "Shoujo",
+        "Supernatural"
+      ],
+      "studios": [
+        "TMS Entertainment"
+      ],
+      "media_type": "tv",
+      "release_year": 2019,
+      "num_episodes": 25,
+      "brief": {
+        "synopsis": "Efter sin mors död bor gymnasisten Tohru Honda tillfälligt i ett tält, men får flytta in hos medlemmar av familjen Sōma. Hon upptäcker snart deras hemlighet: vissa familjemedlemmar förvandlas till djur ur den kinesiska zodiaken vid särskilda kroppsliga kontakter. Genom samvaron växer både vänskap och insikten om familjens svårare känslomässiga bördor.",
+        "themes": [
+          "Sorg och tillhörighet",
+          "Familjeband och hemligheter",
+          "Acceptans och självkänsla",
+          "Vänskap och känslomässig läkning"
+        ],
+        "tone": [
+          "Varm",
+          "Humoristisk",
+          "Melankolisk",
+          "Relationsdramatisk"
+        ],
+        "pacing_and_structure": "Första säsongens 25 avsnitt introducerar gradvis familjemedlemmar och deras personliga konflikter; lättsam vardagskomedi växlar med mer känsloladdade berättelser.",
+        "character_dynamics": "Tohrus omtanke påverkar Yuki och Kyo Sōma, vars inbördes motsättningar också synliggör deras osäkerheter. Shigure ger henne husrum men bär på familjens hemlighet.",
+        "distinctive_features": "2019 års nya adaption av Natsuki Takayas manga; zodiakförvandlingarna fungerar både som komisk premiss och som uttryck för en komplicerad familjeordning.",
+        "comparison_cues": [
+          "Långsamt uppbyggda familjerelationer",
+          "Humor som övergår i emotionellt drama",
+          "Övernaturlig förbannelse med sociala konsekvenser"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 39456,
+      "title": "Sounan desu ka?",
+      "mal_mean_score": 6.6,
+      "mal_num_scoring_users": 81417,
+      "genres": [
+        "Adventure",
+        "CGDCT",
+        "Comedy",
+        "Seinen",
+        "Survival"
+      ],
+      "studios": [
+        "Ezόla"
+      ],
+      "media_type": "tv",
+      "release_year": 2019,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "Efter en olycka på en skolresa hamnar Homare Onishima, Shion Kujou, Asuka Suzumori och Mutsu Amatani på en obebodd ö. Homare använder kunskaper hon lärt sig av sin överlevnadskunnige far för att hjälpa gruppen skaffa vatten, mat och skydd.",
+        "themes": [
+          "överlevnad",
+          "praktiskt kunnande",
+          "gruppanpassning"
+        ],
+        "tone": [
+          "absurd komedi",
+          "äventyr",
+          "situationshumor"
+        ],
+        "pacing_and_structure": "Tolv korta avsnitt bygger på konkreta överlevnadsproblem och gruppens reaktioner på ofta obekväma lösningar.",
+        "character_dynamics": "Homare är lugn och handlingskraftig, medan hennes tre klasskamrater är ovana vid situationen; deras olika tolerans för improviserade överlevnadsmetoder driver komiken.",
+        "distinctive_features": "Kontrasten mellan överlevnadsinstruktioner och lättsam skolflickskomediform; ovanliga metoder för föda och vätska används som komisk motor.",
+        "comparison_cues": [
+          "episodiska överlevnadsproblem",
+          "kompetensskillnad inom gruppen",
+          "komik ur praktisk nödvändighet"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 37379,
+      "title": "Chihayafuru 3",
+      "mal_mean_score": 8.46,
+      "mal_num_scoring_users": 72422,
+      "genres": [
+        "Drama",
+        "Josei",
+        "Love Polygon",
+        "Romance",
+        "School",
+        "Sports",
+        "Strategy Game"
+      ],
+      "studios": [
+        "Madhouse"
+      ],
+      "media_type": "tv",
+      "release_year": 2019,
+      "num_episodes": 24,
+      "brief": {
+        "synopsis": "Chihaya och hennes lagkamrater i Mizusawas karutaklubb fortsätter efter framgångarna i de nationella tävlingarna att träna för nya utmaningar. Chihaya siktar mot titeln som karutadrottning, Taichi tränar vid hennes sida och Arata undersöker möjligheten att bygga ett eget lag.",
+        "themes": [
+          "tävlingsambition",
+          "vänskap och rivalitet",
+          "personlig utveckling",
+          "ungdomsrelationer"
+        ],
+        "tone": [
+          "engagerad",
+          "tävlingsintensiv",
+          "känslomässigt laddad"
+        ],
+        "pacing_and_structure": "Tredje säsongen för vidare en sammanhängande karuta- och relationsberättelse genom träning, tävlingar och individuella vägval; tävlingsmoment varvas med vardagliga och personliga konflikter.",
+        "character_dynamics": "Chihayas, Taichis och Aratas olika ambitioner inom karuta löper parallellt med deras nära men föränderliga band; lagets gemenskap möter individuella mål.",
+        "distinctive_features": "Tävlingskaruta, där klassisk japansk poesi kombineras med snabb reaktionsförmåga, används som konkret ram för både idrottslig och emotionell utveckling.",
+        "comparison_cues": [
+          "långsiktig utveckling över flera säsonger",
+          "konkurrens och relationsdynamik",
+          "träning kontra tävling"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 40417,
+      "title": "Fruits Basket 2nd Season",
+      "mal_mean_score": 8.52,
+      "mal_num_scoring_users": 310526,
+      "genres": [
+        "Drama",
+        "Romance",
+        "School",
+        "Shoujo",
+        "Supernatural"
+      ],
+      "studios": [
+        "TMS Entertainment"
+      ],
+      "media_type": "tv",
+      "release_year": 2020,
+      "num_episodes": 25,
+      "brief": {
+        "synopsis": "Tohru Honda har bott nära ett år hos familjen Sohma och kommit Yuki, Kyo och de övriga närmare. Under den andra säsongen blir familjeförbannelsens konsekvenser och familjeöverhuvudet Akitos inflytande allt tydligare, samtidigt som ungdomarna funderar över framtid, tillhörighet och egna val.",
+        "themes": [
+          "Familjeband och kontroll",
+          "Trauma och tillit",
+          "Identitet och frigörelse"
+        ],
+        "tone": [
+          "Varm",
+          "Melankolisk",
+          "Bitvis psykologiskt mörk"
+        ],
+        "pacing_and_structure": "25 avsnitt som bygger vidare på första säsongens relationer; vardagliga och humoristiska möten växlar med successivt fördjupade konflikter om Sohma-familjens förbannelse.",
+        "character_dynamics": "Tohrus omtanke för Yuki och Kyo ställs mot deras olika erfarenheter av familjens begränsningar. Akitos makt påverkar hur familjemedlemmarna kan närma sig varandra.",
+        "distinctive_features": "Andra delen av 2019 års nyadaption av Natsuki Takayas manga; flyttar tyngdpunkten mot förbannelsens psykologiska och sociala konsekvenser.",
+        "comparison_cues": [
+          "Mer sammanhängande relationsutveckling än fristående episodkomedi",
+          "Ökande fokus på familjens maktstrukturer",
+          "Känslomässig dramatik inom en övernaturlig premiss"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 38799,
+      "title": "Koukaku Kidoutai: SAC_2045",
+      "mal_mean_score": 6.58,
+      "mal_num_scoring_users": 12190,
+      "genres": [
+        "Adult Cast",
+        "Detective",
+        "Mecha",
+        "Military",
+        "Mystery",
+        "Sci-Fi",
+        "Seinen"
+      ],
+      "studios": [
+        "Production I.G",
+        "Sola Digital Arts"
+      ],
+      "media_type": "ona",
+      "release_year": 2020,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "Efter en global ekonomisk kollaps präglas år 2045 av en permanent, ekonomiskt underhållen krigföring. Motoko Kusanagi och tidigare medlemmar av Sektion 9 arbetar som legosoldater, men framväxten av så kallade post-humans leder dem tillbaka till cyberbrottslighet och säkerhetspolitik.",
+        "themes": [
+          "Artificiell intelligens och mänsklig identitet",
+          "Militariserad ekonomi",
+          "Övervakning och statlig makt"
+        ],
+        "tone": [
+          "Teknothriller",
+          "Actionorienterad",
+          "Politisk"
+        ],
+        "pacing_and_structure": "Tolvdelad första säsong med inledande legosoldatuppdrag som övergår i en större utredning; producerad i datoranimerad 3D.",
+        "character_dynamics": "Kusanagi leder ett erfaret team där Batou och övriga tidigare kollegor bär med sig sin etablerade arbetsdynamik; Aramaki fungerar som organisatorisk länk tillbaka till Sektion 9.",
+        "distinctive_features": "En 3DCG-produktion inom Stand Alone Complex-kontinuiteten med post-human-fenomenet som nytt hot.",
+        "comparison_cues": [
+          "Cyberpunk med säkerhetspolitisk intrig",
+          "Etablerad ensemble i ny teknisk och geopolitisk situation"
+        ],
+        "profile_status": "complete",
+        "uncertainties": [
+          "Avser första säsongens tolv avsnitt, inte den senare säsongen eller sammanfattningsfilmen."
+        ]
+      }
+    },
+    {
+      "mal_id": 40787,
+      "title": "Josee to Tora to Sakana-tachi",
+      "mal_mean_score": 8.38,
+      "mal_num_scoring_users": 289195,
+      "genres": [
+        "Adult Cast",
+        "Drama",
+        "Romance",
+        "Visual Arts"
+      ],
+      "studios": [
+        "Bones"
+      ],
+      "media_type": "movie",
+      "release_year": 2020,
+      "num_episodes": 1,
+      "brief": {
+        "synopsis": "Marinbiologistudenten Tsuneo hjälper en ung kvinna i rullstol som kallar sig Josee. När han får arbete som hennes följeslagare utmanar deras möten både hennes begränsade rörelsefrihet och hans egna framtidsplaner.",
+        "themes": [
+          "självständighet",
+          "drömmar",
+          "relationer och tillit",
+          "tillgång till omvärlden"
+        ],
+        "tone": [
+          "varm",
+          "känslosam",
+          "romantisk"
+        ],
+        "pacing_and_structure": "Sammanhållen långfilm som låter en inledningsvis kantig bekantskap utvecklas genom gemensamma upplevelser och individuella framtidsambitioner.",
+        "character_dynamics": "Tsuneos pragmatiska studiemål möter Josees konstnärliga fantasi och försiktighet inför omvärlden; deras samarbete växer ur en betald relation.",
+        "distinctive_features": "Filmen kopplar romantisk utveckling till huvudpersonernas olika ambitioner och Josees steg mot större handlingsutrymme.",
+        "comparison_cues": [
+          "romantik kopplad till personlig självständighet",
+          "långfilmsformat med relationsutveckling",
+          "konflikt mellan närhet och individuella mål"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 41392,
+      "title": "Urasekai Picnic",
+      "mal_mean_score": 6.69,
+      "mal_num_scoring_users": 45036,
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Isekai",
+        "Mystery",
+        "Survival",
+        "Suspense"
+      ],
+      "studios": [
+        "LIDENFILMS",
+        "Felix Film"
+      ],
+      "media_type": "tv",
+      "release_year": 2021,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "Universitetsstudenten Sorawo Kamikoshi hittar en passage till en märklig parallellvärld, kallad Otherside, där farliga väsen och fenomen förekommer. Där möter hon Toriko Nishina, som söker efter en försvunnen person. Tillsammans utforskar de den andra världen och försöker förstå dess hot.",
+        "themes": [
+          "Folkloristisk skräck och urbana legender",
+          "Utforskning av okända miljöer",
+          "Tillit och samarbete",
+          "Gränsen mellan vardag och det övernaturliga"
+        ],
+        "tone": [
+          "Oroväckande",
+          "Äventyrlig",
+          "Mystisk"
+        ],
+        "pacing_and_structure": "Episodiska expeditioner och möten med övernaturliga fenomen knyts samman av de två huvudpersonernas växande samarbete och sökande.",
+        "character_dynamics": "Den mer tillbakadragna Sorawo och den handlingskraftiga Toriko blir ett utforskarpar med olika drivkrafter. Deras ömsesidiga beroende prövas av riskerna på Otherside.",
+        "distinctive_features": "TV-anime från 2021 med två kvinnliga huvudpersoner, en parallellvärld och skräckmotiv från japanska nätlegender.",
+        "comparison_cues": [
+          "Övernaturliga expeditioner med återkommande hot",
+          "Relationsdynamik mellan två utforskare",
+          "Vardaglig miljö kontrasterad mot främmande skräckvärld"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 40842,
+      "title": "Idoly Pride",
+      "mal_mean_score": 7.4,
+      "mal_num_scoring_users": 20894,
+      "genres": [
+        "Drama",
+        "Idols (Female)",
+        "Music"
+      ],
+      "studios": [
+        "Lerche"
+      ],
+      "media_type": "tv",
+      "release_year": 2021,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "Efter att den lovande idolen Mana Nagase avlidit fortsätter hennes arv att prägla Hoshimi Production. Hennes yngre syster Kotono och Sakura Kawasaki, vars röst påminner om Manas, ansluter till en ny grupp unga idoler som försöker etablera sig i VENUS-programmets tävlingsvärld.",
+        "themes": [
+          "Drama",
+          "Music"
+        ],
+        "tone": [
+          "melankolisk",
+          "hoppfull",
+          "tävlingsinriktad"
+        ],
+        "pacing_and_structure": "Tolv avsnitt förenar träning, auditions och framträdanden med ett mer känslobetonat berättelsespår kring Manas frånvaro och hennes betydelse för de efterlevande.",
+        "character_dynamics": "Kotono förhåller sig till sin systers arv medan Sakura och de andra deltagarna försöker hitta sina roller; samarbete och konkurrens formar grupperna Sunny Peace och Moon Tempest.",
+        "distinctive_features": "Idoldrama med en tydlig sorg- och minnesdimension, parallella gruppidentiteter och musikaliska scenframträdanden.",
+        "comparison_cues": [
+          "Idolensemble där gruppsamarbete och konkurrens växlar",
+          "Berättelse om arv och saknad inom en prestationsmiljö"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 42897,
+      "title": "Horimiya",
+      "mal_mean_score": 8.18,
+      "mal_num_scoring_users": 1036277,
+      "genres": [
+        "Romance",
+        "School",
+        "Shounen"
+      ],
+      "studios": [
+        "CloverWorks"
+      ],
+      "media_type": "tv",
+      "release_year": 2021,
+      "num_episodes": 13,
+      "brief": {
+        "synopsis": "Kyouko Hori är social och framgångsrik i skolan men lever ett mer hembundet liv där hon hjälper sin familj. Den tillbakadragne Izumi Miyamura döljer i sin tur tatueringar, piercingar och en mjukare personlighet än skolkamraterna anar. När de upptäcker varandras privata sidor växer en romantisk relation fram.",
+        "themes": [
+          "Romance",
+          "School"
+        ],
+        "tone": [
+          "varm",
+          "humoristisk",
+          "relationsorienterad"
+        ],
+        "pacing_and_structure": "Romantisk vardagsberättelse med tonvikt på hur Hori och Miyamura lär känna varandra utanför skolans sociala roller. Den 13 avsnitt långa säsongen rymmer också kortare nedslag i vänkretsen.",
+        "character_dynamics": "Hori och Miyamura går från oväntad förtrolighet till närmare relation; deras skilda offentliga och privata identiteter driver samspelet.",
+        "distinctive_features": "Två parallella dubbelliv, familjevardag och en bredare gymnasieensemble; adaptionen från 2021 är skild från Horimiya: The Missing Pieces (2023).",
+        "comparison_cues": [
+          "Romantik där relationen utvecklas genom vardaglig närhet snarare än ett enda slutligt erkännande",
+          "Kontrast mellan social fasad och privat identitet"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 46095,
+      "title": "Vivy: Fluorite Eye's Song",
+      "mal_mean_score": 8.37,
+      "mal_num_scoring_users": 279391,
+      "genres": [
+        "Action",
+        "Music",
+        "Sci-Fi",
+        "Suspense",
+        "Time Travel"
+      ],
+      "studios": [
+        "Wit Studio"
+      ],
+      "media_type": "tv",
+      "release_year": 2021,
+      "num_episodes": 13,
+      "brief": {
+        "synopsis": "I nöjesparken NiaLand sjunger den autonoma AI:n Vivy för att göra människor lyckliga. Hon kontaktas av Matsumoto, en AI från hundra år in i framtiden, som vill förändra avgörande historiska händelser för att förhindra ett framtida krig mellan AI och människor. Vivy måste förena sitt ursprungliga sånguppdrag med deras långvariga ingripanden.",
+        "themes": [
+          "AI:s uppdrag och självbestämmande",
+          "Mänsklighetens relation till artificiell intelligens",
+          "Historiska konsekvenser och ansvar",
+          "Musik som identitet"
+        ],
+        "tone": [
+          "Science fiction-drama",
+          "Spänningsfylld",
+          "Eftertänksam"
+        ],
+        "pacing_and_structure": "Berättelsen sträcker sig över ett sekel och delas upp i historiska ingripanden med tidshopp; actionsekvenser varvas med frågor om Vivys uppdrag och utveckling.",
+        "character_dynamics": "Vivy utgår från uppdraget att sjunga för människors lycka, medan Matsumoto prioriterar att förhindra framtidens katastrof. Deras skilda uppdrag driver både samarbete och friktion.",
+        "distinctive_features": "Originalanime från WIT STUDIO, skapad av Tappei Nagatsuki och Eiji Umehara; kombinerar sångframträdanden, tidsförskjutna sci-fi-insatser och AI-etik.",
+        "comparison_cues": [
+          "Lång tidsskala och återkommande konsekvenser",
+          "AI-duo med olika mål",
+          "Musik sammanvävd med science fiction-action"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 40938,
+      "title": "Hige wo Soru. Soshite Joshikousei wo Hirou.",
+      "mal_mean_score": 7.25,
+      "mal_num_scoring_users": 366990,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "studios": [
+        "Project No.9"
+      ],
+      "media_type": "tv",
+      "release_year": 2021,
+      "num_episodes": 13,
+      "brief": {
+        "synopsis": "Efter att ha blivit avvisad möter kontorsarbetaren Yoshida den förrymda gymnasieeleven Sayu Ogiwara. Han ger henne tak över huvudet, och deras samboende utvecklas till en berättelse om trygghet, gränser, ansvar och Sayus svåra bakgrund.",
+        "themes": [
+          "utsatthet och tillit",
+          "vuxenansvar",
+          "trygghet",
+          "att hantera det förflutna"
+        ],
+        "tone": [
+          "vardagsnära",
+          "allvarlig",
+          "varm",
+          "melankolisk"
+        ],
+        "pacing_and_structure": "TV-serie med 13 avsnitt från 2021; växlar mellan lugn samvaro och tyngre relationsdrama där bakgrund och omgivning gradvis får betydelse.",
+        "character_dynamics": "Yoshida försöker ge Sayu stabilitet utan att utnyttja hennes beroendeställning. Hans känslor för kollegan Airi Gotou och Sayus erfarenheter skapar olika perspektiv på närhet och ansvar.",
+        "distinctive_features": "En vuxens vardag ställs mot en minderårig rymlings behov av skydd; maktobalans och gränser är centrala i premissen.",
+        "comparison_cues": [
+          "relationsdrama med etiska gränser",
+          "gradvis förtroendebyggande",
+          "vardagsscener med tung bakgrund"
+        ],
+        "profile_status": "complete",
+        "uncertainties": [
+          "Slutlig romantisk tolkning av huvudrelationen fastslås inte."
+        ]
+      }
+    },
+    {
+      "mal_id": 42938,
+      "title": "Fruits Basket: The Final",
+      "mal_mean_score": 8.92,
+      "mal_num_scoring_users": 288264,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Shoujo",
+        "Supernatural"
+      ],
+      "studios": [
+        "TMS Entertainment"
+      ],
+      "media_type": "tv",
+      "release_year": 2021,
+      "num_episodes": 13,
+      "brief": {
+        "synopsis": "Tohru Honda söker ett sätt att bryta förbannelsen som binder familjen Soma till zodiaken och överhuvudet Akito. Avslutningssäsongen knyter samman konflikter om familj, sorg och frigörelse.",
+        "themes": [
+          "Familjeband",
+          "Sorg",
+          "Försoning"
+        ],
+        "tone": [
+          "Emotionell",
+          "Dramatisk",
+          "Hoppfull"
+        ],
+        "pacing_and_structure": "Avslutande säsong som koncentrerar tidigare etablerade relationskonflikter till deras upplösning.",
+        "character_dynamics": "Tohru vill hjälpa Yuki, Kyo och de övriga Soma-medlemmarna, medan Akitos makt över familjen står i vägen.",
+        "distinctive_features": "Familjepsykologiskt drama inramat av en övernaturlig zodiakförbannelse.",
+        "comparison_cues": [
+          "Relationsutveckling över flera säsonger",
+          "Familjetrauma",
+          "Avslutande känslomässig upplösning"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 48590,
+      "title": "Mini Dragon",
+      "mal_mean_score": 7.34,
+      "mal_num_scoring_users": 39780,
+      "genres": [
+        "Slice of Life",
+        "Supernatural"
+      ],
+      "studios": [
+        "Kyoto Animation"
+      ],
+      "media_type": "ona",
+      "release_year": 2021,
+      "num_episodes": 13,
+      "brief": {
+        "synopsis": "En serie mycket korta vardagssketcher med Kobayashi, draken Tohru, Kanna och övriga figurer från Kobayashi-san Chi no Maid Dragon. Kyoto Animation publicerade miniatyravsnitten inför andra tv-säsongen.",
+        "themes": [
+          "Vardagsgemenskap mellan människor och drakar",
+          "Vänskap och hemmaliv",
+          "Lekfulla karaktärsporträtt"
+        ],
+        "tone": [
+          "Lättsam",
+          "Varm",
+          "Absurdistiskt komisk"
+        ],
+        "pacing_and_structure": "Självständiga, cirka två minuter långa vinjetter med en enskild situation eller poäng; ingen sammanhängande huvudkonflikt behöver följas.",
+        "character_dynamics": "Tohrus hängivenhet för Kobayashi och Kannas plats i deras ovanliga hushåll ger återkommande utgångspunkter för sketcherna; även andra bekanta figurer dyker upp.",
+        "distinctive_features": "Kyoto Animations kortformatskomplement till tv-serien; 13 huvudsakliga nätpublicerade miniatyravsnitt under våren 2021.",
+        "comparison_cues": [
+          "Mycket korta karaktärsbaserade sketcher",
+          "Vardaglig fantasy snarare än fortlöpande intrig",
+          "Bonusmaterial som förutsätter viss bekantskap med huvudserien"
+        ],
+        "profile_status": "complete",
+        "uncertainties": [
+          "Vissa kataloger räknar även tre senare specialavsnitt och anger därför totalt 16; MAL-posten här omfattar 13."
+        ]
+      }
+    },
+    {
+      "mal_id": 47639,
+      "title": "Blue Reflection Ray",
+      "mal_mean_score": 5.99,
+      "mal_num_scoring_users": 7482,
+      "genres": [
+        "Action",
+        "Mahou Shoujo",
+        "School"
+      ],
+      "studios": [
+        "J.C.Staff"
+      ],
+      "media_type": "tv",
+      "release_year": 2021,
+      "num_episodes": 24,
+      "brief": {
+        "synopsis": "Den tillbakadragna nykomlingen Ruka Hanari möter den utåtriktade Hiori Hirahara. Som Reflectors kan de med särskilda ringar ingripa när människors känslor och minnesfragment hotas. Deras samarbete ställs mot andra Reflectors med motsatta metoder, samtidigt som Hiori söker sin försvunna syster.",
+        "themes": [
+          "känslomässig sårbarhet",
+          "empati och självförståelse",
+          "vänskap",
+          "konflikt om hur lidande ska hanteras"
+        ],
+        "tone": [
+          "melankolisk",
+          "allvarlig",
+          "hoppfull"
+        ],
+        "pacing_and_structure": "Magical-girl-drama med inledande etablering av paret och deras förmågor, följt av återkommande känslokonflikter och en sammanhängande större konflikt.",
+        "character_dynamics": "Hioris omedelbara vilja att hjälpa kontrasterar mot Rukas sociala osäkerhet; deras växande förtroende bär berättelsen. Hioris relation till den saknade systern Mio ger ytterligare personlig drivkraft.",
+        "distinctive_features": "Känslor visualiseras som Fragments; magiska strider är kopplade till psykiskt lidande snarare än enbart yttre fiender. Animekoppling till Blue Reflection-spelen, men med egna huvudpersoner.",
+        "comparison_cues": [
+          "magical-girl-konflikt med psykologisk inriktning",
+          "komplementära huvudpersoner",
+          "långformat med emotionell tematik"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 46093,
+      "title": "Shiroi Suna no Aquatope",
+      "mal_mean_score": 7.52,
+      "mal_num_scoring_users": 56393,
+      "genres": [
+        "Drama",
+        "Workplace"
+      ],
+      "studios": [
+        "P.A. Works"
+      ],
+      "media_type": "tv",
+      "release_year": 2021,
+      "num_episodes": 24,
+      "brief": {
+        "synopsis": "På Okinawa försöker Kukuru Misakino rädda det lilla akvariet Gama Gama från nedläggning. Fuuka Miyazawa, som nyligen lämnat sin idoltillvaro, söker en ny riktning och börjar arbeta där. Deras möte förenar två personer som på olika sätt försöker förhålla sig till förlorade och förändrade drömmar.",
+        "themes": [
+          "Arbetsliv och ansvar",
+          "Förlorade drömmar",
+          "Vänskap och gemenskap",
+          "Naturvård"
+        ],
+        "tone": [
+          "Eftertänksam",
+          "Varm",
+          "Bitvis vemodig"
+        ],
+        "pacing_and_structure": "24-avsnitts originalserie som växlar mellan akvariets praktiska arbete, vardagsrelationer och större yrkesmässiga omställningar.",
+        "character_dynamics": "Kukurus envisa lojalitet mot akvariet möter Fuukas erfarenhet av att behöva börja om; vänskapen utvecklas genom gemensamt arbete.",
+        "distinctive_features": "P.A. Works-produktion med Okinawas kustmiljö och akvariets marina liv som centrala visuella och tematiska element.",
+        "comparison_cues": [
+          "Arbetsplatsdrama med tydlig miljöförankring",
+          "Vänskap som formas av gemensamt ansvar",
+          "Drömmar som prövas mot praktiska begränsningar"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 42847,
+      "title": "Ai no Utagoe wo Kikasete",
+      "mal_mean_score": 7.65,
+      "mal_num_scoring_users": 32934,
+      "genres": [
+        "Drama",
+        "Music",
+        "School",
+        "Sci-Fi"
+      ],
+      "studios": [
+        "J.C.Staff"
+      ],
+      "media_type": "movie",
+      "release_year": 2021,
+      "num_episodes": 1,
+      "brief": {
+        "synopsis": "När den till synes vanliga utbytesstudenten Shion börjar sjunga mitt i klassrummet avslöjas att hon är en experimentell AI. Hennes envisa försök att göra den isolerade Satomi lycklig för samman flera klasskamrater och utmanar gränsen mellan programmerat uppdrag och omtanke.",
+        "themes": [
+          "vänskap",
+          "AI och mänsklighet",
+          "social isolering",
+          "lycka och omsorg"
+        ],
+        "tone": [
+          "hjärtlig",
+          "lekfull",
+          "science fiction-dramatisk"
+        ],
+        "pacing_and_structure": "En sammanhållen långfilm där musiknummer driver både humor och relationernas utveckling, innan teknikexperimentets konsekvenser ökar spänningen.",
+        "character_dynamics": "Shions direkta omsorg om Satomi rubbar klassens sociala mönster; Satomis tidigare vän Touma och andra klasskamrater får nya roller i den växande gruppen.",
+        "distinctive_features": "Musikalen är integrerad i en berättelse om artificiell intelligens snarare än en fristående konsertform.",
+        "comparison_cues": [
+          "musik som berättargrepp",
+          "teknik och emotionell anknytning",
+          "ensemble som växer samman"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 44516,
+      "title": "Koroshi Ai",
+      "mal_mean_score": 6.9,
+      "mal_num_scoring_users": 73876,
+      "genres": [
+        "Action",
+        "Adult Cast",
+        "Josei",
+        "Organized Crime",
+        "Romance"
+      ],
+      "studios": [
+        "Platinum Vision"
+      ],
+      "media_type": "tv",
+      "release_year": 2022,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "Prisjägaren Chateau Dankworth möter den skicklige yrkesmördaren Song Ryang-ha under ett uppdrag. Han blir påträngande intresserad av henne, och deras motvilliga samarbete drar in Chateau i konflikter med personer som jagar honom och i gåtor kring hennes eget förflutna.",
+        "themes": [
+          "Förtroende under hot",
+          "Hemligheter och identitet",
+          "Besatthet och gränser",
+          "Våld och beroendeförhållanden"
+        ],
+        "tone": [
+          "Spänningsfylld",
+          "Mörkt romantisk",
+          "Mystisk"
+        ],
+        "pacing_and_structure": "Tolv avsnitt som blandar uppdrag och konfrontationer med en successivt framväxande bakgrundsintrig; relationen mellan huvudpersonerna löper genom thrillerdelen.",
+        "character_dynamics": "Chateau är misstänksam och håller distans, medan Ryang-ha driver på kontakten med en blandning av flirt, provokation och praktisk hjälp; deras asymmetriska tillit är central.",
+        "distinctive_features": "Mangaadaption av Fe från Platinum Vision, där yrkesmördarthriller och en obekväm romantisk spänning är tätt sammanflätade.",
+        "comparison_cues": [
+          "Romantisk spänning i en farlig och ojämlik relation",
+          "Mysterieintrig kopplad till huvudpersonernas förflutna",
+          "Action och relationsförhandling snarare än renodlad action"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 49310,
+      "title": "Fruits Basket: Prelude",
+      "mal_mean_score": 8.35,
+      "mal_num_scoring_users": 52479,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Shoujo"
+      ],
+      "studios": [
+        "TMS Entertainment"
+      ],
+      "media_type": "movie",
+      "release_year": 2022,
+      "num_episodes": 1,
+      "brief": {
+        "synopsis": "Filmen förenar återblickar på Fruits Basket med en förhistoria om Tohrus föräldrar Kyoko och Katsuya Honda samt en epilog. Den nya förhistorien följer hur deras möte och relation påverkar Kyokos liv.",
+        "themes": [
+          "Familj och generationsarv",
+          "Sorg och förlust",
+          "Förändring genom kärlek"
+        ],
+        "tone": [
+          "Melankolisk",
+          "Romantisk",
+          "Känslosam"
+        ],
+        "pacing_and_structure": "Långfilm i tre delar: sammanfattande återblickar, förhistoria och epilog. Förutsätter i hög grad bekantskap med huvudserien.",
+        "character_dynamics": "Kyoko och Katsuya är förhistoriens huvudpar; deras relation ger sammanhang till Tohrus familjebakgrund. Ramberättelsen knyter an till Tohru och Kyo.",
+        "distinctive_features": "Film från 2022 producerad av TMS Entertainment, regisserad av Yoshihide Ibata; kombinerar tidigare seriematerial med nytt föräldramaterial och epilog.",
+        "comparison_cues": [
+          "Familjehistoria genom tillbakablick",
+          "Romantisk förhistoria",
+          "Kombination av recap och nytt drama"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 48857,
+      "title": "Healer Girl",
+      "mal_mean_score": 7.3,
+      "mal_num_scoring_users": 12543,
+      "genres": [
+        "CGDCT",
+        "Fantasy",
+        "Music",
+        "Slice of Life",
+        "Urban Fantasy"
+      ],
+      "studios": [
+        "Studio 3Hz"
+      ],
+      "media_type": "tv",
+      "release_year": 2022,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "I en värld där sång används som medicinsk behandling utbildar sig Kana Fujii, Reimi Itsushiro och Hibiki Morishima till healers vid Ria Karasumas klinik. Deras träning förenar musikaliska övningar, patientmöten och vardagliga relationer.",
+        "themes": [
+          "Musik som läkande praktik",
+          "Lärlingskap och yrkesansvar",
+          "Vänskap och samarbete"
+        ],
+        "tone": [
+          "Varm",
+          "Optimistisk",
+          "Musikalisk"
+        ],
+        "pacing_and_structure": "Episodiska patientfall och träningssituationer varvas med en längre utveckling mot yrkesmässig mognad. Sångnumren är del av handlingen snarare än enbart bakgrundsmusik.",
+        "character_dynamics": "Kana är entusiastisk och initiativrik, Reimi beundrar mentorn Ria och Hibiki bidrar med omsorg och praktisk erfarenhet. Sonia, en redan kvalificerad ung healer, tillför jämförelse och konkurrens.",
+        "distinctive_features": "Originalanime där en fiktiv form av röstmedicin gestaltas med återkommande musikalnummer och visuella bilder av läkandets effekter.",
+        "comparison_cues": [
+          "Musikal som narrativt uttryck snarare än idolkarriär",
+          "Lärlingsgrupp med skilda styrkor",
+          "Vårdrelaterade småberättelser med gradvis kompetensutveckling"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 41750,
+      "title": "Koukaku Kidoutai: SAC_2045 Season 2",
+      "mal_mean_score": 6.8,
+      "mal_num_scoring_users": 5360,
+      "genres": [
+        "Adult Cast",
+        "Detective",
+        "Mecha",
+        "Military",
+        "Mystery",
+        "Sci-Fi",
+        "Seinen"
+      ],
+      "studios": [
+        "Production I.G",
+        "Sola Digital Arts"
+      ],
+      "media_type": "ona",
+      "release_year": 2022,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "Andra säsongen fortsätter Sektion 9:s undersökning av posthumana cyberbrott i ett 2045 präglat av ekonomisk kollaps och permanent krigföring. Motoko Kusanagi och hennes grupp söker svar i det förstörda Tokyo, där flyktinggruppen N, amerikanska specialstyrkor och hotet om kärnvapenkonflikt korsar deras väg.",
+        "themes": [
+          "Mänsklig identitet och teknisk evolution",
+          "AI och cyberkriminalitet",
+          "Geopolitisk konflikt",
+          "Kollektiv verklighetsuppfattning"
+        ],
+        "tone": [
+          "Spänningsdriven",
+          "Cyberpunk",
+          "Filosofisk",
+          "Militär"
+        ],
+        "pacing_and_structure": "Direkt fortsättning på första säsongens olösta mysterium; tolv avsnitt (13–24 i den sammanhängande serien) med mer koncentrerad konfrontation kring posthumanerna och ett övergripande slutspel.",
+        "character_dynamics": "Motoko leder Sektion 9 tillsammans med återkommande kollegor som Batou och Togusa. Gruppens samarbete prövas när posthumanernas motiv och Takashi Shimamuras roll behöver klarläggas.",
+        "distinctive_features": "Datoranimerad fortsättning i Stand Alone Complex-grenen, regisserad av Kenji Kamiyama och Shinji Aramaki; producerad av Production I.G och Sola Digital Arts.",
+        "comparison_cues": [
+          "Cyberpunk med gruppbaserad polisoperation",
+          "Långt sammanhängande konspirationsspår",
+          "Identitetsfrågor genom avancerad nätverksteknik"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 49470,
+      "title": "Mamahaha no Tsurego ga Motokano datta",
+      "mal_mean_score": 6.71,
+      "mal_num_scoring_users": 163996,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "studios": [
+        "Project No.9"
+      ],
+      "media_type": "tv",
+      "release_year": 2022,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "Mizuto Irido och Yume Ayai gjorde slut efter högstadiet. När deras föräldrar gifter om sig blir de plötsligt styvsyskon i samma hem. De försöker upprätthålla en syskonrelation genom en tävlingsbetonad regel om vem som först avslöjar romantiska känslor, samtidigt som deras gemensamma förflutna ständigt gör sig påmint.",
+        "themes": [
+          "tidigare kärleksrelationer",
+          "familjens nya gränser",
+          "stolthet och missförstånd",
+          "kvarvarande känslor"
+        ],
+        "tone": [
+          "romantisk komedi",
+          "retfull",
+          "ibland nostalgisk"
+        ],
+        "pacing_and_structure": "Tolvdelsserie som växlar vardagliga konfrontationer i hem och skola med återblickar och bearbetning av det tidigare förhållandet. Konflikten bygger på en redan existerande relation snarare än ett första möte.",
+        "character_dynamics": "Mizuto och Yume känner varandras svagheter och har svårt att förena sin tidigare parrelation med rollen som nya familjemedlemmar. Deras tävlan om vem som är det äldre syskonet blir ett sätt att hantera olösta känslor.",
+        "distinctive_features": "Den centrala romantiska konflikten börjar efter ett uppbrott; föräldrarnas omgifte tvingar de två att omförhandla gränserna för sin relation.",
+        "comparison_cues": [
+          "romantik med delad historia",
+          "orddueller och prestige",
+          "vardagsnära familjesituation som konfliktmotor"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 45653,
+      "title": "Soredemo Ayumu wa Yosetekuru",
+      "mal_mean_score": 7,
+      "mal_num_scoring_users": 60610,
+      "genres": [
+        "Comedy",
+        "Love Status Quo",
+        "Romance",
+        "School",
+        "Shounen",
+        "Strategy Game"
+      ],
+      "studios": [
+        "SILVER LINK."
+      ],
+      "media_type": "tv",
+      "release_year": 2022,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "Ayumu Tanaka lämnar kendon för att ansluta sig till skolans lilla, inofficiella shogiklubb eftersom han är förälskad i den mer erfarna Urushi Yaotome. Han har lovat sig själv att inte bekänna sina känslor förrän han lyckas besegra henne i shogi, trots att han öppet och utan omsvep berömmer henne.",
+        "themes": [
+          "ung förälskelse",
+          "självpåtagna hinder",
+          "klubbgemenskap",
+          "tävlan och närhet"
+        ],
+        "tone": [
+          "lättsam",
+          "varm",
+          "romantisk komedi"
+        ],
+        "pacing_and_structure": "Tolvdelsserie med återkommande korta romantiska och komiska situationer kring shogipartier, skolliv och Ayumus envetna löfte. Den långsamma romantiska utvecklingen är en del av upplägget.",
+        "character_dynamics": "Ayumu är rak och svår att läsa medan Urushi är skickligare i shogi men lätt tappar fattningen inför hans komplimanger. Deras olika styrkor skapar en omvänd maktbalans mellan spelbrädet och flirtandet.",
+        "distinctive_features": "Shogi fungerar samtidigt som gemensamt intresse, återkommande komisk arena och ett konkret hinder för kärleksbekännelsen.",
+        "comparison_cues": [
+          "skolromantik med återkommande ritual",
+          "kontrast mellan uttryckslös uppriktighet och generad reaktion",
+          "episodisk vardagskomedi med långsam progression"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 50593,
+      "title": "Natsu e no Tunnel, Sayonara no Deguchi",
+      "mal_mean_score": 8,
+      "mal_num_scoring_users": 115704,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Romance",
+        "Supernatural"
+      ],
+      "studios": [
+        "CLAP"
+      ],
+      "media_type": "movie",
+      "release_year": 2022,
+      "num_episodes": 1,
+      "brief": {
+        "synopsis": "Kaoru Touno upptäcker Urashima-tunneln, som enligt en sägen kan uppfylla önskningar men där tiden går annorlunda än i omvärlden. Han och den nyinflyttade Anzu Hanashiro undersöker fenomenet tillsammans med var sina personliga förhoppningar.",
+        "themes": [
+          "Sorg och förlust",
+          "Önskningar och uppoffring",
+          "Tidsförskjutning",
+          "Ung kärlek"
+        ],
+        "tone": [
+          "Melankolisk",
+          "Mystisk",
+          "Romantisk"
+        ],
+        "pacing_and_structure": "Sammanhållen långfilm som sammanför en övernaturlig gåta med två ungdomars gradvis fördjupade relation; begränsad speltid ger en koncentrerad berättelse.",
+        "character_dynamics": "Kaoru sörjer sin yngre syster och Anzu har egna framtidsambitioner. Deras gemensamma experiment med tunneln utvecklar ömsesidigt förtroende.",
+        "distinctive_features": "CLAP-film efter Mei Hachimokus roman; ett Urashima-inspirerat tidsmotiv gör priset för en önskan konkret.",
+        "comparison_cues": [
+          "Romantik knuten till ett övernaturligt regelverk",
+          "Sorgbearbetning via tid och minnen",
+          "Koncentrerat tvåpersonersdrama"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 47917,
+      "title": "Bocchi the Rock!",
+      "mal_mean_score": 8.72,
+      "mal_num_scoring_users": 504986,
+      "genres": [
+        "CGDCT",
+        "Comedy",
+        "Music"
+      ],
+      "studios": [
+        "CloverWorks"
+      ],
+      "media_type": "tv",
+      "release_year": 2022,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "Hitori Gotou har lärt sig spela gitarr på egen hand men har svårt att få vänner. När trummisen Nijika Ijichi bjuder in henne till Kessoku Band får hon en möjlighet att utvecklas både som musiker och i mötet med andra.",
+        "themes": [
+          "social osäkerhet",
+          "vänskap",
+          "musikaliskt samarbete",
+          "personlig utveckling"
+        ],
+        "tone": [
+          "komisk",
+          "varm",
+          "självironisk"
+        ],
+        "pacing_and_structure": "Episodisk vardagskomik varvas med repetition, framträdanden och gradvis utveckling av bandets samspel.",
+        "character_dynamics": "Bocchis tillbakadragenhet kontrasterar mot Nijikas initiativförmåga, Ryou Yamadas säregna lugn och Ikuyo Kitas utåtriktade energi.",
+        "distinctive_features": "Uttrycksfulla visuella stilbrott gestaltar huvudpersonens oro; musikframträdandena förankrar komedin i ett konkret gemensamt projekt.",
+        "comparison_cues": [
+          "gruppdynamik i musikmiljö",
+          "komik som visualiserar inre upplevelser",
+          "gradvis social utveckling"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 50425,
+      "title": "Fuufu Ijou, Koibito Miman.",
+      "mal_mean_score": 7.59,
+      "mal_num_scoring_users": 254546,
+      "genres": [
+        "Love Polygon",
+        "Romance",
+        "School",
+        "Seinen"
+      ],
+      "studios": [
+        "studio MOTHER"
+      ],
+      "media_type": "tv",
+      "release_year": 2022,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "Gymnasieeleverna Jirou Yakuin och Akari Watanabe paras mot sin vilja ihop i en obligatorisk övning där de ska leva som gifta och bedömas på sin samvaro. Jirou är förälskad i barndomsvännen Shiori, medan Akari vill vara med Minami. De samarbetar för att få möjlighet att byta partner, men det iscensatta förhållandet gör känslorna mer komplicerade.",
+        "themes": [
+          "romantisk osäkerhet",
+          "iscensatt intimitet",
+          "svartsjuka",
+          "självbild",
+          "relationsval"
+        ],
+        "tone": [
+          "flörtig",
+          "komisk",
+          "romantisk",
+          "ibland känslomässigt laddad"
+        ],
+        "pacing_and_structure": "Tolv avsnitt där poängsystemet i skolans parövning ger en återkommande ram åt samboepisoder, missförstånd och ett triangeldrama.",
+        "character_dynamics": "Jirous försiktighet kontrasterar mot Akaris utåtriktade gyaru-persona. Båda har andra kärleksintressen, vilket gör samarbetet till en källa till både närhet och konflikt; Shiori och Minami bildar det andra paret.",
+        "distinctive_features": "Den ovanliga skoluppgiften gör en påtvingad sambosituation till själva romantikens mekanik; Studio Mother animerade 2022 års adaption.",
+        "comparison_cues": [
+          "romantisk komedi med sambo-premiss",
+          "kärlekstriangel",
+          "känslor som förändras under låtsasförhållande"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 53126,
+      "title": "Yamada-kun to Lv999 no Koi wo Suru",
+      "mal_mean_score": 7.73,
+      "mal_num_scoring_users": 309823,
+      "genres": [
+        "Romance",
+        "Video Game"
+      ],
+      "studios": [
+        "Madhouse"
+      ],
+      "media_type": "tv",
+      "release_year": 2023,
+      "num_episodes": 13,
+      "brief": {
+        "synopsis": "Universitetsstudenten Akane Kinoshita blir lämnad av sin pojkvän efter att han träffat någon i ett nätspel. I spelets gemenskap möter hon den fåordige och skicklige spelaren Akito Yamada, som hon också stöter på vid ett evenemang utanför nätet. Deras kontakt och relationen till spelgillets andra medlemmar utvecklas gradvis.",
+        "themes": [
+          "romantik efter uppbrott",
+          "gemenskap online och offline",
+          "kommunikationsskillnader",
+          "nya relationer"
+        ],
+        "tone": [
+          "varm",
+          "lättsam",
+          "romantiskt trevande"
+        ],
+        "pacing_and_structure": "Tretton avsnitt som följer en fortlöpande relationsutveckling med vardagliga komiska missförstånd och växlingar mellan spelmiljö och verkliga möten.",
+        "character_dynamics": "Akane är utåtriktad och känslomässigt öppen medan Yamada är reserverad och ofta svår att läsa; gillets vänskapskrets ger deras möten ett socialt sammanhang.",
+        "distinctive_features": "Madhouse-producerad romantisk komedi från 2023 efter Mashiros manga; nätspelsgillet är mötesplats snarare än en fantasyvärld där huvudhandlingen utspelas.",
+        "comparison_cues": [
+          "romantik mellan personer med olika kommunikationsstil",
+          "onlinespel som socialt nätverk",
+          "relationsdrama efter ett uppbrott"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 35737,
+      "title": "Pluto",
+      "mal_mean_score": 8.44,
+      "mal_num_scoring_users": 118318,
+      "genres": [
+        "Action",
+        "Detective",
+        "Mystery",
+        "Psychological",
+        "Sci-Fi",
+        "Seinen",
+        "Suspense"
+      ],
+      "studios": [
+        "Studio M2"
+      ],
+      "media_type": "ona",
+      "release_year": 2023,
+      "num_episodes": 8,
+      "brief": {
+        "synopsis": "I en framtid där människor och avancerade robotar lever sida vid sida utreder Europols robotdetektiv Gesicht en rad mord på framstående robotar och människor. Spåren pekar mot ett hot mot världens mest avancerade robotar och en större historia om krig och mänskligt ansvar.",
+        "themes": [
+          "robotars rättigheter",
+          "krigets efterverkningar",
+          "minne",
+          "sorg",
+          "identitet"
+        ],
+        "tone": [
+          "allvarlig",
+          "melankolisk",
+          "spänningsdriven"
+        ],
+        "pacing_and_structure": "Seriemysterium i åtta långa avsnitt; polisundersökningen varvas med andra robotars erfarenheter och etiska dilemman.",
+        "character_dynamics": "Gesicht är både utredare och en robot som själv berörs av hotet. Atom och de andra avancerade robotarna blir viktiga perspektiv på människors relation till artificiellt liv.",
+        "distinctive_features": "Naoki Urasawas nytolkning av en Astro Boy-berättelse förskjuter perspektivet till en robotdetektiv och en vuxnare kriminalthriller.",
+        "comparison_cues": [
+          "mysterieintrig med etiska följder",
+          "flera perspektiv inom sammanhängande fall",
+          "teknik och personskap"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 59848,
+      "title": "Virgin Punk: Clockwork Girl",
+      "mal_mean_score": 7.16,
+      "mal_num_scoring_users": 7888,
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "studios": [
+        "Shaft"
+      ],
+      "media_type": "movie",
+      "release_year": 2025,
+      "num_episodes": 1,
+      "brief": {
+        "synopsis": "I en framtid där medicinsk androidteknik Somadea gör det möjligt att ersätta och förstärka människokroppar har illegala modifieringar skapat en marknad för prisjägare. Ubu Kamigori jagar efterlysta Somadea-brottslingar, men möter Mr. Elegance, en man med en besvärlig koppling till hennes förflutna. Första delen i Yasuomi Umetsus originalserie animerad av Shaft.",
+        "themes": [
+          "Kroppslig autonomi",
+          "Teknisk kontroll och våld",
+          "Det förflutnas grepp"
+        ],
+        "tone": [
+          "Hårdkokt",
+          "Cyberpunk och action"
+        ],
+        "pacing_and_structure": "Kompakt actionthriller som etablerar sin teknik och prisjägarvärld genom Ubus uppdrag och personliga konflikt.",
+        "character_dynamics": "Ubus självständighet ställs mot den hotfulla och olösta relationen till Mr. Elegance.",
+        "distinctive_features": "Somadea-tekniken och ett lagligt prisjägarsystem ger en mekanisk och våldsam framtidsmiljö.",
+        "comparison_cues": [
+          "Kroppslig integritet i cyberpunk",
+          "Prisjägare med personlig konflikt",
+          "Kort, stiliserad action"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 53512,
+      "title": "Busu ni Hanataba wo.",
+      "mal_mean_score": 7.15,
+      "mal_num_scoring_users": 12736,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "School",
+        "Seinen"
+      ],
+      "studios": [
+        "SILVER LINK."
+      ],
+      "media_type": "tv",
+      "release_year": 2025,
+      "num_episodes": 13,
+      "brief": {
+        "synopsis": "Gymnasisten Hana Tabata betraktar sig själv som ful och osannolik som romantisk huvudperson. När klasskamraten Yousuke Ueno upptäcker hennes vana att ordna blommor i klassrummet växer en oväntad kontakt fram.",
+        "themes": [
+          "självbild",
+          "tonårsförälskelse",
+          "osäkerhet",
+          "social acceptans"
+        ],
+        "tone": [
+          "öm",
+          "komisk",
+          "självironisk"
+        ],
+        "pacing_and_structure": "Skolromantisk serie där missförstånd och huvudpersonens negativa självbild formar den gradvisa relationsutvecklingen.",
+        "character_dynamics": "Hanas självkritik kontrasteras mot Uenos öppna och vänliga bemötande; deras olikheter bär romansen.",
+        "distinctive_features": "Blommotivet och Hanas föreställning om sig själv som bakgrundsfigur används för att utforska vem som får vara huvudperson i en kärlekshistoria.",
+        "comparison_cues": [
+          "självkänsla i romantisk komedi",
+          "långsam närmandedynamik",
+          "skillnad mellan självbild och andras blick"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 60543,
+      "title": "Dandadan 2nd Season",
+      "mal_mean_score": 8.37,
+      "mal_num_scoring_users": 334405,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Shounen",
+        "Supernatural"
+      ],
+      "studios": [
+        "Science SARU"
+      ],
+      "media_type": "tv",
+      "release_year": 2025,
+      "num_episodes": 12,
+      "brief": {
+        "synopsis": "Den andra säsongen fortsätter Momo Ayases, Okaruns och Jijis undersökning av Jijis hemsökta familjehem. Den till synes lokala förbannelsen leder vidare in i en märklig orts folktro, farliga andar och en konflikt där övernaturliga krafter påverkar gruppen direkt.",
+        "themes": [
+          "Folktro och utomjordingar",
+          "tonårsrelationer och lojalitet",
+          "förbannelser och identitet"
+        ],
+        "tone": [
+          "Högljudd",
+          "absurd",
+          "skräckblandad",
+          "energisk"
+        ],
+        "pacing_and_structure": "Direkt fortsättning med sammanhängande förbannelseintrig, snabba växlingar mellan strid, grotesk komik och kortare relationsögonblick.",
+        "character_dynamics": "Momo och Okarun är seriens centrala samarbetspar med romantisk spänning; Jijis nära koppling till huset och till Momo skapar en tätare trepersonsdynamik.",
+        "distinctive_features": "Science SARU:s uttrycksfulla animation och blandningen av yokai-skräck, science fiction och tonårskomedi.",
+        "comparison_cues": [
+          "Övernaturlig action med pågående relationsutveckling",
+          "Hög energi snarare än lågmäld episodstruktur"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    },
+    {
+      "mal_id": 58788,
+      "title": "Ikoku Nikki",
+      "mal_mean_score": 8.7,
+      "mal_num_scoring_users": 49763,
+      "genres": [
+        "Drama",
+        "Josei"
+      ],
+      "studios": [
+        "Shuka"
+      ],
+      "media_type": "tv",
+      "release_year": 2026,
+      "num_episodes": 13,
+      "brief": {
+        "synopsis": "Efter att femtonåriga Asa förlorat sina föräldrar tar hennes moster Makio, en tillbakadragen romanförfattare, emot henne. De två känner varandra dåligt och måste hitta former för ett gemensamt vardagsliv samtidigt som Asa sörjer och söker en egen identitet.",
+        "themes": [
+          "Sorg och familj",
+          "generationsskillnader",
+          "självständighet och kommunikation"
+        ],
+        "tone": [
+          "Eftertänksam",
+          "vardagsnära",
+          "melankolisk",
+          "varsamt varm"
+        ],
+        "pacing_and_structure": "Relationsdrama som bygger förståelse genom vardagliga samtal, friktion och små förändringar snarare än stora yttre händelser.",
+        "character_dynamics": "Makios behov av avstånd och Asas behov av trygghet och självbestämmande gör relationen ojämn men föränderlig; deras olika sätt att uttrycka känslor är centrala.",
+        "distinctive_features": "Bearbetning av Tomoko Yamashitas manga, med en ovanlig familjekonstellation där omsorg inte förutsätter enkel känslomässig samstämmighet.",
+        "comparison_cues": [
+          "Vardagsdrama om ofrivilligt familjeansvar",
+          "Långsam men relationsdriven utveckling"
+        ],
+        "profile_status": "complete",
+        "uncertainties": []
+      }
+    }
+  ]
+}
