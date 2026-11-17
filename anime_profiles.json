@@ -5906,6 +5906,41 @@
         "https://de.wikipedia.org/wiki/Amagami"
       ]
     },
+    "8726": {
+      "mal_id": 8726,
+      "title": "Soredemo Machi wa Mawatteiru",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-17T07:12:23.738Z",
+      "synopsis": "Gymnasisten Hotori Arashiyama arbetar på kaféet Seaside i en lokal shoppinggata. Ägarinnan Uki försöker göra det till ett maidkafé utan att riktigt förstå konceptet. Hotoris vänner, familj och grannar dras in i små vardagsproblem, märkliga infall och ibland oväntade mysterier.",
+      "themes": [
+        "lokalsamhälle",
+        "vänskap",
+        "vardagsabsurditet",
+        "tonårsliv",
+        "nyfikenhet"
+      ],
+      "tone": [
+        "lekfull",
+        "excentrisk",
+        "vardaglig"
+      ],
+      "pacing_and_structure": "Fristående vardagsepisoder och komiska utvikningar, ibland med mysterie- eller fantastikinslag, snarare än en kontinuerlig huvudhandling.",
+      "character_dynamics": "Hotoris impulsiva nyfikenhet kontrasterar mot den ordningsamma kollegan Toshiko och kaféägaren Ukis egensinne; klasskamraten Hiroyuki Sanada har romantiska känslor för Hotori.",
+      "distinctive_features": "Ett maidkafé som knappt fungerar som maidkafé, en levande handelsgata och Shafts animebearbetning av Masakazu Ishiguros manga.",
+      "comparison_cues": [
+        "episodisk vardagskomedi",
+        "lokal ensemble och återkommande bifigurer",
+        "absurda utvikningar i vardagsmiljö"
+      ],
+      "uncertainties": [
+        "Enskilda fantastiska inslags omfattning varierar mellan berättelser."
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/8726",
+        "https://en.wikipedia.org/wiki/And_Yet_the_Town_Moves",
+        "https://thetvdb.com/series/and-yet-the-town-moves"
+      ]
+    },
     "8769": {
       "mal_id": 8769,
       "title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai",
@@ -6154,6 +6189,41 @@
       "sources": [
         "https://www.pa-works.jp/works/hanairo-tv/",
         "https://tv.apple.com/us/show/hanasaku-iroha---blossoms-for-tomorrow-/umc.cmc.bct6jhd6to1hy0c5zc55gxxp"
+      ]
+    },
+    "9330": {
+      "mal_id": 9330,
+      "title": "Dragon Crisis!",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-17T07:12:23.738Z",
+      "synopsis": "När Ryuuji Kisaragis kusin Eriko drar in honom i jakten på magiska föremål, så kallade Lost Precious, hittar de en mystisk flicka i en stulen låda. Flickan, som Ryuuji döper till Rose, visar sig vara en röd drake och fäster sig snabbt vid honom. Han försöker skydda henne från dem som vill utnyttja hennes krafter.",
+      "themes": [
+        "beskydd",
+        "magiska artefakter",
+        "människa och drake",
+        "romantisk anknytning",
+        "hemliga organisationer"
+      ],
+      "tone": [
+        "äventyrlig",
+        "romantisk",
+        "lättsam med action"
+      ],
+      "pacing_and_structure": "Tolv avsnitt som blandar artefaktjakt, konfrontationer och relationsscener; nya hot och magiska föremål driver berättelsen framåt.",
+      "character_dynamics": "Ryuuji är först motvillig till Eriko och hennes riskabla uppdrag, men tar ansvar för Rose; Roses starka tillgivenhet till honom är central för relationen och konflikterna.",
+      "distinctive_features": "Flicka som är en röd drake, magiska samlarföremål och en kombination av tonårsromantik och övernaturlig action.",
+      "comparison_cues": [
+        "romantisk fantasyaction",
+        "beskyddarrelation i centrum",
+        "episodiska hot inom en kort sammanhängande serie"
+      ],
+      "uncertainties": [
+        "Briefen beskriver utgångsläget och undviker senare avslöjanden om drakarnas historia."
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/9330",
+        "https://www.tvmaze.com/shows/20646/dragon-crisis",
+        "https://en.wikipedia.org/wiki/Dragon_Crisis!"
       ]
     },
     "9379": {
