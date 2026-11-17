@@ -1,0 +1,117 @@
+{
+  "experiment_id": "mal_blindtest_v1",
+  "model_id": "M1-text-tfidf-knn-v1",
+  "train_cv_MAE": 0.71675,
+  "baseline_train_cv_MAE": 0.74432,
+  "selected": {
+    "mode_weights": [
+      0.5,
+      0.5
+    ],
+    "neighbors": 16,
+    "neighbor_weight": 1.5,
+    "global_train_calibration_offset": -0.38000000000000034
+  },
+  "folds": [
+    {
+      "fold": 0,
+      "n_train": 346,
+      "n_validation": 78,
+      "offset": -0.38000000000000034
+    },
+    {
+      "fold": 1,
+      "n_train": 346,
+      "n_validation": 78,
+      "offset": -0.36499999999999977
+    },
+    {
+      "fold": 2,
+      "n_train": 342,
+      "n_validation": 82,
+      "offset": -0.41500000000000004
+    },
+    {
+      "fold": 3,
+      "n_train": 326,
+      "n_validation": 98,
+      "offset": -0.3799999999999999
+    },
+    {
+      "fold": 4,
+      "n_train": 336,
+      "n_validation": 88,
+      "offset": -0.37499999999999956
+    }
+  ],
+  "top_models": [
+    {
+      "mode": 1,
+      "k": 16,
+      "a": 1.5,
+      "errors": 303.90111573746924,
+      "mae": 0.7167479144751633
+    },
+    {
+      "mode": 2,
+      "k": 16,
+      "a": 1,
+      "errors": 303.93618209676026,
+      "mae": 0.7168306181527365
+    },
+    {
+      "mode": 0,
+      "k": 16,
+      "a": 2,
+      "errors": 304.4250284315082,
+      "mae": 0.7179835576214817
+    },
+    {
+      "mode": 1,
+      "k": 8,
+      "a": 1.5,
+      "errors": 304.48953156233966,
+      "mae": 0.7181356876470275
+    },
+    {
+      "mode": 2,
+      "k": 8,
+      "a": 1,
+      "errors": 304.7332104648002,
+      "mae": 0.7187104020396231
+    },
+    {
+      "mode": 1,
+      "k": 16,
+      "a": 1,
+      "errors": 305.11672492665133,
+      "mae": 0.7196149172798381
+    },
+    {
+      "mode": 1,
+      "k": 8,
+      "a": 1,
+      "errors": 305.5992654645115,
+      "mae": 0.720752984586112
+    },
+    {
+      "mode": 0,
+      "k": 8,
+      "a": 2,
+      "errors": 306.00404308349744,
+      "mae": 0.7217076487818336
+    }
+  ],
+  "training_count": 424,
+  "holdout_count": 105,
+  "qualitative_available": {
+    "question_answers": 62,
+    "statements": 7
+  },
+  "qualitative_model_usage": "Not used directly by the TF-IDF estimator. Thus this is a first computational benchmark, not the full planned reasoning-model test.",
+  "source_snapshot": {
+    "anime_json": "ecc337aad25a821141b98f7708b2ad800925c19f",
+    "anime_profiles_json": "65ee46c5d708cb696fa1378977d4c15f02258f55",
+    "anime_preference_learning_json": "7424f916c6404e3b3a0c3f8d9ed44df21d8b8cb4"
+  }
+}
