@@ -1402,6 +1402,36 @@
       ],
       "researched_at_utc": "2026-11-07T19:13:25.349Z"
     },
+    "457": {
+      "mal_id": 457,
+      "title": "Mushishi",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-17T03:20:02.536Z",
+      "synopsis": "Den kringvandrande mushi-experten Ginko hjälper människor vars liv påverkats av gåtfulla livsformer som existerar vid sidan av den vanliga naturen. Han försöker förstå fenomenen snarare än att behandla dem som onda väsen.",
+      "themes": [
+        "människa och natur",
+        "förlust",
+        "samexistens"
+      ],
+      "tone": [
+        "kontemplativ",
+        "melankolisk",
+        "mystisk"
+      ],
+      "pacing_and_structure": "Fristående, lågmälda berättelser med olika människor och platser; Ginko är den sammanhållande observatören snarare än en huvudperson i en fortlöpande konflikt.",
+      "character_dynamics": "Ginko möter nya personer i varje berättelse och fungerar ofta som rådgivare eller förmedlare mellan människor och mushi.",
+      "distinctive_features": "Övernaturliga fenomen skildras som en del av en egen ekologi, med naturbilder och stillsam rytm.",
+      "comparison_cues": [
+        "episodisk struktur utan central intrig",
+        "långsamt tempo med tematisk variation",
+        "empatisk problemlösning"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/457",
+        "https://www.fujitv.co.jp/b_hp/mushishi/index.html"
+      ]
+    },
     "458": {
       "mal_id": 458,
       "title": "Buttobi!! CPU",
@@ -1988,6 +2018,36 @@
       "profile_status": "complete",
       "researched_at_utc": "2026-11-07T16:14:50.411Z",
       "uncertainties": []
+    },
+    "667": {
+      "mal_id": 667,
+      "title": "Kashimashi: Girl Meets Girl",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-17T03:20:02.536Z",
+      "synopsis": "Efter att ha blivit avvisad av Yasuna omkommer gymnasieeleven Hazumu i en olycka med ett utomjordiskt rymdskepp och återupplivas i en flickas kropp. Förändringen komplicerar relationerna till Yasuna och barndomsvännen Tomari.",
+      "themes": [
+        "kärlekstriangel",
+        "identitet",
+        "vänskap och svartsjuka"
+      ],
+      "tone": [
+        "romantisk",
+        "komisk",
+        "melodramatisk"
+      ],
+      "pacing_and_structure": "En sammanhängande skolromans där en science fiction-utgångspunkt snabbt övergår i relationernas vardag och återkommande val.",
+      "character_dynamics": "Hazumu försöker förstå sina känslor medan Yasuna och Tomari har olika historia med och förväntningar på henne; utomjordingen Hitoshi följer människornas känsloliv.",
+      "distinctive_features": "Kroppsförändringen är berättelsens katalysator, men det centrala dramat gäller tre personers ömsesidiga känslor.",
+      "comparison_cues": [
+        "science fiction-premiss som relationsmotor",
+        "romantisk obeslutsamhet",
+        "vänskap kontra förälskelse"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/667",
+        "https://www.thetvdb.com/series/kashimashi-girl-meets-girl"
+      ]
     },
     "694": {
       "mal_id": 694,
