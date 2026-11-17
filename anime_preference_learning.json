@@ -23642,7 +23642,10 @@
         "source": "explicit_user_statement_in_current_chat",
         "recorded_date": "2026-11-15",
         "evidence_status": "direct_verbatim_with_separate_cautious_interpretation",
-        "model_review_status": "pending"
+        "model_review_status": "reviewed",
+        "model_review_note": "Verksspecifikt uttryckligt positivt omdöme om realistisk förankring, konsekvent ton och avslut; ingen slutsats om uppskattning av tabupremisser generellt.",
+        "model_reviewed_at_utc": "2026-11-17T21:15:06Z",
+        "linked_hypothesis_ids": []
       },
       "yosuga_koi_kaze_comparison_20261115": {
         "id": "yosuga_koi_kaze_comparison_20261115",
@@ -23660,7 +23663,10 @@
         "source": "explicit_user_statement_in_current_chat",
         "recorded_date": "2026-11-15",
         "evidence_status": "direct_verbatim_with_separate_cautious_interpretation",
-        "model_review_status": "pending"
+        "model_review_status": "reviewed",
+        "model_review_note": "Jämförande omdöme, men identifieringen av Yosuga no Sora är inte uttryckligen bekräftad och skälet till skillnaden är okänt; ingen riktad smakregel.",
+        "model_reviewed_at_utc": "2026-11-17T21:15:06Z",
+        "linked_hypothesis_ids": []
       },
       "twgok_arc_format_20261115": {
         "id": "twgok_arc_format_20261115",
@@ -23680,7 +23686,10 @@
         "source": "explicit_user_statement_in_current_chat",
         "recorded_date": "2026-11-15",
         "evidence_status": "direct_verbatim_with_separate_cautious_interpretation",
-        "model_review_status": "pending"
+        "model_review_status": "reviewed",
+        "model_review_note": "Positivt TWGOK-omdöme och oidentifierat negativt jämförelseverk visar att blockformat ensamt inte förutsäger betyg; negativt jämförelse-ID får inte fyllas i.",
+        "model_reviewed_at_utc": "2026-11-17T21:15:06Z",
+        "linked_hypothesis_ids": []
       },
       "anti_genre_determinism_20261115": {
         "id": "anti_genre_determinism_20261115",
@@ -23696,7 +23705,10 @@
         "source": "explicit_user_statement_in_current_chat",
         "recorded_date": "2026-11-15",
         "evidence_status": "direct_verbatim_with_separate_cautious_interpretation",
-        "model_review_status": "pending"
+        "model_review_status": "reviewed",
+        "model_review_note": "Uttrycklig metodkritik mot franchise- och genrebaserad extrapolering; inte ett negativt betyg för någon särskild Gundam-serie.",
+        "model_reviewed_at_utc": "2026-11-17T21:15:06Z",
+        "linked_hypothesis_ids": []
       }
     }
   }
