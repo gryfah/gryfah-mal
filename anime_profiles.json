@@ -3901,6 +3901,36 @@
         "https://theanimelist.net/anime/myself-yourself"
       ]
     },
+    "2963": {
+      "mal_id": 2963,
+      "title": "Minami-ke",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-17T05:18:52.529Z",
+      "synopsis": "Tre systrar – ansvarsfulla Haruka, impulsiva Kana och bitska Chiaki – delar hushåll utan vuxna och hanterar vardagens små konflikter, skola och vänskapsrelationer. Serien bygger främst på komiska situationer i hemmet och kring systrarnas bekantskapskrets.",
+      "themes": [
+        "syskonskap",
+        "vardagsliv",
+        "skolmiljö",
+        "familjedynamik"
+      ],
+      "tone": [
+        "lättsam",
+        "retfull",
+        "vardagskomisk"
+      ],
+      "pacing_and_structure": "Episodisk situationskomedi med kortare vardagsincidenter snarare än en sammanhängande dramatisk huvudkonflikt.",
+      "character_dynamics": "Haruka tar ofta ansvar; Kana skapar oreda och Chiaki kommenterar syrligt. Humorn kommer ur skillnaderna mellan deras temperament och umgänget med vänner.",
+      "distinctive_features": "Den ursprungliga TV-säsongen från 2007 har 13 avsnitt och animerades av Daume.",
+      "comparison_cues": [
+        "syskonbaserad ensemblekomedi",
+        "episodisk humor utan stort slutmål"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/2963",
+        "https://theanimelist.net/anime/minami-ke"
+      ]
+    },
     "2993": {
       "mal_id": 2993,
       "title": "Rosario to Vampire",
@@ -4183,6 +4213,37 @@
         "https://myanimelist.net/anime/3667",
         "https://tv.apple.com/us/show/strike-witches/umc.cmc.qn97svz4j4qmyu2m93ahj0ai",
         "https://www.hulu.jp/strike-witches"
+      ]
+    },
+    "3731": {
+      "mal_id": 3731,
+      "title": "Itazura na Kiss",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-17T05:18:52.529Z",
+      "synopsis": "Kotoko Aihara blir avvisad av den begåvade och reserverade Naoki Irie, som hon är förälskad i. När hennes familjehem skadas flyttar hon och fadern till bekanta, och det visar sig vara Naokis familj. Den påtvingade närheten driver en romantisk komedi som följer relationer över flera livsskeden.",
+      "themes": [
+        "obesvarad kärlek",
+        "sociala skillnader",
+        "familj",
+        "personlig mognad"
+      ],
+      "tone": [
+        "romantisk",
+        "komisk",
+        "melodramatisk"
+      ],
+      "pacing_and_structure": "Lång relationsbåge med förändringar över tid, inte enbart fristående skolromantiska episoder; TV-adaptionen från 2008 omfattar 25 avsnitt.",
+      "character_dynamics": "Kotoko är ihärdig och känslostyrd medan Naoki är distanserad och akademiskt framstående; deras asymmetriska utgångsläge och familjernas närhet driver konflikterna.",
+      "distinctive_features": "Adaption av Kaoru Tadas manga; animeversionen är känd för att föra berättelsen mot ett avslut som den ofullbordade mangan inte själv hann publicera.",
+      "comparison_cues": [
+        "romantik med längre tidshorisont",
+        "ojämn relationell maktbalans",
+        "familjens roll i kärleksintrigen"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/3731",
+        "https://en.wikipedia.org/wiki/Itazura_na_Kiss"
       ]
     },
     "3782": {
@@ -4960,6 +5021,38 @@
       "sources": [
         "https://portal.valkyria.jp/anime/",
         "https://www.hulu.jp/valkyria-chronicles"
+      ]
+    },
+    "5671": {
+      "mal_id": 5671,
+      "title": "Saki",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-17T05:18:52.529Z",
+      "synopsis": "Saki Miyanaga undviker mahjong efter obehagliga familjeerfarenheter och har lärt sig att avsluta spel med exakt nollresultat. När hon dras in i skolans mahjongklubb upptäcks hennes ovanliga förmåga; klubben siktar mot skolmästerskap och nationell tävling.",
+      "themes": [
+        "tävlingsspel",
+        "laganda",
+        "självförtroende",
+        "vänskap"
+      ],
+      "tone": [
+        "tävlingsinriktad",
+        "energisk",
+        "skolkomisk"
+      ],
+      "pacing_and_structure": "Inledande rekrytering och gruppbildning övergår i turneringsstruktur med matcher, rivaler och ökande tävlingsinsatser; 25 TV-avsnitt från 2009.",
+      "character_dynamics": "Sakis skicklighet skapar inledningsvis friktion med den mer etablerade spelaren Nodoka Haramura; klubbens medlemmar utvecklar samarbete genom gemensamt tävlingsmål.",
+      "distinctive_features": "Mahjong behandlas med sportanimens dramatiska matchlogik och upphöjda individuella spelförmågor.",
+      "comparison_cues": [
+        "turneringsberättelse",
+        "ensemble med rivalitet och samarbete",
+        "specialiserad spelmekanik"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/5671",
+        "https://theanimelist.net/anime/saki",
+        "https://www.anime.digital/anime/saki"
       ]
     },
     "5680": {
