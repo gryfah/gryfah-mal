@@ -1,0 +1,323 @@
+{
+  "version": 1,
+  "preference_git_blob_sha": "d0b985ddf369313b6cc1fe110caf89a32db957f5",
+  "dimensions": {
+    "progression": {
+      "label": "Progression och tidsinvestering",
+      "support": "Witch Hunter Robin och Mushishi ger stöd för att upprepning utan märkbar utveckling kan störa.",
+      "counterexample": "Yesterday wo Utatte är ett motexempel till låg fart som generell nackdel. TWGOK visar att blockstruktur kan fungera.",
+      "uncertainty": "Långsamt tempo eller episodisk struktur kan urskiljas i briefen. Upplevd stagnation kräver starkare belägg."
+    },
+    "relationship": {
+      "label": "Relationer som förändras",
+      "support": "FranXX och Evangelion Q ger stöd för att förändrade relationer kan bära betyget.",
+      "counterexample": "Tamako Love Story och Kamisama-OVA visar att en central relation kan bidra för lite när den inte utvecklas.",
+      "uncertainty": "Att en relation finns säger lite om hur väl förändringen gestaltas."
+    },
+    "consequences": {
+      "label": "Val, konsekvenser och upplösning",
+      "support": "White Album 2 och Clannad: After Story ger exempel på varför konsekvenser och emotionell upplösning är värda att testa.",
+      "counterexample": "Clannad fick ändå 7. Effekten av ett avslut och verkets helhetsbetyg kan gå åt olika håll.",
+      "uncertainty": "Spoilerfria briefar har ofta tunn täckning av upplösningar. Saknad signal är okänd."
+    },
+    "premise": {
+      "label": "Premissens funktion och förankring",
+      "support": "Koi Kaze och Kennel Tokorozawa visar att både en obekväm realistisk och en absurd premiss kan fungera genom behandlingen.",
+      "counterexample": "Yosuga no Sora är en sannolik jämförelse men det exakta skälet till skillnaden är öppet. Oshi no Ko upplevdes som krystad.",
+      "uncertainty": "Verkets grundidé kan kodas. Upplevd realism och kvalitet på genomförandet är svårare att förutsäga."
+    },
+    "tone": {
+      "label": "Tonal konsekvens och växlingar",
+      "support": "Koi Kaze är ett uttryckligt exempel på uppskattad konsekvent ton.",
+      "counterexample": "Maid Dragon och Hinamatsuri fick motsatta avvikelser trots episodisk komik med känslomässiga inslag.",
+      "uncertainty": "Tonal blandning har ingen förvald riktning."
+    },
+    "perspective": {
+      "label": "Subjektivt perspektiv och omsorg",
+      "support": "Happy Sugar Life är explicit stöd för stark gestaltning av de centrala personernas perspektiv. Orange och Erased ger andra typer av omsorgsexempel.",
+      "counterexample": "Hotaru no Haka och Kimi no Na wa. visar att känslomässig tyngd eller utsatthet i sig ger svagt stöd.",
+      "uncertainty": "Gemenskap bakom moralisk ambivalens är en snävare hypotes än smak för mörka verk."
+    },
+    "style": {
+      "label": "Visuellt och språkligt uttryck",
+      "support": "Spriggan och dropped-svaren om Kill la Kill och Sayonara Zetsubou Sensei visar att stilen kan påverka upplevelsen i olika riktningar.",
+      "counterexample": "Shaft-estetik i svaret om Kizumonogatari anger en faktor med osäker riktning. Den får ingen fast studiokorrektion.",
+      "uncertainty": "Kännetecknande stil går att belägga. Om den stödjer berättelsen är delvis en bedömning."
+    },
+    "format": {
+      "label": "Berättelseformat och bidrag",
+      "support": "Deltitlarna till Kamisama och Ano Natsu motiverar att testa vad ett tillägg faktiskt bidrar med.",
+      "counterexample": "TWGOK och Seiren visar utrymme för blockformat. Den ogillade jämförelsetiteln är okänd.",
+      "uncertainty": "Formatet används som modifierande egenskap utan förvald riktning."
+    }
+  },
+  "questions": {
+    "mal-6": [
+      "progression",
+      "format"
+    ],
+    "mal-7": [
+      "progression"
+    ],
+    "mal-420": [
+      "style"
+    ],
+    "mal-578": [
+      "tone",
+      "perspective"
+    ],
+    "mal-2926": [
+      "relationship"
+    ],
+    "mal-3667": [
+      "relationship"
+    ],
+    "mal-3785": [
+      "relationship"
+    ],
+    "mal-4181": [
+      "consequences"
+    ],
+    "mal-6016": [
+      "progression",
+      "format"
+    ],
+    "mal-11843": [
+      "tone",
+      "format"
+    ],
+    "mal-12355": [
+      "relationship",
+      "consequences"
+    ],
+    "mal-13599": [
+      "progression"
+    ],
+    "mal-14813": [
+      "relationship",
+      "tone"
+    ],
+    "mal-15689": [
+      "style"
+    ],
+    "mal-18245": [
+      "consequences"
+    ],
+    "mal-31043": [
+      "perspective"
+    ],
+    "mal-13715": [
+      "premise"
+    ],
+    "mal-18661": [
+      "progression",
+      "relationship",
+      "format"
+    ],
+    "mal-21647": [
+      "relationship"
+    ],
+    "mal-23447": [
+      "relationship",
+      "format"
+    ],
+    "mal-30503": [
+      "tone"
+    ],
+    "mal-31757": [
+      "style"
+    ],
+    "mal-32729": [
+      "consequences",
+      "perspective"
+    ],
+    "mal-33161": [],
+    "mal-33206": [
+      "tone",
+      "perspective",
+      "format"
+    ],
+    "mal-33352": [
+      "consequences",
+      "perspective"
+    ],
+    "mal-33487": [
+      "consequences",
+      "premise"
+    ],
+    "mal-33581": [],
+    "mal-34382": [
+      "relationship",
+      "premise"
+    ],
+    "mal-34383": [
+      "relationship",
+      "consequences"
+    ],
+    "mal-35849": [
+      "relationship"
+    ],
+    "mal-35928": [
+      "relationship",
+      "premise"
+    ],
+    "mal-36296": [
+      "tone",
+      "format"
+    ],
+    "mal-37171": [
+      "tone"
+    ],
+    "mal-37517": [
+      "premise",
+      "perspective"
+    ],
+    "mal-37773": [
+      "format"
+    ],
+    "mal-37982": [
+      "relationship",
+      "premise"
+    ],
+    "mal-38101": [
+      "relationship"
+    ],
+    "mal-38524": [
+      "progression",
+      "format"
+    ],
+    "mal-39017": [
+      "premise",
+      "style"
+    ],
+    "mal-39545": [
+      "relationship",
+      "premise"
+    ],
+    "mal-39710": [
+      "relationship",
+      "consequences",
+      "perspective"
+    ],
+    "mal-40716": [
+      "tone"
+    ],
+    "dropped-32281-final": [
+      "premise",
+      "tone",
+      "perspective",
+      "style"
+    ],
+    "dropped-457-final": [
+      "progression",
+      "format"
+    ],
+    "dropped-41084-final": [
+      "progression"
+    ],
+    "dropped-52034-final": [
+      "relationship",
+      "premise"
+    ],
+    "dropped-1210-final": [
+      "progression",
+      "tone"
+    ],
+    "dropped-25835-final": [
+      "relationship",
+      "premise"
+    ],
+    "dropped-1698-final": [
+      "relationship",
+      "premise",
+      "tone"
+    ],
+    "dropped-34636-final": [
+      "progression",
+      "relationship",
+      "style",
+      "format"
+    ],
+    "dropped-28223-final": [],
+    "dropped-237-final": [
+      "progression",
+      "relationship"
+    ],
+    "dropped-19815-final": [
+      "style"
+    ],
+    "dropped-18679-final": [
+      "relationship",
+      "style"
+    ],
+    "dropped-17549-final": [
+      "relationship",
+      "tone"
+    ],
+    "dropped-35968-final": [
+      "relationship",
+      "tone"
+    ],
+    "dropped-2924-final": [
+      "relationship",
+      "premise"
+    ],
+    "dropped-2605-final": [
+      "progression",
+      "tone",
+      "style",
+      "format"
+    ],
+    "dropped-17895-final": [
+      "progression",
+      "premise"
+    ],
+    "dropped-7724-final": [
+      "progression",
+      "relationship"
+    ],
+    "dropped-32979-final": [
+      "relationship",
+      "style",
+      "format"
+    ]
+  },
+  "statements": {
+    "premise_execution_20261115": [
+      "premise",
+      "progression",
+      "consequences"
+    ],
+    "franxx_relationships_20261115": [
+      "relationship"
+    ],
+    "happy_sugar_life_motivation_20261115": [
+      "perspective",
+      "relationship"
+    ],
+    "koi_kaze_execution_20261115": [
+      "premise",
+      "tone",
+      "progression",
+      "consequences"
+    ],
+    "yosuga_koi_kaze_comparison_20261115": [
+      "premise"
+    ],
+    "twgok_arc_format_20261115": [
+      "format"
+    ],
+    "anti_genre_determinism_20261115": []
+  },
+  "qualifications": {
+    "mal-33161": "no_recollection",
+    "mal-33581": "no_recollection",
+    "dropped-28223-final": "not_started_or_deferred",
+    "dropped-19815-final": "mixed_work_and_nonstart",
+    "dropped-41084-final": "mixed_work_and_external_pause",
+    "yosuga_koi_kaze_comparison_20261115": "tentative_title_and_unspecified_mechanism",
+    "twgok_arc_format_20261115": "comparison_ip_unknown",
+    "anti_genre_determinism_20261115": "model_constraint_only"
+  },
+  "training_sha256": "efe5302e642115f4d42849fb38c7375c46172230f0b4162854aac72e2868f326"
+}

@@ -1,0 +1,401 @@
+{
+  "experiment": "retrospective_grouped_training_cv",
+  "groups": 311,
+  "folds": [
+    {
+      "train": 339,
+      "test": 85,
+      "active_title_dimension_weights": 57
+    },
+    {
+      "train": 339,
+      "test": 85,
+      "active_title_dimension_weights": 65
+    },
+    {
+      "train": 339,
+      "test": 85,
+      "active_title_dimension_weights": 62
+    },
+    {
+      "train": 339,
+      "test": 85,
+      "active_title_dimension_weights": 49
+    },
+    {
+      "train": 340,
+      "test": 84,
+      "active_title_dimension_weights": 67
+    }
+  ],
+  "metrics": {
+    "all": {
+      "B0": {
+        "n": 424,
+        "mae": 0.771226,
+        "rmse": 1.069518,
+        "within_1": 0.860849,
+        "within_0_5": 0.391509
+      },
+      "B1": {
+        "n": 424,
+        "mae": 0.74375,
+        "rmse": 0.946187,
+        "within_1": 0.698113,
+        "within_0_5": 0.450472
+      },
+      "B2": {
+        "n": 424,
+        "mae": 0.732323,
+        "rmse": 0.935348,
+        "within_1": 0.707547,
+        "within_0_5": 0.424528
+      },
+      "B2_brief": {
+        "n": 424,
+        "mae": 0.733383,
+        "rmse": 0.934304,
+        "within_1": 0.705189,
+        "within_0_5": 0.429245
+      },
+      "B2_brief_evidence": {
+        "n": 424,
+        "mae": 0.733866,
+        "rmse": 0.933559,
+        "within_1": 0.707547,
+        "within_0_5": 0.426887
+      }
+    },
+    "high_9_10": {
+      "B0": {
+        "n": 40,
+        "mae": 2.225,
+        "rmse": 2.263846,
+        "within_1": 0.0,
+        "within_0_5": 0.0
+      },
+      "B1": {
+        "n": 40,
+        "mae": 1.50475,
+        "rmse": 1.59669,
+        "within_1": 0.1,
+        "within_0_5": 0.025
+      },
+      "B2": {
+        "n": 40,
+        "mae": 1.458738,
+        "rmse": 1.555639,
+        "within_1": 0.175,
+        "within_0_5": 0.025
+      },
+      "B2_brief": {
+        "n": 40,
+        "mae": 1.420105,
+        "rmse": 1.518844,
+        "within_1": 0.175,
+        "within_0_5": 0.025
+      },
+      "B2_brief_evidence": {
+        "n": 40,
+        "mae": 1.407578,
+        "rmse": 1.50584,
+        "within_1": 0.2,
+        "within_0_5": 0.025
+      }
+    },
+    "low_1_6": {
+      "B0": {
+        "n": 109,
+        "mae": 1.183486,
+        "rmse": 1.25252,
+        "within_1": 0.825688,
+        "within_0_5": 0.0
+      },
+      "B1": {
+        "n": 109,
+        "mae": 0.927615,
+        "rmse": 1.123751,
+        "within_1": 0.550459,
+        "within_0_5": 0.366972
+      },
+      "B2": {
+        "n": 109,
+        "mae": 0.919817,
+        "rmse": 1.120154,
+        "within_1": 0.541284,
+        "within_0_5": 0.330275
+      },
+      "B2_brief": {
+        "n": 109,
+        "mae": 0.934892,
+        "rmse": 1.134784,
+        "within_1": 0.522936,
+        "within_0_5": 0.321101
+      },
+      "B2_brief_evidence": {
+        "n": 109,
+        "mae": 0.944067,
+        "rmse": 1.143325,
+        "within_1": 0.522936,
+        "within_0_5": 0.311927
+      }
+    },
+    "mal_surprise": {
+      "B0": {
+        "n": 53,
+        "mae": 1.698113,
+        "rmse": 1.873348,
+        "within_1": 0.433962,
+        "within_0_5": 0.037736
+      },
+      "B1": {
+        "n": 53,
+        "mae": 1.87717,
+        "rmse": 1.921602,
+        "within_1": 0.0,
+        "within_0_5": 0.0
+      },
+      "B2": {
+        "n": 53,
+        "mae": 1.858516,
+        "rmse": 1.901105,
+        "within_1": 0.0,
+        "within_0_5": 0.0
+      },
+      "B2_brief": {
+        "n": 53,
+        "mae": 1.849931,
+        "rmse": 1.892259,
+        "within_1": 0.0,
+        "within_0_5": 0.0
+      },
+      "B2_brief_evidence": {
+        "n": 53,
+        "mae": 1.846758,
+        "rmse": 1.889595,
+        "within_1": 0.0,
+        "within_0_5": 0.0
+      }
+    }
+  },
+  "rps": {
+    "B2": 0.055672005966582075,
+    "B2_brief_evidence": 0.055468186062163576
+  },
+  "paired_b2_improvement": {
+    "B2_brief": {
+      "mean": -0.0010596981937952084,
+      "interval_95": [
+        -0.005740150630538948,
+        0.003583431064219165
+      ]
+    },
+    "B2_brief_evidence": {
+      "mean": -0.001542888656796745,
+      "interval_95": [
+        -0.007890685889261197,
+        0.004889872986175961
+      ]
+    }
+  },
+  "paired_evidence_increment": {
+    "mean": -0.0004831904630015367,
+    "interval_95": [
+      -0.002785089767515157,
+      0.001961193590323027
+    ]
+  },
+  "largest_errors": [
+    {
+      "mal_id": 578,
+      "actual": 5,
+      "B2": 8.190052197802197,
+      "prediction": 8.243177372023508
+    },
+    {
+      "mal_id": 35849,
+      "actual": 10,
+      "B2": 6.912753540563129,
+      "prediction": 6.983706759533285
+    },
+    {
+      "mal_id": 34383,
+      "actual": 8,
+      "B2": 5.066514435695538,
+      "prediction": 5.148242691813478
+    },
+    {
+      "mal_id": 34382,
+      "actual": 9,
+      "B2": 6.144283260885428,
+      "prediction": 6.2044335917400035
+    },
+    {
+      "mal_id": 39017,
+      "actual": 4,
+      "B2": 6.469406465834937,
+      "prediction": 6.529556796689513
+    },
+    {
+      "mal_id": 48548,
+      "actual": 10,
+      "B2": 7.389498035182597,
+      "prediction": 7.494324651600451
+    },
+    {
+      "mal_id": 37773,
+      "actual": 5,
+      "B2": 7.288032582793883,
+      "prediction": 7.294462648569896
+    },
+    {
+      "mal_id": 31757,
+      "actual": 6,
+      "B2": 8.100377370916755,
+      "prediction": 8.131130999272479
+    }
+  ],
+  "evidence_inventory": {
+    "completed": 43,
+    "dropped": 19,
+    "statement": 7
+  },
+  "drop_evidence": {
+    "dropped-32281-final": {
+      "dimensions": [
+        "premise",
+        "tone",
+        "perspective",
+        "style"
+      ],
+      "qualification": null
+    },
+    "dropped-457-final": {
+      "dimensions": [
+        "progression",
+        "format"
+      ],
+      "qualification": null
+    },
+    "dropped-41084-final": {
+      "dimensions": [
+        "progression"
+      ],
+      "qualification": "mixed_work_and_external_pause"
+    },
+    "dropped-52034-final": {
+      "dimensions": [
+        "relationship",
+        "premise"
+      ],
+      "qualification": null
+    },
+    "dropped-1210-final": {
+      "dimensions": [
+        "progression",
+        "tone"
+      ],
+      "qualification": null
+    },
+    "dropped-25835-final": {
+      "dimensions": [
+        "relationship",
+        "premise"
+      ],
+      "qualification": null
+    },
+    "dropped-1698-final": {
+      "dimensions": [
+        "relationship",
+        "premise",
+        "tone"
+      ],
+      "qualification": null
+    },
+    "dropped-34636-final": {
+      "dimensions": [
+        "progression",
+        "relationship",
+        "style",
+        "format"
+      ],
+      "qualification": null
+    },
+    "dropped-28223-final": {
+      "dimensions": [],
+      "qualification": "not_started_or_deferred"
+    },
+    "dropped-237-final": {
+      "dimensions": [
+        "progression",
+        "relationship"
+      ],
+      "qualification": null
+    },
+    "dropped-19815-final": {
+      "dimensions": [
+        "style"
+      ],
+      "qualification": "mixed_work_and_nonstart"
+    },
+    "dropped-18679-final": {
+      "dimensions": [
+        "relationship",
+        "style"
+      ],
+      "qualification": null
+    },
+    "dropped-17549-final": {
+      "dimensions": [
+        "relationship",
+        "tone"
+      ],
+      "qualification": null
+    },
+    "dropped-35968-final": {
+      "dimensions": [
+        "relationship",
+        "tone"
+      ],
+      "qualification": null
+    },
+    "dropped-2924-final": {
+      "dimensions": [
+        "relationship",
+        "premise"
+      ],
+      "qualification": null
+    },
+    "dropped-2605-final": {
+      "dimensions": [
+        "progression",
+        "tone",
+        "style",
+        "format"
+      ],
+      "qualification": null
+    },
+    "dropped-17895-final": {
+      "dimensions": [
+        "progression",
+        "premise"
+      ],
+      "qualification": null
+    },
+    "dropped-7724-final": {
+      "dimensions": [
+        "progression",
+        "relationship"
+      ],
+      "qualification": null
+    },
+    "dropped-32979-final": {
+      "dimensions": [
+        "relationship",
+        "style",
+        "format"
+      ],
+      "qualification": null
+    }
+  }
+}
