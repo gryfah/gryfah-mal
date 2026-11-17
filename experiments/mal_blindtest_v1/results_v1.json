@@ -1,0 +1,443 @@
+{
+  "experiment_id": "mal_blindtest_v1",
+  "status": "scored",
+  "prediction_commit_locked": "9d02f9448c36837f641d3a1eceb4665adf637542",
+  "source_git_blob_sha": "ecc337aad25a821141b98f7708b2ad800925c19f",
+  "model_id": "M1-text-tfidf-knn-v1",
+  "method_caveat": "This is train-only TF-IDF lexical-neighbor ML, not the intended independent reasoning-language-model. Qualitative evidence was available but not used in model estimator. Objective brief text may itself have been indirectly influenced by user scores when authored.",
+  "n": 105,
+  "train_n": 424,
+  "actual_distribution": {
+    "5": 4,
+    "6": 35,
+    "7": 38,
+    "8": 23,
+    "9": 5
+  },
+  "baseline_training_median": 7,
+  "baseline_mal_offset": -0.38000000000000034,
+  "metrics": {
+    "model": {
+      "n": 105,
+      "mae": 0.681714,
+      "rmse": 0.853926,
+      "within_1": 0.704762
+    },
+    "B0": {
+      "n": 105,
+      "mae": 0.72381,
+      "rmse": 0.94617,
+      "within_1": 0.914286
+    },
+    "B1": {
+      "n": 105,
+      "mae": 0.701524,
+      "rmse": 0.861739,
+      "within_1": 0.733333
+    },
+    "B2": {
+      "n": 105,
+      "mae": 0.684614,
+      "rmse": 0.844389,
+      "within_1": 0.733333
+    }
+  },
+  "paired_bootstrap": {
+    "B0": {
+      "improvement_mae": 0.042095,
+      "ci_95": [
+        -0.077143,
+        0.159648
+      ],
+      "n_bootstrap": 2000,
+      "positive_is_model_better": true
+    },
+    "B1": {
+      "improvement_mae": 0.01981,
+      "ci_95": [
+        -0.020257,
+        0.060324
+      ],
+      "n_bootstrap": 2000,
+      "positive_is_model_better": true
+    },
+    "B2": {
+      "improvement_mae": 0.002899,
+      "ci_95": [
+        -0.030571,
+        0.037721
+      ],
+      "n_bootstrap": 2000,
+      "positive_is_model_better": true
+    }
+  },
+  "classification": {
+    "model": {
+      "high_8_10": {
+        "tp": 15,
+        "fp": 19,
+        "fn": 13,
+        "precision": 0.44118,
+        "recall": 0.53571,
+        "f1": 0.48387
+      },
+      "low_1_6": {
+        "tp": 19,
+        "fp": 5,
+        "fn": 20,
+        "precision": 0.79167,
+        "recall": 0.48718,
+        "f1": 0.60317
+      }
+    },
+    "B0": {
+      "high_8_10": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 28,
+        "precision": 0,
+        "recall": 0,
+        "f1": 0
+      },
+      "low_1_6": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 39,
+        "precision": 0,
+        "recall": 0,
+        "f1": 0
+      }
+    },
+    "B1": {
+      "high_8_10": {
+        "tp": 14,
+        "fp": 14,
+        "fn": 14,
+        "precision": 0.5,
+        "recall": 0.5,
+        "f1": 0.5
+      },
+      "low_1_6": {
+        "tp": 16,
+        "fp": 6,
+        "fn": 23,
+        "precision": 0.72727,
+        "recall": 0.41026,
+        "f1": 0.52459
+      }
+    },
+    "B2": {
+      "high_8_10": {
+        "tp": 15,
+        "fp": 13,
+        "fn": 13,
+        "precision": 0.53571,
+        "recall": 0.53571,
+        "f1": 0.53571
+      },
+      "low_1_6": {
+        "tp": 17,
+        "fp": 6,
+        "fn": 22,
+        "precision": 0.73913,
+        "recall": 0.4359,
+        "f1": 0.54839
+      }
+    }
+  },
+  "confidence": {
+    "low": {
+      "n": 2,
+      "mae": 0.3335,
+      "rmse": 0.409425,
+      "within_1": 1
+    },
+    "medium": {
+      "n": 87,
+      "mae": 0.725782,
+      "rmse": 0.890513,
+      "within_1": 0.678161
+    },
+    "high": {
+      "n": 16,
+      "mae": 0.485625,
+      "rmse": 0.67257,
+      "within_1": 0.8125
+    }
+  },
+  "consensus_surprises": {
+    "n": 6,
+    "model": {
+      "n": 6,
+      "mae": 1.759667,
+      "rmse": 1.80245,
+      "within_1": 0
+    },
+    "B1": {
+      "n": 6,
+      "mae": 1.795,
+      "rmse": 1.817934,
+      "within_1": 0
+    },
+    "B2": {
+      "n": 6,
+      "mae": 1.791308,
+      "rmse": 1.818563,
+      "within_1": 0
+    }
+  },
+  "largest_errors": [
+    {
+      "mal_id": 47639,
+      "title": "Blue Reflection Ray",
+      "actual": 8,
+      "predicted": 5.572,
+      "B1": 5.61,
+      "B2": 5.552,
+      "confidence": "medium",
+      "error": 2.428
+    },
+    {
+      "mal_id": 56738,
+      "title": "Shinigami Bocchan to Kuro Maid 3rd Season",
+      "actual": 6,
+      "predicted": 7.988,
+      "B1": 7.74,
+      "B2": 7.741,
+      "confidence": "medium",
+      "error": 1.988
+    },
+    {
+      "mal_id": 52991,
+      "title": "Sousou no Frieren",
+      "actual": 7,
+      "predicted": 8.787,
+      "B1": 8.86,
+      "B2": 8.843,
+      "confidence": "medium",
+      "error": 1.787
+    },
+    {
+      "mal_id": 38483,
+      "title": "Ore wo Suki nano wa Omae dake ka yo",
+      "actual": 6,
+      "predicted": 7.64,
+      "B1": 6.91,
+      "B2": 6.955,
+      "confidence": "high",
+      "error": 1.64
+    },
+    {
+      "mal_id": 58272,
+      "title": "Boku no Tsuma wa Kanjou ga Nai",
+      "actual": 8,
+      "predicted": 6.4,
+      "B1": 6.34,
+      "B2": 6.384,
+      "confidence": "medium",
+      "error": 1.6
+    },
+    {
+      "mal_id": 50593,
+      "title": "Natsu e no Tunnel, Sayonara no Deguchi",
+      "actual": 6,
+      "predicted": 7.598,
+      "B1": 7.62,
+      "B2": 7.603,
+      "confidence": "medium",
+      "error": 1.598
+    },
+    {
+      "mal_id": 49858,
+      "title": "Shinigami Bocchan to Kuro Maid 2nd Season",
+      "actual": 6,
+      "predicted": 7.57,
+      "B1": 7.26,
+      "B2": 7.261,
+      "confidence": "medium",
+      "error": 1.57
+    },
+    {
+      "mal_id": 47257,
+      "title": "Shinigami Bocchan to Kuro Maid",
+      "actual": 6,
+      "predicted": 7.502,
+      "B1": 7.2,
+      "B2": 7.201,
+      "confidence": "medium",
+      "error": 1.502
+    },
+    {
+      "mal_id": 1270,
+      "title": "Black Magic M-66",
+      "actual": 5,
+      "predicted": 6.453,
+      "B1": 6.09,
+      "B2": 6.267,
+      "confidence": "medium",
+      "error": 1.453
+    },
+    {
+      "mal_id": 59978,
+      "title": "Sousou no Frieren 2nd Season",
+      "actual": 7,
+      "predicted": 8.416,
+      "B1": 8.45,
+      "B2": 8.42,
+      "confidence": "medium",
+      "error": 1.416
+    },
+    {
+      "mal_id": 4087,
+      "title": "Michiko to Hatchin",
+      "actual": 6,
+      "predicted": 7.357,
+      "B1": 7.45,
+      "B2": 7.271,
+      "confidence": "medium",
+      "error": 1.357
+    },
+    {
+      "mal_id": 27775,
+      "title": "Plastic Memories",
+      "actual": 9,
+      "predicted": 7.702,
+      "B1": 7.54,
+      "B2": 7.673,
+      "confidence": "high",
+      "error": 1.298
+    },
+    {
+      "mal_id": 36043,
+      "title": "Net-juu no Susume Special",
+      "actual": 6,
+      "predicted": 7.262,
+      "B1": 6.94,
+      "B2": 6.918,
+      "confidence": "medium",
+      "error": 1.262
+    },
+    {
+      "mal_id": 9756,
+      "title": "Mahou Shoujo Madoka☆Magica",
+      "actual": 7,
+      "predicted": 8.26,
+      "B1": 8.01,
+      "B2": 8.147,
+      "confidence": "medium",
+      "error": 1.26
+    },
+    {
+      "mal_id": 30015,
+      "title": "ReLIFE",
+      "actual": 9,
+      "predicted": 7.744,
+      "B1": 7.58,
+      "B2": 7.695,
+      "confidence": "high",
+      "error": 1.256
+    }
+  ],
+  "smallest_errors": [
+    {
+      "mal_id": 52173,
+      "title": "Koori Zokusei Danshi to Cool na Douryou Joshi",
+      "actual": 7,
+      "predicted": 6.996,
+      "B1": 6.92,
+      "B2": 6.858,
+      "confidence": "medium",
+      "error": 0.004
+    },
+    {
+      "mal_id": 37890,
+      "title": "Oshi ga Budoukan Ittekuretara Shinu",
+      "actual": 7,
+      "predicted": 6.991,
+      "B1": 7.05,
+      "B2": 7.013,
+      "confidence": "medium",
+      "error": 0.009
+    },
+    {
+      "mal_id": 320,
+      "title": "A Kite",
+      "actual": 6,
+      "predicted": 6.023,
+      "B1": 6.17,
+      "B2": 6.158,
+      "confidence": "medium",
+      "error": 0.023
+    },
+    {
+      "mal_id": 36039,
+      "title": "A.I.C.O. Incarnation",
+      "actual": 6,
+      "predicted": 5.966,
+      "B1": 6.16,
+      "B2": 6.095,
+      "confidence": "high",
+      "error": 0.034
+    },
+    {
+      "mal_id": 21557,
+      "title": "Omoide no Marnie",
+      "actual": 8,
+      "predicted": 7.964,
+      "B1": 7.66,
+      "B2": 7.758,
+      "confidence": "medium",
+      "error": 0.036
+    },
+    {
+      "mal_id": 38889,
+      "title": "Kono Oto Tomare! Part 2",
+      "actual": 8,
+      "predicted": 8.043,
+      "B1": 8.04,
+      "B2": 8.061,
+      "confidence": "medium",
+      "error": 0.043
+    },
+    {
+      "mal_id": 20031,
+      "title": "D-Frag!",
+      "actual": 7,
+      "predicted": 6.949,
+      "B1": 7.11,
+      "B2": 7.135,
+      "confidence": "medium",
+      "error": 0.051
+    },
+    {
+      "mal_id": 52736,
+      "title": "Tensei Oujo to Tensai Reijou no Mahou Kakumei",
+      "actual": 7,
+      "predicted": 7.064,
+      "B1": 7.08,
+      "B2": 7.088,
+      "confidence": "medium",
+      "error": 0.064
+    },
+    {
+      "mal_id": 1347,
+      "title": "Bubblegum Crisis",
+      "actual": 7,
+      "predicted": 7.074,
+      "B1": 6.95,
+      "B2": 7.03,
+      "confidence": "medium",
+      "error": 0.074
+    },
+    {
+      "mal_id": 2332,
+      "title": "Plastic Little",
+      "actual": 6,
+      "predicted": 6.082,
+      "B1": 5.81,
+      "B2": 5.862,
+      "confidence": "medium",
+      "error": 0.082
+    }
+  ]
+}
