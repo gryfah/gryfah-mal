@@ -5615,6 +5615,39 @@
         "https://www.anime.digital/anime/kissxsis-tv"
       ]
     },
+    "7627": {
+      "mal_id": 7627,
+      "title": "Mitsudomoe",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-17T07:12:04.097Z",
+      "synopsis": "Nyutexaminerade läraren Satoshi Yabe får ansvar för en sjätteklass där trillingarna Mitsuba, Futaba och Hitoha Marui ständigt ställer till oreda. Deras skilda temperament och klasskamraternas missförstånd driver en rad vardagliga komiska situationer.",
+      "themes": [
+        "skolvardag",
+        "syskonkontraster",
+        "missförstånd",
+        "auktoritet och kaos"
+      ],
+      "tone": [
+        "burlesk",
+        "högljudd",
+        "provokativ komedi"
+      ],
+      "pacing_and_structure": "Snabb, episodisk gagkomedi där korta situationer eskalerar genom missförstånd snarare än en sammanhängande huvudkonflikt.",
+      "character_dynamics": "Mitsuba är dominant och självsäker, Futaba energisk och fysiskt stark, Hitoha tillbakadragen och svårläst. Läraren Yabe fungerar ofta som överväldigad motpart.",
+      "distinctive_features": "Tre mycket olika systrar i samma klass; komiken bygger på starka kontraster, pinsamheter och återkommande missförstånd.",
+      "comparison_cues": [
+        "episodiska skämt snarare än lång berättelse",
+        "högt gagtempo",
+        "gruppkomik kring skola och syskon"
+      ],
+      "uncertainties": [
+        "Enskilda skämts genomslag och publikreaktioner är subjektiva."
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/7627",
+        "https://en.wikipedia.org/wiki/Mitsudomoe_(manga)"
+      ]
+    },
     "7647": {
       "mal_id": 7647,
       "title": "Arakawa Under the Bridge",
@@ -5644,6 +5677,41 @@
         "https://myanimelist.net/anime/7647",
         "https://en.wikipedia.org/wiki/Arakawa_Under_the_Bridge",
         "https://en.wikipedia.org/wiki/List_of_Arakawa_Under_the_Bridge_episodes"
+      ]
+    },
+    "7724": {
+      "mal_id": 7724,
+      "title": "Shiki",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-17T07:12:04.097Z",
+      "synopsis": "Under en het sommar drabbas den avlägsna byn Sotoba av en serie oförklarliga dödsfall samtidigt som en gåtfull familj flyttar in i en gammal herrgård. Läkaren Toshio Ozaki försöker förstå vad som händer, medan tonåringen Natsuno Yuuki och andra bybor märker hur den välbekanta vardagen förändras.",
+      "themes": [
+        "dödlighet",
+        "kollektiv rädsla",
+        "utanförskap",
+        "moralisk gråzon",
+        "övernaturlig skräck"
+      ],
+      "tone": [
+        "olycksbådande",
+        "tryckande",
+        "tragisk"
+      ],
+      "pacing_and_structure": "Långsamt uppbyggt mysterium med växande dödstal och gradvis förskjutning från misstänkt sjukdom till övernaturlig skräck; konflikterna blir alltmer samhälleliga.",
+      "character_dynamics": "Toshios medicinska ansvar kontrasteras mot prästen Seishin Murois perspektiv; Natsunos alienation från byn ger en yngre ingång till händelserna.",
+      "distinctive_features": "En isolerad by som kollektiv huvudmiljö och en berättelse som ställer invånarnas reaktioner mot det övernaturliga hotet.",
+      "comparison_cues": [
+        "slow-burn-skräck med successiv eskalation",
+        "kollektiv moral och rädsla",
+        "mysterium med flera perspektiv"
+      ],
+      "uncertainties": [
+        "Senare moraliska konflikter beskrivs här avsiktligt utan avslöjande detaljer."
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/7724",
+        "https://en.wikipedia.org/wiki/Shiki_(novel)",
+        "https://athome.fandango.com/content/browse/details/Shiki-Part-1/380325"
       ]
     },
     "7769": {
@@ -5771,6 +5839,39 @@
         "https://myanimelist.net/anime/8525",
         "https://www.crunchyroll.com/series/GR9PV5MD6/the-world-god-only-knows",
         "https://www.primevideo.com/detail/0GU8RYRDQQAVR6AMEYE032ZYMR"
+      ]
+    },
+    "8675": {
+      "mal_id": 8675,
+      "title": "Seitokai Yakuindomo",
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-17T07:12:04.097Z",
+      "synopsis": "Takatoshi Tsuda börjar på Ōsai, en tidigare flickskola som nyligen öppnats för pojkar, och rekryteras omedelbart till elevrådet. Där hamnar han bland ordföranden Shino Amakusa och andra medlemmar vars ständiga dubbeltydigheter gör honom till gruppens förnuftiga motröst.",
+      "themes": [
+        "skolvardag",
+        "elevråd",
+        "sexuella ordvitsar",
+        "sociala roller"
+      ],
+      "tone": [
+        "fräck",
+        "lekfull",
+        "sketchartad"
+      ],
+      "pacing_and_structure": "Kort gagbaserad och i huvudsak episodisk struktur med återkommande ordlekar och snabba replikskiften; begränsat fokus på långsiktig handling.",
+      "character_dynamics": "Takatoshi är den reaktive straight man som bemöter Shinos och Arias provokativa kommentarer; Suzu kompletterar gruppen med sin egen mer lättretliga dynamik.",
+      "distinctive_features": "Konsekvent komik kring sexuella anspelningar i ett elevråd på en nyligen samundervisande skola.",
+      "comparison_cues": [
+        "täta verbala gags",
+        "återkommande karaktärsroller",
+        "skolkomedi utan stark övergripande intrig"
+      ],
+      "uncertainties": [
+        "Komikens effekt beror delvis på språk och översättning av dubbeltydigheter."
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/8675",
+        "https://en.wikipedia.org/wiki/Seitokai_Yakuindomo"
       ]
     },
     "8676": {
