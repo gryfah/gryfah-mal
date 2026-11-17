@@ -1,0 +1,861 @@
+{
+  "experiment_id": "mal_blindtest_v1",
+  "role": "training_only",
+  "explanation": "Explicit answers and raw statements only; no global statistical inferences were imported.",
+  "question_answers": [
+    {
+      "question_id": "mal-6",
+      "mal_id": 6,
+      "title": "Trigun",
+      "anime_status": "completed",
+      "question": "Du gav Trigun 6/10, jämfört med MAL 8.22/10 (justerad avvikelse -1.81). Vilka aspekter bidrog mest till att ditt betyg skilde sig?",
+      "selected_options": [
+        "De fristående avsnittens tempo"
+      ],
+      "free_text": null,
+      "raw_response": "De fristående avsnittens tempo"
+    },
+    {
+      "question_id": "mal-7",
+      "mal_id": 7,
+      "title": "Witch Hunter Robin",
+      "anime_status": "completed",
+      "question": "Du gav Witch Hunter Robin 5/10, jämfört med MAL 7.24/10 (justerad avvikelse -1.83). Vilka aspekter bidrog mest till att ditt betyg skilde sig?",
+      "selected_options": [
+        "Annat – skriv själv"
+      ],
+      "free_text": "serien tog nästan inga steg framåt,var avsnitt det andra likt och respekterade inte min tid",
+      "raw_response": "serien tog nästan inga steg framåt,var avsnitt det andra likt och respekterade inte min tid"
+    },
+    {
+      "question_id": "mal-420",
+      "mal_id": 420,
+      "title": "Spriggan",
+      "anime_status": "completed",
+      "question": "Du gav Spriggan 8/10, jämfört med MAL 6.72/10 (justerad avvikelse +1.69). Vilka aspekter bidrog mest till att ditt betyg skilde sig?",
+      "selected_options": [
+        "Action och filmens visuella genomförande"
+      ],
+      "free_text": null,
+      "raw_response": "Action och filmens visuella genomförande"
+    },
+    {
+      "question_id": "mal-578",
+      "mal_id": 578,
+      "title": "Hotaru no Haka",
+      "anime_status": "completed",
+      "question": "Du gav Hotaru no Haka 5/10, jämfört med MAL 8.55/10 (justerad avvikelse -3.14). Vilka aspekter bidrog mest till att ditt betyg skilde sig?",
+      "selected_options": [
+        "Den metodiska skildringen av barnens utsatthet"
+      ],
+      "free_text": null,
+      "raw_response": "Den metodiska skildringen av barnens utsatthet"
+    },
+    {
+      "question_id": "mal-2926",
+      "mal_id": 2926,
+      "title": "Myself; Yourself",
+      "anime_status": "completed",
+      "question": "Du gav Myself; Yourself 5/10, jämfört med MAL 7.10/10 (justerad avvikelse -1.69). Vilka aspekter bidrog mest till att ditt betyg skilde sig?",
+      "selected_options": [
+        "Hur relationernas konflikter utvecklas"
+      ],
+      "free_text": null,
+      "raw_response": "Hur relationernas konflikter utvecklas"
+    },
+    {
+      "question_id": "mal-3667",
+      "mal_id": 3667,
+      "title": "Strike Witches",
+      "anime_status": "completed",
+      "question": "Du gav Strike Witches 5/10, jämfört med MAL 6.94/10 (justerad avvikelse -1.53). Vilka aspekter bidrog mest till att ditt betyg skilde sig?",
+      "selected_options": [
+        "Karaktärernas gruppdynamik"
+      ],
+      "free_text": null,
+      "raw_response": "Karaktärernas gruppdynamik"
+    },
+    {
+      "question_id": "mal-3785",
+      "mal_id": 3785,
+      "title": "Evangelion Movie 3: Q",
+      "anime_status": "completed",
+      "question": "Du gav Evangelion Movie 3: Q 9/10, jämfört med MAL 7.68/10 (justerad avvikelse +1.73). Vilka aspekter bidrog mest till att ditt betyg skilde sig?",
+      "selected_options": [
+        "De förändrade relationerna till tidigare allierade"
+      ],
+      "free_text": null,
+      "raw_response": "De förändrade relationerna till tidigare allierade"
+    },
+    {
+      "question_id": "mal-4181",
+      "mal_id": 4181,
+      "title": "Clannad: After Story",
+      "anime_status": "completed",
+      "question": "Du gav Clannad: After Story 7/10, jämfört med MAL 8.93/10 (justerad avvikelse -1.52). Vilka aspekter bidrog mest till att ditt betyg skilde sig?",
+      "selected_options": [
+        "Annat – skriv själv"
+      ],
+      "free_text": "den skapade sorg men förringade sen mina känslor genom att magiskt retcon annullera hela orsaken till sorg",
+      "raw_response": "den skapade sorg men förringade sen mina känslor genom att magiskt retcon annullera hela orsaken till sorg"
+    },
+    {
+      "question_id": "mal-6016",
+      "mal_id": 6016,
+      "title": "Kyoushoku Soukou Guyver (1989)",
+      "anime_status": "completed",
+      "question": "Du gav Kyoushoku Soukou Guyver (1989) 5/10, jämfört med MAL 7.11/10 (justerad avvikelse -1.70). Vilka aspekter bidrog mest till att ditt betyg skilde sig?",
+      "selected_options": [
+        "Stridernas tempo och upprepning"
+      ],
+      "free_text": null,
+      "raw_response": "Stridernas tempo och upprepning"
+    },
+    {
+      "question_id": "mal-11843",
+      "mal_id": 11843,
+      "title": "Danshi Koukousei no Nichijou",
+      "anime_status": "completed",
+      "question": "Du gav Danshi Koukousei no Nichijou 6/10, jämfört med MAL 8.22/10 (justerad avvikelse -1.81). Vilka aspekter bidrog mest till att ditt betyg skilde sig?",
+      "selected_options": [
+        "Sketchernas ojämna träffsäkerhet"
+      ],
+      "free_text": null,
+      "raw_response": "Sketchernas ojämna träffsäkerhet"
+    },
+    {
+      "question_id": "mal-12355",
+      "mal_id": 12355,
+      "title": "Ookami Kodomo no Ame to Yuki",
+      "anime_status": "completed",
+      "question": "Du gav Ookami Kodomo no Ame to Yuki 10/10, jämfört med MAL 8.56/10 (justerad avvikelse +1.85). Vilka aspekter bidrog mest till att ditt betyg skilde sig?",
+      "selected_options": [
+        "Berättelsens långsiktiga känslomässiga utveckling"
+      ],
+      "free_text": null,
+      "raw_response": "Berättelsens långsiktiga känslomässiga utveckling"
+    },
+    {
+      "question_id": "mal-13599",
+      "mal_id": 13599,
+      "title": "Robotics;Notes",
+      "anime_status": "completed",
+      "question": "Du gav Robotics;Notes 5/10, jämfört med MAL 7.31/10 (justerad avvikelse -1.90). Vilka aspekter bidrog mest till att ditt betyg skilde sig?",
+      "selected_options": [
+        "Tempot i teknik- och konspirationsspåret"
+      ],
+      "free_text": null,
+      "raw_response": "Tempot i teknik- och konspirationsspåret"
+    },
+    {
+      "question_id": "mal-14813",
+      "mal_id": 14813,
+      "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru.",
+      "anime_status": "completed",
+      "question": "Du gav Yahari Ore no Seishun Love Comedy wa Machigatteiru. 6/10, jämfört med MAL 8.00/10 (justerad avvikelse -1.59). Vilka aspekter bidrog mest till att ditt betyg skilde sig?",
+      "selected_options": [
+        "Balansen mellan satir och relationsdrama"
+      ],
+      "free_text": null,
+      "raw_response": "Balansen mellan satir och relationsdrama"
+    },
+    {
+      "question_id": "mal-15689",
+      "mal_id": 15689,
+      "title": "Nekomonogatari: Kuro",
+      "anime_status": "completed",
+      "question": "Du gav Nekomonogatari: Kuro 6/10, jämfört med MAL 7.91/10 (justerad avvikelse -1.50). Vilka aspekter bidrog mest till att ditt betyg skilde sig?",
+      "selected_options": [
+        "Den stiliserade dialogen"
+      ],
+      "free_text": null,
+      "raw_response": "Den stiliserade dialogen"
+    },
+    {
+      "question_id": "mal-18245",
+      "mal_id": 18245,
+      "title": "White Album 2",
+      "anime_status": "completed",
+      "question": "Du gav White Album 2 9/10, jämfört med MAL 7.59/10 (justerad avvikelse +1.82). Vilka aspekter bidrog mest till att ditt betyg skilde sig?",
+      "selected_options": [
+        "Hur romantiska val får konsekvenser"
+      ],
+      "free_text": null,
+      "raw_response": "Hur romantiska val får konsekvenser"
+    },
+    {
+      "question_id": "mal-31043",
+      "mal_id": 31043,
+      "title": "Boku dake ga Inai Machi",
+      "anime_status": "completed",
+      "question": "Du gav Boku dake ga Inai Machi 10/10, jämfört med MAL 8.31/10 (justerad avvikelse +2.10). Vilka aspekter bidrog mest till att ditt betyg skilde sig?",
+      "selected_options": [
+        "Satorus försök att hjälpa Kayo"
+      ],
+      "free_text": null,
+      "raw_response": "Satorus försök att hjälpa Kayo"
+    },
+    {
+      "question_id": "mal-13715",
+      "mal_id": 13715,
+      "title": "Kennel Tokorozawa",
+      "anime_status": "completed",
+      "question": "Du gav Kennel Tokorozawa 5/10 mot MAL 3.7/10 (justerad avvikelse 1.71). Vad förklarar främst skillnaden?",
+      "selected_options": [],
+      "free_text": null,
+      "raw_response": null
+    },
+    {
+      "question_id": "mal-18661",
+      "mal_id": 18661,
+      "title": "Kamisama Hajimemashita OVA",
+      "anime_status": "completed",
+      "question": "Du gav Kamisama Hajimemashita OVA 6/10 mot MAL 8.09/10 (justerad avvikelse -1.68). Vad förklarar främst skillnaden?",
+      "selected_options": [],
+      "free_text": null,
+      "raw_response": null
+    },
+    {
+      "question_id": "mal-21647",
+      "mal_id": 21647,
+      "title": "Tamako Love Story",
+      "anime_status": "completed",
+      "question": "Du gav Tamako Love Story 6/10 mot MAL 7.91/10 (justerad avvikelse -1.50). Vad förklarar främst skillnaden?",
+      "selected_options": [],
+      "free_text": null,
+      "raw_response": null
+    },
+    {
+      "question_id": "mal-23447",
+      "mal_id": 23447,
+      "title": "Ano Natsu de Matteru: Bokutachi wa Koukou Saigo no Natsu wo Sugoshinagara, Ano Natsu de Matteiru.",
+      "anime_status": "completed",
+      "question": "Du gav Ano Natsu de Matteru: Bokutachi wa Koukou Saigo no Natsu wo Sugoshinagara, Ano Natsu de Matteiru. 5/10 jämfört med MAL 7.16/10. Din justerade avvikelse är -1.75 (lägre än konsensus). Vilken del förklarar främst ditt betyg?",
+      "selected_options": [
+        "Berättelsens kort tillägg till etablerad relationsensemble"
+      ],
+      "free_text": null,
+      "raw_response": "a"
+    },
+    {
+      "question_id": "mal-30503",
+      "mal_id": 30503,
+      "title": "Noragami Aragoto",
+      "anime_status": "completed",
+      "question": "Du gav Noragami Aragoto 6/10 jämfört med MAL 8.14/10. Din justerade avvikelse är -1.73 (lägre än konsensus). Vilken del förklarar främst ditt betyg?",
+      "selected_options": [
+        "Berättelsens växling mellan komedi och allvar"
+      ],
+      "free_text": null,
+      "raw_response": "c"
+    },
+    {
+      "question_id": "mal-31757",
+      "mal_id": 31757,
+      "title": "Kizumonogatari II: Nekketsu-hen",
+      "anime_status": "completed",
+      "question": "Du gav Kizumonogatari II: Nekketsu-hen 6/10 jämfört med MAL 8.56/10. Din justerade avvikelse är -2.15 (lägre än konsensus). Vilken del förklarar främst ditt betyg?",
+      "selected_options": [],
+      "free_text": "shaft estetik",
+      "raw_response": "shaft estetik"
+    },
+    {
+      "question_id": "mal-32729",
+      "mal_id": 32729,
+      "title": "Orange",
+      "anime_status": "completed",
+      "question": "Du gav Orange 9/10 jämfört med MAL 7.63/10. Din justerade avvikelse är 1.78 (högre än konsensus). Vilken del förklarar främst ditt betyg?",
+      "selected_options": [
+        "Berättelsens gruppens ansvar för en utsatt vän"
+      ],
+      "free_text": null,
+      "raw_response": "c"
+    },
+    {
+      "question_id": "mal-33161",
+      "mal_id": 33161,
+      "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA",
+      "anime_status": "completed",
+      "question": "Du gav Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA 6/10 jämfört med MAL 8.02/10. Din justerade avvikelse är -1.61 (lägre än konsensus). Vilken del förklarar främst ditt betyg?",
+      "selected_options": [
+        "Minns inte"
+      ],
+      "free_text": null,
+      "raw_response": "e"
+    },
+    {
+      "question_id": "mal-33206",
+      "mal_id": 33206,
+      "title": "Kobayashi-san Chi no Maid Dragon",
+      "anime_status": "completed",
+      "question": "Du gav Kobayashi-san Chi no Maid Dragon 9/10 jämfört med MAL 7.89/10. Din justerade avvikelse är 1.52 (högre än konsensus). Vilken del förklarar främst ditt betyg?",
+      "selected_options": [
+        "Berättelsens vänskap och familjeband genom episodisk komedi"
+      ],
+      "free_text": null,
+      "raw_response": "b"
+    },
+    {
+      "question_id": "mal-33352",
+      "mal_id": 33352,
+      "title": "Violet Evergarden",
+      "anime_status": "completed",
+      "question": "Du gav Violet Evergarden 10/10 jämfört med MAL 8.7/10. Din justerade avvikelse är 1.71 (högre än konsensus). Vilken del förklarar främst ditt betyg?",
+      "selected_options": [
+        "Berättelsens känslomässig kommunikation genom brev"
+      ],
+      "free_text": null,
+      "raw_response": "b"
+    },
+    {
+      "question_id": "mal-33487",
+      "mal_id": 33487,
+      "title": "Masamune-kun no Revenge",
+      "anime_status": "completed",
+      "question": "Du gav Masamune-kun no Revenge 8/10 jämfört med MAL 6.75/10. Din justerade avvikelse är 1.66 (högre än konsensus). Vilken del förklarar främst ditt betyg?",
+      "selected_options": [
+        "Berättelsens hämndplan som krockar med verkliga känslor"
+      ],
+      "free_text": null,
+      "raw_response": "b"
+    },
+    {
+      "question_id": "mal-33581",
+      "mal_id": 33581,
+      "title": "Trinity Seven Movie 1: Eternity Library to Alchemic Girl",
+      "anime_status": "completed",
+      "question": "Du gav Trinity Seven Movie 1: Eternity Library to Alchemic Girl 5/10 jämfört med MAL 7.22/10. Din justerade avvikelse är -1.81 (lägre än konsensus). Vilken del förklarar främst ditt betyg?",
+      "selected_options": [
+        "Minns inte"
+      ],
+      "free_text": null,
+      "raw_response": "e"
+    },
+    {
+      "question_id": "mal-34382",
+      "mal_id": 34382,
+      "title": "Citrus",
+      "anime_status": "completed",
+      "question": "Du gav Citrus 9/10 jämfört med MAL 6.42/10. Din justerade avvikelse är 2.99 (högre än konsensus). Vilken del förklarar främst ditt betyg?",
+      "selected_options": [
+        "Berättelsens styvsyskonrelation som social och emotionell komplikation"
+      ],
+      "free_text": null,
+      "raw_response": "b"
+    },
+    {
+      "question_id": "mal-34383",
+      "mal_id": 34383,
+      "title": "Netsuzou TRap",
+      "anime_status": "completed",
+      "question": "Du gav Netsuzou TRap 8/10 jämfört med MAL 5.3/10. Din justerade avvikelse är 3.11 (högre än konsensus). Vilken del förklarar främst ditt betyg?",
+      "selected_options": [
+        "Berättelsens hemlighet och relationsmässiga konsekvenser"
+      ],
+      "free_text": null,
+      "raw_response": "c"
+    },
+    {
+      "question_id": "mal-35849",
+      "mal_id": 35849,
+      "title": "Darling in the FranXX",
+      "anime_status": "completed",
+      "question": "Du gav Darling in the FranXX 10/10 jämfört med MAL 7.21/10. Din justerade avvikelse är 3.20 (högre än konsensus). Vilken del förklarar främst ditt betyg?",
+      "selected_options": [
+        "Berättelsens romantik sammanflätad med mecha-action",
+        "Berättelsens ungdomsgrupp under institutionell kontroll"
+      ],
+      "free_text": null,
+      "raw_response": "ab"
+    },
+    {
+      "question_id": "mal-35928",
+      "mal_id": 35928,
+      "title": "Devils Line",
+      "anime_status": "completed",
+      "question": "Du gav Devils Line 8/10 jämfört med MAL 6.83/10. Din justerade avvikelse är 1.58 (högre än konsensus). Vilken del förklarar främst ditt betyg?",
+      "selected_options": [
+        "Berättelsens romantik där fysisk närhet innebär fara"
+      ],
+      "free_text": null,
+      "raw_response": "a"
+    },
+    {
+      "question_id": "mal-36296",
+      "mal_id": 36296,
+      "title": "Hinamatsuri",
+      "anime_status": "completed",
+      "question": "Du gav Hinamatsuri 6/10 jämfört med MAL 8.11/10. Din justerade avvikelse är -1.70 (lägre än konsensus). Vilken del förklarar främst ditt betyg?",
+      "selected_options": [
+        "Berättelsens episodiska upptåg med känslomässiga inslag"
+      ],
+      "free_text": null,
+      "raw_response": "c"
+    },
+    {
+      "question_id": "mal-37171",
+      "mal_id": 37171,
+      "title": "Asobi Asobase",
+      "anime_status": "completed",
+      "question": "Du gav Asobi Asobase 6/10 jämfört med MAL 8.19/10. Din justerade avvikelse är -1.78 (lägre än konsensus). Vilken del förklarar främst ditt betyg?",
+      "selected_options": [
+        "Berättelsens reaktionshumor"
+      ],
+      "free_text": null,
+      "raw_response": "b"
+    },
+    {
+      "question_id": "mal-37517",
+      "mal_id": 37517,
+      "title": "Happy Sugar Life",
+      "anime_status": "completed",
+      "question": "Du gav Happy Sugar Life 8/10 jämfört med MAL 6.75/10. Din justerade avvikelse är 1.66 (högre än konsensus). Vilken del förklarar främst ditt betyg?",
+      "selected_options": [
+        "Berättelsens moralisk förskjutning bakom vardaglig fasad"
+      ],
+      "free_text": null,
+      "raw_response": "b"
+    },
+    {
+      "question_id": "mal-37773",
+      "mal_id": 37773,
+      "title": "Yuru Yuri,",
+      "anime_status": "completed",
+      "question": "Du gav Yuru Yuri, 5/10 jämfört med MAL 7.7/10. Din justerade avvikelse är -2.29 (lägre än konsensus). Vilken del förklarar främst ditt betyg?",
+      "selected_options": [
+        "Berättelsens jubileumsspecial med bekanta karaktärer"
+      ],
+      "free_text": null,
+      "raw_response": "b"
+    },
+    {
+      "question_id": "mal-37982",
+      "mal_id": 37982,
+      "title": "Domestic na Kanojo",
+      "anime_status": "completed",
+      "question": "Du gav Domestic na Kanojo 8/10 jämfört med MAL 6.6/10. Din justerade avvikelse är 1.81 (högre än konsensus). Vilken del förklarar främst ditt betyg?",
+      "selected_options": [
+        "Berättelsens romantik med tydliga sociala tabun",
+        "Berättelsens melodram med hemligheter och triangeldynamik"
+      ],
+      "free_text": null,
+      "raw_response": "ac"
+    },
+    {
+      "question_id": "mal-38101",
+      "mal_id": 38101,
+      "title": "5-toubun no Hanayome",
+      "anime_status": "completed",
+      "question": "Du gav 5-toubun no Hanayome 9/10 jämfört med MAL 7.62/10. Din justerade avvikelse är 1.79 (högre än konsensus). Vilken del förklarar främst ditt betyg?",
+      "selected_options": [
+        "Berättelsens romantisk ensemble med konkurrerande relationer",
+        "Berättelsens förtroendeutveckling genom återkommande vardagssituationer"
+      ],
+      "free_text": null,
+      "raw_response": "ab"
+    },
+    {
+      "question_id": "mal-38524",
+      "mal_id": 38524,
+      "title": "Shingeki no Kyojin Season 3 Part 2",
+      "anime_status": "completed",
+      "question": "Du gav Shingeki no Kyojin Season 3 Part 2 7/10 jämfört med MAL 9.06/10. Din justerade avvikelse är -1.65 (lägre än konsensus). Vilken del förklarar främst ditt betyg?",
+      "selected_options": [],
+      "free_text": "filler säsong",
+      "raw_response": "d filler säsong"
+    },
+    {
+      "question_id": "mal-39017",
+      "mal_id": 39017,
+      "title": "Kyokou Suiri",
+      "anime_status": "completed",
+      "question": "Du gav Kyokou Suiri 4/10 jämfört med MAL 6.92/10. Din justerade avvikelse är -2.51 (lägre än konsensus). Vilken del förklarar främst ditt betyg?",
+      "selected_options": [
+        "Berättelsens dialogdrivet mysterium",
+        "Berättelsens övernaturlig problemlösning"
+      ],
+      "free_text": null,
+      "raw_response": "ab"
+    },
+    {
+      "question_id": "mal-39545",
+      "mal_id": 39545,
+      "title": "Fragtime",
+      "anime_status": "completed",
+      "question": "Du gav Fragtime 8/10 jämfört med MAL 6.57/10. Din justerade avvikelse är 1.84 (högre än konsensus). Vilken del förklarar främst ditt betyg?",
+      "selected_options": [
+        "Berättelsens övernaturligt grepp som relationsmotor",
+        "Berättelsens kort romantiskt drama med social friktion"
+      ],
+      "free_text": null,
+      "raw_response": "ab"
+    },
+    {
+      "question_id": "mal-39710",
+      "mal_id": 39710,
+      "title": "Yesterday wo Utatte",
+      "anime_status": "completed",
+      "question": "Du gav Yesterday wo Utatte 8/10 jämfört med MAL 6.87/10. Din justerade avvikelse är 1.54 (högre än konsensus). Vilken del förklarar främst ditt betyg?",
+      "selected_options": [
+        "Berättelsens relationsval och obesvarade känslor",
+        "Berättelsens långsam vardagsrealism",
+        "Berättelsens sorg och svårigheten att gå vidare"
+      ],
+      "free_text": null,
+      "raw_response": "abc"
+    },
+    {
+      "question_id": "mal-40716",
+      "mal_id": 40716,
+      "title": "Kakushigoto",
+      "anime_status": "completed",
+      "question": "Du gav Kakushigoto 6/10 jämfört med MAL 7.96/10. Din justerade avvikelse är -1.55 (lägre än konsensus). Vilken del förklarar främst ditt betyg?",
+      "selected_options": [
+        "Berättelsens komedi med emotionell inramning"
+      ],
+      "free_text": null,
+      "raw_response": "b"
+    },
+    {
+      "question_id": "dropped-32281-final",
+      "mal_id": 32281,
+      "title": "Kimi no Na wa.",
+      "anime_status": "dropped",
+      "question": "Du har markerat Kimi no Na wa. som dropped. Vad gjorde att du avbröt eller inte fortsatte? Välj gärna flera alternativ; ett avbrott behöver inte betyda att du ogillade verket.",
+      "selected_options": [
+        "Filmformatets känslomässiga berättelse fungerade inte för mig",
+        "Den övernaturliga premissen eller dess utveckling tilltalade mig inte",
+        "Visuell stil och musik räckte inte för att hålla intresset"
+      ],
+      "free_text": null,
+      "raw_response": "1abc"
+    },
+    {
+      "question_id": "dropped-457-final",
+      "mal_id": 457,
+      "title": "Mushishi",
+      "anime_status": "dropped",
+      "question": "Du har markerat Mushishi som dropped efter 3 registrerade avsnitt. Vad gjorde att du avbröt eller inte fortsatte? Välj gärna flera alternativ; ett avbrott behöver inte betyda att du ogillade verket.",
+      "selected_options": [
+        "Det episodiska berättandet blev för stillastående",
+        "De fristående fallen eller Ginkos roll engagerade inte"
+      ],
+      "free_text": null,
+      "raw_response": "2ac"
+    },
+    {
+      "question_id": "dropped-41084-final",
+      "mal_id": 41084,
+      "title": "Made in Abyss: Retsujitsu no Ougonkyou",
+      "anime_status": "dropped",
+      "question": "Du har markerat Made in Abyss: Retsujitsu no Ougonkyou som dropped efter 5 registrerade avsnitt. Vad gjorde att du avbröt eller inte fortsatte? Välj gärna flera alternativ; ett avbrott behöver inte betyda att du ogillade verket.",
+      "selected_options": [
+        "Tempot eller fokus i den här säsongen fungerade inte",
+        "Världsbygget eller karaktärernas beslut tappade mig",
+        "Jag pausade serien av andra skäl"
+      ],
+      "free_text": "IP tar nästan inga steg framåt",
+      "raw_response": "3bcd-ip tar nästan inga steg framåt"
+    },
+    {
+      "question_id": "dropped-52034-final",
+      "mal_id": 52034,
+      "title": "[Oshi no Ko]",
+      "anime_status": "dropped",
+      "question": "Du har markerat [Oshi no Ko] som dropped efter 1 registrerade avsnitt. Vad gjorde att du avbröt eller inte fortsatte? Välj gärna flera alternativ; ett avbrott behöver inte betyda att du ogillade verket.",
+      "selected_options": [
+        "Karaktärerna eller deras motiv engagerade mig inte"
+      ],
+      "free_text": "Premiss alldeles för krystad",
+      "raw_response": "4c-premiss alldeles för krystad"
+    },
+    {
+      "question_id": "dropped-1210-final",
+      "mal_id": 1210,
+      "title": "NHK ni Youkoso!",
+      "anime_status": "dropped",
+      "question": "Du har markerat NHK ni Youkoso! som dropped efter 6 registrerade avsnitt. Vad gjorde att du avbröt eller inte fortsatte? Välj gärna flera alternativ; ett avbrott behöver inte betyda att du ogillade verket.",
+      "selected_options": [
+        "Balansen mellan satir och psykiskt allvar fungerade inte",
+        "Berättelsen utvecklades för långsamt"
+      ],
+      "free_text": null,
+      "raw_response": "5ac"
+    },
+    {
+      "question_id": "dropped-25835-final",
+      "mal_id": 25835,
+      "title": "Shirobako",
+      "anime_status": "dropped",
+      "question": "Du har markerat Shirobako som dropped efter 1 registrerade avsnitt. Vad gjorde att du avbröt eller inte fortsatte? Välj gärna flera alternativ; ett avbrott behöver inte betyda att du ogillade verket.",
+      "selected_options": [
+        "Ensemblen var svår att engagera sig i",
+        "Branschskildringen var inte intressant för mig"
+      ],
+      "free_text": null,
+      "raw_response": "6bc"
+    },
+    {
+      "question_id": "dropped-1698-final",
+      "mal_id": 1698,
+      "title": "Nodame Cantabile",
+      "anime_status": "dropped",
+      "question": "Du har markerat Nodame Cantabile som dropped efter 11 registrerade avsnitt. Vad gjorde att du avbröt eller inte fortsatte? Välj gärna flera alternativ; ett avbrott behöver inte betyda att du ogillade verket.",
+      "selected_options": [
+        "Den musikaliska inriktningen intresserade mig inte",
+        "Romantiken eller huvudpersonernas dynamik fungerade inte",
+        "Komikens ton störde dramat"
+      ],
+      "free_text": null,
+      "raw_response": "7abc"
+    },
+    {
+      "question_id": "dropped-34636-final",
+      "mal_id": 34636,
+      "title": "Ballroom e Youkoso",
+      "anime_status": "dropped",
+      "question": "Du har markerat Ballroom e Youkoso som dropped efter 4 registrerade avsnitt. Vad gjorde att du avbröt eller inte fortsatte? Välj gärna flera alternativ; ett avbrott behöver inte betyda att du ogillade verket.",
+      "selected_options": [
+        "Tränings- och tävlingsupplägget blev enformigt",
+        "Karaktärsrelationerna och rivaliteten engagerade inte",
+        "Dansens visuella gestaltning fungerade inte för mig"
+      ],
+      "free_text": null,
+      "raw_response": "8abc"
+    },
+    {
+      "question_id": "dropped-28223-final",
+      "mal_id": 28223,
+      "title": "Death Parade",
+      "anime_status": "dropped",
+      "question": "Du har markerat Death Parade som dropped. Vad gjorde att du avbröt eller inte fortsatte? Välj gärna flera alternativ; ett avbrott behöver inte betyda att du ogillade verket.",
+      "selected_options": [
+        "Jag påbörjade den aldrig eller sköt upp den"
+      ],
+      "free_text": null,
+      "raw_response": "9d"
+    },
+    {
+      "question_id": "dropped-237-final",
+      "mal_id": 237,
+      "title": "Koukyoushihen Eureka Seven",
+      "anime_status": "dropped",
+      "question": "Du har markerat Koukyoushihen Eureka Seven som dropped efter 17 registrerade avsnitt. Vad gjorde att du avbröt eller inte fortsatte? Välj gärna flera alternativ; ett avbrott behöver inte betyda att du ogillade verket.",
+      "selected_options": [
+        "Den långa utvecklingsbågen tappade fart",
+        "Rentons och Eurekas relationsutveckling fungerade inte"
+      ],
+      "free_text": null,
+      "raw_response": "10ab"
+    },
+    {
+      "question_id": "dropped-19815-final",
+      "mal_id": 19815,
+      "title": "No Game No Life",
+      "anime_status": "dropped",
+      "question": "Du har markerat No Game No Life som dropped. Vad gjorde att du avbröt eller inte fortsatte? Välj gärna flera alternativ; ett avbrott behöver inte betyda att du ogillade verket.",
+      "selected_options": [
+        "Fanservice eller stil störde berättelsen",
+        "Jag hann aldrig börja eller lade den åt sidan"
+      ],
+      "free_text": null,
+      "raw_response": "11cd"
+    },
+    {
+      "question_id": "dropped-18679-final",
+      "mal_id": 18679,
+      "title": "Kill la Kill",
+      "anime_status": "dropped",
+      "question": "Du har markerat Kill la Kill som dropped efter 7 registrerade avsnitt. Vad gjorde att du avbröt eller inte fortsatte? Välj gärna flera alternativ; ett avbrott behöver inte betyda att du ogillade verket.",
+      "selected_options": [
+        "Det visuella överdrivet höga tempot tröttade ut mig",
+        "Karaktärerna och deras konflikter engagerade inte"
+      ],
+      "free_text": null,
+      "raw_response": "12ac"
+    },
+    {
+      "question_id": "dropped-17549-final",
+      "mal_id": 17549,
+      "title": "Non Non Biyori",
+      "anime_status": "dropped",
+      "question": "Du har markerat Non Non Biyori som dropped. Vad gjorde att du avbröt eller inte fortsatte? Välj gärna flera alternativ; ett avbrott behöver inte betyda att du ogillade verket.",
+      "selected_options": [
+        "Humorn och karaktärernas samspel fungerade inte",
+        "Landsbygdsmiljön och stämningen räckte inte"
+      ],
+      "free_text": null,
+      "raw_response": "13bc"
+    },
+    {
+      "question_id": "dropped-35968-final",
+      "mal_id": 35968,
+      "title": "Wotaku ni Koi wa Muzukashii",
+      "anime_status": "dropped",
+      "question": "Du har markerat Wotaku ni Koi wa Muzukashii som dropped efter 2 registrerade avsnitt. Vad gjorde att du avbröt eller inte fortsatte? Välj gärna flera alternativ; ett avbrott behöver inte betyda att du ogillade verket.",
+      "selected_options": [
+        "Den etablerade vuxenromantiken utvecklades inte som jag önskade",
+        "Hobby- och arbetsplatshumorn fungerade inte",
+        "Karaktärsdynamiken engagerade inte"
+      ],
+      "free_text": null,
+      "raw_response": "14abc"
+    },
+    {
+      "question_id": "dropped-2924-final",
+      "mal_id": 2924,
+      "title": "ef: A Tale of Memories.",
+      "anime_status": "dropped",
+      "question": "Du har markerat ef: A Tale of Memories. som dropped efter 4 registrerade avsnitt. Vad gjorde att du avbröt eller inte fortsatte? Välj gärna flera alternativ; ett avbrott behöver inte betyda att du ogillade verket.",
+      "selected_options": [
+        "De parallella romansspåren var svåra att engagera sig i",
+        "Minnes- och melodramupplägget fungerade inte"
+      ],
+      "free_text": null,
+      "raw_response": "15ab"
+    },
+    {
+      "question_id": "dropped-2605-final",
+      "mal_id": 2605,
+      "title": "Sayonara Zetsubou Sensei",
+      "anime_status": "dropped",
+      "question": "Du har markerat Sayonara Zetsubou Sensei som dropped. Vad gjorde att du avbröt eller inte fortsatte? Välj gärna flera alternativ; ett avbrott behöver inte betyda att du ogillade verket.",
+      "selected_options": [
+        "Den språk- och kulturberoende satiren fungerade inte",
+        "Shafts visuella uttryck blev för dominerande",
+        "Sketchformatet saknade önskad progression"
+      ],
+      "free_text": null,
+      "raw_response": "16abc"
+    },
+    {
+      "question_id": "dropped-17895-final",
+      "mal_id": 17895,
+      "title": "Golden Time",
+      "anime_status": "dropped",
+      "question": "Du har markerat Golden Time som dropped efter 14 registrerade avsnitt. Vad gjorde att du avbröt eller inte fortsatte? Välj gärna flera alternativ; ett avbrott behöver inte betyda att du ogillade verket.",
+      "selected_options": [
+        "Minnes- och identitetstemat tilltalade mig inte",
+        "Tempot under seriens längre relationsbåge tappade mig"
+      ],
+      "free_text": null,
+      "raw_response": "17bc"
+    },
+    {
+      "question_id": "dropped-7724-final",
+      "mal_id": 7724,
+      "title": "Shiki",
+      "anime_status": "dropped",
+      "question": "Du har markerat Shiki som dropped efter 8 registrerade avsnitt. Vad gjorde att du avbröt eller inte fortsatte? Välj gärna flera alternativ; ett avbrott behöver inte betyda att du ogillade verket.",
+      "selected_options": [
+        "Den långsamma skräckuppbyggnaden tappade mig",
+        "Bygemenskapen och mysteriets personer engagerade inte"
+      ],
+      "free_text": null,
+      "raw_response": "18ac"
+    },
+    {
+      "question_id": "dropped-32979-final",
+      "mal_id": 32979,
+      "title": "Flip Flappers",
+      "anime_status": "dropped",
+      "question": "Du har markerat Flip Flappers som dropped efter 2 registrerade avsnitt. Vad gjorde att du avbröt eller inte fortsatte? Välj gärna flera alternativ; ett avbrott behöver inte betyda att du ogillade verket.",
+      "selected_options": [
+        "De visuellt skiftande fantasivärldarna fungerade inte",
+        "Relationen mellan huvudpersonerna engagerade inte",
+        "Berättelsens experimentella struktur blev svår att följa"
+      ],
+      "free_text": null,
+      "raw_response": "19abc"
+    }
+  ],
+  "qualitative_statements": [
+    {
+      "evidence_id": "premise_execution_20261115",
+      "mal_ids": [
+        634,
+        8861,
+        37517,
+        35849
+      ],
+      "verbatim": "jag uppskattar om man genomför en premiss väl oavsett. väl utförd ägd och utstuderad ecchi kan ge lika höga betyg som lika väl utförd kostymdrama. slösa inte min tid, äg din ip, mjölka den inte, kom till slutsats",
+      "interpretation": "Explicit genreövergripande princip: konsekvent och målmedvetet genomförande, respekt för tittarens tid, undvikande av utdragen exploatering, och en meningsfull upplösning kan väga tyngre än genre. Inte en universell regel om korta serier eller enbart lyckliga slut.",
+      "limitations": [
+        "Kvalitetsomdömen får inte härledas cirkulärt ur användarbetyget.",
+        "Identifiera verkliga motexempel och bedöm vilka egenskaper som kan beläggas från externa verkbriefar."
+      ]
+    },
+    {
+      "evidence_id": "franxx_relationships_20261115",
+      "mal_ids": [
+        35849
+      ],
+      "verbatim": "för tbh är mecha I franxx subpar. relationer däremot, peak.",
+      "interpretation": "Användaren gav Darling in the FranXX 10/10 men värderar seriens mecha-del som undermålig och relationerna som exceptionellt starka. Genrens förekomst ska inte behandlas som den positiva orsaken till betyget.",
+      "limitations": [
+        "Mecha-ramverket kan vara narrativt funktionellt även om användaren inte uppskattar dess eget genomförande."
+      ]
+    },
+    {
+      "evidence_id": "happy_sugar_life_motivation_20261115",
+      "mal_ids": [
+        37517
+      ],
+      "verbatim": "gillade du den pga yandere? Nej jag gillade den för hur den framgångsrikt porträtterade två personer ställda mot världen (enligt deras uppfattning) och hur de fann ultimat lycka hos varandra i en nattsvart verklighet.",
+      "interpretation": "Det höga betyget för Happy Sugar Life motiveras uttryckligen av framgångsrik gestaltning av två personers subjektivt upplevda gemenskap och lycka i en mörk omvärld; inte av yandere-arketypen som sådan. Parentesen 'enligt deras uppfattning' är viktig; inget moraliskt godkännande kan antas.",
+      "limitations": [
+        "Dra inte en generell slutsats om dragning till yandere, tabu eller våld."
+      ]
+    },
+    {
+      "evidence_id": "koi_kaze_execution_20261115",
+      "mal_ids": [
+        634
+      ],
+      "verbatim": "Koi kaze. problematisk story som genomförs oerhört verklighetstrogen och förankrad. äger premissen, håller tonen, mjölkar inte och kommer till slutsat",
+      "interpretation": "Koi Kaze (8/10) uppskattas för realistisk förankring, konsekvent ton, att en obekväm premiss tas på allvar, att berättelsen inte dras ut och att den når sin slutsats.",
+      "limitations": [
+        "Tycke för genomförandet är inte automatiskt tycke för premissens moral eller själva tabut."
+      ]
+    },
+    {
+      "evidence_id": "yosuga_koi_kaze_comparison_20261115",
+      "mal_ids": [
+        8861,
+        634
+      ],
+      "verbatim": "vi har storyn om det där tvillingparet. sora nånting. Där genomförs en liknande dramaturgi men med något sämre resultat.",
+      "interpretation": "Användaren jämför sannolikt Yosuga no Sora (6/10) med Koi Kaze (8/10): liknande dramaturgisk ambition men något sämre genomförande. Exakt varför resultatet blev sämre angavs inte.",
+      "limitations": [
+        "Titeln identifierades genom kontext och behöver inte behandlas som explicit bekräftad av användaren.",
+        "Ange inte fragmenterad struktur eller ojämn ton som användarens motiv utan uttryckligt stöd."
+      ]
+    },
+    {
+      "evidence_id": "twgok_arc_format_20261115",
+      "mal_ids": [
+        8525,
+        10080,
+        16706
+      ],
+      "verbatim": "twgok. formatet med block berättelser där jag gav den ip höga betyg men inte kunde klara av nån annan ip som jobbade i samma format",
+      "interpretation": "Användaren uppskattar TWGOK trots block/arc-formatet (MAL 7,7,8), men har ogillat en annan, fortfarande oidentifierad serie med liknande format. Själva formatet är därför inte en tillräcklig prediktor för uppskattning.",
+      "limitations": [
+        "Den andra IP:n är INTE bekräftat Amagami SS, trots att den titeln föreslogs i samtalet.",
+        "Undvik att tillskriva användaren specifika skäl som reset-kontinuitet eller sammanhängande romans utan nya uppgifter.",
+        "Seiren 7/10 är ytterligare anledning att undvika ett generellt avståndstagande från blockformat."
+      ]
+    },
+    {
+      "evidence_id": "anti_genre_determinism_20261115",
+      "mal_ids": [
+        35849
+      ],
+      "verbatim": "ai, jag ser höga betyg på franxx gundam, macross, etc etc så rimligen kommer du älska gundam - insert subtitle. Fredrik, nej. rakt av nej.",
+      "interpretation": "Användaren avvisar extrapolering från liknande franchise-/genrekomponenter till automatisk uppskattning av nästa titel. Prognoser måste väga vilka komponenter som faktiskt drev betyget och kan behöva avstå från säker rekommendation.",
+      "limitations": [
+        "Uttalandet är en kritik mot förenklade rekommendationer, inte ett belägg för att användaren ogillar en särskild Gundam-titel."
+      ]
+    }
+  ]
+}
