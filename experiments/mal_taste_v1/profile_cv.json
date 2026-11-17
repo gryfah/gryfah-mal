@@ -1,0 +1,189 @@
+{
+  "type": "retrospective_training_only_cv",
+  "rating_given_completed": {
+    "metrics": {
+      "all": {
+        "B0": {
+          "n": 424,
+          "mae": 0.771226,
+          "rmse": 1.069518,
+          "within_1": 0.860849,
+          "within_0_5": 0.391509
+        },
+        "B1": {
+          "n": 424,
+          "mae": 0.74375,
+          "rmse": 0.946187,
+          "within_1": 0.698113,
+          "within_0_5": 0.450472
+        },
+        "B2": {
+          "n": 424,
+          "mae": 0.732323,
+          "rmse": 0.935348,
+          "within_1": 0.707547,
+          "within_0_5": 0.424528
+        },
+        "v1_evidence": {
+          "n": 424,
+          "mae": 0.733866,
+          "rmse": 0.933559,
+          "within_1": 0.707547,
+          "within_0_5": 0.426887
+        },
+        "mechanisms": {
+          "n": 424,
+          "mae": 0.732624,
+          "rmse": 0.934472,
+          "within_1": 0.705189,
+          "within_0_5": 0.429245
+        },
+        "mechanisms_evidence": {
+          "n": 424,
+          "mae": 0.732863,
+          "rmse": 0.9348,
+          "within_1": 0.705189,
+          "within_0_5": 0.419811
+        }
+      },
+      "high_9_10": {
+        "B0": {
+          "n": 40,
+          "mae": 2.225,
+          "rmse": 2.263846,
+          "within_1": 0,
+          "within_0_5": 0
+        },
+        "B1": {
+          "n": 40,
+          "mae": 1.50475,
+          "rmse": 1.59669,
+          "within_1": 0.1,
+          "within_0_5": 0.025
+        },
+        "B2": {
+          "n": 40,
+          "mae": 1.458738,
+          "rmse": 1.555639,
+          "within_1": 0.175,
+          "within_0_5": 0.025
+        },
+        "v1_evidence": {
+          "n": 40,
+          "mae": 1.407578,
+          "rmse": 1.50584,
+          "within_1": 0.2,
+          "within_0_5": 0.025
+        },
+        "mechanisms": {
+          "n": 40,
+          "mae": 1.448888,
+          "rmse": 1.545883,
+          "within_1": 0.175,
+          "within_0_5": 0.025
+        },
+        "mechanisms_evidence": {
+          "n": 40,
+          "mae": 1.437277,
+          "rmse": 1.535452,
+          "within_1": 0.175,
+          "within_0_5": 0.025
+        }
+      },
+      "low_1_6": {
+        "B0": {
+          "n": 109,
+          "mae": 1.183486,
+          "rmse": 1.25252,
+          "within_1": 0.825688,
+          "within_0_5": 0
+        },
+        "B1": {
+          "n": 109,
+          "mae": 0.927615,
+          "rmse": 1.123751,
+          "within_1": 0.550459,
+          "within_0_5": 0.366972
+        },
+        "B2": {
+          "n": 109,
+          "mae": 0.919817,
+          "rmse": 1.120154,
+          "within_1": 0.541284,
+          "within_0_5": 0.330275
+        },
+        "v1_evidence": {
+          "n": 109,
+          "mae": 0.944067,
+          "rmse": 1.143325,
+          "within_1": 0.522936,
+          "within_0_5": 0.311927
+        },
+        "mechanisms": {
+          "n": 109,
+          "mae": 0.923178,
+          "rmse": 1.124115,
+          "within_1": 0.541284,
+          "within_0_5": 0.330275
+        },
+        "mechanisms_evidence": {
+          "n": 109,
+          "mae": 0.930596,
+          "rmse": 1.13417,
+          "within_1": 0.541284,
+          "within_0_5": 0.330275
+        }
+      }
+    },
+    "rps": {
+      "B2": 0.055704350751467124,
+      "mechanisms_evidence": 0.05568288514228458
+    },
+    "paired_improvement_over_b2": {
+      "v1_evidence": {
+        "mean": -0.001542888656796745,
+        "interval_95": [
+          -0.007890685889261197,
+          0.004889872986175961
+        ]
+      },
+      "mechanisms": {
+        "mean": -0.00030144483370204533,
+        "interval_95": [
+          -0.0040684487352120975,
+          0.0033563781009086856
+        ]
+      },
+      "mechanisms_evidence": {
+        "mean": -0.0005402557818668794,
+        "interval_95": [
+          -0.007029181917064517,
+          0.005495935527584769
+        ]
+      }
+    },
+    "mechanism_coverage": {
+      "relationship_changes_options": 28,
+      "choice_has_consequences": 7,
+      "bond_collides_with_world": 10,
+      "episodes_accumulate": 84,
+      "episodic_without_central_arc": 5,
+      "premise_changes_relationship": 28,
+      "narrative_reset": 2
+    }
+  },
+  "completion_if_started": {
+    "n": 496,
+    "n_dropped": 72,
+    "metrics": {
+      "format_baseline": {
+        "brier": 0.11809810229816957,
+        "log_loss": 0.3853611391407894
+      },
+      "format_and_mechanisms": {
+        "brier": 0.1181927421339513,
+        "log_loss": 0.3861249393524271
+      }
+    }
+  }
+}
