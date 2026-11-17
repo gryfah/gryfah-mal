@@ -11311,6 +11311,40 @@
         "https://tv.apple.com/jp/show/%E8%99%B9%E8%89%B2%E3%83%86%E3%82%A4%E3%82%B9/umc.cmc.1vpnadcqrxcjwsq7rosigncd0"
       ]
     },
+    "31422": {
+      "mal_id": 31422,
+      "title": "Minami Kamakura Koukou Joshi Jitensha-bu",
+      "profile_status": "complete",
+      "synopsis": "Hiromi Maiharu flyttar från Nagasaki till Kamakura och försöker cykla till sin nya skola trots att hon knappt cyklat på flera år. Hon får hjälp av Tomoe Akizuki och blir tillsammans med nya vänner engagerad i att återupprätta skolans cykelklubb.",
+      "themes": [
+        "vänskap",
+        "ny skolstart",
+        "cykling och lärande",
+        "klubbgemenskap"
+      ],
+      "tone": [
+        "lättsam",
+        "vardagsnära",
+        "uppmuntrande"
+      ],
+      "pacing_and_structure": "Skol- och klubbberättelse som går från grundläggande cykelträning och rekrytering till gemensamma turer och praktiska utmaningar; snarare episodiska aktiviteter än en sammanhängande dramatisk konflikt.",
+      "character_dynamics": "Hiromi är oerfaren och får stöd av den cykelkunniga Tomoe. Fuyune Kamikura och Natsumi Higa bidrar till gruppen när cykelklubben tar form.",
+      "distinctive_features": "Cykling i Kamakuras miljöer fungerar både som fritidsintresse, social mötespunkt och konkret färdighet att utveckla.",
+      "comparison_cues": [
+        "skolklubb och vardaglig gruppdynamik",
+        "sport som gemensam hobby",
+        "gradvis praktiskt lärande"
+      ],
+      "uncertainties": [
+        "Episodantalet skiljer sig mellan källor beroende på om ett extra avsnitt räknas; ordinarie tv-säsong anges som 12 avsnitt."
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/31422",
+        "https://anilist.co/anime/21298/Minami-Kamakura-Koukou-Joshi-Jitensha-bu",
+        "https://www.kaorinusantara.or.id/english/3303/winter-2017-anime-minami-kamakura-koukou-joshi-jitensha-bu"
+      ],
+      "researched_at_utc": "2026-11-17T15:11:32.544Z"
+    },
     "31442": {
       "mal_id": 31442,
       "title": "Musaigen no Phantom World",
@@ -11661,6 +11695,41 @@
         "https://myanimelist.net/anime/32281",
         "https://theanimelist.net/anime/kimi-no-na-wa"
       ]
+    },
+    "32360": {
+      "mal_id": 32360,
+      "title": "Qualidea Code",
+      "profile_status": "complete",
+      "synopsis": "Efter att människan angripits av varelser kallade Unknown väcks tidigare nedfrysta ungdomar med individuella övernaturliga förmågor, kallade World. Försvaret av Tokyo, Kanagawa och Chiba organiseras kring ungdomar vars skilda personligheter och lokala lojaliteter skapar både samarbete och rivalitet.",
+      "themes": [
+        "försvar mot yttre hot",
+        "samarbete och rivalitet",
+        "ungdomligt ansvar",
+        "övernaturliga krafter"
+      ],
+      "tone": [
+        "militärisk science fantasy",
+        "actionbetonad",
+        "konfliktfylld",
+        "inslag av humor"
+      ],
+      "pacing_and_structure": "Ensembleberättelse som kombinerar strider mot Unknown med meningsskiljaktigheter mellan tre regionala försvarsgrupper. Konflikterna mellan grupperna driver en del av den löpande handlingen.",
+      "character_dynamics": "Ichiya Suzaku och Canaria Utara företräder Tokyo; syskonen Kasumi och Asuha Chigusa hör till Chiba; Maihime Tenkawa och Hotaru Rindou till Kanagawa. Personliga band inom paren kontrasteras mot konkurrens mellan städerna.",
+      "distinctive_features": "Originalanime från A-1 Pictures, kopplad till det gemensamma Qualidea-projektet av författargruppen Speakeasy.",
+      "comparison_cues": [
+        "ensemble med tre rivaliserande lag",
+        "strider och grupprelationer",
+        "övernaturligt postinvasionsförsvar"
+      ],
+      "uncertainties": [
+        "Senare handlingstwister beskrivs inte."
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/32360",
+        "https://www.crunchyroll.com/news/latest/2016/6/28/crunchyroll-to-stream-qualidea-code-for-summer-anime-season",
+        "https://sibly.fr/en/catalogue/qualidea-code"
+      ],
+      "researched_at_utc": "2026-11-17T15:11:32.544Z"
     },
     "32603": {
       "mal_id": 32603,
@@ -12169,6 +12238,39 @@
         "https://myanimelist.net/anime/33352",
         "https://www.asahi.co.jp/anime/violet-evergarden/"
       ]
+    },
+    "33421": {
+      "mal_id": 33421,
+      "title": "Yi Ren Zhi Xia",
+      "profile_status": "complete",
+      "synopsis": "Universitetsstudenten Zhang Chulan (Chou Soran i den japanska versionen) dras in i en dold värld av övernaturliga krafter efter en händelse vid sin farfars grav. Den gåtfulla Feng Baobao (Houhou) ingriper och blir en central följeslagare när Chulans familjehemligheter väcker andras intresse.",
+      "themes": [
+        "familjehemligheter",
+        "övernaturliga förmågor",
+        "hemliga grupper och konflikter",
+        "identitet"
+      ],
+      "tone": [
+        "actionbetonad",
+        "mystisk",
+        "inslag av komedi"
+      ],
+      "pacing_and_structure": "Inleds med gravplatsmysterium och konfrontationer; växlar därefter mellan strider, upptäckter om den dolda världen och relationen mellan huvudpersonerna.",
+      "character_dynamics": "Chulans försiktighet och begränsade kunskap kontrasterar mot Baobaos ovanliga stridsförmåga och gåtfulla uppträdande. Deras samarbete är centralt utan att deras motiv omedelbart är tydliga.",
+      "distinctive_features": "Kinesisk webbserieadaption som även distribuerats med japanska namn och dubbning under titeln Hitori no Shita: The Outcast.",
+      "comparison_cues": [
+        "urban övernaturlig action",
+        "familjearv som mysterium",
+        "huvudpersonsduo med olika kunskapsläge"
+      ],
+      "uncertainties": [
+        "Detaljer om långsiktiga avslöjanden utelämnas för spoilerfrihet."
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/33421",
+        "https://tsuzuku.blog/anime/hitori-no-shita-the-outcast"
+      ],
+      "researched_at_utc": "2026-11-17T15:11:32.544Z"
     },
     "33433": {
       "mal_id": 33433,
