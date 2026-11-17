@@ -75,6 +75,42 @@
         "delivery_attempted_at_utc": "2026-11-14T13:12:53.602Z",
         "announced_at_utc": null,
         "delivery_status": "attempted_unconfirmed"
+      },
+      "final_inventory": {
+        "threshold": "full_inventory",
+        "question_ids": [
+          "dropped-32281-final",
+          "dropped-457-final",
+          "dropped-41084-final",
+          "dropped-52034-final",
+          "dropped-1210-final",
+          "dropped-25835-final",
+          "dropped-1698-final",
+          "dropped-34636-final",
+          "dropped-28223-final",
+          "dropped-237-final",
+          "dropped-19815-final",
+          "dropped-18679-final",
+          "dropped-17549-final",
+          "dropped-35968-final",
+          "dropped-2924-final",
+          "dropped-2605-final",
+          "dropped-17895-final",
+          "dropped-7724-final",
+          "dropped-32979-final"
+        ],
+        "source_snapshot_utc": "2026-11-17T19:09:05.104701+00:00",
+        "inventory_counts": {
+          "plan_to_watch": 152,
+          "completed": 529,
+          "dropped": 97,
+          "completed_observations": 529,
+          "reassessed_completed": 529
+        },
+        "created_at_utc": "2026-11-17T19:12:13.232Z",
+        "prepared_at_utc": "2026-11-17T19:12:13.232Z",
+        "delivery_attempted_at_utc": null,
+        "delivery_status": "prepared_not_delivered"
       }
     },
     "items": {
@@ -1653,6 +1689,591 @@
             "certainty": "explicit_answer_with_cautious_interpretation"
           }
         }
+      },
+      "dropped-32281-final": {
+        "question_id": "dropped-32281-final",
+        "mal_id": 32281,
+        "title": "Kimi no Na wa.",
+        "question": "Du har markerat Kimi no Na wa. som dropped. Vad gjorde att du avbröt eller inte fortsatte? Välj gärna flera alternativ; ett avbrott behöver inte betyda att du ogillade verket.",
+        "options": [
+          "Filmformatets känslomässiga berättelse fungerade inte för mig",
+          "Den övernaturliga premissen eller dess utveckling tilltalade mig inte",
+          "Visuell stil och musik räckte inte för att hålla intresset",
+          "Jag har inte påbörjat filmen eller avbröt av praktiska skäl",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": "final_inventory",
+        "status": "unanswered",
+        "created_at_utc": "2026-11-17T19:12:13.232Z",
+        "evidence": {
+          "observed_status": "dropped",
+          "mal_mean_score": 8.82,
+          "mal_num_scoring_users": 2122227,
+          "episodes_watched": 0,
+          "user_score": 0,
+          "selection_basis": "högt MAL-medelbetyg och/eller diagnostiskt särskiljande verifierade narrativa egenskaper; inget negativt betyg härleds från dropped"
+        },
+        "sources": [
+          "https://myanimelist.net/anime/32281",
+          "https://theanimelist.net/anime/kimi-no-na-wa"
+        ]
+      },
+      "dropped-457-final": {
+        "question_id": "dropped-457-final",
+        "mal_id": 457,
+        "title": "Mushishi",
+        "question": "Du har markerat Mushishi som dropped efter 3 registrerade avsnitt. Vad gjorde att du avbröt eller inte fortsatte? Välj gärna flera alternativ; ett avbrott behöver inte betyda att du ogillade verket.",
+        "options": [
+          "Det episodiska berättandet blev för stillastående",
+          "Det lågmälda tempot passade inte då",
+          "De fristående fallen eller Ginkos roll engagerade inte",
+          "Jag tog paus utan negativt omdöme",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": "final_inventory",
+        "status": "unanswered",
+        "created_at_utc": "2026-11-17T19:12:13.232Z",
+        "evidence": {
+          "observed_status": "dropped",
+          "mal_mean_score": 8.65,
+          "mal_num_scoring_users": 301769,
+          "episodes_watched": 3,
+          "user_score": 0,
+          "selection_basis": "högt MAL-medelbetyg och/eller diagnostiskt särskiljande verifierade narrativa egenskaper; inget negativt betyg härleds från dropped"
+        },
+        "sources": [
+          "https://myanimelist.net/anime/457",
+          "https://www.fujitv.co.jp/b_hp/mushishi/index.html"
+        ]
+      },
+      "dropped-41084-final": {
+        "question_id": "dropped-41084-final",
+        "mal_id": 41084,
+        "title": "Made in Abyss: Retsujitsu no Ougonkyou",
+        "question": "Du har markerat Made in Abyss: Retsujitsu no Ougonkyou som dropped efter 5 registrerade avsnitt. Vad gjorde att du avbröt eller inte fortsatte? Välj gärna flera alternativ; ett avbrott behöver inte betyda att du ogillade verket.",
+        "options": [
+          "Berättelsens mörka innehåll och våld blev för mycket",
+          "Tempot eller fokus i den här säsongen fungerade inte",
+          "Världsbygget eller karaktärernas beslut tappade mig",
+          "Jag pausade serien av andra skäl",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": "final_inventory",
+        "status": "unanswered",
+        "created_at_utc": "2026-11-17T19:12:13.232Z",
+        "evidence": {
+          "observed_status": "dropped",
+          "mal_mean_score": 8.59,
+          "mal_num_scoring_users": 271744,
+          "episodes_watched": 5,
+          "user_score": 0,
+          "selection_basis": "högt MAL-medelbetyg och/eller diagnostiskt särskiljande verifierade narrativa egenskaper; inget negativt betyg härleds från dropped"
+        },
+        "sources": [
+          "https://myanimelist.net/anime/41084",
+          "https://www.primevideo.com/detail/0TIOOOQ51U75CQ5A4PWWIPG920",
+          "https://thetvdb.com/series/made-in-abyss/seasons/official/2"
+        ]
+      },
+      "dropped-52034-final": {
+        "question_id": "dropped-52034-final",
+        "mal_id": 52034,
+        "title": "[Oshi no Ko]",
+        "question": "Du har markerat [Oshi no Ko] som dropped efter 1 registrerade avsnitt. Vad gjorde att du avbröt eller inte fortsatte? Välj gärna flera alternativ; ett avbrott behöver inte betyda att du ogillade verket.",
+        "options": [
+          "Inledningen eller dess tonalitet fungerade inte",
+          "Showbiz- och kändisskildringen intresserade mig inte",
+          "Karaktärerna eller deras motiv engagerade mig inte",
+          "Jag avbröt utan att ha hunnit bilda mig ett omdöme",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": "final_inventory",
+        "status": "unanswered",
+        "created_at_utc": "2026-11-17T19:12:13.232Z",
+        "evidence": {
+          "observed_status": "dropped",
+          "mal_mean_score": 8.52,
+          "mal_num_scoring_users": 646285,
+          "episodes_watched": 1,
+          "user_score": 0,
+          "selection_basis": "högt MAL-medelbetyg och/eller diagnostiskt särskiljande verifierade narrativa egenskaper; inget negativt betyg härleds från dropped"
+        },
+        "sources": [
+          "https://myanimelist.net/anime/52034",
+          "https://www.crunchyroll.com/news/announcements/2026/2/25/oshi-no-ko-anime-season-1-2-streaming-crunchyroll/"
+        ]
+      },
+      "dropped-1210-final": {
+        "question_id": "dropped-1210-final",
+        "mal_id": 1210,
+        "title": "NHK ni Youkoso!",
+        "question": "Du har markerat NHK ni Youkoso! som dropped efter 6 registrerade avsnitt. Vad gjorde att du avbröt eller inte fortsatte? Välj gärna flera alternativ; ett avbrott behöver inte betyda att du ogillade verket.",
+        "options": [
+          "Balansen mellan satir och psykiskt allvar fungerade inte",
+          "Huvudpersonens beteende gjorde serien svår att följa",
+          "Berättelsen utvecklades för långsamt",
+          "Jag pausade trots intresse",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": "final_inventory",
+        "status": "unanswered",
+        "created_at_utc": "2026-11-17T19:12:13.232Z",
+        "evidence": {
+          "observed_status": "dropped",
+          "mal_mean_score": 8.32,
+          "mal_num_scoring_users": 382924,
+          "episodes_watched": 6,
+          "user_score": 0,
+          "selection_basis": "högt MAL-medelbetyg och/eller diagnostiskt särskiljande verifierade narrativa egenskaper; inget negativt betyg härleds från dropped"
+        },
+        "sources": [
+          "https://myanimelist.net/anime/1210",
+          "https://anilist.co/anime/1210/NHK-ni-Youkoso/",
+          "https://tv.apple.com/jp/show/nhk%E3%81%AB%E3%82%88%E3%81%86%E3%81%93%E3%81%9D/umc.cmc.7em44bkybofpp09v7ktj78gty"
+        ]
+      },
+      "dropped-25835-final": {
+        "question_id": "dropped-25835-final",
+        "mal_id": 25835,
+        "title": "Shirobako",
+        "question": "Du har markerat Shirobako som dropped efter 1 registrerade avsnitt. Vad gjorde att du avbröt eller inte fortsatte? Välj gärna flera alternativ; ett avbrott behöver inte betyda att du ogillade verket.",
+        "options": [
+          "Arbetsplatsens produktionsproblem kändes repetitiva",
+          "Ensemblen var svår att engagera sig i",
+          "Branschskildringen var inte intressant för mig",
+          "Jag hann bara se början eller tappade tillfället",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": "final_inventory",
+        "status": "unanswered",
+        "created_at_utc": "2026-11-17T19:12:13.232Z",
+        "evidence": {
+          "observed_status": "dropped",
+          "mal_mean_score": 8.26,
+          "mal_num_scoring_users": 150799,
+          "episodes_watched": 1,
+          "user_score": 0,
+          "selection_basis": "högt MAL-medelbetyg och/eller diagnostiskt särskiljande verifierade narrativa egenskaper; inget negativt betyg härleds från dropped"
+        },
+        "sources": [
+          "https://myanimelist.net/anime/25835",
+          "https://theanimelist.net/anime/shirobako",
+          "https://en.wikipedia.org/wiki/Shirobako"
+        ]
+      },
+      "dropped-1698-final": {
+        "question_id": "dropped-1698-final",
+        "mal_id": 1698,
+        "title": "Nodame Cantabile",
+        "question": "Du har markerat Nodame Cantabile som dropped efter 11 registrerade avsnitt. Vad gjorde att du avbröt eller inte fortsatte? Välj gärna flera alternativ; ett avbrott behöver inte betyda att du ogillade verket.",
+        "options": [
+          "Den musikaliska inriktningen intresserade mig inte",
+          "Romantiken eller huvudpersonernas dynamik fungerade inte",
+          "Komikens ton störde dramat",
+          "Jag pausade trots att jag hade sett många avsnitt",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": "final_inventory",
+        "status": "unanswered",
+        "created_at_utc": "2026-11-17T19:12:13.232Z",
+        "evidence": {
+          "observed_status": "dropped",
+          "mal_mean_score": 8.25,
+          "mal_num_scoring_users": 135240,
+          "episodes_watched": 11,
+          "user_score": 0,
+          "selection_basis": "högt MAL-medelbetyg och/eller diagnostiskt särskiljande verifierade narrativa egenskaper; inget negativt betyg härleds från dropped"
+        },
+        "sources": [
+          "https://myanimelist.net/anime/1698",
+          "https://anilist.co/anime/1698/Nodame-Cantabile",
+          "https://en.wikipedia.org/wiki/Nodame_Cantabile"
+        ]
+      },
+      "dropped-34636-final": {
+        "question_id": "dropped-34636-final",
+        "mal_id": 34636,
+        "title": "Ballroom e Youkoso",
+        "question": "Du har markerat Ballroom e Youkoso som dropped efter 4 registrerade avsnitt. Vad gjorde att du avbröt eller inte fortsatte? Välj gärna flera alternativ; ett avbrott behöver inte betyda att du ogillade verket.",
+        "options": [
+          "Tränings- och tävlingsupplägget blev enformigt",
+          "Karaktärsrelationerna och rivaliteten engagerade inte",
+          "Dansens visuella gestaltning fungerade inte för mig",
+          "Avbrottet berodde inte på seriens kvalitet",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": "final_inventory",
+        "status": "unanswered",
+        "created_at_utc": "2026-11-17T19:12:13.232Z",
+        "evidence": {
+          "observed_status": "dropped",
+          "mal_mean_score": 8.18,
+          "mal_num_scoring_users": 162205,
+          "episodes_watched": 4,
+          "user_score": 0,
+          "selection_basis": "högt MAL-medelbetyg och/eller diagnostiskt särskiljande verifierade narrativa egenskaper; inget negativt betyg härleds från dropped"
+        },
+        "sources": [
+          "https://www.mbs.jp/ballroom/sp/",
+          "https://www.bs11.jp/anime/ballroom/",
+          "https://anilist.co/anime/98005"
+        ]
+      },
+      "dropped-28223-final": {
+        "question_id": "dropped-28223-final",
+        "mal_id": 28223,
+        "title": "Death Parade",
+        "question": "Du har markerat Death Parade som dropped. Vad gjorde att du avbröt eller inte fortsatte? Välj gärna flera alternativ; ett avbrott behöver inte betyda att du ogillade verket.",
+        "options": [
+          "De moraliska fallen eller deras upplösningar tilltalade mig inte",
+          "Seriens episodiska upplägg kändes förutsägbart",
+          "Den psykologiska tonen var fel för tillfället",
+          "Jag påbörjade den aldrig eller sköt upp den",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": "final_inventory",
+        "status": "unanswered",
+        "created_at_utc": "2026-11-17T19:12:13.232Z",
+        "evidence": {
+          "observed_status": "dropped",
+          "mal_mean_score": 8.13,
+          "mal_num_scoring_users": 1096537,
+          "episodes_watched": 0,
+          "user_score": 0,
+          "selection_basis": "högt MAL-medelbetyg och/eller diagnostiskt särskiljande verifierade narrativa egenskaper; inget negativt betyg härleds från dropped"
+        },
+        "sources": [
+          "https://myanimelist.net/anime/28223",
+          "https://www.ntv.co.jp/english/pc/2014/12/death-parade.html",
+          "https://en.wikipedia.org/wiki/Death_Parade"
+        ]
+      },
+      "dropped-237-final": {
+        "question_id": "dropped-237-final",
+        "mal_id": 237,
+        "title": "Koukyoushihen Eureka Seven",
+        "question": "Du har markerat Koukyoushihen Eureka Seven som dropped efter 17 registrerade avsnitt. Vad gjorde att du avbröt eller inte fortsatte? Välj gärna flera alternativ; ett avbrott behöver inte betyda att du ogillade verket.",
+        "options": [
+          "Den långa utvecklingsbågen tappade fart",
+          "Rentons och Eurekas relationsutveckling fungerade inte",
+          "Mecha- och actionscenerna engagerade inte",
+          "Jag tog paus efter många avsnitt av praktiska skäl",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": "final_inventory",
+        "status": "unanswered",
+        "created_at_utc": "2026-11-17T19:12:13.232Z",
+        "evidence": {
+          "observed_status": "dropped",
+          "mal_mean_score": 8.05,
+          "mal_num_scoring_users": 189986,
+          "episodes_watched": 17,
+          "user_score": 0,
+          "selection_basis": "högt MAL-medelbetyg och/eller diagnostiskt särskiljande verifierade narrativa egenskaper; inget negativt betyg härleds från dropped"
+        },
+        "sources": [
+          "https://myanimelist.net/anime/237",
+          "https://tv.apple.com/mt/show/eureka-seven/umc.cmc.1hqnhjp8ews7bs7teg3btjh55",
+          "https://www.imdb.com/title/tt0765491/plotsummary/"
+        ]
+      },
+      "dropped-19815-final": {
+        "question_id": "dropped-19815-final",
+        "mal_id": 19815,
+        "title": "No Game No Life",
+        "question": "Du har markerat No Game No Life som dropped. Vad gjorde att du avbröt eller inte fortsatte? Välj gärna flera alternativ; ett avbrott behöver inte betyda att du ogillade verket.",
+        "options": [
+          "Spelstrategierna och problemlösningen blev inte intressanta",
+          "Syskonduons dynamik eller humor fungerade inte",
+          "Fanservice eller stil störde berättelsen",
+          "Jag hann aldrig börja eller lade den åt sidan",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": "final_inventory",
+        "status": "unanswered",
+        "created_at_utc": "2026-11-17T19:12:13.232Z",
+        "evidence": {
+          "observed_status": "dropped",
+          "mal_mean_score": 8.03,
+          "mal_num_scoring_users": 1641985,
+          "episodes_watched": 0,
+          "user_score": 0,
+          "selection_basis": "högt MAL-medelbetyg och/eller diagnostiskt särskiljande verifierade narrativa egenskaper; inget negativt betyg härleds från dropped"
+        },
+        "sources": [
+          "https://myanimelist.net/anime/19815",
+          "https://theanimelist.net/anime/no-game-no-life",
+          "https://en.wikipedia.org/wiki/No_Game_No_Life"
+        ]
+      },
+      "dropped-18679-final": {
+        "question_id": "dropped-18679-final",
+        "mal_id": 18679,
+        "title": "Kill la Kill",
+        "question": "Du har markerat Kill la Kill som dropped efter 7 registrerade avsnitt. Vad gjorde att du avbröt eller inte fortsatte? Välj gärna flera alternativ; ett avbrott behöver inte betyda att du ogillade verket.",
+        "options": [
+          "Det visuella överdrivet höga tempot tröttade ut mig",
+          "Satiren eller humorn fungerade inte",
+          "Karaktärerna och deras konflikter engagerade inte",
+          "Jag avbröt utan ett negativt omdöme",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": "final_inventory",
+        "status": "unanswered",
+        "created_at_utc": "2026-11-17T19:12:13.232Z",
+        "evidence": {
+          "observed_status": "dropped",
+          "mal_mean_score": 8.02,
+          "mal_num_scoring_users": 1021605,
+          "episodes_watched": 7,
+          "user_score": 0,
+          "selection_basis": "högt MAL-medelbetyg och/eller diagnostiskt särskiljande verifierade narrativa egenskaper; inget negativt betyg härleds från dropped"
+        },
+        "sources": [
+          "https://myanimelist.net/anime/18679",
+          "https://www.st-trigger.co.jp/works/kill-la-kill/",
+          "https://tv.apple.com/lt/show/kill-la-kill/umc.cmc.6zdjbkioffsa9hbx3s1c6uf1g"
+        ]
+      },
+      "dropped-17549-final": {
+        "question_id": "dropped-17549-final",
+        "mal_id": 17549,
+        "title": "Non Non Biyori",
+        "question": "Du har markerat Non Non Biyori som dropped. Vad gjorde att du avbröt eller inte fortsatte? Välj gärna flera alternativ; ett avbrott behöver inte betyda att du ogillade verket.",
+        "options": [
+          "Det lågmälda vardagsformatet saknade progression för mig",
+          "Humorn och karaktärernas samspel fungerade inte",
+          "Landsbygdsmiljön och stämningen räckte inte",
+          "Jag hade inte börjat eller pausade av praktiska skäl",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": "final_inventory",
+        "status": "unanswered",
+        "created_at_utc": "2026-11-17T19:12:13.232Z",
+        "evidence": {
+          "observed_status": "dropped",
+          "mal_mean_score": 7.94,
+          "mal_num_scoring_users": 187755,
+          "episodes_watched": 0,
+          "user_score": 0,
+          "selection_basis": "högt MAL-medelbetyg och/eller diagnostiskt särskiljande verifierade narrativa egenskaper; inget negativt betyg härleds från dropped"
+        },
+        "sources": [
+          "https://myanimelist.net/anime/17549",
+          "https://en.wikipedia.org/wiki/Non_Non_Biyori",
+          "https://en.wikipedia.org/wiki/List_of_Non_Non_Biyori_episodes"
+        ]
+      },
+      "dropped-35968-final": {
+        "question_id": "dropped-35968-final",
+        "mal_id": 35968,
+        "title": "Wotaku ni Koi wa Muzukashii",
+        "question": "Du har markerat Wotaku ni Koi wa Muzukashii som dropped efter 2 registrerade avsnitt. Vad gjorde att du avbröt eller inte fortsatte? Välj gärna flera alternativ; ett avbrott behöver inte betyda att du ogillade verket.",
+        "options": [
+          "Den etablerade vuxenromantiken utvecklades inte som jag önskade",
+          "Hobby- och arbetsplatshumorn fungerade inte",
+          "Karaktärsdynamiken engagerade inte",
+          "Jag såg bara inledningen och tog paus",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": "final_inventory",
+        "status": "unanswered",
+        "created_at_utc": "2026-11-17T19:12:13.232Z",
+        "evidence": {
+          "observed_status": "dropped",
+          "mal_mean_score": 7.91,
+          "mal_num_scoring_users": 594086,
+          "episodes_watched": 2,
+          "user_score": 0,
+          "selection_basis": "högt MAL-medelbetyg och/eller diagnostiskt särskiljande verifierade narrativa egenskaper; inget negativt betyg härleds från dropped"
+        },
+        "sources": [
+          "https://myanimelist.net/anime/35968",
+          "https://lufas.won.fyi/anime/35968/wotaku-ni-koi-wa-muzukashii",
+          "https://theanimelist.net/anime/wotaku-ni-koi-wa-muzukashii"
+        ]
+      },
+      "dropped-2924-final": {
+        "question_id": "dropped-2924-final",
+        "mal_id": 2924,
+        "title": "ef: A Tale of Memories.",
+        "question": "Du har markerat ef: A Tale of Memories. som dropped efter 4 registrerade avsnitt. Vad gjorde att du avbröt eller inte fortsatte? Välj gärna flera alternativ; ett avbrott behöver inte betyda att du ogillade verket.",
+        "options": [
+          "De parallella romansspåren var svåra att engagera sig i",
+          "Minnes- och melodramupplägget fungerade inte",
+          "Den starkt stiliserade visuella formen störde",
+          "Jag pausade av andra skäl",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": "final_inventory",
+        "status": "unanswered",
+        "created_at_utc": "2026-11-17T19:12:13.232Z",
+        "evidence": {
+          "observed_status": "dropped",
+          "mal_mean_score": 7.86,
+          "mal_num_scoring_users": 111575,
+          "episodes_watched": 4,
+          "user_score": 0,
+          "selection_basis": "högt MAL-medelbetyg och/eller diagnostiskt särskiljande verifierade narrativa egenskaper; inget negativt betyg härleds från dropped"
+        },
+        "sources": [
+          "https://myanimelist.net/anime/2924",
+          "https://www.tvmaze.com/shows/16231/ef-a-tale-of-memories",
+          "https://tv.apple.com/jp/show/efa-tale-of-memories/umc.cmc.6zaruubbuxrjf1lp5rl47thor"
+        ]
+      },
+      "dropped-2605-final": {
+        "question_id": "dropped-2605-final",
+        "mal_id": 2605,
+        "title": "Sayonara Zetsubou Sensei",
+        "question": "Du har markerat Sayonara Zetsubou Sensei som dropped. Vad gjorde att du avbröt eller inte fortsatte? Välj gärna flera alternativ; ett avbrott behöver inte betyda att du ogillade verket.",
+        "options": [
+          "Den språk- och kulturberoende satiren fungerade inte",
+          "Shafts visuella uttryck blev för dominerande",
+          "Sketchformatet saknade önskad progression",
+          "Jag har inte sett tillräckligt för ett omdöme",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": "final_inventory",
+        "status": "unanswered",
+        "created_at_utc": "2026-11-17T19:12:13.232Z",
+        "evidence": {
+          "observed_status": "dropped",
+          "mal_mean_score": 7.84,
+          "mal_num_scoring_users": 134385,
+          "episodes_watched": 0,
+          "user_score": 0,
+          "selection_basis": "högt MAL-medelbetyg och/eller diagnostiskt särskiljande verifierade narrativa egenskaper; inget negativt betyg härleds från dropped"
+        },
+        "sources": [
+          "https://myanimelist.net/anime/2605",
+          "https://anilist.co/anime/2605/Sayonara-Zetsubou-Sensei",
+          "https://en.wikipedia.org/wiki/Sayonara%2C_Zetsubou-Sensei"
+        ]
+      },
+      "dropped-17895-final": {
+        "question_id": "dropped-17895-final",
+        "mal_id": 17895,
+        "title": "Golden Time",
+        "question": "Du har markerat Golden Time som dropped efter 14 registrerade avsnitt. Vad gjorde att du avbröt eller inte fortsatte? Välj gärna flera alternativ; ett avbrott behöver inte betyda att du ogillade verket.",
+        "options": [
+          "Romantikens konflikter eller triangeldrama fungerade inte",
+          "Minnes- och identitetstemat tilltalade mig inte",
+          "Tempot under seriens längre relationsbåge tappade mig",
+          "Jag pausade efter många avsnitt utan att döma ut den",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": "final_inventory",
+        "status": "unanswered",
+        "created_at_utc": "2026-11-17T19:12:13.232Z",
+        "evidence": {
+          "observed_status": "dropped",
+          "mal_mean_score": 7.74,
+          "mal_num_scoring_users": 605032,
+          "episodes_watched": 14,
+          "user_score": 0,
+          "selection_basis": "högt MAL-medelbetyg och/eller diagnostiskt särskiljande verifierade narrativa egenskaper; inget negativt betyg härleds från dropped"
+        },
+        "sources": [
+          "https://myanimelist.net/anime/17895",
+          "https://www.imdb.com/title/tt3105452/plotsummary/"
+        ]
+      },
+      "dropped-7724-final": {
+        "question_id": "dropped-7724-final",
+        "mal_id": 7724,
+        "title": "Shiki",
+        "question": "Du har markerat Shiki som dropped efter 8 registrerade avsnitt. Vad gjorde att du avbröt eller inte fortsatte? Välj gärna flera alternativ; ett avbrott behöver inte betyda att du ogillade verket.",
+        "options": [
+          "Den långsamma skräckuppbyggnaden tappade mig",
+          "Våldet eller den dystra tonen blev för mycket",
+          "Bygemenskapen och mysteriets personer engagerade inte",
+          "Jag avbröt av skäl utanför verket",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": "final_inventory",
+        "status": "unanswered",
+        "created_at_utc": "2026-11-17T19:12:13.232Z",
+        "evidence": {
+          "observed_status": "dropped",
+          "mal_mean_score": 7.72,
+          "mal_num_scoring_users": 279368,
+          "episodes_watched": 8,
+          "user_score": 0,
+          "selection_basis": "högt MAL-medelbetyg och/eller diagnostiskt särskiljande verifierade narrativa egenskaper; inget negativt betyg härleds från dropped"
+        },
+        "sources": [
+          "https://myanimelist.net/anime/7724",
+          "https://en.wikipedia.org/wiki/Shiki_(novel)",
+          "https://athome.fandango.com/content/browse/details/Shiki-Part-1/380325"
+        ]
+      },
+      "dropped-32979-final": {
+        "question_id": "dropped-32979-final",
+        "mal_id": 32979,
+        "title": "Flip Flappers",
+        "question": "Du har markerat Flip Flappers som dropped efter 2 registrerade avsnitt. Vad gjorde att du avbröt eller inte fortsatte? Välj gärna flera alternativ; ett avbrott behöver inte betyda att du ogillade verket.",
+        "options": [
+          "De visuellt skiftande fantasivärldarna fungerade inte",
+          "Relationen mellan huvudpersonerna engagerade inte",
+          "Berättelsens experimentella struktur blev svår att följa",
+          "Jag pausade utan negativt omdöme",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": "final_inventory",
+        "status": "unanswered",
+        "created_at_utc": "2026-11-17T19:12:13.232Z",
+        "evidence": {
+          "observed_status": "dropped",
+          "mal_mean_score": 7.62,
+          "mal_num_scoring_users": 76396,
+          "episodes_watched": 2,
+          "user_score": 0,
+          "selection_basis": "högt MAL-medelbetyg och/eller diagnostiskt särskiljande verifierade narrativa egenskaper; inget negativt betyg härleds från dropped"
+        },
+        "sources": [
+          "https://myanimelist.net/anime/32979",
+          "https://anilist.co/anime/21714/Flip-Flappers",
+          "https://theanimelist.net/anime/flip-flappers"
+        ]
       }
     }
   },
