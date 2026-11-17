@@ -12,9 +12,11 @@
 
 ## Urval
 
-Testfall väljs deterministiskt: FNV-1a 32-bit på `mal-blindtest-v1-2026-11-17|<family_key>`, sortering stigande, sedan kompletta grupper till minst 105 testposter. Gruppering sker efter definierade franchiseord och annars normaliserade tre första titelord. Hela grupper hamnar i samma del. Från testet utesluts grupper med redan besvarade frågor, användarens tidigare explicita verksspecifika omdömen, kända tidigare samtalsexempel eller ofullständiga faktabriefar. Urvalet har **inte** efterjusterats med betyg för att se fördelaktigt ut.
+Testfall väljs deterministiskt: FNV-1a 32-bit på `mal-blindtest-v1-2026-11-17|<family_key>`, sortering stigande, sedan kompletta grupper till minst 105 testposter. Gruppering sker efter definierade franchiseord eller normaliserade tre första titelord, plus sammanslagning av titlar där den ena är ett fullständigt prefix till den andra (exempelvis en serie och dess namngivna uppföljare). Grupper skapas från alla 778 poster med en union-find-beräkning och hålls intakta. En förhandskontroll reparerade nio sådana korsande uppföljare **innan några prognoser hade producerats**. Från testet utesluts grupper med redan besvarade frågor, användarens tidigare explicita verksspecifika omdömen, kända tidigare samtalsexempel eller ofullständiga faktabriefar. Urvalet har **inte** efterjusterats med betyg för att se fördelaktigt ut.
 
-**Begränsning:** Titelnormalisering är inte ett fullständigt franchise-register. En uppföljare med väsentligt annorlunda titel kan hamna på andra sidan. Detta är en känd risk, inte ett påstående om perfekt franchisespärr. Alla 105 testfall ska besvaras; man får inte plocka bort svåra fall i efterhand.
+**Begränsning:** Titelnormalisering och prefixkontroll är inte ett fullständigt franchise-register. En uppföljare med väsentligt annorlunda titel kan hamna på andra sidan. Detta är en känd risk, inte ett påstående om perfekt franchisespärr. Alla 105 testfall ska besvaras; man får inte plocka bort svåra fall i efterhand.
+
+**Ytterligare metodrisk:** Originalbriefarna skapades i ett system där MAL-betygen fanns tillgängliga, trots instruktion om neutral faktaskrivning. Därför kan viss omedveten betygsbetingad vinkling i briefarna inte uteslutas. Betrakta resultaten som ett explorativt test, inte som ett helt oberoende externt prov.
 
 ## Förhindrad facitläcka
 
@@ -61,7 +63,7 @@ Listan ska innehålla **exakt ett objekt för vart och ett av de 105 test-ID:na*
 
 ## Poängsättning (separat session)
 
-Hämta `anime.json` från den **exakta Git-blob som anges i manifestet** (inte nyaste main); verifiera SHA och kör:
+Hämta `anime.json` från den **exakta Git-blob som anges i manifestet** (inte nyaste main). I en klon med tillgång till Git-objektet kan man exempelvis använda `git cat-file blob <sha-från-manifest> > frozen_anime.json`. Verifiera därefter SHA och kör:
 
 ```bash
 python score.py predictions.json frozen_anime.json
