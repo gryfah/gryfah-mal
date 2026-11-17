@@ -16078,6 +16078,90 @@
         ],
         "unresolved_questions": [],
         "reviewed_at_utc": "2026-11-11T05:17:47.269Z"
+      },
+      "mal-23447": {
+        "question_id": "mal-23447",
+        "mal_id": 23447,
+        "answer_reference": {
+          "answered_at_utc": "2026-11-14T20:57:36.806Z",
+          "raw_response": "a"
+        },
+        "explicit_answer_summary": "Valde det korta tillägget till en etablerad relationsensemble som förklaring till 5/10.",
+        "verified_brief_cues": [
+          "Specialavsnitt till etablerad TV-serie",
+          "Kortformat med begränsat verifierad självständig relationsutveckling"
+        ],
+        "reviewed_hypotheses": [
+          {
+            "claim": "Bonusavsnittets korta tillägg till en etablerad ensemble påverkade omdömet.",
+            "verdict": "supported",
+            "explanation": "Uttryckligt verksspecifikt svar. Ingen generell preferens eller kausal styrka utöver svarets ordalydelse antas.",
+            "evidence_refs": [
+              "questions.items.mal-23447.answer",
+              "anime_profiles.json:profiles.23447"
+            ]
+          }
+        ],
+        "unresolved_questions": [
+          "Det går inte att avgöra exakt vilka delar av den valda egenskapen som drog ned betyget."
+        ],
+        "reviewed_at_utc": "2026-11-17T20:18:32.200Z"
+      },
+      "mal-30503": {
+        "question_id": "mal-30503",
+        "mal_id": 30503,
+        "answer_reference": {
+          "answered_at_utc": "2026-11-14T20:57:36.806Z",
+          "raw_response": "c"
+        },
+        "explicit_answer_summary": "Valde växlingen mellan komedi och allvar som förklaring till 6/10.",
+        "verified_brief_cues": [
+          "Andra säsongen med sammanhängande Bishamon-konflikt",
+          "Växling mellan komedi, övernaturlig action och allvar"
+        ],
+        "reviewed_hypotheses": [
+          {
+            "claim": "Växlingen mellan komedi och allvar påverkade omdömet om säsongen.",
+            "verdict": "supported",
+            "explanation": "Uttryckligt verksspecifikt svar. Ingen generell preferens eller kausal styrka utöver svarets ordalydelse antas.",
+            "evidence_refs": [
+              "questions.items.mal-30503.answer",
+              "anime_profiles.json:profiles.30503"
+            ]
+          }
+        ],
+        "unresolved_questions": [
+          "Det går inte att avgöra exakt vilka delar av den valda egenskapen som drog ned betyget."
+        ],
+        "reviewed_at_utc": "2026-11-17T20:18:32.200Z"
+      },
+      "mal-31757": {
+        "question_id": "mal-31757",
+        "mal_id": 31757,
+        "answer_reference": {
+          "answered_at_utc": "2026-11-14T20:57:36.806Z",
+          "raw_response": "shaft estetik"
+        },
+        "explicit_answer_summary": "Angav fritt 'shaft estetik' som förklaring till 6/10.",
+        "verified_brief_cues": [
+          "Andra filmen i en trilogi",
+          "Stiliserad action och kroppslig metamorfos"
+        ],
+        "reviewed_hypotheses": [
+          {
+            "claim": "Shafts visuella estetik påverkade omdömet om filmen.",
+            "verdict": "supported",
+            "explanation": "Uttryckligt verksspecifikt svar. Ingen generell preferens eller kausal styrka utöver svarets ordalydelse antas.",
+            "evidence_refs": [
+              "questions.items.mal-31757.answer",
+              "anime_profiles.json:profiles.31757"
+            ]
+          }
+        ],
+        "unresolved_questions": [
+          "Vilka specifika visuella grepp som avses framgår inte av detta svar."
+        ],
+        "reviewed_at_utc": "2026-11-17T20:18:32.200Z"
       }
     },
     "preference_hypotheses": {
