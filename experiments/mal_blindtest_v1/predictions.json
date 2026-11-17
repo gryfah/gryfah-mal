@@ -1,0 +1,637 @@
+{
+  "experiment_id": "mal_blindtest_v1",
+  "model_id": "M1-text-tfidf-knn-v1",
+  "model_kind": "Train-only crossvalidated TF-IDF cosine neighbor residual recommender; not a separate LLM reasoning model",
+  "predictions": [
+    {
+      "mal_id": 513,
+      "predicted_score": 7.806,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Tillit och vänskap; Teknik och makt. Innehållsmässigt närliggande träningsverk: Sen to Chihiro no Kamikakushi och Kaze no Tani no Nausicaä. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 1347,
+      "predicted_score": 7.074,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: företagsmakt och teknologiskt beroende; privat rättskipning kontra polisens begränsningar. Innehållsmässigt närliggande träningsverk: Armitage III: Dual-Matrix och Scrapped Princess. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 1270,
+      "predicted_score": 6.453,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: militär teknik utan kontroll; journalistik kontra sekretess. Innehållsmässigt närliggande träningsverk: 86 Part 2 och 86. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 937,
+      "predicted_score": 6.461,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: utopins pris; människor och bioroider. Innehållsmässigt närliggande träningsverk: 86 Part 2 och 86. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 1288,
+      "predicted_score": 6.883,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: vardagligt polisarbete med avancerad teknik; lagarbete och institutionsvardag. Innehållsmässigt närliggande träningsverk: New Game!! och Servant x Service. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 1151,
+      "predicted_score": 6.698,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Militariserad ordningsmakt och övervåld; Miljöförstöring som vardagsvillkor. Innehållsmässigt närliggande träningsverk: Tokusou Senshatai Dominion och Denpa Onna to Seishun Otoko. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 1095,
+      "predicted_score": 7.534,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: systemrisker i urban teknik; polisutredning. Innehållsmässigt närliggande träningsverk: 86 och 86 Part 2. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 1289,
+      "predicted_score": 7.202,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Arbetsgemenskap och vardag inom polisen; Teknik och ordningsmakt. Innehållsmässigt närliggande träningsverk: Blend S och New Game!!. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 1029,
+      "predicted_score": 6.941,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Minnets påverkan på identitet; Barndomens sociala förväntningar. Innehållsmässigt närliggande träningsverk: Ikoku Nikki och Clannad: After Story. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 1096,
+      "predicted_score": 8.1,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Fredsillusion och krigets närvaro; Statlig legitimitet och politiskt ansvar. Innehållsmässigt närliggande träningsverk: Koukaku Kidoutai: Stand Alone Complex och Koukaku Kidoutai: SAC_2045. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 2332,
+      "predicted_score": 6.082,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Civil frihet mot militär kontroll; Solidaritet med en förföljd person. Innehållsmässigt närliggande träningsverk: Macross Plus Movie Edition och Divergence Eve. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 1030,
+      "predicted_score": 6.904,
+      "confidence": "low",
+      "reason": "Faktabaserade teman: Urbanisering och ekologisk förlust; Tradition mot modernisering. Innehållsmässigt närliggande träningsverk: Tamako Love Story och Tonari no Totoro. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 164,
+      "predicted_score": 8.246,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Människa och natur i konflikt; Våldets följder och ansvar. Innehållsmässigt närliggande träningsverk: Kaze no Tani no Nausicaä och Shokei Shoujo no Virgin Road. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 320,
+      "predicted_score": 6.023,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Exploatering och maktmissbruk; Frihet kontra kontroll. Innehållsmässigt närliggande träningsverk: Kite Liberator och Mezzo Forte. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 522,
+      "predicted_score": 7.353,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Mänsklighet och artificiell identitet; Klasskillnader och diskriminering. Innehållsmässigt närliggande träningsverk: Ano Natsu de Matteru: Bokutachi wa Koukou Saigo no Natsu wo Sugoshinagara, Ano Natsu de Matteiru. och Darling in the FranXX. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 488,
+      "predicted_score": 7.087,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Vänskap i vardagen; Barnsliga upptåg och sociala roller. Innehållsmässigt närliggande träningsverk: Super Cub och Yama no Susume: Kabe tte Kowakunai no?. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 1888,
+      "predicted_score": 7.094,
+      "confidence": "high",
+      "reason": "Faktabaserade teman: Vänskap i vardagliga situationer; Syskonrelationer. Innehållsmässigt närliggande träningsverk: Super Cub och Aiura. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 2593,
+      "predicted_score": 7.144,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Död och övernaturliga fenomen; Gränsen mellan perception och verklighet. Innehållsmässigt närliggande träningsverk: Lazarus och Tokyo Ravens. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 3782,
+      "predicted_score": 7.436,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Tillit och misstanke; Identitet och gåtfull personlighet. Innehållsmässigt närliggande träningsverk: Tokyo Ravens och Rakudai Kishi no Cavalry. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 3299,
+      "predicted_score": 6.664,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Social utfrysning och kollektiv skuld; Sorg och bearbetning. Innehållsmässigt närliggande träningsverk: Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai och Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 3783,
+      "predicted_score": 7.532,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Smärta och kroppslig erfarenhet; Trauma och utsatthet. Innehållsmässigt närliggande träningsverk: No.6 och Haibane Renmei. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 4280,
+      "predicted_score": 7.411,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Identitet efter förlust; Främlingskap inför det egna medvetandet. Innehållsmässigt närliggande träningsverk: Takt Op. Destiny och Tokyo Ravens. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 4282,
+      "predicted_score": 8.084,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Identitet och minne; Människans fria vilja kontra förutbestämda system. Innehållsmässigt närliggande träningsverk: Tokyo Ravens och Nagi no Asu kara. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 4087,
+      "predicted_score": 7.357,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Frihet och flykt; Vald familj och tillit. Innehållsmässigt närliggande träningsverk: Last Exile och Shokei Shoujo no Virgin Road. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 5204,
+      "predicted_score": 7.105,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Minnesförlust och identitet; Övernaturlig undersökning. Innehållsmässigt närliggande träningsverk: Tokyo Ravens och Rakudai Kishi no Cavalry. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 4811,
+      "predicted_score": 7.116,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Vänskap i vardagen; Barnslig fantasi och upptåg. Innehållsmässigt närliggande träningsverk: Super Cub och Yama no Susume Second Season. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 5205,
+      "predicted_score": 8.053,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Skuld och oskuld; Våldsimpulser och självkontroll. Innehållsmässigt närliggande träningsverk: Tokyo Ravens och Rakudai Kishi no Cavalry. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 9756,
+      "predicted_score": 8.26,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Önskningars pris och ansvar; Vänskap under press. Innehållsmässigt närliggande träningsverk: Shoujo Kakumei Utena och Evangelion Movie 1: Jo. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 6954,
+      "predicted_score": 6.439,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Identitet och självförståelse; Återkomst till en avgörande mötesplats. Innehållsmässigt närliggande träningsverk: Shadows House och Shadows House 2nd Season. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 9776,
+      "predicted_score": 6.211,
+      "confidence": "high",
+      "reason": "Faktabaserade teman: Vänskap och förändrade grupprelationer; Svartsjuka och tillhörighet utan stora konflikter. Innehållsmässigt närliggande träningsverk: Kitaku-bu Katsudou Kiroku och Azumanga Daiou The Animation. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 9736,
+      "predicted_score": 5.968,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Familjeband; Förtroende och tillhörighet. Innehållsmässigt närliggande träningsverk: Monster Musume no Iru Nichijou och Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita.. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 6880,
+      "predicted_score": 6.494,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Rättsövergrepp och maktmissbruk; Överlevnad under tvång. Innehållsmässigt närliggande träningsverk: Mirai Nikki (TV) och Mahou Shoujo Ikusei Keikaku. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 9919,
+      "predicted_score": 6.783,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: familjeband och arv; identitet kontra ursprung. Innehållsmässigt närliggande träningsverk: Noragami Aragoto och Noragami. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 10721,
+      "predicted_score": 7.648,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Syskonlojalitet och uppoffring; Öde och val. Innehållsmässigt närliggande träningsverk: Boogiepop wa Warawanai och Boogiepop wa Warawanai (2019). Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 10408,
+      "predicted_score": 8.119,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Närhet och oöverstigliga gränser; Tidens gång. Innehållsmässigt närliggande träningsverk: Fruits Basket: The Final och Fruits Basket 2nd Season. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 11179,
+      "predicted_score": 6.938,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Vald familj och omsorgsansvar; Sorg och vardaglig återhämtning. Innehållsmässigt närliggande träningsverk: Mamahaha no Tsurego ga Motokano datta och Kawaii dake ja Nai Shikimori-san. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 13333,
+      "predicted_score": 6.816,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Musik som gemenskap och självuttryck; Vänskap och samarbete. Innehållsmässigt närliggande träningsverk: Shoujo☆Kageki Revue Starlight Movie och Love Live! School Idol Project. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 11887,
+      "predicted_score": 7.635,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: identitet; integritet och sårbarhet. Innehållsmässigt närliggande träningsverk: Fruits Basket 1st Season och Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 14753,
+      "predicted_score": 7.419,
+      "confidence": "high",
+      "reason": "Faktabaserade teman: privata och offentliga identiteter; förtroende. Innehållsmässigt närliggande träningsverk: Horimiya och Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 14199,
+      "predicted_score": 6.252,
+      "confidence": "high",
+      "reason": "Faktabaserade teman: Återförening; Romantisk rivalitet. Innehållsmässigt närliggande träningsverk: Kiss x Sis och Osananajimi ga Zettai ni Makenai Love Comedy. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 11703,
+      "predicted_score": 6.128,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: rättvisa och våld; moralisk konflikt. Innehållsmässigt närliggande träningsverk: Spy x Family Season 2 och Spy x Family Part 2. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 16001,
+      "predicted_score": 7.568,
+      "confidence": "high",
+      "reason": "Faktabaserade teman: Privata känslor kontra social fasad; Sårbarhet och tillit. Innehållsmässigt närliggande träningsverk: Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai och Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 16417,
+      "predicted_score": 6.942,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Lokalsamhälle och tillhörighet; Familj och generationsband. Innehållsmässigt närliggande träningsverk: Sewayaki Kitsune no Senko-san och Kimi to Boku.. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 19151,
+      "predicted_score": 6.154,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Idrottslig återhämtning och nya roller; Mentorskap och träning. Innehållsmässigt närliggande träningsverk: Seiren och Saenai Heroine no Sodatekata. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 20031,
+      "predicted_score": 6.949,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: skolklubbar; grupptillhörighet. Innehållsmässigt närliggande träningsverk: Kyou no 5 no 2 (TV) och Asobi Asobase. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 22789,
+      "predicted_score": 7.959,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Konstnärlig originalitet och självkritik; Att växa genom möten med andra. Innehållsmässigt närliggande träningsverk: Usagi Drop och Sewayaki Kitsune no Senko-san. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 21557,
+      "predicted_score": 7.964,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Ensamhet och tillhörighet; Vänskap och förtroende. Innehållsmässigt närliggande träningsverk: Boogiepop wa Warawanai och Wonder Egg Priority. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 26243,
+      "predicted_score": 6.961,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Förlust av vald familj; Hämnd och lojalitet. Innehållsmässigt närliggande träningsverk: Vampire in the Garden och Shingeki no Kyojin. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 27775,
+      "predicted_score": 7.702,
+      "confidence": "high",
+      "reason": "Faktabaserade teman: Förlust och begränsad tid; Minnen och identitet. Innehållsmässigt närliggande träningsverk: Ano Natsu de Matteru: Bokutachi wa Koukou Saigo no Natsu wo Sugoshinagara, Ano Natsu de Matteiru. och Darling in the FranXX. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 28927,
+      "predicted_score": 7.022,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Vald familj och lojalitet; Mänsklighet och förvandling. Innehållsmässigt närliggande träningsverk: Vampire in the Garden och Shingeki no Kyojin Season 3 Part 2. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 28623,
+      "predicted_score": 6.847,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Överlevnad; Misstro och smitta. Innehållsmässigt närliggande träningsverk: Mahou Shoujo Ikusei Keikaku och Shingeki no Kyojin Season 2. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 30015,
+      "predicted_score": 7.744,
+      "confidence": "high",
+      "reason": "Faktabaserade teman: Omstart och personlig utveckling; Arbetslivets misslyckanden och social återhämtning. Innehållsmässigt närliggande träningsverk: ReLIFE: Kanketsu-hen och Sakura-sou no Pet na Kanojo. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 33190,
+      "predicted_score": 7.778,
+      "confidence": "high",
+      "reason": "Faktabaserade teman: Minnet av en förlorad civilisation; Kunskapsöverföring mellan generationer. Innehållsmässigt närliggande träningsverk: Planetarian: Chiisana Hoshi no Yume och On Your Mark. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 33489,
+      "predicted_score": 7.593,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Uthållighet och lärande; Vänskap och rivalitet. Innehållsmässigt närliggande träningsverk: Princess Connect! Re:Dive och Princess Connect! Re:Dive Season 2. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 34902,
+      "predicted_score": 7.59,
+      "confidence": "high",
+      "reason": "Faktabaserade teman: Ung förälskelse; Kommunikationssvårigheter. Innehållsmässigt närliggande träningsverk: Boku no Kokoro no Yabai Yatsu och Hatsukoi Limited.. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 34525,
+      "predicted_score": 6.1,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Vänskap; Skolvardag. Innehållsmässigt närliggande träningsverk: Demi-chan wa Kataritai och Demi-chan wa Kataritai: Demi-chan no Natsuyasumi. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 35838,
+      "predicted_score": 7.599,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Vänskap och ömsesidigt beroende; Överlevnad och vardag. Innehållsmässigt närliggande träningsverk: Yama no Susume och Yama no Susume Second Season. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 35413,
+      "predicted_score": 6.931,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Kreativt arbete och författarliv; Avund och ambition. Innehållsmässigt närliggande träningsverk: Saenai Heroine no Sodatekata och Ore no Imouto ga Konnani Kawaii Wake ga Nai.. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 36038,
+      "predicted_score": 7.463,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Digital identitet; Vuxen ensamhet och gemenskap. Innehållsmässigt närliggande träningsverk: Yamada-kun to Lv999 no Koi wo Suru och Uzaki-chan wa Asobitai!. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 36220,
+      "predicted_score": 7.144,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Outtalad förälskelse; Kommunikation och osäkerhet. Innehållsmässigt närliggande träningsverk: Sakura-sou no Pet na Kanojo och ReLIFE: Kanketsu-hen. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 36043,
+      "predicted_score": 7.262,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: vardagsliv kontra spelidentitet; social osäkerhet. Innehållsmässigt närliggande träningsverk: Uzaki-chan wa Asobitai! och Uzaki-chan wa Asobitai! Double. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 36039,
+      "predicted_score": 5.966,
+      "confidence": "high",
+      "reason": "Faktabaserade teman: bioteknikens risker; identitet och kropp. Innehållsmässigt närliggande träningsverk: Metallic Rouge och Virgin Punk: Clockwork Girl. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 33531,
+      "predicted_score": 6.325,
+      "confidence": "high",
+      "reason": "Faktabaserade teman: teknologiskt ansvar; överlevnad efter katastrof. Innehållsmässigt närliggande träningsverk: Armitage III: Dual-Matrix och SSSS.Gridman. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 36817,
+      "predicted_score": 6.313,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: självbild; gemensamt boende. Innehållsmässigt närliggande träningsverk: Megami-ryou no Ryoubo-kun. och Oniichan no Koto nanka Zenzen Suki ja Nai n da kara ne!!. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 37976,
+      "predicted_score": 6.999,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: andra chanser; gruppidentitet. Innehållsmässigt närliggande träningsverk: Love Live! The School Idol Movie och Love Live! School Idol Project 2nd Season. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 37993,
+      "predicted_score": 6.822,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: social osäkerhet; vänskap och vardag. Innehållsmässigt närliggande träningsverk: Ore no Imouto ga Konnani Kawaii Wake ga Nai och Lucky☆Star. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 38814,
+      "predicted_score": 4.934,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: tidsförskjutning; historiska identitetsförväxlingar. Innehållsmässigt närliggande träningsverk: Kiss x Sis och Kiss x Sis (TV). Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 38080,
+      "predicted_score": 7.668,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: gemenskap; musikaliskt lärande. Innehållsmässigt närliggande träningsverk: Shoujo☆Kageki Revue Starlight och Shoujo☆Kageki Revue Starlight Movie. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 38671,
+      "predicted_score": 7.229,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: hjälteideal; institutionell misstro. Innehållsmässigt närliggande träningsverk: Toaru Majutsu no Index III och Toaru Majutsu no Index II. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 39326,
+      "predicted_score": 6.278,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: anonym förälskelse; romantiska missförstånd. Innehållsmässigt närliggande träningsverk: Oniichan no Koto nanka Zenzen Suki ja Nai n da kara ne!! och Osananajimi ga Zettai ni Makenai Love Comedy. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 38483,
+      "predicted_score": 7.64,
+      "confidence": "high",
+      "reason": "Faktabaserade teman: Romantiska förväntningar och missförstånd; Självpresentation och dolda avsikter. Innehållsmässigt närliggande träningsverk: Osananajimi ga Zettai ni Makenai Love Comedy och Bokutachi wa Benkyou ga Dekinai. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 38889,
+      "predicted_score": 8.043,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Samarbete; Musikalisk utveckling. Innehållsmässigt närliggande träningsverk: Shoujo☆Kageki Revue Starlight Movie och Shoujo☆Kageki Revue Starlight. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 39792,
+      "predicted_score": 7.562,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Kreativt samarbete; fantasi och hantverk. Innehållsmässigt närliggande träningsverk: Kyou no 5 no 2 (TV) och Nande Koko ni Sensei ga!?. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 37890,
+      "predicted_score": 6.991,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: idolkultur; hängivenhet. Innehållsmässigt närliggande träningsverk: Kuma Miko och Ore no Imouto ga Konnani Kawaii Wake ga Nai. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 41392,
+      "predicted_score": 6.182,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Folkloristisk skräck och urbana legender; Utforskning av okända miljöer. Innehållsmässigt närliggande träningsverk: Shokei Shoujo no Virgin Road och Magic Knight Rayearth. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 40908,
+      "predicted_score": 6.327,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Mystery; Supernatural. Innehållsmässigt närliggande träningsverk: Noragami Aragoto och Noragami. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 40174,
+      "predicted_score": 7.429,
+      "confidence": "low",
+      "reason": "Faktabaserade teman: Gemenskap trots olika bakgrunder; Identitet och ett andra liv. Innehållsmässigt närliggande träningsverk: Idoly Pride och Love Live! School Idol Project. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 47639,
+      "predicted_score": 5.572,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: känslomässig sårbarhet; empati och självförståelse. Innehållsmässigt närliggande träningsverk: Witch Craft Works och Lycoris Recoil. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 42192,
+      "predicted_score": 6.758,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Vänskap och tillhörighet; Människor och maskiner. Innehållsmässigt närliggande träningsverk: Space Adventure Cobra och Venus Senki. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 43969,
+      "predicted_score": 6.638,
+      "confidence": "high",
+      "reason": "Faktabaserade teman: romantisk förhandling; svartsjuka. Innehållsmässigt närliggande träningsverk: Masamune-kun no Revenge och Bokutachi wa Benkyou ga Dekinai!. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 43691,
+      "predicted_score": 7.312,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: konstnärlig ambition; vänskap och tillit. Innehållsmässigt närliggande träningsverk: Shoujo☆Kageki Revue Starlight och Shoujo☆Kageki Revue Starlight Movie. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 47257,
+      "predicted_score": 7.502,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: omöjlig fysisk närhet; förbannelse och isolering. Innehållsmässigt närliggande träningsverk: Uzaki-chan wa Asobitai! och Uzaki-chan wa Asobitai! Double. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 49605,
+      "predicted_score": 6.211,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Outtalad förälskelse; Rivalitet och social osäkerhet. Innehållsmässigt närliggande träningsverk: Senpai ga Uzai Kouhai no Hanashi och Uzaki-chan wa Asobitai! Double. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 48483,
+      "predicted_score": 7.114,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Rädsla och självkontroll; Vänskap och omsorg. Innehållsmässigt närliggande träningsverk: Komi-san wa, Comyushou desu. 2nd Season och Komi-san wa, Comyushou desu.. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 48736,
+      "predicted_score": 7.854,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: skapande och hantverk; acceptans av egna intressen. Innehållsmässigt närliggande träningsverk: Nazo no Kanojo X och Kimi wa Houkago Insomnia. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 48857,
+      "predicted_score": 6.819,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Musik som läkande praktik; Lärlingskap och yrkesansvar. Innehållsmässigt närliggande träningsverk: Takt Op. Destiny och Flying Witch. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 51417,
+      "predicted_score": 6.136,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: kontrakt och uppoffring; beroende och svartsjuka. Innehållsmässigt närliggande träningsverk: Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku och Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan: Dakara, Shishunki wa Owarazu ni, Seishun wa Tsuzuiteiku.. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 45653,
+      "predicted_score": 6.883,
+      "confidence": "high",
+      "reason": "Faktabaserade teman: ung förälskelse; självpåtagna hinder. Innehållsmässigt närliggande träningsverk: Suki na Ko ga Megane wo Wasureta och Karakai Jouzu no Takagi-san 3. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 50593,
+      "predicted_score": 7.598,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Sorg och förlust; Önskningar och uppoffring. Innehållsmässigt närliggande träningsverk: Kanon (2006) och Air. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 47917,
+      "predicted_score": 8.162,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: social osäkerhet; vänskap. Innehållsmässigt närliggande träningsverk: K-On!: Live House! och K-On!. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 52173,
+      "predicted_score": 6.996,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: arbetsplatsromantik; vardagsomsorg. Innehållsmässigt närliggande träningsverk: Senpai ga Uzai Kouhai no Hanashi och Demi-chan wa Kataritai. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 52736,
+      "predicted_score": 7.064,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: magi och uppfinningar; sociala förväntningar. Innehållsmässigt närliggande träningsverk: Youjo Senki och Watashi no Oshi wa Akuyaku Reijou.. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 51678,
+      "predicted_score": 7.35,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: identitet och kroppslig förändring; syskonrelationer. Innehållsmässigt närliggande träningsverk: Hitoribocchi no Marumaru Seikatsu och Komi-san wa, Comyushou desu. 2nd Season. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 53393,
+      "predicted_score": 7.658,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: överlevnad efter samhällskollaps; identitet och tillhörighet. Innehållsmässigt närliggande träningsverk: Kowloon Generic Romance och Made in Abyss. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 52973,
+      "predicted_score": 7.012,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: sorgearbete och arv; gemenskap kring arbete. Innehållsmässigt närliggande träningsverk: Megami-ryou no Ryoubo-kun. och Bokutachi wa Benkyou ga Dekinai! Chapel no Kane wa [X] wo Shukufuku Suru. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 53379,
+      "predicted_score": 6.571,
+      "confidence": "high",
+      "reason": "Faktabaserade teman: Kontorsromantik; Kollegial omsorg. Innehållsmässigt närliggande träningsverk: Senpai ga Uzai Kouhai no Hanashi och New Game!. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 49858,
+      "predicted_score": 7.57,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Beröring och avstånd; Kärlek under övernaturliga hinder. Innehållsmässigt närliggande träningsverk: Uzaki-chan wa Asobitai! Double och Ijiranaide, Nagatoro-san. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 52991,
+      "predicted_score": 8.787,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: dödlighet och tid; minne och eftermäle. Innehållsmässigt närliggande träningsverk: Kaze no Tani no Nausicaä och Majo no Takkyuubin. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 53300,
+      "predicted_score": 5.434,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Självständighet kontra överbeskydd; Socialt utanförskap genom familjebakgrund. Innehållsmässigt närliggande träningsverk: Kimi ni Todoke och Suki tte Ii na yo.. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 53040,
+      "predicted_score": 7.133,
+      "confidence": "high",
+      "reason": "Faktabaserade teman: öppen flerpartsrelation; svartsjuka och lojalitet. Innehållsmässigt närliggande träningsverk: 5-toubun no Hanayome Movie och 5-toubun no Hanayome. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 35737,
+      "predicted_score": 8.204,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: robotars rättigheter; krigets efterverkningar. Innehållsmässigt närliggande träningsverk: Id:Invaded och Zankyou no Terror. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 56738,
+      "predicted_score": 7.988,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Kärlek och fysisk närhet; Förbannelse och försoning. Innehållsmässigt närliggande träningsverk: Uzaki-chan wa Asobitai! och Uzaki-chan wa Asobitai! Double. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 58272,
+      "predicted_score": 6.4,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: människa och teknik; vardagsintimitet. Innehållsmässigt närliggande träningsverk: Chobits och Busu ni Hanataba wo.. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 59360,
+      "predicted_score": 7.157,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: klass och status; identitet. Innehållsmässigt närliggande träningsverk: Asobi Asobase och Kyou no 5 no 2 (TV). Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    },
+    {
+      "mal_id": 59978,
+      "predicted_score": 8.416,
+      "confidence": "medium",
+      "reason": "Faktabaserade teman: Tidens gång och dödlighet; minne och ånger. Innehållsmässigt närliggande träningsverk: Kaze no Tani no Nausicaä och Somali to Mori no Kamisama. Uppskattningen kombinerar likheter i berättelsebeskrivning och genre med din historiska avvikelse från MAL-medelbetyget; detta är inte ett säkert orsakssamband."
+    }
+  ]
+}
