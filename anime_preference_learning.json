@@ -1705,7 +1705,7 @@
         ],
         "multiple_select": true,
         "created_round": "final_inventory",
-        "status": "unanswered",
+        "status": "answered",
         "created_at_utc": "2026-11-17T19:12:13.232Z",
         "evidence": {
           "observed_status": "dropped",
@@ -1718,7 +1718,23 @@
         "sources": [
           "https://myanimelist.net/anime/32281",
           "https://theanimelist.net/anime/kimi-no-na-wa"
-        ]
+        ],
+        "answer": {
+          "raw_response": "1abc",
+          "selected_options": [
+            "Filmformatets känslomässiga berättelse fungerade inte för mig",
+            "Den övernaturliga premissen eller dess utveckling tilltalade mig inte",
+            "Visuell stil och musik räckte inte för att hålla intresset"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-17T19:37:13.730Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde: Filmformatets känslomässiga berättelse fungerade inte för mig; Den övernaturliga premissen eller dess utveckling tilltalade mig inte; Visuell stil och musik räckte inte för att hålla intresset. Inga ytterligare motiv angavs.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "dropped-457-final": {
         "question_id": "dropped-457-final",
@@ -1735,7 +1751,7 @@
         ],
         "multiple_select": true,
         "created_round": "final_inventory",
-        "status": "unanswered",
+        "status": "answered",
         "created_at_utc": "2026-11-17T19:12:13.232Z",
         "evidence": {
           "observed_status": "dropped",
@@ -1748,7 +1764,22 @@
         "sources": [
           "https://myanimelist.net/anime/457",
           "https://www.fujitv.co.jp/b_hp/mushishi/index.html"
-        ]
+        ],
+        "answer": {
+          "raw_response": "2ac",
+          "selected_options": [
+            "Det episodiska berättandet blev för stillastående",
+            "De fristående fallen eller Ginkos roll engagerade inte"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-17T19:37:13.730Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde: Det episodiska berättandet blev för stillastående; De fristående fallen eller Ginkos roll engagerade inte. Inga ytterligare motiv angavs.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "dropped-41084-final": {
         "question_id": "dropped-41084-final",
@@ -1765,7 +1796,7 @@
         ],
         "multiple_select": true,
         "created_round": "final_inventory",
-        "status": "unanswered",
+        "status": "answered",
         "created_at_utc": "2026-11-17T19:12:13.232Z",
         "evidence": {
           "observed_status": "dropped",
@@ -1779,7 +1810,23 @@
           "https://myanimelist.net/anime/41084",
           "https://www.primevideo.com/detail/0TIOOOQ51U75CQ5A4PWWIPG920",
           "https://thetvdb.com/series/made-in-abyss/seasons/official/2"
-        ]
+        ],
+        "answer": {
+          "raw_response": "3bcd-ip tar nästan inga steg framåt",
+          "selected_options": [
+            "Tempot eller fokus i den här säsongen fungerade inte",
+            "Världsbygget eller karaktärernas beslut tappade mig",
+            "Jag pausade serien av andra skäl"
+          ],
+          "free_text": "IP tar nästan inga steg framåt",
+          "answered_at_utc": "2026-11-17T19:37:13.730Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Valda alternativ: Tempot eller fokus i den här säsongen fungerade inte; Världsbygget eller karaktärernas beslut tappade mig; Jag pausade serien av andra skäl. Egen kommentar: \"IP tar nästan inga steg framåt\". Alternativen anger möjliga bidragande skäl; kommentaren är uttrycklig användarevidens.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "dropped-52034-final": {
         "question_id": "dropped-52034-final",
@@ -1796,7 +1843,7 @@
         ],
         "multiple_select": true,
         "created_round": "final_inventory",
-        "status": "unanswered",
+        "status": "answered",
         "created_at_utc": "2026-11-17T19:12:13.232Z",
         "evidence": {
           "observed_status": "dropped",
@@ -1809,7 +1856,21 @@
         "sources": [
           "https://myanimelist.net/anime/52034",
           "https://www.crunchyroll.com/news/announcements/2026/2/25/oshi-no-ko-anime-season-1-2-streaming-crunchyroll/"
-        ]
+        ],
+        "answer": {
+          "raw_response": "4c-premiss alldeles för krystad",
+          "selected_options": [
+            "Karaktärerna eller deras motiv engagerade mig inte"
+          ],
+          "free_text": "Premiss alldeles för krystad",
+          "answered_at_utc": "2026-11-17T19:37:13.730Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Valda alternativ: Karaktärerna eller deras motiv engagerade mig inte. Egen kommentar: \"Premiss alldeles för krystad\". Alternativen anger möjliga bidragande skäl; kommentaren är uttrycklig användarevidens.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "dropped-1210-final": {
         "question_id": "dropped-1210-final",
@@ -1826,7 +1887,7 @@
         ],
         "multiple_select": true,
         "created_round": "final_inventory",
-        "status": "unanswered",
+        "status": "answered",
         "created_at_utc": "2026-11-17T19:12:13.232Z",
         "evidence": {
           "observed_status": "dropped",
@@ -1840,7 +1901,22 @@
           "https://myanimelist.net/anime/1210",
           "https://anilist.co/anime/1210/NHK-ni-Youkoso/",
           "https://tv.apple.com/jp/show/nhk%E3%81%AB%E3%82%88%E3%81%86%E3%81%93%E3%81%9D/umc.cmc.7em44bkybofpp09v7ktj78gty"
-        ]
+        ],
+        "answer": {
+          "raw_response": "5ac",
+          "selected_options": [
+            "Balansen mellan satir och psykiskt allvar fungerade inte",
+            "Berättelsen utvecklades för långsamt"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-17T19:37:13.730Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren valde: Balansen mellan satir och psykiskt allvar fungerade inte; Berättelsen utvecklades för långsamt. Inga ytterligare motiv angavs.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
       },
       "dropped-25835-final": {
         "question_id": "dropped-25835-final",
