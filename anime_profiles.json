@@ -3707,6 +3707,37 @@
         "https://www.filminstitutet.se/globalassets/3.-se-och-samtala-om-film/cinemateket_stockholm/2024/ht-24/seriebilder/tid---mangafilmer---filmtexter.pdf"
       ]
     },
+    "2476": {
+      "mal_id": 2476,
+      "title": "School Days",
+      "synopsis": "Makoto Itou är förälskad i den tillbakadragna Kotonoha Katsura, som han ser på tåget till skolan. Klasskamraten Sekai Saionji hjälper dem att närma sig varandra, trots att hon själv utvecklar känslor för Makoto. Den till synes vardagliga skolromansen blir en berättelse om svartsjuka, obeslutsamhet och relationella konsekvenser.",
+      "themes": [
+        "svartsjuka",
+        "romantisk ansvarslöshet",
+        "relationers konsekvenser"
+      ],
+      "tone": [
+        "inledningsvis vardaglig",
+        "alltmer obehaglig",
+        "psykologiskt laddad"
+      ],
+      "pacing_and_structure": "Seriell relationsintrig där en bekant skolromantisk utgångspunkt gradvis blir mer konfliktfylld; bygger på en visuell roman med förgrenade relationsval.",
+      "character_dynamics": "Sekai agerar först förmedlare mellan Makoto och Kotonoha men är själv känslomässigt involverad. Makotos val påverkar båda och driver triangeldramat.",
+      "distinctive_features": "Använder ett igenkännbart harem-/skolromansupplägg för att pröva vad huvudpersonens beslut faktiskt får för följder; bör inte förväxlas med en lättsam romantisk komedi.",
+      "comparison_cues": [
+        "relationsdrama med eskalerande konsekvenser",
+        "skolromans som genreomtolkning",
+        "moraliskt problematiska karaktärsval"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/2476",
+        "https://www.thetvdb.com/series/school-days",
+        "https://www.imdb.com/title/tt1068993/plotsummary/"
+      ],
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-17T04:13:46.891Z"
+    },
     "2593": {
       "mal_id": 2593,
       "title": "Kara no Kyoukai Movie 1: Fukan Fuukei",
@@ -3738,6 +3769,42 @@
         "https://en.wikipedia.org/wiki/The_Garden_of_Sinners:_Overlooking_View"
       ]
     },
+    "2605": {
+      "mal_id": 2605,
+      "title": "Sayonara Zetsubou Sensei",
+      "synopsis": "Den extremt pessimistiske läraren Nozomu Itoshiki undervisar en klass vars elever har lika egenartade personligheter som han själv. Eleven Kafuka Fuuras orubbliga optimism kontrasterar hans ständiga förtvivlan och gör vardagliga samhällsfenomen till absurda diskussioner.",
+      "themes": [
+        "samhällssatir",
+        "pessimism kontra överdriven optimism",
+        "språklek",
+        "sociala normer"
+      ],
+      "tone": [
+        "svartkomisk",
+        "surrealistisk",
+        "satirisk",
+        "självmedveten"
+      ],
+      "pacing_and_structure": "Till stor del fristående sketchar och tematiska utvikningar med lös kontinuitet snarare än en framåtdriven huvudhandling; de återkommande karaktärerna bär komedins igenkänning.",
+      "character_dynamics": "Nozomus katastroftolkningar bemöts av Kafukas överdrivna positivitet, medan klassens övriga särpräglade elever förskjuter varje diskussion i nya riktningar.",
+      "distinctive_features": "Shafts starkt grafiska och typografiska regi samspelar med japanska ordvitsar, metahumor och överdrivna samhällsobservationer.",
+      "comparison_cues": [
+        "sketchbaserad satir",
+        "uttalad Shaft-estetik",
+        "språk- och kulturberoende humor",
+        "låg traditionell intrigprogression"
+      ],
+      "uncertainties": [
+        "En del språkskämt och samhällsreferenser förutsätter japansk kulturkunskap."
+      ],
+      "sources": [
+        "https://myanimelist.net/anime/2605",
+        "https://anilist.co/anime/2605/Sayonara-Zetsubou-Sensei",
+        "https://en.wikipedia.org/wiki/Sayonara%2C_Zetsubou-Sensei"
+      ],
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-17T04:13:46.891Z"
+    },
     "2759": {
       "mal_id": 2759,
       "title": "Evangelion Movie 1: Jo",
@@ -3768,6 +3835,40 @@
         "https://tv.apple.com/us/movie/evangelion-10-you-are-not-alone/umc.cmc.aie34ruwz5a9stvxolbeaimz",
         "https://www.rottentomatoes.com/m/evangelion_10_you_are_not_alone"
       ]
+    },
+    "2924": {
+      "mal_id": 2924,
+      "title": "ef: A Tale of Memories.",
+      "synopsis": "Två romantiska berättelsespår löper parallellt. Hiro Hirono hamnar mellan den spontana Miyako Miyamura och barndomsvännen Kei Shindou. På en övergiven järnvägsstation lär Renji Asou känna Keis tvillingsyster Chihiro, vars allvarliga minnessvårigheter gör deras växande relation särskilt komplicerad.",
+      "themes": [
+        "minne och identitet",
+        "kärlek och svartsjuka",
+        "kommunikation",
+        "sårbarhet och tillit"
+      ],
+      "tone": [
+        "melankolisk",
+        "romantisk",
+        "dramatisk",
+        "stiliserad"
+      ],
+      "pacing_and_structure": "Två växelvis berättade relationsbågar med tydlig emotionell upptrappning; visuella och rytmiska kontraster används för att skilja perspektiven åt.",
+      "character_dynamics": "Hiro, Miyako och Kei formas av konkurrerande förväntningar och känslor. Renji och Chihiro försöker skapa närhet trots att hennes förmåga att bevara nya minnen är kraftigt begränsad.",
+      "distinctive_features": "Parallell dramaturgi och en minnesproblematik som konkret begränsar en relation; Shaft använder uttalat stiliserad bildkomposition för att gestalta känslolägen.",
+      "comparison_cues": [
+        "parallella romantiska berättelser",
+        "minnesförlust som narrativt villkor",
+        "stark visuell stilisering",
+        "emotionella relationskonsekvenser"
+      ],
+      "uncertainties": [],
+      "sources": [
+        "https://myanimelist.net/anime/2924",
+        "https://www.tvmaze.com/shows/16231/ef-a-tale-of-memories",
+        "https://tv.apple.com/jp/show/efa-tale-of-memories/umc.cmc.6zaruubbuxrjf1lp5rl47thor"
+      ],
+      "profile_status": "complete",
+      "researched_at_utc": "2026-11-17T04:13:46.891Z"
     },
     "2926": {
       "mal_id": 2926,
