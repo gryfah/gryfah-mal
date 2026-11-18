@@ -1,0 +1,95 @@
+{
+  "experiment": "event_annotation_pilot_v1",
+  "n": 8,
+  "n_baseline_training": 412,
+  "B2_MAE": 0.5694975549890258,
+  "event_MAE": 0.6193659570616171,
+  "improvement": -0.049868402072591356,
+  "evidenced_by_axis": {
+    "choice_with_consequence": 3,
+    "cumulative_development": 7,
+    "reset_erases_consequence": 0
+  },
+  "rows": [
+    {
+      "mal_id": 31376,
+      "title": "Flying Witch",
+      "actual": 6,
+      "B2": 7.092419083918152,
+      "event_pilot": 7.242419083918152,
+      "delta": 0.15,
+      "B2_absolute_error": 1.092419083918152,
+      "event_absolute_error": 1.2424190839181524
+    },
+    {
+      "mal_id": 22123,
+      "title": "Inugami-san to Nekoyama-san",
+      "actual": 7,
+      "B2": 6.158211976525876,
+      "event_pilot": 6.158211976525876,
+      "delta": 0,
+      "B2_absolute_error": 0.8417880234741242,
+      "event_absolute_error": 0.8417880234741242
+    },
+    {
+      "mal_id": 50197,
+      "title": "Ijiranaide, Nagatoro-san 2nd Attack",
+      "actual": 8,
+      "B2": 7.065966698217347,
+      "event_pilot": 7.215966698217347,
+      "delta": 0.15,
+      "B2_absolute_error": 0.9340333017826534,
+      "event_absolute_error": 0.7840333017826531
+    },
+    {
+      "mal_id": 50796,
+      "title": "Kimi wa Houkago Insomnia",
+      "actual": 8,
+      "B2": 7.774319630796416,
+      "event_pilot": 8.074319630796417,
+      "delta": 0.3,
+      "B2_absolute_error": 0.2256803692035838,
+      "event_absolute_error": 0.0743196307964169
+    },
+    {
+      "mal_id": 512,
+      "title": "Majo no Takkyuubin",
+      "actual": 8,
+      "B2": 7.852102284021244,
+      "event_pilot": 8.002102284021245,
+      "delta": 0.15,
+      "B2_absolute_error": 0.14789771597875578,
+      "event_absolute_error": 0.0021022840212445715
+    },
+    {
+      "mal_id": 585,
+      "title": "Mimi wo Sumaseba",
+      "actual": 8,
+      "B2": 7.973051693472704,
+      "event_pilot": 8.273051693472704,
+      "delta": 0.3,
+      "B2_absolute_error": 0.026948306527295962,
+      "event_absolute_error": 0.27305169347270386
+    },
+    {
+      "mal_id": 36885,
+      "title": "Saenai Heroine no Sodatekata Fine",
+      "actual": 8,
+      "B2": 8.051710922050203,
+      "event_pilot": 8.351710922050204,
+      "delta": 0.3,
+      "B2_absolute_error": 0.05171092205020322,
+      "event_absolute_error": 0.35171092205020393
+    },
+    {
+      "mal_id": 36862,
+      "title": "Made in Abyss Movie 3: Fukaki Tamashii no Reimei",
+      "actual": 7,
+      "B2": 8.235502716977438,
+      "event_pilot": 8.385502716977438,
+      "delta": 0.15,
+      "B2_absolute_error": 1.2355027169774377,
+      "event_absolute_error": 1.385502716977438
+    }
+  ]
+}
