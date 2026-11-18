@@ -48,3 +48,18 @@ python experiments/mal_taste_v1/taste_profile.py \
 ```
 
 Lägg till `--target-id 35677` för resultat på ett enskilt PTW-verk. Med `--current-anime` och `--current-profiles` tillsammans kan aktuella PTW-titlar analyseras med träningskohorten fortsatt fryst. [Fullständiga utvärderingsresultat](profile_cv.json).
+
+
+## Uppdatering efter de sex svaren, 18 november 2026
+
+De sex svaren lades till som verksspecifik evidens i `anime_preference_learning.json`. Evidenskartan skiljer nu samspelets värde vid upprepning från kumulativ utveckling, relationell trovärdighet och slutets känslomässiga utdelning. En ny textsignal markerar möjliga fall där återkommande situationer hålls levande av interaktionen. Träff i text är ett förslag om vad som kan vara relevant, inte en bedömning av kvalitet.
+
+| Modell | MAE, 424 titlar | Skillnad mot B2 |
+| --- | ---: | ---: |
+| B2 · MAL + genre | 0,73232 | — |
+| Föregående evidensvariant | 0,73446 | −0,00214 |
+| Evidensvariant med ny samspelsdimension | 0,73286 | −0,00053 |
+
+Evidensvariantens parad förbättring mot B2 är −0,00053 med 95-procentigt gruppbootstrapintervall [−0,00714, +0,00569]. Den är jämförbar med den enkla baslinjen inom mätosäkerheten. Detta är träningstids korsvalidering över samma 424 titlar. De sex nya svaren gäller titlar som redan finns i den frysta träningsmängden. Testet visar alltså inte en ny prospektiv blindprestation.
+
+Den nya signalen förekom i sex briefar, men bara ett verk har direkt användarevidens om att samspelet bar upprepade situationer. Därför används den inte som ett fast positivt betygspåslag. De sex svaren har ännu inte förbättrat den genomsnittliga poängprognosen. De kan ändå hjälpa till att beskriva vilka egenskaper som förtjänar uppmärksamhet vid en rekommendation.
