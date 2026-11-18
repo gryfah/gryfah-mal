@@ -24387,6 +24387,26 @@
         "model_review_status": "reviewed",
         "model_review_note": "Väg känslomässig kontinuitet och upplevd omsorg tyngre än teknisk finish ensam. Undvik att extrapolera motiv, men notera att upphävda beats kan bryta förtroendet.",
         "linked_hypothesis_ids": []
+      },
+      "owari_no_seraph_low_recall_20261118": {
+        "id": "owari_no_seraph_low_recall_20261118",
+        "mal_ids": [
+          26243
+        ],
+        "kind": "work_specific_recollection",
+        "verbatim": "få minnen av den, rimligen därav låga poäng",
+        "interpretation": "Användaren har få minnen av Owari no Seraph och tror att det låga betyget beror på att serien inte fastnade. Detta är en svag förklaring baserad på låg återkallelse, inte ett specifikt omdöme om handling, gruppdynamik eller strider.",
+        "limitations": [
+          "Användaren uttrycker en rimlig gissning, inte säker erinran om orsaken till betyget.",
+          "Använd inte detta för att träna specifika genre- eller strukturpreferenser."
+        ],
+        "source": "explicit_user_statement_in_current_chat",
+        "recorded_date": "2026-11-18",
+        "evidence_status": "tentative_low_recall",
+        "confidence": "low",
+        "model_review_status": "reviewed",
+        "model_review_note": "Bevara osäkerheten; låg minnesåterkallelse kan vara en signal om svagt avtryck men inte vilken egenskap som orsakade det.",
+        "linked_hypothesis_ids": []
       }
     }
   }
