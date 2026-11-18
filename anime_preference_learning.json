@@ -24536,14 +24536,18 @@
         "interpretation": "Onimai använde en liknande könsbytespremiss i ecchi och snabbt tempo comedy, men lyckades ändå behandla könsroller, frågor om kvinnors erfarenheter och personlig utveckling. Kashimashi upplevdes inte göra motsvarande arbete. Lättsam eller ecchi-inramning i sig utesluter alltså inte substans; skillnaden finns i hur premissen faktiskt utforskas och om karaktärerna utvecklas.",
         "limitations": [
           "Detta är användarens jämförelse mellan specifika verk; dra inte slutsatsen att alla ecchi-komedier hanterar kön väl eller att varje verk behöver identiska teman.",
-          "Bevara att Onimai bedöms positivare på tematisk användning trots sin ecchi/fast comedy-form."
+          "Bevara att Onimai bedöms positivare på tematisk användning trots sin ecchi/fast comedy-form.",
+          "Onimai is named as the comparison but has no matching MAL entry in the current anime.json; do not invent or guess its mal_id."
         ],
         "source": "explicit_user_statement_in_current_chat",
         "recorded_date": "2026-11-18",
         "evidence_status": "direct_user_comparison",
         "model_review_status": "reviewed",
         "model_review_note": "Genreton och tematiskt djup ska hållas isär. Bedöm vad verket gör med könsbytespremissen, perspektiv, kvinnofrågor och faktisk personlig utveckling.",
-        "linked_hypothesis_ids": []
+        "linked_hypothesis_ids": [],
+        "related_titles": [
+          "Onimai"
+        ]
       }
     }
   }
