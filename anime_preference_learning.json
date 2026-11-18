@@ -24777,6 +24777,26 @@
         "linked_hypothesis_ids": [
           "narrative_pacing_and_progression"
         ]
+      },
+      "school_days_vs_myself_yourself_comparison_limit_20261118": {
+        "id": "school_days_vs_myself_yourself_comparison_limit_20261118",
+        "mal_ids": [
+          2476,
+          2926
+        ],
+        "kind": "comparison_validity_correction",
+        "verbatim": "svår jämförelse mellan en drop och blev 5, vilket är rätt lågt betyg",
+        "interpretation": "Användaren påpekar att jämförelsen mellan droppade School Days och färdigsedda Myself; Yourself med betyg 5 är svår: dropp och genomfört lågbetyg är inte likvärdiga utfall. Jämför dem inte som om båda vore jämnt utvärderade reaktioner; status, hur mycket som setts och poäng ska ingå i jämförelsens tillförlitlighet.",
+        "limitations": [
+          "Detta är en metodologisk invändning, inte en ny förklaring till något av verkens betyg.",
+          "Myself; Yourself är completed 5/10 (13 avsnitt); School Days dropped efter fem avsnitt och har inget giltigt betyg i listan."
+        ],
+        "source": "explicit_user_statement_in_current_chat",
+        "recorded_date": "2026-11-18",
+        "evidence_status": "direct_methodological_correction",
+        "model_review_status": "reviewed",
+        "model_review_note": "Skilj status droppad från completed med lågt betyg; event/threshold/scope of exposure gör jämförelser osymmetriska.",
+        "linked_hypothesis_ids": []
       }
     }
   }
