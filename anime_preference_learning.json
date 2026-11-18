@@ -24487,6 +24487,25 @@
         "model_review_status": "reviewed",
         "model_review_note": "Kontrollera om serien förvaltar de förväntningar den själv skapar; förekomst av en lovande premiss utan fortsatt genomförande är inte positiv evidens.",
         "linked_hypothesis_ids": []
+      },
+      "school_days_edgy_angst_handling_20261118": {
+        "id": "school_days_edgy_angst_handling_20261118",
+        "mal_ids": [
+          2476
+        ],
+        "kind": "work_specific_reaction",
+        "verbatim": "den var alldeles för angstig för mig. mörker ångest mord död sociala problem kan vara intressanta ämnen men school days är känslan av en emo tonåring i svarta kläder som blåser undan sin lugg",
+        "interpretation": "School Days upplevdes som alltför ångestdriven och poserande, likt en emo-tonåring som dramatiskt blåser undan luggen. Användaren kan vara intresserad av mörker, ångest, mord, död och sociala problem som ämnen; invändningen är att just detta verk behandlade dem på ett sätt som kändes ytligt edgy snarare än insiktsfullt.",
+        "limitations": [
+          "Användaren hade sett fem avsnitt före droppet; kommentaren gäller upplevelsen fram till dess, inte senare utveckling.",
+          "Registrera inte detta som ett generellt ogillande av mörka teman eller våld."
+        ],
+        "source": "explicit_user_statement_in_current_chat",
+        "recorded_date": "2026-11-18",
+        "evidence_status": "direct_user_explanation",
+        "model_review_status": "reviewed",
+        "model_review_note": "Skilj tematisk mörkhet från poserande/ytlig gestaltning. Användarens invändning gäller utförandets trovärdighet och ton, inte ämneskategorin i sig.",
+        "linked_hypothesis_ids": []
       }
     }
   }
