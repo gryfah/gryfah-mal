@@ -24525,6 +24525,25 @@
         "model_review_status": "reviewed",
         "model_review_note": "Undvik att räkna genre-romantik eller grundläggande motsatspar som positiv relationsdynamik utan faktisk utveckling och variation.",
         "linked_hypothesis_ids": []
+      },
+      "onimai_vs_kashimashi_gender_themes_20261118": {
+        "id": "onimai_vs_kashimashi_gender_themes_20261118",
+        "mal_ids": [
+          667
+        ],
+        "kind": "cross_work_comparison",
+        "verbatim": "onimai gjorde samma premiss med ecchi och fast pace comedy, och lyckades ändå få in könsroller, kvinnofrågor och en personlig utvekling. kashimashi gjorde det inte.",
+        "interpretation": "Onimai använde en liknande könsbytespremiss i ecchi och snabbt tempo comedy, men lyckades ändå behandla könsroller, frågor om kvinnors erfarenheter och personlig utveckling. Kashimashi upplevdes inte göra motsvarande arbete. Lättsam eller ecchi-inramning i sig utesluter alltså inte substans; skillnaden finns i hur premissen faktiskt utforskas och om karaktärerna utvecklas.",
+        "limitations": [
+          "Detta är användarens jämförelse mellan specifika verk; dra inte slutsatsen att alla ecchi-komedier hanterar kön väl eller att varje verk behöver identiska teman.",
+          "Bevara att Onimai bedöms positivare på tematisk användning trots sin ecchi/fast comedy-form."
+        ],
+        "source": "explicit_user_statement_in_current_chat",
+        "recorded_date": "2026-11-18",
+        "evidence_status": "direct_user_comparison",
+        "model_review_status": "reviewed",
+        "model_review_note": "Genreton och tematiskt djup ska hållas isär. Bedöm vad verket gör med könsbytespremissen, perspektiv, kvinnofrågor och faktisk personlig utveckling.",
+        "linked_hypothesis_ids": []
       }
     }
   }
