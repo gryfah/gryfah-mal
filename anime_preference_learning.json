@@ -24589,6 +24589,27 @@
         "model_review_status": "reviewed",
         "model_review_note": "Lagra som hypotes, inte som direkt kausal förklaring; användarens osäkerhet och MAL-betyget 5 begränsar slutsatsen.",
         "linked_hypothesis_ids": []
+      },
+      "zetsuen_no_tempest_premise_overload_20261118": {
+        "id": "zetsuen_no_tempest_premise_overload_20261118",
+        "mal_ids": [
+          14075
+        ],
+        "kind": "work_specific_reaction",
+        "verbatim": "för skrikig för fånig med häxa på öde ö utan problem att prata via träbit, nya moment och detaljer introducerades varje minut i 3 ep tills jag var klar",
+        "interpretation": "Zetsuen no Tempest tappade användaren genom ett skrikigt och fånigt tonläge, en häxa på en öde ö som utan problem kunde kommunicera via en träbit, och en ström av nya moment och detaljer som introducerades varje minut under de tre avsnitt användaren såg. Problemen verkar vara både premissens trovärdighet och överlastad introduktion: serien staplade nya idéer snabbare än den etablerade en grund att acceptera dem på.",
+        "limitations": [
+          "Uttalandet gäller de tre första avsnitten, inte senare utveckling.",
+          "'Träbit' och kommunikationen återger användarens minne; undvik att precisera lore utöver detta."
+        ],
+        "source": "explicit_user_statement_in_current_chat",
+        "recorded_date": "2026-11-18",
+        "evidence_status": "direct_user_explanation",
+        "model_review_status": "reviewed",
+        "model_review_note": "Skilj hastig informationsdosering från effektiv progression. Många nya detaljer kan skapa belastning om premissens regler och grundton ännu inte känns trovärdiga.",
+        "linked_hypothesis_ids": [
+          "narrative_pacing_and_progression"
+        ]
       }
     }
   }
