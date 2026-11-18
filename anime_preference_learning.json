@@ -24329,6 +24329,26 @@
         "model_review_status": "reviewed",
         "model_review_note": "Håll isär uppskattning av kvalitet/mening från återseendevilja och innehållstolerans. Verk kan vara värdefulla utan att användaren vill ha mer sådan exponering.",
         "linked_hypothesis_ids": []
+      },
+      "on_your_mark_outside_normal_competition_20261118": {
+        "id": "on_your_mark_outside_normal_competition_20261118",
+        "mal_ids": [
+          1047
+        ],
+        "kind": "exceptional_work_exemption",
+        "verbatim": "oh, on your mark. den är egentligen utanför tävlan. det är shage, det är miyazaki, det är känslan, det är experimentet. hela den är en blixt i en burk.",
+        "interpretation": "On Your Mark (8) anges uttryckligen vara utanför tävlan: verket är en unik sammansmältning av dess upphovspersoner, känslan och experimentet, beskriven som en blixt i en burk. Behandla betyget som en verksspecifik exceptionell uppskattning, inte som bevis för att kortformat, tystnad, musikvideoform eller någon enskild stilmarkör generellt förutsäger användarens smak.",
+        "limitations": [
+          "Användaren markerar uttryckligen verket som utanför tävlan.",
+          "Lämna termen 'shage' som användaren skrev den; tolka inte namnet utan förtydligande.",
+          "Använd inte detta särfall för att höja prediktioner för liknande musikvideor eller verk av samma regissör."
+        ],
+        "source": "explicit_user_statement_in_current_chat",
+        "recorded_date": "2026-11-18",
+        "evidence_status": "direct_user_explanation",
+        "model_review_status": "reviewed",
+        "model_review_note": "Lägg till explicit undantagsstatus. En exceptionell personlig upplevelse ska bevaras men hållas utanför allmänna prediktiva vikter.",
+        "linked_hypothesis_ids": []
       }
     }
   }
