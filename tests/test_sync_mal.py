@@ -21,25 +21,30 @@ def entry(mal_id, status, score=0):
 
 class ClassificationTests(unittest.TestCase):
     def test_all_state_transitions(self):
-        states = (None, "plan_to_watch", "completed", "dropped")
-        expected = {
-            None: ["next_up"],
-            "plan_to_watch": ["brief_needed"],
-            "completed": ["next_up", "post_watch"],
-            "dropped": ["next_up"],
-        }
+        states = (None, "plan_to_watch", "watching", "on_hold", "completed", "dropped")
+        def expected_signals(old, new):
+            if new == "plan_to_watch":
+                return ["brief_needed"]
+            signals = []
+            if old == "plan_to_watch" or new == "completed":
+                signals.append("next_up")
+            if new == "completed":
+                signals.append("post_watch")
+            return signals
         for old in states:
             for new in states:
                 with self.subTest(old=old, new=new):
                     events = find_events(entry(42, old), entry(42, new), NOW)
                     if old == new:
                         self.assertEqual(events, [])
-                    else:
+                    elif expected_signals(old, new):
                         self.assertEqual(len(events), 1)
-                        self.assertEqual(events[0]["signals"], expected[new])
+                        self.assertEqual(events[0]["signals"], expected_signals(old, new))
                         self.assertEqual(events[0]["mal_id"], 42)
                         self.assertEqual(events[0]["previous_status"], old)
                         self.assertEqual(events[0]["status"], new)
+                    else:
+                        self.assertEqual(events, [])
 
     def test_multiple_ids_and_unchanged_snapshot(self):
         before = (entry(1, "plan_to_watch")
@@ -77,11 +82,14 @@ class ClassificationTests(unittest.TestCase):
     def test_created_completed_and_dropped(self):
         for status, expected in (
             ("completed", ["next_up", "post_watch"]),
-            ("dropped", ["next_up"]),
+            ("dropped", []),
         ):
             with self.subTest(status=status):
                 events = find_events([], entry(101, status), NOW)
-                self.assertEqual(events[0]["signals"], expected)
+                if expected:
+                    self.assertEqual(events[0]["signals"], expected)
+                else:
+                    self.assertEqual(events, [])
 
     def test_event_retention_and_unique_ids(self):
         new_events = find_events([], entry(45, "completed", 7), NOW)
@@ -95,7 +103,44 @@ class ClassificationTests(unittest.TestCase):
         self.assertEqual(result["events"][0]["event_id"], new_events[0]["event_id"])
         rerun = prepare_results(result, new_events, NOW)
         self.assertEqual(len(rerun["events"]), 1)
-        self.assertNotIn("ptw_exits_pending", rerun)
+        self.assertEqual(rerun["ptw_exits_pending"], {})
+
+    def test_ptw_watching_on_hold_completed_one_next_up(self):
+        pending = {}
+        first = find_events(entry(73, "plan_to_watch"),
+                            entry(73, "watching"), NOW, pending)
+        self.assertEqual(first[0]["signals"], ["next_up"])
+        self.assertIn("73", pending)
+        second = find_events(entry(73, "watching"), entry(73, "on_hold"),
+                             NOW + timedelta(hours=1), pending)
+        self.assertEqual(second, [])
+        third = find_events(entry(73, "on_hold"), entry(73, "completed", 8),
+                            NOW + timedelta(hours=2), pending)
+        self.assertEqual(third[0]["signals"], ["post_watch"])
+        self.assertEqual(pending, {})
+
+    def test_ptw_exit_persists_across_sync_and_resets(self):
+        pending = {}
+        first = find_events(entry(74, "plan_to_watch"),
+                            entry(74, "dropped"), NOW, pending)
+        result = prepare_results({}, first, NOW, pending)
+        self.assertEqual(result["ptw_exits_pending"]["74"], first[0]["event_id"])
+
+        restored = dict(result["ptw_exits_pending"])
+        later = find_events(entry(74, "dropped"), entry(74, "completed", 6),
+                            NOW + timedelta(hours=2), restored)
+        self.assertEqual(later[0]["signals"], ["post_watch"])
+        self.assertNotIn("74", restored)
+        back_to_ptw = find_events(entry(74, "completed"),
+                                  entry(74, "plan_to_watch"),
+                                  NOW + timedelta(hours=3), restored)
+        self.assertEqual(back_to_ptw[0]["signals"], ["brief_needed"])
+        again = find_events(entry(74, "plan_to_watch"), entry(74, "watching"),
+                            NOW + timedelta(hours=4), restored)
+        self.assertEqual(again[0]["signals"], ["next_up"])
+
+    def test_new_dropped_does_not_trigger_next_up(self):
+        self.assertEqual(find_events([], entry(101, "dropped"), NOW), [])
 
     def test_duplicate_ids_fail_closed(self):
         one = entry(6, "plan_to_watch")
