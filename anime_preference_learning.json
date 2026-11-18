@@ -24710,6 +24710,29 @@
         "linked_hypothesis_ids": [
           "narrative_pacing_and_progression"
         ]
+      },
+      "azumanga_strike_eureka_structure_contrast_20261118": {
+        "id": "azumanga_strike_eureka_structure_contrast_20261118",
+        "mal_ids": [
+          66,
+          3667,
+          237
+        ],
+        "kind": "cross_work_structure_comparison",
+        "verbatim": "just så. och eureka försökte hålla en canon men den var så utdragen att den destillerades till inget.",
+        "interpretation": "Användaren bekräftar att Azumanga Daiohs sammanhängande tidsbåge bidrar till att dess fragmentariska upplägg fungerar bättre än Strike Witches återkommande slotfyllande loop. Eureka Seven visar att canon/serial continuity i sig inte räcker: när berättelsen dras ut överdrivet länge kan dess substans destilleras bort tills lite återstår. Den relevanta dimensionen är progression med meningsfull ackumulering och tempo, inte episodiskt kontra seriellt som binär.",
+        "limitations": [
+          "Eureka Seven är registrerad som droppad efter 17 avsnitt; omdömet gäller användarens upplevelse fram till droppet.",
+          "'Just så' bekräftar att kontinuitet är viktig i Azumanga/Strike Witches-kontrasten, men Eureka-kritiken visar att kontinuitet utan tillräckligt tempo inte räcker."
+        ],
+        "source": "explicit_user_statement_in_current_chat",
+        "recorded_date": "2026-11-18",
+        "evidence_status": "direct_user_comparison",
+        "model_review_status": "reviewed",
+        "model_review_note": "Behåll pacing och payoff som skilda dimensioner: kontinuitet kan stödja utveckling, men utdragen canon kan späda ut den. En sammanhängande säsongsarc är inte per automatik välframåtdriven.",
+        "linked_hypothesis_ids": [
+          "narrative_pacing_and_progression"
+        ]
       }
     }
   }
