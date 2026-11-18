@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-18T14:31:41.287871Z",
+  "updated_at": "2026-11-18T15:10:35.208621Z",
   "events": [
     {
       "event_id": "20261112T071126416896Z-59848-plan_to_watch-to-completed",
@@ -15,6 +15,20 @@
         "post_watch"
       ],
       "mal_url": "https://myanimelist.net/anime/59848"
+    },
+    {
+      "event_id": "20261118T151035208621Z-12119-plan_to_watch-to-completed",
+      "detected_at": "2026-11-18T15:10:35.208621Z",
+      "mal_id": 12119,
+      "title": "Natsu-iro Kiseki",
+      "previous_status": "plan_to_watch",
+      "status": "completed",
+      "score": 6,
+      "signals": [
+        "next_up",
+        "post_watch"
+      ],
+      "mal_url": "https://myanimelist.net/anime/12119"
     }
   ]
 }
