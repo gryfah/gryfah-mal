@@ -24251,6 +24251,27 @@
         "model_review_status": "reviewed",
         "model_review_note": "Skilj strukturell komplexitet från publikens känsla av tillträde och investering. En begriplig lösning eller välgjort ljudspår räcker inte om gestaltningen håller tittaren på avstånd.",
         "linked_hypothesis_ids": []
+      },
+      "mai_hime_nine_episodes_time_wasted_20261118": {
+        "id": "mai_hime_nine_episodes_time_wasted_20261118",
+        "mal_ids": [
+          98
+        ],
+        "kind": "work_specific_reaction",
+        "verbatim": "den fick 9 ep för att försöka få tag i mig men spenderade dem inte väl. min tid slösades bort.",
+        "interpretation": "Användaren gav Mai-HiME nio avsnitt för att serien skulle kunna fånga intresset, men upplevde att den inte använde den möjligheten väl och att tiden därmed gick till spillo. Droppet bör förstås som att serien inte lyckades förtjäna fortsatt investering efter en rejäl chans, inte som en automatisk aversion mot långsam uppbyggnad.",
+        "limitations": [
+          "Användaren anger inte en enskild konkret brist utöver att serien inte använde de nio avsnitten väl.",
+          "Dra inte slutsatser om vilken senare övergång eller twist hade kunnat rädda serien."
+        ],
+        "source": "explicit_user_statement_in_current_chat",
+        "recorded_date": "2026-11-18",
+        "evidence_status": "direct_user_explanation",
+        "model_review_status": "reviewed",
+        "model_review_note": "Avsnittsantal före drop är ett mått på att verket fick en chans, inte bevis på att tittaren bara saknade tålamod. Omfattande investering utan utdelning är en relevant negativ signal.",
+        "linked_hypothesis_ids": [
+          "narrative_pacing_and_progression"
+        ]
       }
     }
   }
