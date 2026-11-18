@@ -1,0 +1,245 @@
+mal_id,title,status,release_year,release_season,predicted_score_if_completed,approx_abs_error_p80
+1470,City Hunter,dropped,1987,spring,6.72,1.2
+1251,Fushigi no Umi no Nadia,dropped,1990,spring,6.79,1.2
+3152,Down Load: Namu Amida Butsu wa Ai no Uta,plan_to_watch,1992,fall,6.45,1.2
+573,Saber Marionette J,dropped,1996,fall,6.62,1.2
+366,AIKa,dropped,1997,spring,5.93,1.2
+458,Buttobi!! CPU,dropped,1997,spring,6.56,1.2
+145,Kareshi Kanojo no Jijou,dropped,1998,fall,7.34,1.2
+568,Bubblegum Crisis Tokyo 2040,dropped,1998,fall,7.22,1.2
+2245,Seraphim Call,dropped,1999,fall,6.91,1.2
+180,Vandread,dropped,2000,fall,7.04,1.2
+253,Jungle wa Itsumo Hare nochi Guu,dropped,2001,spring,6.83,1.2
+208,R.O.D: Read or Die,dropped,2001,spring,6.49,1.2
+195,Onegai☆Teacher,dropped,2002,winter,7.28,1.2
+222,Mezzo DSA,dropped,2004,winter,6.85,1.2
+102,Aishiteruze Baby★★,dropped,2004,spring,7.32,1.2
+98,Mai-HiME,dropped,2004,fall,6.09,1.2
+16,Hachimitsu to Clover,dropped,2005,spring,7.54,1.2
+237,Koukyoushihen Eureka Seven,dropped,2005,spring,6.54,1.2
+390,Suzuka,dropped,2005,summer,7.16,1.2
+79,Shuffle!,dropped,2005,summer,6.53,1.2
+228,Jigoku Shoujo,dropped,2005,fall,7.45,1.2
+457,Mushishi,dropped,2005,fall,6.93,1.2
+667,Kashimashi: Girl Meets Girl,dropped,2006,winter,6.7,1.2
+962,Aria the Natural,plan_to_watch,2006,spring,7.01,1.2
+1210,NHK ni Youkoso!,dropped,2006,summer,7.33,1.2
+1698,Nodame Cantabile,dropped,2007,winter,7.55,1.2
+2476,School Days,dropped,2007,summer,6.81,1.2
+2605,Sayonara Zetsubou Sensei,dropped,2007,summer,6.44,1.2
+2924,ef: A Tale of Memories.,dropped,2007,fall,7.15,1.2
+2963,Minami-ke,dropped,2007,fall,6.88,1.2
+2993,Rosario to Vampire,plan_to_watch,2008,winter,6.86,1.2
+3731,Itazura na Kiss,dropped,2008,spring,7.4,1.2
+5671,Saki,dropped,2009,spring,6.71,1.2
+6098,Sora no Manimani,plan_to_watch,2009,summer,6.56,1.2
+5678,Kobato.,dropped,2009,fall,7.4,1.2
+6203,Sasameki Koto,dropped,2009,fall,7.16,1.2
+7647,Arakawa Under the Bridge,dropped,2010,spring,7.49,1.2
+7769,Ookami-san to Shichinin no Nakama-tachi,dropped,2010,summer,6.61,1.2
+8676,Amagami SS,dropped,2010,summer,7.0,1.2
+7627,Mitsudomoe,dropped,2010,summer,6.58,1.2
+8675,Seitokai Yakuindomo,dropped,2010,summer,6.49,1.2
+7724,Shiki,dropped,2010,summer,7.38,1.2
+9055,Tamayura,plan_to_watch,2010,summer,7.31,1.2
+8726,Soredemo Machi wa Mawatteiru,dropped,2010,fall,6.82,1.2
+9330,Dragon Crisis!,dropped,2011,winter,6.38,1.2
+10490,Blood-C,plan_to_watch,2011,summer,6.93,1.2
+10719,Boku wa Tomodachi ga Sukunai,plan_to_watch,2011,fall,7.75,1.2
+11433,Ano Natsu de Matteru,dropped,2012,winter,7.16,1.2
+11013,Inu x Boku SS,dropped,2012,winter,6.89,1.2
+12119,Natsu-iro Kiseki,plan_to_watch,2012,spring,6.67,1.2
+14075,Zetsuen no Tempest,dropped,2012,fall,6.93,1.2
+14749,Ore no Kanojo to Osananajimi ga Shuraba Sugiru,dropped,2013,winter,6.99,1.2
+14811,GJ-bu,plan_to_watch,2013,winter,6.49,1.2
+14175,Hanasaku Iroha Movie: Home Sweet Home,dropped,2013,winter,7.29,1.2
+15583,Date A Live,plan_to_watch,2013,spring,6.81,1.2
+14669,Aura: Maryuuin Kouga Saigo no Tatakai,dropped,2013,spring,7.49,1.2
+18507,Free!,plan_to_watch,2013,summer,6.6,1.2
+17895,Golden Time,dropped,2013,fall,7.32,1.2
+18679,Kill la Kill,dropped,2013,fall,6.73,1.2
+17549,Non Non Biyori,dropped,2013,fall,6.69,1.2
+18671,Chuunibyou demo Koi ga Shitai! Ren,plan_to_watch,2014,winter,6.81,1.2
+20541,Mikakunin de Shinkoukei,dropped,2014,winter,6.77,1.2
+18095,Nourin,plan_to_watch,2014,winter,6.79,1.2
+18897,Nisekoi,plan_to_watch,2014,winter,6.98,1.2
+23427,Oneechan ga Kita: Hajimete no… Kitaa!,plan_to_watch,2014,winter,6.49,1.2
+21431,Gokukoku no Brynhildr,plan_to_watch,2014,spring,6.25,1.2
+22101,Soredemo Sekai wa Utsukushii,dropped,2014,spring,7.29,1.2
+19685,Kanojo ga Flag wo Oraretara,dropped,2014,spring,7.72,1.2
+21327,Isshuukan Friends.,plan_to_watch,2014,spring,7.61,1.2
+19815,No Game No Life,dropped,2014,spring,6.92,1.2
+21273,Gochuumon wa Usagi desu ka?,plan_to_watch,2014,spring,6.75,1.2
+19193,Koukaku Kidoutai Arise: Ghost in the Shell - Border:3 Ghost Tears,plan_to_watch,2014,spring,7.66,1.2
+22865,Rokujouma no Shinryakusha!?,plan_to_watch,2014,summer,6.95,1.2
+24031,Denki-gai no Honya-san,dropped,2014,fall,6.81,1.2
+23321,Log Horizon 2nd Season,plan_to_watch,2014,fall,7.4,1.2
+17729,Grisaia no Kajitsu,dropped,2014,fall,7.43,1.2
+25835,Shirobako,dropped,2014,fall,7.38,1.2
+25519,Yuuki Yuuna wa Yuusha de Aru,plan_to_watch,2014,fall,6.54,1.2
+25681,Kamisama Hajimemashita◎,dropped,2015,winter,7.69,1.2
+26165,Yuri Kuma Arashi,dropped,2015,winter,6.89,1.2
+23233,Shinmai Maou no Testament,plan_to_watch,2015,winter,6.9,1.2
+23587,The iDOLM@STER Cinderella Girls,plan_to_watch,2015,winter,7.58,1.2
+28223,Death Parade,dropped,2015,winter,6.91,1.2
+21573,Senki Zesshou Symphogear GX,plan_to_watch,2015,summer,7.04,1.2
+29785,Jitsu wa Watashi wa,dropped,2015,summer,6.79,1.2
+30127,Danchigai,plan_to_watch,2015,summer,6.58,1.2
+31442,Musaigen no Phantom World,dropped,2016,winter,6.6,1.2
+31414,Nijiiro Days,plan_to_watch,2016,winter,6.47,1.2
+30831,Kono Subarashii Sekai ni Shukufuku wo!,plan_to_watch,2016,winter,6.49,1.2
+31798,Kiznaiver,plan_to_watch,2016,spring,7.55,1.2
+32828,Amaama to Inazuma,dropped,2016,summer,7.54,1.2
+31771,Amanchu!,plan_to_watch,2016,summer,7.86,1.2
+33421,Yi Ren Zhi Xia,dropped,2016,summer,6.02,1.2
+32360,Qualidea Code,dropped,2016,summer,6.63,1.2
+32281,Kimi no Na wa.,dropped,2016,summer,7.66,1.2
+32686,Keijo!!!!!!!!,dropped,2016,fall,6.85,1.2
+32979,Flip Flappers,dropped,2016,fall,7.19,1.2
+31422,Minami Kamakura Koukou Joshi Jitensha-bu,dropped,2017,winter,6.93,1.2
+33475,Busou Shoujo Machiavellianism,plan_to_watch,2017,spring,6.38,1.2
+33948,Hinako Note,plan_to_watch,2017,spring,6.93,1.2
+32901,Eromanga-sensei,dropped,2017,spring,7.32,1.2
+34636,Ballroom e Youkoso,dropped,2017,summer,7.2,1.2
+31456,Code:Realize - Sousei no Himegimi,dropped,2017,fall,7.01,1.2
+35712,Boku no Kanojo ga Majimesugiru Sho-bitch na Ken,plan_to_watch,2017,fall,6.39,1.2
+35889,Hakata Tonkotsu Ramens,dropped,2018,winter,6.83,1.2
+37033,Emiya-san Chi no Kyou no Gohan,dropped,2018,winter,7.42,1.2
+35249,Uma Musume: Pretty Derby,plan_to_watch,2018,spring,7.15,1.2
+35968,Wotaku ni Koi wa Muzukashii,dropped,2018,spring,7.21,1.2
+35677,Liz to Aoi Tori,plan_to_watch,2018,spring,7.72,1.2
+35672,Yama no Susume Third Season,dropped,2018,summer,7.5,1.2
+36873,Back Street Girls: Gokudolls,dropped,2018,summer,7.23,1.2
+37497,Irozuku Sekai no Ashita kara,plan_to_watch,2018,fall,7.51,1.2
+37979,Mahou Shoujo Tokushusen Asuka,dropped,2019,winter,6.78,1.2
+38935,Miru Tights,plan_to_watch,2019,spring,6.79,1.2
+36999,Zoku Owarimonogatari,plan_to_watch,2019,spring,6.57,1.2
+38619,Joshikousei no Mudazukai,plan_to_watch,2019,summer,6.66,1.2
+39071,Machikado Mazoku,dropped,2019,summer,6.66,1.2
+38816,Hello World,dropped,2019,summer,7.42,1.2
+38414,Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna,plan_to_watch,2019,fall,7.51,1.2
+38992,Rikei ga Koi ni Ochita no de Shoumei shitemita.,dropped,2020,winter,6.58,1.2
+40392,Runway de Waratte,dropped,2020,winter,7.09,1.2
+39730,Houkago Teibou Nisshi,plan_to_watch,2020,spring,7.04,1.2
+40956,Enen no Shouboutai: Ni no Shou,dropped,2020,summer,7.13,1.2
+41389,Tonikaku Kawaii,dropped,2020,fall,6.86,1.2
+42571,Dogeza de Tanondemita,dropped,2020,fall,6.31,1.2
+40747,Dounika Naru Hibi,plan_to_watch,2020,fall,7.46,1.2
+41025,Fumetsu no Anata e,plan_to_watch,2021,spring,7.82,1.2
+41169,Love Live! Superstar!!,plan_to_watch,2021,summer,7.29,1.2
+48753,Jahy-sama wa Kujikenai!,dropped,2021,summer,6.77,1.2
+49160,Shachiku-san wa Youjo Yuurei ni Iyasaretai.,plan_to_watch,2022,spring,6.49,1.2
+48675,Kakkou no Iinazuke,dropped,2022,spring,7.18,1.2
+41084,Made in Abyss: Retsujitsu no Ougonkyou,dropped,2022,summer,6.7,1.2
+48413,Hataraku Maou-sama!!,dropped,2022,summer,6.76,1.2
+50594,Suzume no Tojimari,plan_to_watch,2022,fall,7.4,1.2
+51105,NieR:Automata Ver1.1a,plan_to_watch,2023,winter,7.32,1.2
+51815,Kubo-san wa Mob wo Yurusanai,dropped,2023,winter,6.74,1.2
+50307,Tonikaku Kawaii 2nd Season,dropped,2023,spring,7.47,1.2
+52081,Edomae Elf,plan_to_watch,2023,spring,7.27,1.2
+52211,Mashle,plan_to_watch,2023,spring,6.75,1.2
+53621,Jijou wo Shiranai Tenkousei ga Guigui Kuru.,plan_to_watch,2023,spring,7.69,1.2
+52034,[Oshi no Ko],dropped,2023,spring,7.12,1.2
+53632,Yumemiru Danshi wa Genjitsushugisha,dropped,2023,summer,6.88,1.2
+54112,Zom 100: Zombie ni Naru made ni Shitai 100 no Koto,plan_to_watch,2023,summer,7.46,1.2
+49303,Alice to Therese no Maboroshi Koujou,plan_to_watch,2023,summer,7.84,1.2
+53237,Shy,plan_to_watch,2023,fall,7.0,1.2
+54362,Hametsu no Oukoku,dropped,2023,fall,6.92,1.2
+55973,30-sai made Doutei dato Mahoutsukai ni Nareru Rashii,plan_to_watch,2024,winter,7.07,1.2
+56175,Oomuro-ke: Dear Sisters,plan_to_watch,2024,winter,7.13,1.2
+51122,Ookami to Koushinryou: Merchant Meets the Wise Wolf,plan_to_watch,2024,spring,6.93,1.2
+55597,Hananoi-kun to Koi no Yamai,plan_to_watch,2024,spring,7.58,1.2
+55888,Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2,plan_to_watch,2024,spring,7.48,1.2
+53912,Seiyuu Radio no Uraomote,plan_to_watch,2024,spring,6.91,1.2
+52588,Kaijuu 8-gou,plan_to_watch,2024,spring,6.98,1.2
+58883,Dead Dead Demons Dededede Destruction (ONA),dropped,2024,spring,6.68,1.2
+57993,Oomuro-ke: Dear Friends,plan_to_watch,2024,spring,7.29,1.2
+54744,Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san,plan_to_watch,2024,summer,6.88,1.2
+53802,2.5-jigen no Ririsa,dropped,2024,summer,7.38,1.2
+54855,Senpai wa Otokonoko,plan_to_watch,2024,summer,6.99,1.2
+54968,Giji Harem,plan_to_watch,2024,summer,7.1,1.2
+56063,NieR:Automata Ver1.1a Part 2,plan_to_watch,2024,summer,7.52,1.2
+57099,Na Nare Hana Nare,plan_to_watch,2024,summer,6.97,1.2
+58426,Shikanoko Nokonoko Koshitantan,plan_to_watch,2024,summer,6.46,1.2
+57947,Mayonaka Punch,plan_to_watch,2024,summer,6.99,1.2
+55996,Koi wa Futago de Warikirenai,plan_to_watch,2024,summer,7.15,1.2
+53128,Atri: My Dear Moments,plan_to_watch,2024,summer,7.77,1.2
+57524,Make Heroine ga Oosugiru!,plan_to_watch,2024,summer,7.11,1.2
+57192,Yeosin Gangnim,plan_to_watch,2024,summer,7.15,1.2
+52080,Murai no Koi,plan_to_watch,2024,summer,6.29,1.2
+55071,Amagami-san Chi no Enmusubi,plan_to_watch,2024,fall,6.92,1.2
+55887,"Kekkon suru tte, Hontou desu ka",plan_to_watch,2024,fall,7.37,1.2
+57181,Ao no Hako,plan_to_watch,2024,fall,7.31,1.2
+59425,NegaPosi Angler,plan_to_watch,2024,fall,7.46,1.2
+54726,"Tsuma, Shougakusei ni Naru.",plan_to_watch,2024,fall,7.2,1.2
+57611,Kimi wa Meido-sama.,plan_to_watch,2024,fall,7.2,1.2
+56964,Raise wa Tanin ga Ii,plan_to_watch,2024,fall,6.88,1.2
+58600,Ameku Takao no Suiri Karte,plan_to_watch,2025,winter,6.36,1.2
+59135,Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.,plan_to_watch,2025,winter,7.25,1.2
+58473,"S-Rank Monster no ""Behemoth"" dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu",plan_to_watch,2025,winter,7.03,1.2
+55842,Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru,plan_to_watch,2025,winter,6.62,1.2
+58853,Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai,plan_to_watch,2025,winter,7.26,1.2
+58271,Honey Lemon Soda,plan_to_watch,2025,winter,7.3,1.2
+57648,Nihon e Youkoso Elf-san.,plan_to_watch,2025,winter,7.12,1.2
+58259,"Douse, Koishite Shimaunda.",plan_to_watch,2025,winter,6.77,1.2
+59457,"Haite Kudasai, Takamine-san",plan_to_watch,2025,spring,6.87,1.2
+60293,Ballpark de Tsukamaete!,plan_to_watch,2025,spring,7.18,1.2
+52709,"Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)",plan_to_watch,2025,spring,7.21,1.2
+59597,Witch Watch,plan_to_watch,2025,spring,6.4,1.2
+59744,Maebashi Witches,plan_to_watch,2025,spring,7.01,1.2
+50694,Summer Pockets,plan_to_watch,2025,spring,6.99,1.2
+59466,Aharen-san wa Hakarenai Season 2,plan_to_watch,2025,spring,7.52,1.2
+58131,Shiunji-ke no Kodomotachi,plan_to_watch,2025,spring,7.03,1.2
+59675,Apocalypse Hotel,plan_to_watch,2025,spring,6.78,1.2
+58492,Mono,plan_to_watch,2025,spring,7.17,1.2
+56693,Watari-kun no xx ga Houkai Sunzen,plan_to_watch,2025,summer,7.47,1.2
+58957,9: Ruler's Crown,plan_to_watch,2025,summer,6.95,1.2
+59459,Silent Witch: Chinmoku no Majo no Kakushigoto,plan_to_watch,2025,summer,7.2,1.2
+53065,Sono Bisque Doll wa Koi wo Suru Season 2,plan_to_watch,2025,summer,7.59,1.2
+59161,Bad Girl,dropped,2025,summer,7.22,1.2
+59619,Ame to Kimi to,plan_to_watch,2025,summer,6.98,1.2
+60508,"Food Court de, Mata Ashita.",plan_to_watch,2025,summer,7.15,1.2
+60326,"Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)",plan_to_watch,2025,summer,7.34,1.2
+59207,"Mikadono Sanshimai wa Angai, Choroi.",plan_to_watch,2025,summer,7.93,1.2
+55689,Utagoe wa Mille-Feuille,plan_to_watch,2025,summer,7.28,1.2
+57969,Nukitashi the Animation,plan_to_watch,2025,summer,6.8,1.2
+60254,Yano-kun no Futsuu no Hibi,plan_to_watch,2025,fall,7.38,1.2
+60969,Taiyou yori mo Mabushii Hoshi,plan_to_watch,2025,fall,7.17,1.2
+59817,Girls Band Cry Movie,plan_to_watch,2025,fall,7.13,1.2
+61917,Towa no Yuugure,plan_to_watch,2025,fall,7.17,1.2
+47158,Tomodachi no Imouto ga Ore ni dake Uzai,plan_to_watch,2025,fall,7.17,1.2
+60781,Alma-chan wa Kazoku ni Naritai,plan_to_watch,2025,fall,7.24,1.2
+61142,Sawaranaide Kotesashi-kun,plan_to_watch,2025,fall,7.39,1.2
+59517,Chitose-kun wa Ramune Bin no Naka,plan_to_watch,2025,fall,7.34,1.2
+60765,Kimi to Koete Koi ni Naru,plan_to_watch,2025,fall,7.74,1.2
+62405,Fujimoto Tatsuki 17-26,plan_to_watch,2025,fall,7.18,1.2
+56009,Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku,plan_to_watch,2026,winter,6.76,1.2
+61782,Kirei ni Shitemoraemasu ka.,plan_to_watch,2026,winter,7.41,1.2
+61211,Mayonaka Heart Tune,plan_to_watch,2026,winter,6.83,1.2
+60395,Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari,plan_to_watch,2026,winter,6.97,1.2
+61694,Android wa Keiken Ninzuu ni Hairimasu ka??,plan_to_watch,2026,winter,7.43,1.2
+60223,Kaya-chan wa Kowakunai,dropped,2026,winter,6.89,1.2
+60371,Seihantai na Kimi to Boku,plan_to_watch,2026,winter,8.0,1.2
+62432,Jingai Kyoushitsu no Ningengirai Kyoushi,plan_to_watch,2026,winter,7.66,1.2
+56876,Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2,plan_to_watch,2026,spring,7.02,1.2
+59443,Reincarnation no Kaben,plan_to_watch,2026,spring,6.91,1.2
+62068,Snowball Earth,plan_to_watch,2026,spring,7.75,1.2
+61501,Kanan-sama wa Akumade Choroi,plan_to_watch,2026,spring,6.42,1.2
+61425,Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi,plan_to_watch,2026,spring,7.14,1.2
+63248,Ookii Onnanoko wa Suki desu ka?,plan_to_watch,2026,spring,6.59,1.2
+53732,Hidarikiki no Eren,plan_to_watch,2026,spring,7.32,1.2
+62604,Otaku ni Yasashii Gal wa Inai!?,plan_to_watch,2026,spring,7.13,1.2
+60444,Yowayowa Sensei,plan_to_watch,2026,spring,6.98,1.2
+61186,"Kamiina Botan, Yoeru Sugata wa Yuri no Hana",plan_to_watch,2026,spring,6.93,1.2
+63082,Reiwa no Dara-san,plan_to_watch,2026,summer,6.86,1.2
+62051,Grow Up Show: Himawari no Circus-dan,plan_to_watch,2026,summer,7.31,1.2
+56735,"Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken",plan_to_watch,2026,summer,6.87,1.2
+58878,Sayonara Lara,plan_to_watch,2026,summer,7.38,1.2
+62936,"Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",plan_to_watch,2026,summer,7.17,1.2
+61126,Kimi ga Shinu made Koi wo Shitai,plan_to_watch,2026,summer,7.23,1.2
+49233,Youjo Senki II,plan_to_watch,2026,summer,6.78,1.2
+62476,Tefuda ga Oome no Victoria,plan_to_watch,2026,summer,7.49,1.2
+62524,#Zombie Sagashitemasu,plan_to_watch,2026,fall,6.76,1.2
+61578,Seitokai ni mo Ana wa Aru!,plan_to_watch,2026,fall,6.6,1.2
+63293,Hotaru no Yomeiri,plan_to_watch,2026,fall,6.97,1.2
+63188,Ruri Dragon,plan_to_watch,,,7.0,1.2

@@ -1,0 +1,527 @@
+mal_id,title,year,season,actual,predicted,median_prediction,residual
+2452,Space Adventure Cobra,1982,summer,6,6.54,7.0,-0.54
+1088,Macross,1982,fall,7,7.23,7.0,-0.23
+572,Kaze no Tani no Nausicaä,1984,winter,8,7.47,7.0,0.53
+1285,Soukihei MD Geist,1986,spring,6,6.07,7.0,-0.07
+513,Tenkuu no Shiro Laputa,1986,summer,8,7.22,7.0,0.78
+1347,Bubblegum Crisis,1987,winter,7,7.09,7.0,-0.09
+1034,Ouritsu Uchuugun: Honneamise no Tsubasa,1987,winter,8,7.73,7.0,0.27
+1270,Black Magic M-66,1987,spring,5,6.95,7.0,-1.95
+523,Tonari no Totoro,1988,spring,8,6.76,7.0,1.24
+578,Hotaru no Haka,1988,spring,5,7.15,7.0,-2.15
+937,Appleseed,1988,spring,7,6.9,7.0,0.1
+1288,Kidou Keisatsu Patlabor,1988,spring,7,6.98,7.0,0.02
+1151,Dominion,1988,spring,7,6.59,7.0,0.41
+47,Akira,1988,summer,8,7.01,7.0,0.99
+949,Top wo Nerae! Gunbuster,1988,fall,8,7.09,7.0,0.91
+544,Venus Senki,1989,winter,6,7.19,7.0,-1.19
+1095,Kidou Keisatsu Patlabor the Movie,1989,summer,7,7.35,7.0,-0.35
+512,Majo no Takkyuubin,1989,summer,8,7.5,7.0,0.5
+6016,Kyoushoku Soukou Guyver (1989),1989,summer,5,6.67,7.0,-1.67
+1289,Kidou Keisatsu Patlabor: New OVA,1990,fall,6,7.45,7.0,-1.45
+1280,Mamono Hunter Youko,1990,fall,6,6.64,7.0,-0.64
+1029,Omoide Poroporo,1991,summer,8,7.38,7.0,0.62
+13715,Kennel Tokorozawa,1992,winter,5,6.53,7.0,-1.53
+416,Kurenai no Buta,1992,summer,7,7.71,7.0,-0.71
+3989,Suna no Bara: Yuki no Mokushiroku,1993,spring,7,6.39,7.0,0.61
+1016,Gunnm,1993,spring,7,7.14,7.0,-0.14
+1096,Kidou Keisatsu Patlabor 2 the Movie,1993,summer,8,7.51,7.0,0.49
+1152,Tokusou Senshatai Dominion,1993,fall,7,6.66,7.0,0.34
+2332,Plastic Little,1994,winter,6,6.42,7.0,-0.42
+1030,Heisei Tanuki Gassen Ponpoko,1994,spring,7,7.09,7.0,-0.09
+474,Macross Plus,1994,summer,8,6.97,7.0,1.03
+1577,Taiho Shichau zo,1994,summer,6,6.9,7.0,-0.9
+435,Magic Knight Rayearth,1994,fall,6,6.93,7.0,-0.93
+1457,Key the Metal Idol,1994,fall,7,7.23,7.0,-0.23
+1079,Armitage III,1995,winter,7,7.13,7.0,-0.13
+1047,On Your Mark,1995,spring,8,6.87,7.0,1.13
+585,Mimi wo Sumaseba,1995,summer,8,7.51,7.0,0.49
+30,Shinseiki Evangelion,1995,fall,8,7.94,7.0,0.06
+1211,Macross Plus Movie Edition,1995,fall,8,7.22,7.0,0.78
+650,Gunsmith Cats,1995,fall,6,6.7,7.0,-0.7
+43,Koukaku Kidoutai,1995,fall,9,7.53,7.0,1.47
+1462,Memories,1995,fall,7,7.16,7.0,-0.16
+1286,Soukihei MD Geist 2: Death Force,1996,winter,6,6.92,7.0,-0.92
+182,Tenkuu no Escaflowne,1996,spring,8,6.99,7.0,1.01
+493,Armitage III: Poly-Matrix,1996,spring,6,7.13,7.0,-1.13
+31,Shinseiki Evangelion Movie: Shi to Shinsei,1997,winter,8,7.77,7.0,0.23
+440,Shoujo Kakumei Utena,1997,spring,7,7.44,7.0,-0.44
+164,Mononoke Hime,1997,summer,8,6.98,7.0,1.02
+32,"Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni",1997,summer,8,7.6,7.0,0.4
+320,A Kite,1998,winter,6,7.17,7.0,-1.17
+437,Perfect Blue,1998,winter,8,7.21,7.0,0.79
+6,Trigun,1998,spring,6,6.91,7.0,-0.91
+1,Cowboy Bebop,1998,spring,8,7.14,7.0,0.86
+339,Serial Experiments Lain,1998,summer,8,6.89,7.0,1.11
+420,Spriggan,1998,summer,8,6.56,7.0,1.44
+1051,Ao no 6-gou,1998,fall,7,8.01,7.0,-1.01
+369,Boogiepop wa Warawanai,2000,winter,6,7.22,7.0,-1.22
+221,Mezzo Forte,2000,spring,7,6.94,7.0,0.06
+522,Metropolis,2001,spring,8,7.14,7.0,0.86
+1177,Alien 9,2001,spring,6,6.55,7.0,-0.55
+199,Sen to Chihiro no Kamikakushi,2001,summer,8,7.3,7.0,0.7
+59,Chobits,2002,spring,7,7.73,7.0,-0.73
+66,Azumanga Daiou The Animation,2002,spring,7,6.74,7.0,0.26
+492,Armitage III: Dual-Matrix,2002,spring,6,7.21,7.0,-1.21
+7,Witch Hunter Robin,2002,summer,5,7.07,7.0,-2.07
+467,Koukaku Kidoutai: Stand Alone Complex,2002,fall,8,7.09,7.0,0.91
+387,Haibane Renmei,2002,fall,7,7.41,7.0,-0.41
+97,Last Exile,2003,spring,7,6.9,7.0,0.1
+167,Scrapped Princess,2003,spring,8,6.42,7.0,1.58
+294,Divergence Eve,2003,summer,6,6.68,7.0,-0.68
+196,Onegai☆Twins,2003,summer,5,6.92,7.0,-1.92
+134,Gunslinger Girl,2003,fall,8,7.45,7.0,0.55
+801,Koukaku Kidoutai: Stand Alone Complex 2nd GIG,2004,winter,8,7.43,7.0,0.57
+634,Koi Kaze,2004,spring,8,6.78,7.0,1.22
+226,Elfen Lied,2004,summer,7,7.02,7.0,-0.02
+1002,Top wo Nerae 2! Diebuster,2004,fall,7,7.58,7.0,-0.58
+239,Gankutsuou,2004,fall,8,6.95,7.0,1.05
+101,Air,2005,winter,7,7.23,7.0,-0.23
+488,Ichigo Mashimaro,2005,summer,8,6.51,7.0,1.49
+694,Canvas 2: Nijiiro no Sketch,2005,fall,6,7.37,7.0,-1.37
+855,Strawberry Panic,2006,spring,7,7.66,7.0,-0.66
+877,Nana,2006,spring,8,7.03,7.0,0.97
+934,Higurashi no Naku Koro ni,2006,spring,8,7.05,7.0,0.95
+935,Witchblade,2006,spring,8,6.67,7.0,1.33
+889,Black Lagoon,2006,spring,7,6.81,7.0,0.19
+1519,Black Lagoon: The Second Barrage,2006,fall,7,7.11,7.0,-0.11
+1530,Kanon (2006),2006,fall,7,7.02,7.0,-0.02
+1888,Ichigo Mashimaro OVA,2007,winter,7,6.3,7.0,0.7
+2025,Darker than Black: Kuro no Keiyakusha,2007,spring,7,7.04,7.0,-0.04
+2034,Lovely★Complex,2007,spring,7,7.4,7.0,-0.4
+1887,Lucky☆Star,2007,spring,7,7.16,7.0,-0.16
+2759,Evangelion Movie 1: Jo,2007,summer,9,7.45,7.0,1.55
+2926,Myself; Yourself,2007,fall,5,7.62,7.0,-2.62
+2167,Clannad,2007,fall,7,7.5,7.0,-0.5
+2403,Kodomo no Jikan (TV),2007,fall,6,6.97,7.0,-0.97
+3456,Candy☆Boy: Side Story For Archive,2007,fall,7,6.58,7.0,0.42
+2593,Kara no Kyoukai Movie 1: Fukan Fuukei,2007,fall,7,7.18,7.0,-0.18
+3782,Kara no Kyoukai Movie 2: Satsujin Kousatsu (Zen),2007,fall,7,7.5,7.0,-0.5
+3299,H2O: Footprints in the Sand,2008,winter,6,6.86,7.0,-0.86
+2129,True Tears,2008,winter,7,7.6,7.0,-0.6
+3342,Mnemosyne: Mnemosyne no Musume-tachi,2008,winter,8,6.96,7.0,1.04
+3783,Kara no Kyoukai Movie 3: Tsuukaku Zanryuu,2008,winter,7,6.81,7.0,0.19
+3323,Kite Liberator,2008,winter,6,6.73,7.0,-0.73
+3503,Kanokon,2008,spring,6,6.44,7.0,-0.44
+4535,Candy Boy: Nonchalant Talk of the Certain Twin Sisters in Daily Life,2008,spring,7,6.59,7.0,0.41
+4280,Kara no Kyoukai Movie 4: Garan no Dou,2008,spring,7,6.81,7.0,0.19
+3667,Strike Witches,2008,summer,5,6.89,7.0,-1.89
+3467,Nogizaka Haruka no Himitsu,2008,summer,6,6.74,7.0,-0.74
+4059,"Clannad: Mou Hitotsu no Sekai, Tomoyo-hen",2008,summer,7,6.93,7.0,0.07
+5116,Candy Boy Episode: EX01 - Mirai Yohouzu,2008,summer,7,6.81,7.0,0.19
+4282,Kara no Kyoukai Movie 5: Mujun Rasen,2008,summer,7,7.24,7.0,-0.24
+4472,Lucky☆Star: Original na Visual to Animation,2008,summer,6,7.0,7.0,-1.0
+4224,Toradora!,2008,fall,9,7.64,7.0,1.36
+4181,Clannad: After Story,2008,fall,7,7.75,7.0,-0.75
+4654,Toaru Majutsu no Index,2008,fall,7,6.54,7.0,0.46
+4903,Kyou no 5 no 2 (TV),2008,fall,6,6.99,7.0,-0.99
+4087,Michiko to Hatchin,2008,fall,6,7.05,7.0,-1.05
+5204,Kara no Kyoukai Movie 6: Boukyaku Rokuon,2008,fall,7,7.03,7.0,-0.03
+5042,Kiss x Sis,2008,fall,6,6.81,7.0,-0.81
+4811,Ichigo Mashimaro Encore,2009,winter,6,6.76,7.0,-0.76
+5680,K-On!,2009,spring,7,6.92,7.0,0.08
+5507,Senjou no Valkyria,2009,spring,6,6.97,7.0,-0.97
+5150,Hatsukoi Limited.,2009,spring,7,7.04,7.0,-0.04
+6479,Candy Boy Episode: EX02 - Shiawase Kyouyuu Riron,2009,spring,7,6.48,7.0,0.52
+3784,Evangelion Movie 2: Ha,2009,spring,9,7.64,7.0,1.36
+6351,"Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen",2009,summer,7,7.05,7.0,-0.05
+6164,Aoi Hana,2009,summer,7,7.42,7.0,-0.42
+5081,Bakemonogatari,2009,summer,7,6.85,7.0,0.15
+5205,Kara no Kyoukai Movie 7: Satsujin Kousatsu (Go),2009,summer,7,7.61,7.0,-0.61
+6213,Toaru Kagaku no Railgun,2009,fall,7,6.9,7.0,0.1
+6379,Kyou no 5 no 2 (TV): Takarabako,2009,fall,6,6.38,7.0,-0.38
+6045,Kimi ni Todoke,2009,fall,9,7.37,7.0,1.63
+6802,So Ra No Wo To,2010,winter,7,6.99,7.0,0.01
+6862,K-On!: Live House!,2010,winter,7,7.32,7.0,-0.32
+6336,Kidou Senshi Gundam Unicorn,2010,winter,7,7.23,7.0,-0.23
+6547,Angel Beats!,2010,spring,8,7.05,7.0,0.95
+7593,Kiss x Sis (TV),2010,spring,7,7.24,7.0,-0.24
+7791,K-On!!,2010,spring,7,7.46,7.0,-0.46
+4901,Black Lagoon: Roberta's Blood Trail,2010,spring,7,6.92,7.0,0.08
+9014,Kuttsukiboshi,2010,summer,6,7.05,7.0,-1.05
+8769,Ore no Imouto ga Konnani Kawaii Wake ga Nai,2010,fall,7,6.69,7.0,0.31
+8861,Yosuga no Sora,2010,fall,6,6.93,7.0,-0.93
+8525,Kami nomi zo Shiru Sekai,2010,fall,7,6.97,7.0,0.03
+8937,Toaru Majutsu no Index II,2010,fall,7,7.04,7.0,-0.04
+9756,Mahou Shoujo Madoka☆Magica,2011,winter,7,7.5,7.0,-0.5
+9587,Oniichan no Koto nanka Zenzen Suki ja Nai n da kara ne!!,2011,winter,5,7.25,7.0,-2.25
+9656,Kimi ni Todoke 2nd Season,2011,winter,8,7.64,7.0,0.36
+8426,Hourou Musuko,2011,winter,8,7.56,7.0,0.44
+6954,Kara no Kyoukai Movie 8: Shuushou,2011,winter,6,7.53,7.0,-1.53
+9734,K-On!!: Keikaku!,2011,winter,7,6.81,7.0,0.19
+9289,Hanasaku Iroha,2011,spring,8,7.44,7.0,0.56
+9253,Steins;Gate,2011,spring,8,7.63,7.0,0.37
+9776,A-Channel,2011,spring,6,7.2,7.0,-1.2
+9736,Astarotte no Omocha!,2011,spring,5,7.02,7.0,-2.02
+10080,Kami nomi zo Shiru Sekai II,2011,spring,7,7.38,7.0,-0.38
+9379,Denpa Onna to Seishun Otoko,2011,spring,7,6.93,7.0,0.07
+9989,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,2011,spring,9,7.37,7.0,1.63
+6880,Deadman Wonderland,2011,spring,6,6.65,7.0,-0.65
+9919,Ao no Exorcist,2011,spring,6,6.59,7.0,-0.59
+10495,Yuru Yuri,2011,summer,7,6.93,7.0,0.07
+10161,No.6,2011,summer,6,7.35,7.0,-1.35
+10162,Usagi Drop,2011,summer,8,7.27,7.0,0.73
+10721,Mawaru Penguindrum,2011,summer,7,6.86,7.0,0.14
+10408,Hotarubi no Mori e,2011,summer,8,7.21,7.0,0.79
+10460,Kimi to Boku.,2011,fall,7,7.2,7.0,-0.2
+10800,Chihayafuru,2011,fall,8,7.16,7.0,0.84
+10620,Mirai Nikki (TV),2011,fall,8,6.97,7.0,1.03
+10793,Guilty Crown,2011,fall,6,7.51,7.0,-1.51
+9617,K-On! Movie,2011,fall,8,7.82,7.0,0.18
+11597,Nisemonogatari,2012,winter,7,7.11,7.0,-0.11
+11111,Another,2012,winter,7,6.87,7.0,0.13
+11843,Danshi Koukousei no Nichijou,2012,winter,6,6.47,7.0,-0.47
+11179,Papa no Iukoto wo Kikinasai!,2012,winter,6,6.81,7.0,-0.81
+11739,Kimi to Boku. 2,2012,spring,7,7.97,7.0,-0.97
+11499,Sankarea,2012,spring,6,7.2,7.0,-1.2
+12467,Nazo no Kanojo X,2012,spring,7,7.05,7.0,-0.05
+12445,Tasogare Otome x Amnesia,2012,spring,7,7.36,7.0,-0.36
+12189,Hyouka,2012,spring,7,6.63,7.0,0.37
+13333,Tari Tari,2012,summer,7,7.39,7.0,-0.39
+12403,Yuru Yuri♪♪,2012,summer,7,7.58,7.0,-0.58
+11887,Kokoro Connect,2012,summer,7,6.94,7.0,0.06
+12355,Ookami Kodomo no Ame to Yuki,2012,summer,10,7.8,7.0,2.2
+15005,Kyou no Asuka Show,2012,summer,6,6.26,7.0,-0.26
+14753,Hori-san to Miyamura-kun,2012,summer,7,7.74,7.0,-0.74
+14227,Tonari no Kaibutsu-kun,2012,fall,7,7.79,7.0,-0.79
+14713,Kamisama Hajimemashita,2012,fall,7,7.46,7.0,-0.46
+14199,Oniichan dakedo Ai sae Areba Kankeinai yo ne!,2012,fall,6,6.59,7.0,-0.59
+11703,Code:Breaker,2012,fall,5,6.87,7.0,-1.87
+14289,Suki tte Ii na yo.,2012,fall,7,7.0,7.0,-0.0
+13759,Sakura-sou no Pet na Kanojo,2012,fall,8,7.26,7.0,0.74
+14131,Girls & Panzer,2012,fall,7,7.36,7.0,-0.36
+13599,Robotics;Notes,2012,fall,5,6.77,7.0,-1.77
+3785,Evangelion Movie 3: Q,2012,fall,9,7.2,7.0,1.8
+16001,Kokoro Connect: Michi Random,2012,fall,7,7.4,7.0,-0.4
+15689,Nekomonogatari: Kuro,2012,fall,6,6.81,7.0,-0.81
+14355,Yama no Susume,2013,winter,6,6.9,7.0,-0.9
+15051,Love Live! School Idol Project,2013,winter,7,6.92,7.0,0.08
+16417,Tamako Market,2013,winter,8,6.74,7.0,1.26
+15379,Kotoura-san,2013,winter,7,7.08,7.0,-0.08
+14397,Chihayafuru 2,2013,winter,8,7.42,7.0,0.58
+14921,RDG: Red Data Girl,2013,spring,6,6.83,7.0,-0.83
+14813,Yahari Ore no Seishun Love Comedy wa Machigatteiru.,2013,spring,6,7.66,7.0,-1.66
+13659,Ore no Imouto ga Konnani Kawaii Wake ga Nai.,2013,spring,7,7.17,7.0,-0.17
+16498,Shingeki no Kyojin,2013,spring,7,7.08,7.0,-0.08
+17082,Aiura,2013,spring,6,6.74,7.0,-0.74
+16049,Toaru Kagaku no Railgun S,2013,spring,7,7.19,7.0,-0.19
+17341,Yama no Susume: Kabe tte Kowakunai no?,2013,spring,6,6.9,7.0,-0.9
+16782,Kotonoha no Niwa,2013,spring,7,7.44,7.0,-0.44
+16353,Love Lab,2013,summer,7,6.67,7.0,0.33
+18495,Kitaku-bu Katsudou Kiroku,2013,summer,6,5.94,7.0,0.06
+18119,Servant x Service,2013,summer,7,6.85,7.0,0.15
+16706,Kami nomi zo Shiru Sekai: Megami-hen,2013,summer,8,6.92,7.0,1.08
+18857,Ore no Imouto ga Konnani Kawaii Wake ga Nai. Specials,2013,summer,7,7.28,7.0,-0.28
+18661,Kamisama Hajimemashita OVA,2013,summer,6,6.5,7.0,-0.5
+18753,Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA,2013,summer,6,6.33,7.0,-0.33
+16067,Nagi no Asu kara,2013,fall,8,7.3,7.0,0.7
+18677,Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita.,2013,fall,6,6.63,7.0,-0.63
+18245,White Album 2,2013,fall,9,6.6,7.0,2.4
+19151,Walkure Romanze,2013,fall,6,6.4,7.0,-0.4
+16011,Tokyo Ravens,2013,fall,6,6.74,7.0,-0.74
+20507,Noragami,2014,winter,7,6.78,7.0,0.22
+21085,Witch Craft Works,2014,winter,6,6.71,7.0,-0.71
+20031,D-Frag!,2014,winter,7,6.88,7.0,0.12
+20047,Sakura Trick,2014,winter,7,6.62,7.0,0.38
+22759,Toaru Kagaku no Railgun S: Daiji na Koto wa Zenbu Sentou ni Osowatta,2014,winter,7,6.94,7.0,0.06
+19429,Akuma no Riddle,2014,spring,5,6.89,7.0,-1.89
+19111,Love Live! School Idol Project 2nd Season,2014,spring,7,7.59,7.0,-0.59
+22123,Inugami-san to Nekoyama-san,2014,spring,7,6.94,7.0,0.06
+21647,Tamako Love Story,2014,spring,6,7.62,7.0,-1.62
+22789,Barakamon,2014,summer,7,7.07,7.0,-0.07
+21995,Ao Haru Ride,2014,summer,8,7.24,7.0,0.76
+21435,Yama no Susume Second Season,2014,summer,6,7.11,7.0,-1.11
+23283,Zankyou no Terror,2014,summer,8,7.22,7.0,0.78
+21557,Omoide no Marnie,2014,summer,8,7.81,7.0,0.19
+25731,Cross Ange: Tenshi to Ryuu no Rondo,2014,fall,7,6.92,7.0,0.08
+25157,Trinity Seven,2014,fall,6,6.72,7.0,-0.72
+23273,Shigatsu wa Kimi no Uso,2014,fall,9,7.25,7.0,1.75
+23277,Saenai Heroine no Sodatekata,2015,winter,7,7.16,7.0,-0.16
+23225,Yuru Yuri Nachuyachumi!,2015,winter,7,6.82,7.0,0.18
+23847,Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,2015,spring,7,7.44,7.0,-0.44
+26243,Owari no Seraph,2015,spring,6,6.91,7.0,-0.91
+26351,Nagato Yuki-chan no Shoushitsu,2015,spring,7,6.94,7.0,0.06
+27775,Plastic Memories,2015,spring,9,7.62,7.0,1.38
+28297,Ore Monogatari!!,2015,spring,7,7.08,7.0,-0.08
+28677,Yamada-kun to 7-nin no Majo,2015,spring,6,6.98,7.0,-0.98
+24997,Love Live! The School Idol Movie,2015,spring,7,7.5,7.0,-0.5
+28819,Okusama ga Seitokaichou!,2015,summer,5,6.81,7.0,-1.81
+28999,Charlotte,2015,summer,7,6.97,7.0,0.03
+30307,Monster Musume no Iru Nichijou,2015,summer,7,6.78,7.0,0.22
+24765,Gakkougurashi!,2015,summer,8,7.17,7.0,0.83
+30902,Yuru Yuri Nachuyachumi!+,2015,summer,6,6.84,7.0,-0.84
+30296,Rakudai Kishi no Cavalry,2015,fall,8,7.06,7.0,0.94
+30503,Noragami Aragoto,2015,fall,6,6.83,7.0,-0.83
+31251,Kidou Senshi Gundam: Tekketsu no Orphans,2015,fall,8,7.31,7.0,0.69
+30279,Yuru Yuri San☆Hai!,2015,fall,7,7.06,7.0,-0.06
+28927,Owari no Seraph: Nagoya Kessen-hen,2015,fall,6,7.36,7.0,-1.36
+30385,Valkyrie Drive: Mermaid,2015,fall,5,7.14,7.0,-2.14
+9260,Kizumonogatari I: Tekketsu-hen,2016,winter,7,7.1,7.0,-0.1
+31043,Boku dake ga Inai Machi,2016,winter,10,6.99,7.0,3.01
+31793,Mahou Shoujo Nante Mou Ii desu kara.,2016,winter,6,6.46,7.0,-0.46
+31804,Kuma Miko,2016,spring,6,6.6,7.0,-0.6
+31404,Netoge no Yome wa Onnanoko ja Nai to Omotta?,2016,spring,6,6.97,7.0,-0.97
+28623,Koutetsujou no Kabaneri,2016,spring,7,7.14,7.0,-0.14
+31376,Flying Witch,2016,spring,6,6.99,7.0,-0.99
+30015,ReLIFE,2016,summer,9,7.48,7.0,1.52
+31953,New Game!,2016,summer,7,6.52,7.0,0.48
+32729,Orange,2016,summer,9,7.98,7.0,1.02
+33091,Planetarian: Chiisana Hoshi no Yume,2016,summer,8,7.49,7.0,0.51
+31952,Kono Bijutsu-bu ni wa Mondai ga Aru!,2016,summer,7,6.69,7.0,0.31
+31757,Kizumonogatari II: Nekketsu-hen,2016,summer,6,7.03,7.0,-1.03
+33190,Planetarian: Hoshi no Hito,2016,summer,8,7.56,7.0,0.44
+33433,Shuumatsu no Izetta,2016,fall,7,7.05,7.0,-0.05
+32603,Okusama ga Seitokaichou!+!,2016,fall,5,6.76,7.0,-1.76
+33003,Mahou Shoujo Ikusei Keikaku,2016,fall,7,7.04,7.0,-0.04
+33051,Kidou Senshi Gundam: Tekketsu no Orphans 2nd Season,2016,fall,8,7.86,7.0,0.14
+33795,Mahou Shoujo Nante Mou Ii desu kara. Second Season,2016,fall,6,6.58,7.0,-0.58
+31646,3-gatsu no Lion,2016,fall,9,7.4,7.0,1.6
+34213,Getsuyoubi no Tawawa,2016,fall,6,6.5,7.0,-0.5
+33161,Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA,2016,fall,6,7.21,7.0,-1.21
+33487,Masamune-kun no Revenge,2017,winter,8,7.23,7.0,0.77
+31758,Kizumonogatari III: Reiketsu-hen,2017,winter,7,6.75,7.0,0.25
+32615,Youjo Senki,2017,winter,8,7.42,7.0,0.58
+33836,Seiren,2017,winter,7,7.11,7.0,-0.11
+33988,Demi-chan wa Kataritai,2017,winter,8,6.96,7.0,1.04
+33489,Little Witch Academia (TV),2017,winter,7,6.6,7.0,0.4
+33206,Kobayashi-san Chi no Maid Dragon,2017,winter,9,7.47,7.0,1.53
+32949,Kuzu no Honkai,2017,winter,8,6.94,7.0,1.06
+33581,Trinity Seven Movie 1: Eternity Library to Alchemic Girl,2017,winter,5,6.98,7.0,-1.98
+25777,Shingeki no Kyojin Season 2,2017,spring,7,7.06,7.0,-0.06
+34494,Sakura Quest,2017,spring,6,7.11,7.0,-1.11
+34822,Tsuki ga Kirei,2017,spring,8,7.48,7.0,0.52
+33203,Fukumenkei Noise,2017,spring,6,7.42,7.0,-1.42
+30727,Saenai Heroine no Sodatekata ♭,2017,spring,8,7.78,7.0,0.22
+35823,Demi-chan wa Kataritai: Demi-chan no Natsuyasumi,2017,spring,8,6.32,7.0,1.68
+34881,Aho Girl,2017,summer,6,6.26,7.0,-0.26
+34902,Tsurezure Children,2017,summer,8,7.1,7.0,0.9
+34383,Netsuzou TRap,2017,summer,8,6.57,7.0,1.43
+34599,Made in Abyss,2017,summer,7,7.08,7.0,-0.08
+34525,Centaur no Nayami,2017,summer,5,7.07,7.0,-2.07
+34177,Tenshi no 3P!,2017,summer,6,6.4,7.0,-0.4
+34914,New Game!!,2017,summer,7,7.46,7.0,-0.46
+35363,"Kobayashi-san Chi no Maid Dragon: Valentine, Soshite Onsen! - Amari Kitai Shinaide Kudasai",2017,summer,8,6.93,7.0,1.07
+35639,Just Because!,2017,fall,8,7.71,7.0,0.29
+35838,Shoujo Shuumatsu Ryokou,2017,fall,8,7.12,7.0,0.88
+34618,Blend S,2017,fall,6,6.83,7.0,-0.83
+35413,Imouto sae Ireba Ii.,2017,fall,6,7.4,7.0,-1.4
+36038,Net-juu no Susume,2017,fall,8,7.31,7.0,0.69
+35180,3-gatsu no Lion 2nd Season,2017,fall,9,7.34,7.0,1.66
+36220,Itsudatte Bokura no Koi wa 10 cm Datta.,2017,fall,7,7.7,7.0,-0.7
+36043,Net-juu no Susume Special,2017,fall,6,7.33,7.0,-1.33
+35839,Sora yori mo Tooi Basho,2018,winter,9,7.46,7.0,1.54
+34382,Citrus,2018,winter,9,7.22,7.0,1.78
+35905,Ryuuou no Oshigoto!,2018,winter,7,6.76,7.0,0.24
+33352,Violet Evergarden,2018,winter,10,8.01,7.0,1.99
+34984,Koi wa Ameagari no You ni,2018,winter,8,7.25,7.0,0.75
+35849,Darling in the FranXX,2018,winter,10,7.37,7.0,2.63
+36039,A.I.C.O. Incarnation,2018,winter,6,6.76,7.0,-0.76
+35466,ReLIFE: Kanketsu-hen,2018,winter,9,7.92,7.0,1.08
+33531,Juushinki Pandora,2018,spring,6,7.21,7.0,-1.21
+36793,3D Kanojo: Real Girl,2018,spring,7,7.21,7.0,-0.21
+36296,Hinamatsuri,2018,spring,6,6.92,7.0,-0.92
+35928,Devils Line,2018,spring,8,6.81,7.0,1.19
+30484,Steins;Gate 0,2018,spring,8,7.57,7.0,0.43
+36214,Asagao to Kase-san.,2018,spring,8,7.34,7.0,0.66
+37259,Hanebado!,2018,summer,6,7.38,7.0,-1.38
+36817,Sunohara-sou no Kanrinin-san,2018,summer,6,6.81,7.0,-0.81
+35821,Chio-chan no Tsuugakuro,2018,summer,6,6.9,7.0,-0.9
+37171,Asobi Asobase,2018,summer,6,6.57,7.0,-0.57
+35503,Shoujo☆Kageki Revue Starlight,2018,summer,7,6.97,7.0,0.03
+36726,Yuragi-sou no Yuuna-san,2018,summer,6,6.32,7.0,-0.32
+37517,Happy Sugar Life,2018,summer,8,6.89,7.0,1.11
+35760,Shingeki no Kyojin Season 3,2018,summer,7,6.97,7.0,0.03
+35842,FLCL Alternative,2018,summer,5,6.55,7.0,-1.55
+33010,FLCL Progressive,2018,summer,7,6.77,7.0,0.23
+37450,Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,2018,fall,9,7.34,7.0,1.66
+37976,Zombieland Saga,2018,fall,8,6.75,7.0,1.25
+36432,Toaru Majutsu no Index III,2018,fall,7,6.74,7.0,0.26
+37579,Tonari no Kyuuketsuki-san,2018,fall,6,6.72,7.0,-0.72
+37722,Uchi no Maid ga Uzasugiru!,2018,fall,6,6.57,7.0,-0.57
+37786,Yagate Kimi ni Naru,2018,fall,7,7.41,7.0,-0.41
+35847,SSSS.Gridman,2018,fall,7,7.31,7.0,-0.31
+37206,Anima Yell!,2018,fall,7,7.06,7.0,-0.06
+37451,Boogiepop wa Warawanai (2019),2019,winter,7,7.32,7.0,-0.32
+37920,Ueno-san wa Bukiyou,2019,winter,7,6.9,7.0,0.1
+37993,Watashi ni Tenshi ga Maiorita!,2019,winter,6,7.04,7.0,-1.04
+37956,3D Kanojo: Real Girl 2nd Season,2019,winter,7,7.22,7.0,-0.22
+38101,5-toubun no Hanayome,2019,winter,9,7.0,7.0,2.0
+37982,Domestic na Kanojo,2019,winter,8,7.01,7.0,0.99
+37055,Youjo Senki Movie,2019,winter,7,6.8,7.0,0.2
+37614,Hitoribocchi no Marumaru Seikatsu,2019,spring,7,7.21,7.0,-0.21
+38680,Fruits Basket 1st Season,2019,spring,9,7.9,7.0,1.1
+38787,Senryuu Shoujo,2019,spring,7,6.97,7.0,0.03
+38814,Nobunaga-sensei no Osanazuma,2019,spring,6,6.35,7.0,-0.35
+38080,Kono Oto Tomare!,2019,spring,8,7.08,7.0,0.92
+38186,Bokutachi wa Benkyou ga Dekinai,2019,spring,7,7.51,7.0,-0.51
+37964,Mayonaka no Occult Koumuin,2019,spring,6,6.77,7.0,-0.77
+38091,Hachigatsu no Cinderella Nine,2019,spring,6,7.22,7.0,-1.22
+38397,Nande Koko ni Sensei ga!?,2019,spring,6,6.45,7.0,-0.45
+38759,Sewayaki Kitsune no Senko-san,2019,spring,7,6.98,7.0,0.02
+38524,Shingeki no Kyojin Season 3 Part 2,2019,spring,7,7.13,7.0,-0.13
+39456,Sounan desu ka?,2019,summer,6,6.8,7.0,-0.8
+38671,Enen no Shouboutai,2019,summer,6,6.97,7.0,-0.97
+38753,Araburu Kisetsu no Otome-domo yo.,2019,summer,8,7.66,7.0,0.34
+39326,Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?,2019,summer,7,6.59,7.0,0.41
+38480,Toaru Kagaku no Accelerator,2019,summer,7,6.54,7.0,0.46
+37773,"Yuru Yuri,",2019,summer,5,7.01,7.0,-2.01
+38483,Ore wo Suki nano wa Omae dake ka yo,2019,fall,6,6.93,7.0,-0.93
+38889,Kono Oto Tomare! Part 2,2019,fall,8,7.16,7.0,0.84
+40004,Bokutachi wa Benkyou ga Dekinai!,2019,fall,8,7.22,7.0,0.78
+37379,Chihayafuru 3,2019,fall,8,7.78,7.0,0.22
+36885,Saenai Heroine no Sodatekata Fine,2019,fall,8,7.81,7.0,0.19
+39545,Fragtime,2019,fall,8,6.97,7.0,1.03
+39689,Nande Koko ni Sensei ga!? Nande Koko ni Sensei-tachi ga!?,2019,fall,6,6.78,7.0,-0.78
+39388,Koisuru Asteroid,2020,winter,7,6.98,7.0,0.02
+39792,Eizouken ni wa Te wo Dasu na!,2020,winter,7,7.39,7.0,-0.39
+40046,Id:Invaded,2020,winter,7,7.07,7.0,-0.07
+40483,Murenase! Seton Gakuen,2020,winter,7,7.13,7.0,-0.13
+37890,Oshi ga Budoukan Ittekuretara Shinu,2020,winter,7,7.66,7.0,-0.66
+38481,Toaru Kagaku no Railgun T,2020,winter,7,6.65,7.0,0.35
+39575,Somali to Mori no Kamisama,2020,winter,6,7.59,7.0,-1.59
+39017,Kyokou Suiri,2020,winter,4,6.83,7.0,-2.83
+36862,Made in Abyss Movie 3: Fukaki Tamashii no Reimei,2020,winter,7,7.08,7.0,-0.08
+40716,Kakushigoto,2020,spring,6,6.9,7.0,-0.9
+42519,Bokutachi wa Benkyou ga Dekinai! Chapel no Kane wa [X] wo Shukufuku Suru,2020,spring,6,6.73,7.0,-0.73
+39710,Yesterday wo Utatte,2020,spring,8,7.3,7.0,0.7
+39292,Princess Connect! Re:Dive,2020,spring,7,6.95,7.0,0.05
+40417,Fruits Basket 2nd Season,2020,spring,9,7.82,7.0,1.18
+38799,Koukaku Kidoutai: SAC_2045,2020,spring,7,7.17,7.0,-0.17
+39547,Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan,2020,summer,7,7.36,7.0,-0.36
+41226,Uzaki-chan wa Asobitai!,2020,summer,7,7.07,7.0,-0.07
+40708,Monster Musume no Oishasan,2020,summer,6,6.95,7.0,-0.95
+41006,Higurashi no Naku Koro ni Gou,2020,fall,8,7.07,7.0,0.93
+39790,Adachi to Shimamura,2020,fall,8,7.77,7.0,0.23
+40028,Shingeki no Kyojin: The Final Season,2021,winter,8,7.46,7.0,0.54
+40787,Josee to Tora to Sakana-tachi,2020,fall,8,7.5,7.0,0.5
+41392,Urasekai Picnic,2021,winter,6,6.94,7.0,-0.94
+39783,5-toubun no Hanayome ∬,2021,winter,9,7.53,7.0,1.47
+40842,Idoly Pride,2021,winter,6,7.59,7.0,-1.59
+40908,Kemono Jihen,2021,winter,7,6.96,7.0,0.04
+42897,Horimiya,2021,winter,9,7.2,7.0,1.8
+39535,Mushoku Tensei: Isekai Ittara Honki Dasu,2021,winter,8,7.33,7.0,0.67
+40750,Kaifuku Jutsushi no Yarinaoshi,2021,winter,7,7.52,7.0,-0.52
+43299,Wonder Egg Priority,2021,winter,7,7.6,7.0,-0.6
+3786,Shin Evangelion Movie:||,2021,winter,10,8.2,7.0,1.8
+46095,Vivy: Fluorite Eye's Song,2021,spring,8,7.82,7.0,0.18
+40938,Hige wo Soru. Soshite Joshikousei wo Hirou.,2021,spring,8,7.45,7.0,0.55
+41103,Koi to Yobu ni wa Kimochi Warui,2021,spring,7,7.01,7.0,-0.01
+42938,Fruits Basket: The Final,2021,spring,10,7.53,7.0,2.47
+40685,Super Cub,2021,spring,7,7.23,7.0,-0.23
+48590,Mini Dragon,2021,spring,7,7.2,7.0,-0.2
+40174,Zombieland Saga Revenge,2021,spring,8,7.29,7.0,0.71
+47639,Blue Reflection Ray,2021,spring,8,7.41,7.0,0.59
+41457,86,2021,spring,10,7.12,7.0,2.88
+42192,Edens Zero,2021,spring,6,7.34,7.0,-1.34
+42361,"Ijiranaide, Nagatoro-san",2021,spring,7,7.41,7.0,-0.41
+43439,Shadows House,2021,spring,7,7.19,7.0,-0.19
+43007,Osananajimi ga Zettai ni Makenai Love Comedy,2021,spring,6,6.76,7.0,-0.76
+40664,Shoujo☆Kageki Revue Starlight Movie,2021,spring,7,7.34,7.0,-0.34
+49236,Youjo Senki: Sabaku no Pasta Daisakusen,2021,spring,7,6.83,7.0,0.17
+48488,Higurashi no Naku Koro ni Sotsu,2021,summer,8,7.15,7.0,0.85
+40904,Bokutachi no Remake,2021,summer,6,7.32,7.0,-1.32
+43969,Kanojo mo Kanojo,2021,summer,7,6.34,7.0,0.66
+43691,Kageki Shoujo!!,2021,summer,8,7.12,7.0,0.88
+47257,Shinigami Bocchan to Kuro Maid,2021,summer,6,7.17,7.0,-1.17
+39247,Kobayashi-san Chi no Maid Dragon S,2021,summer,9,7.26,7.0,1.74
+46093,Shiroi Suna no Aquatope,2021,summer,9,7.3,7.0,1.7
+41812,Megami-ryou no Ryoubo-kun.,2021,summer,6,7.15,7.0,-1.15
+49605,Ganbare Douki-chan,2021,summer,6,6.93,7.0,-0.93
+49854,Getsuyoubi no Tawawa 2,2021,summer,6,6.66,7.0,-0.66
+49913,"Hachigatsu no Cinderella Nine: Tsuzuku, Monogatari",2021,summer,6,6.92,7.0,-0.92
+48483,Mieruko-chan,2021,fall,6,6.99,7.0,-0.99
+48569,86 Part 2,2021,fall,10,7.77,7.0,2.23
+45576,Mushoku Tensei: Isekai Ittara Honki Dasu Part 2,2021,fall,8,7.11,7.0,0.89
+44037,"Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita",2021,fall,7,7.18,7.0,-0.18
+48556,Takt Op. Destiny,2021,fall,7,7.33,7.0,-0.33
+48926,"Komi-san wa, Comyushou desu.",2021,fall,9,7.16,7.0,1.84
+45055,Taishou Otome Otogibanashi,2021,fall,7,7.3,7.0,-0.3
+42351,Senpai ga Uzai Kouhai no Hanashi,2021,fall,7,6.85,7.0,0.15
+42847,Ai no Utagoe wo Kikasete,2021,fall,9,7.15,7.0,1.85
+49721,Karakai Jouzu no Takagi-san 3,2022,winter,8,7.15,7.0,0.85
+48553,Akebi-chan no Sailor-fuku,2022,winter,8,7.21,7.0,0.79
+48736,Sono Bisque Doll wa Koi wo Suru,2022,winter,9,7.04,7.0,1.96
+48583,Shingeki no Kyojin: The Final Season Part 2,2022,winter,8,7.37,7.0,0.63
+42670,Princess Connect! Re:Dive Season 2,2022,winter,7,7.2,7.0,-0.2
+44516,Koroshi Ai,2022,winter,7,7.1,7.0,-0.1
+49893,Kobayashi-san Chi no Maid Dragon S: Nippon no Omotenashi - Attend wa Dragon desu,2022,winter,8,6.98,7.0,1.02
+49310,Fruits Basket: Prelude,2022,winter,9,7.58,7.0,1.42
+47162,Shokei Shoujo no Virgin Road,2022,spring,7,6.79,7.0,0.21
+49520,Aharen-san wa Hakarenai,2022,spring,8,7.04,7.0,0.96
+48857,Healer Girl,2022,spring,8,7.01,7.0,0.99
+48779,Deaimon,2022,spring,7,7.74,7.0,-0.74
+50631,"Komi-san wa, Comyushou desu. 2nd Season",2022,spring,9,7.03,7.0,1.97
+50265,Spy x Family,2022,spring,7,7.44,7.0,-0.44
+45613,Kawaii dake ja Nai Shikimori-san,2022,spring,8,7.24,7.0,0.76
+47194,Summertime Render,2022,spring,8,7.04,7.0,0.96
+39518,Vampire in the Garden,2022,spring,8,7.23,7.0,0.77
+48548,5-toubun no Hanayome Movie,2022,spring,10,6.81,7.0,3.19
+41750,Koukaku Kidoutai: SAC_2045 Season 2,2022,spring,7,6.88,7.0,0.12
+49722,Karakai Jouzu no Takagi-san Movie,2022,spring,8,6.76,7.0,1.24
+50709,Lycoris Recoil,2022,summer,8,6.96,7.0,1.04
+51417,Engage Kiss,2022,summer,6,7.52,7.0,-1.52
+49470,Mamahaha no Tsurego ga Motokano datta,2022,summer,8,6.74,7.0,1.26
+45653,Soredemo Ayumu wa Yosetekuru,2022,summer,7,6.75,7.0,0.25
+50346,Yofukashi no Uta,2022,summer,8,7.27,7.0,0.73
+49782,Shadows House 2nd Season,2022,summer,7,7.12,7.0,-0.12
+50593,"Natsu e no Tunnel, Sayonara no Deguchi",2022,summer,6,7.65,7.0,-1.65
+42962,Uzaki-chan wa Asobitai! Double,2022,fall,7,7.13,7.0,-0.13
+50602,Spy x Family Part 2,2022,fall,7,7.69,7.0,-0.69
+48542,Do It Yourself!!,2022,fall,7,7.23,7.0,-0.23
+52193,Akiba Meido Sensou,2022,fall,7,6.99,7.0,0.01
+47917,Bocchi the Rock!,2022,fall,9,7.92,7.0,1.08
+50425,"Fuufu Ijou, Koibito Miman.",2022,fall,8,7.05,7.0,0.95
+44511,Chainsaw Man,2022,fall,8,7.3,7.0,0.7
+52173,Koori Zokusei Danshi to Cool na Douryou Joshi,2023,winter,7,6.78,7.0,0.22
+52736,Tensei Oujo to Tensai Reijou no Mahou Kakumei,2023,winter,7,7.08,7.0,-0.08
+51678,Oniichan wa Oshimai!,2023,winter,8,6.88,7.0,1.12
+52305,Tomo-chan wa Onnanoko!,2023,winter,8,6.65,7.0,1.35
+50739,Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken,2023,winter,8,7.08,7.0,0.92
+50197,"Ijiranaide, Nagatoro-san 2nd Attack",2023,winter,8,7.72,7.0,0.28
+53393,Tengoku Daimakyou,2023,spring,7,7.51,7.0,-0.51
+52578,Boku no Kokoro no Yabai Yatsu,2023,spring,8,7.47,7.0,0.53
+53126,Yamada-kun to Lv999 no Koi wo Suru,2023,spring,9,7.08,7.0,1.92
+50416,Skip to Loafer,2023,spring,7,7.16,7.0,-0.16
+52973,Megami no Café Terrace,2023,spring,8,7.45,7.0,0.55
+50796,Kimi wa Houkago Insomnia,2023,spring,8,7.72,7.0,0.28
+53129,Seishun Buta Yarou wa Odekake Sister no Yume wo Minai,2023,spring,7,7.44,7.0,-0.44
+54856,Horimiya: Piece,2023,summer,9,7.42,7.0,1.58
+53379,Uchi no Kaisha no Chiisai Senpai no Hanashi,2023,summer,7,7.02,7.0,-0.02
+51498,Masamune-kun no Revenge R,2023,summer,8,7.2,7.0,0.8
+54234,Suki na Ko ga Megane wo Wasureta,2023,summer,7,6.98,7.0,0.02
+51552,Watashi no Shiawase na Kekkon,2023,summer,7,7.4,7.0,-0.4
+49858,Shinigami Bocchan to Kuro Maid 2nd Season,2023,summer,6,7.23,7.0,-1.23
+51179,Mushoku Tensei II: Isekai Ittara Honki Dasu,2023,summer,8,7.62,7.0,0.38
+52991,Sousou no Frieren,2023,fall,7,7.65,7.0,-0.65
+53300,Ojou to Banken-kun,2023,fall,6,7.26,7.0,-1.26
+53833,Watashi no Oshi wa Akuyaku Reijou.,2023,fall,6,7.14,7.0,-1.14
+49766,Under Ninja,2023,fall,6,7.04,7.0,-1.04
+52990,"Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.",2023,fall,7,7.48,7.0,-0.48
+53040,Kanojo mo Kanojo Season 2,2023,fall,7,6.44,7.0,0.56
+53887,Spy x Family Season 2,2023,fall,7,7.41,7.0,-0.41
+53262,Hoshikuzu Telepath,2023,fall,8,7.27,7.0,0.73
+35737,Pluto,2023,fall,9,7.06,7.0,1.94
+54870,Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai,2023,fall,8,6.75,7.0,1.25
+55866,Yubisaki to Renren,2024,winter,9,7.63,7.0,1.37
+53488,"Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd",2024,winter,7,6.81,7.0,0.19
+55690,Boku no Kokoro no Yabai Yatsu 2nd Season,2024,winter,8,7.88,7.0,0.12
+54794,Metallic Rouge,2024,winter,6,6.98,7.0,-0.98
+55889,Watashi no Shiawase na Kekkon: Watashi no Shiawase no Katachi,2024,winter,6,6.62,7.0,-0.62
+53356,Shuumatsu Train Doko e Iku?,2024,spring,7,6.9,7.0,0.1
+56738,Shinigami Bocchan to Kuro Maid 3rd Season,2024,spring,6,7.42,7.0,-1.42
+54233,Sasayaku You ni Koi wo Utau,2024,spring,7,7.03,7.0,-0.03
+58272,Boku no Tsuma wa Kanjou ga Nai,2024,summer,8,7.36,7.0,0.64
+52481,Gimai Seikatsu,2024,summer,7,7.53,7.0,-0.53
+56538,Kimi ni Todoke 3rd Season,2024,summer,7,7.1,7.0,-0.1
+57334,Dandadan,2024,fall,8,6.98,7.0,1.02
+56701,Watashi no Shiawase na Kekkon 2nd Season,2025,winter,6,7.2,7.0,-1.2
+59360,Rock wa Lady no Tashinami deshite,2025,spring,6,7.46,7.0,-1.46
+60083,Kowloon Generic Romance,2025,spring,6,7.09,7.0,-1.09
+56038,Lazarus,2025,spring,8,7.17,7.0,0.83
+59848,Virgin Punk: Clockwork Girl,2025,spring,7,7.11,7.0,-0.11
+59897,Kobayashi-san Chi no Maid Dragon Movie: Samishigariya no Ryuu,2025,spring,8,7.45,7.0,0.55
+53512,Busu ni Hanataba wo.,2025,summer,5,7.03,7.0,-2.03
+58390,Yofukashi no Uta Season 2,2025,summer,7,7.71,7.0,-0.71
+60543,Dandadan 2nd Season,2025,summer,7,6.95,7.0,0.05
+58788,Ikoku Nikki,2026,winter,8,7.86,7.0,0.14
+59978,Sousou no Frieren 2nd Season,2026,winter,7,7.43,7.0,-0.43
