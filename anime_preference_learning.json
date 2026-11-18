@@ -24119,6 +24119,23 @@
         "linked_hypothesis_ids": [
           "narrative_pacing_and_progression"
         ]
+      },
+      "natsuiro_kiseki_premise_and_idol_tie_in_20261118": {
+        "id": "natsuiro_kiseki_premise_and_idol_tie_in_20261118",
+        "mal_ids": [],
+        "kind": "work_specific_reaction",
+        "verbatim": "premissen existerade för att skapa situationer som gänget skulle hantera. men från ruta 1 så ifrågasätter ingen i hela ip varför situationerna kan uppstå öht. axelryckningen åt hela premissen störde mig. sen blev hela idol tie in allt mer tydlig per avsnitt",
+        "interpretation": "Natsuiro Kiseki använde premissen för att skapa situationer som vänskapsgänget skulle hantera, men ingen i berättelsen ifrågasatte från början varför dessa situationer kunde uppstå. Användaren stördes av att hela serien ryckte på axlarna åt sin egen grundpremiss. Dessutom blev idolkopplingen tydligare för varje avsnitt. Det räcker inte att premissen producerar händelser: berättelsen behöver visa nyfikenhet på premissen och låta den kännas integrerad i berättelsen, snarare än att den får stå oproblematiserad medan en annan funktion tar över.",
+        "limitations": [
+          "Uttalandet gäller Natsuiro Kiseki; generalisera inte till idolserier eller magiska premisser generellt.",
+          "Idol tie-in beskrivs som allt tydligare per avsnitt; användaren anger inte att detta ensamt förklarar hela betyget."
+        ],
+        "source": "explicit_user_statement_in_current_chat",
+        "recorded_date": "2026-11-18",
+        "evidence_status": "direct_user_explanation",
+        "model_review_status": "reviewed",
+        "model_review_note": "En premiss måste uppfattas som aktiv del av berättelsens tänkande: dess konsekvenser och uppkomst bör inte mötas med axelryckning. Beakta upplevd extern/franchisefunktion när den tränger undan den dramatiska idén.",
+        "linked_hypothesis_ids": []
       }
     }
   }
