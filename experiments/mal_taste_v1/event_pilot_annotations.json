@@ -1,0 +1,176 @@
+{
+  "experiment": "event_annotation_pilot_v1",
+  "training_source_sha": "3f719e333ed6512541680cb70c589042828b86fe",
+  "cohort": "four TV and four films sampled by deterministic MAL-ID hash from complete training briefs, excluding previously asked titles and visible personal examples",
+  "primary_metric": "MAE",
+  "baseline": "v1 B2, refit on training rows after excluding each selected title's franchise group and all seven other sampled titles",
+  "adjustment": {
+    "choice_with_consequence": 0.15,
+    "cumulative_development": 0.15,
+    "reset_erases_consequence": -0.15,
+    "unknown_or_counterevidenced": 0
+  },
+  "scope": "exploratory retrospective pilot, one annotator, scores hidden at annotation stage, title-group heuristic",
+  "rows": [
+    {
+      "mal_id": 31376,
+      "title": "Flying Witch",
+      "choice_with_consequence": {
+        "state": "unknown"
+      },
+      "cumulative_development": {
+        "state": "evidenced",
+        "description": "Chinatsu ber om att få bli Akane lärling i avsnitt 6. Makoto syr en egen häxdräkt åt Chinatsu i avsnitt 12, så hennes nya roll återkommer.",
+        "sources": [
+          "https://flying-witch.fandom.com/wiki/Episode_6",
+          "https://en.wikipedia.org/wiki/Flying_Witch"
+        ]
+      },
+      "reset_erases_consequence": {
+        "state": "unknown"
+      }
+    },
+    {
+      "mal_id": 22123,
+      "title": "Inugami-san to Nekoyama-san",
+      "choice_with_consequence": {
+        "state": "unknown"
+      },
+      "cumulative_development": {
+        "state": "unknown"
+      },
+      "reset_erases_consequence": {
+        "state": "unknown"
+      }
+    },
+    {
+      "mal_id": 50197,
+      "title": "Ijiranaide, Nagatoro-san 2nd Attack",
+      "choice_with_consequence": {
+        "state": "unknown"
+      },
+      "cumulative_development": {
+        "state": "evidenced",
+        "description": "Senpai får först biljetter till djurparken genom klubbpresidenten, som vill att han ska öva teckning med Nagatoro. I finalen går de tillsammans på en uttalad dejt på akvariet, en annan form för deras gemensamma utflykt.",
+        "sources": [
+          "https://www.crunchyroll.com/watch/G4VUQ24K5/youre-inviting-me-senpai",
+          "https://www.crunchyroll.com/watch/G4VUQ2P71/wanna-do-something-to-make-it-not-a-dry-run"
+        ]
+      },
+      "reset_erases_consequence": {
+        "state": "unknown"
+      }
+    },
+    {
+      "mal_id": 50796,
+      "title": "Kimi wa Houkago Insomnia",
+      "choice_with_consequence": {
+        "state": "evidenced",
+        "description": "När Isakis föräldrar kräver att hon kommer hem efter övernattningen väljer hon att fortsätta fotograferingen. Ganta går från att vilja undvika konflikt till att föreslå att de fullföljer resan tillsammans.",
+        "sources": [
+          "https://kimisomu-anime.com/story/"
+        ]
+      },
+      "cumulative_development": {
+        "state": "evidenced",
+        "description": "Observatoriet börjar som deras privata fristad. Fotograferingen blir senare ett gemensamt mål de försvarar när föräldrarna vill avbryta resan.",
+        "sources": [
+          "https://kimisomu-anime.com/story/introduction/",
+          "https://kimisomu-anime.com/story/"
+        ]
+      },
+      "reset_erases_consequence": {
+        "state": "unknown"
+      }
+    },
+    {
+      "mal_id": 512,
+      "title": "Majo no Takkyuubin",
+      "choice_with_consequence": {
+        "state": "unknown"
+      },
+      "cumulative_development": {
+        "state": "evidenced",
+        "description": "Kiki använder sin flygförmåga för att skapa en budtjänst. När flygförmågan sviktar påverkar det den självständiga tillvaro som hennes arbete hade byggt upp.",
+        "sources": [
+          "https://gkids.com/films/kikis-delivery-service/"
+        ]
+      },
+      "reset_erases_consequence": {
+        "state": "unknown"
+      }
+    },
+    {
+      "mal_id": 585,
+      "title": "Mimi wo Sumaseba",
+      "choice_with_consequence": {
+        "state": "evidenced",
+        "description": "Seiji väljer fiolmakaryrket och vill studera i Italien. Hans beslut får Shizuku att sätta ett eget konkret mål och skriva en roman.",
+        "sources": [
+          "https://studioghibli.jp/films/whisper-of-the-heart/"
+        ]
+      },
+      "cumulative_development": {
+        "state": "evidenced",
+        "description": "Biblioteksmötenas nyfikenhet leder till kunskap om Seijis hantverk och vidare till att Shizuku omsätter sitt läsintresse i eget skapande.",
+        "sources": [
+          "https://studioghibli.jp/films/whisper-of-the-heart/"
+        ]
+      },
+      "reset_erases_consequence": {
+        "state": "unknown"
+      }
+    },
+    {
+      "mal_id": 36885,
+      "title": "Saenai Heroine no Sodatekata Fine",
+      "choice_with_consequence": {
+        "state": "evidenced",
+        "description": "Aki planerar att fira Katōs födelsedag men tar den skadade Kosaka till sjukhus när han hittar henne. Valet ställer ansvaret för andra i konflikt med ett redan givet löfte till Katō.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Saekano_the_Movie%3A_Finale"
+        ]
+      },
+      "cumulative_development": {
+        "state": "evidenced",
+        "description": "Eriri och Utahas val att byta projekt lämnar Tomoya och Megumi med ansvar att organisera nästa spel med en förändrad grupp.",
+        "sources": [
+          "https://saekano-movieusa.com/story/"
+        ]
+      },
+      "reset_erases_consequence": {
+        "state": "unknown"
+      }
+    },
+    {
+      "mal_id": 36862,
+      "title": "Made in Abyss Movie 3: Fukaki Tamashii no Reimei",
+      "choice_with_consequence": {
+        "state": "unknown"
+      },
+      "cumulative_development": {
+        "state": "evidenced",
+        "description": "Prushkas band till Riko får en följd som bärs in i nästa nedstigning genom Rikos vita vissla.",
+        "sources": [
+          "https://www.sentaifilmworks.com/blogs/catalog/made-in-abyss-dawn-of-the-deep-soul",
+          "https://madeinabyss.fandom.com/wiki/Made_in_Abyss_Movie_3%3A_Dawn_of_the_Deep_Soul",
+          "https://en.wikipedia.org/wiki/List_of_Made_in_Abyss_episodes"
+        ]
+      },
+      "reset_erases_consequence": {
+        "state": "counterevidenced",
+        "description": "Den vita visslan låter Prushka följa med i en förändrad form. Källornas beskrivning visar att filmen behåller den centrala förlusten och att villkoren för nästa nedstigning har ändrats.",
+        "sources": [
+          "https://madeinabyss.fandom.com/wiki/Made_in_Abyss_Movie_3%3A_Dawn_of_the_Deep_Soul",
+          "https://en.wikipedia.org/wiki/List_of_Made_in_Abyss_episodes"
+        ]
+      }
+    }
+  ],
+  "unresolved_sources": {
+    "22123": [
+      "https://www.crunchyroll.com/watch/GYX01JV3R/inugami-san-nekoyama-san-and-the-summer-festival",
+      "https://www.anime.digital/anime/inugami-san-to-nekoyama-san?tl=en"
+    ]
+  }
+}
