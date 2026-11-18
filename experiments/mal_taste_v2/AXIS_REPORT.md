@@ -7,7 +7,7 @@ Det här steget gör modellen flerdimensionell, men lämnar tydligt öppet vad s
 - 778 titlar i MAL-listan, varav 529 `completed`, 97 `dropped` och 152 `plan_to_watch`.
 - 770 briefar är färdiga. Poänganalysen omfattar 526 titlar där brief och eget betyg finns.
 - Säsongsgranskningen omfattar samtliga **626 completed- och dropped-titlar**, grupperade efter releaseår och release-säsong.
-- 140 svar och användaranteckningar pekar på 112 titlar. 514 granskade titlar saknar ännu direkt smakkommentar: 445 completed och 69 dropped. De är **okända**, inte neutrala.
+- 144 svar och användaranteckningar pekar på 116 titlar. 510 granskade titlar saknar ännu direkt smakkommentar, varav 441 färdigsedda och 69 avbrutna.
 
 ## Axlar som nu hålls isär
 
@@ -65,6 +65,8 @@ Eureka Seven hör till en annan etikett: dropped efter 17 registrerade avsnitt, 
 - `axis_results.json`: fullständiga axeldefinitioner, mätresultat, säsongsutfall, evidensposter och en separat, lågkonfidens scoreprognos för titlar utan eget betyg.
 - `axis_model_v2.py`: körbar implementation.
 
+När bara smakkommentarer har tillkommit uppdaterar `python experiments/mal_taste_v2/axis_model_v2.py --refresh-evidence` säsongsgranskningen och evidensfilerna. Kommandot återanvänder den tidigare modellmätningen efter att ha kontrollerat att MAL-listan och verkbriefarna är identiska med dess underlag.
+
 Scoreprognosen för en drop betyder endast “om den hade setts färdigt”; den omvandlar aldrig en drop till ogillande. Än så länge bör vi använda filerna som en granskningsyta: hitta titlar där din egen kommentar förklarar varför textmodellen missar, och fyll först därefter de verkaxlar som saknas.
 
 ## Bedöm nästa anime
@@ -83,4 +85,20 @@ Målet är att bedöma hur ett verk kan passa just din smak, även när det sakn
 - **Vad aktiviteten gör för berättelsen.** Karutan i *Chihayafuru* gav rum för utveckling och lagom mycket insyn i reglerna. I *Saki* upplevde användaren att mahjongen dominerade. Kontrollera vilken funktion aktiviteten har i en ny brief och hur mycket av berättelsen som bygger på spelet i sig.
 - **Vad varje delbåge hinner slutföra.** Användaren tror att introduktion, förveckling och epilogen tio år senare gjorde *Seiren* mer tillfredsställande än *Amagami SS*. Det är ett preliminärt omdöme om bågarnas upplösning. För en ny omnibusserie behöver briefen beskriva hur delbågarna slutar för att jämförelsen ska gå att använda.
 
-Omgång två finns i smakprofilens källdata. De genererade tabellerna och siffrorna ovan avser fortfarande föregående körning.
+### Briefmall
+
+Använd ett kort stycke eller en rad per egenskap. Fyll i de fält som kan påverka bedömningen.
+
+| Fält | Vad briefen behöver innehålla |
+| --- | --- |
+| Verk | Titel, år, version och eventuella förkunskaper. |
+| Ingång | Vad berättelsen lägger tid på tidigt och när huvudkonflikten eller relationen kommer igång. |
+| Utveckling och form | Vilken handling, relation eller regel får följder? Vad består mellan avsnitt eller delbågar? |
+| Avslutning | Vilken fråga eller relation får en upplösning, och vad har byggts upp till den? Beskriv detta utan avgörande spoilers. |
+| Ton och innehåll | Vad märks i berättandet och kan påverka tittarupplevelsen? Ange ett konkret exempel när det spelar roll. |
+| Källor och luckor | Knyt belägg till respektive egenskap. Markera uttryckligen när det som finns är premissbeskrivning, en tolkning eller en okänd detalj. |
+| Personlig bedömning | Beskriv vad som talar för verket, vilken tidigare reaktion det bygger på och vad som kan ändra bedömningen. Ange tilltro och skäl för den. |
+
+När titeln är en uppföljare bedöms relationens utveckling utifrån vad den här delen faktiskt gör med det som byggts upp. Om tilltalet bygger på att personen redan känner till tidigare delar anges den förutsättningen i förslaget. Prognoser om betyg vid fullföljd tittning och observationer om avbrott granskas var för sig.
+
+Se [pilotprovet med åtta titlar](BRIEF_PILOT.md) för källbelagda exempel, jämförelsen med en fast sjua och vilka frågor som fortfarande behöver användarens besked.

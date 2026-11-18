@@ -7,7 +7,9 @@ MAL means, genres, studios, titles, ratings, and status are never model predicto
 """
 from __future__ import annotations
 
+import argparse
 import csv
+import hashlib
 import json
 import re
 import unicodedata
@@ -185,7 +187,33 @@ def axis_rating_model(rows, features):
             "oof":[{"mal_id":r["mal_id"],"title":r["title"],"year":r.get("release_year"),"season":r.get("release_season"),"score":int(y[i]),"predicted":round(float(oof[i]),2),"median":round(float(med[i]),2)} for i,r in enumerate(rated)],"unrated_predictions":all_preds}
 
 
+def blob_sha(path):
+    # Git stores these JSON files with LF, including on CRLF checkouts.
+    data = path.read_bytes().replace(b"\r\n", b"\n")
+    return hashlib.sha1(f"blob {len(data)}\0".encode() + data).hexdigest()
+
+
 def main():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument(
+        "--refresh-evidence",
+        action="store_true",
+        help="Keep the saved rating model if anime and work profiles are unchanged.",
+    )
+    args = parser.parse_args()
+    snapshot = {
+        "anime_blob": blob_sha(ROOT / "anime.json"),
+        "profiles_blob": blob_sha(ROOT / "anime_profiles.json"),
+        "preference_blob": blob_sha(ROOT / "anime_preference_learning.json"),
+    }
+    if args.refresh_evidence:
+        saved_path = OUT / "axis_results.json"
+        if not saved_path.is_file():
+            parser.error("--refresh-evidence needs a saved axis_results.json")
+        saved = json.loads(saved_path.read_text(encoding="utf-8"))
+        for key in ("anime_blob", "profiles_blob"):
+            if snapshot[key] != saved["snapshot"][key]:
+                parser.error("Anime or work profiles changed. Rerun without --refresh-evidence.")
     anime=json.loads((ROOT/"anime.json").read_text(encoding="utf-8"))["anime"]
     profiles=json.loads((ROOT/"anime_profiles.json").read_text(encoding="utf-8"))["profiles"]
     prefs=json.loads((ROOT/"anime_preference_learning.json").read_text(encoding="utf-8"))
@@ -222,7 +250,7 @@ def main():
         axes=sorted(set(a for e in ev for a in e["axes"]))
         why=" | ".join(dict.fromkeys(e["text"] for e in ev if e["text"]))
         audit.append({"mal_id":r["mal_id"],"title":r["title"],"year":r.get("release_year"),"season":r.get("release_season"),"status":r["status"],"user_score":r.get("score") or "","episodes_watched":r.get("episodes_watched"),"profile_status":r["profile_status"],"work_cue_tags":";".join(k for k,v in r["work_cues"].items() if v),"explicit_evidence_count":len(ev),"explicit_axes":";".join(axes),"direct_reasons":why})
-    model=axis_rating_model(rows,feat)
+    model = saved["rating_model"] if args.refresh_evidence else axis_rating_model(rows,feat)
     summary=Counter(); byaxis=defaultdict(lambda:{"titles":set(),"negative":set(),"positive":set(),"mixed":set(),"unclear":set(),"drop":set(),"scores":[]})
     for e in evidence:
         if not e["axes"]: continue
@@ -236,7 +264,7 @@ def main():
             if e.get("status")=="dropped": s["drop"].add(e["mal_id"])
             if e.get("user_score"): s["scores"].append(e["user_score"])
     axis_summary={k:{"label":AXES[k]["label"],"titles_with_explicit_mentions":len(v["titles"]),"explicit_negative_titles":len(v["negative"]),"explicit_positive_titles":len(v["positive"]),"explicit_mixed_titles":len(v["mixed"]),"direction_unclear_titles":len(v["unclear"]),"dropped_titles":len(v["drop"]),"work_text_coverage":sum(bool(feat[mid].get(k+"__cue_1") or feat[mid].get(k+"__cue_2")) for mid in feat)} for k,v in byaxis.items()}
-    result={"schema_version":1,"snapshot":{"anime_blob":"ec68ba8db62df4d1275e020988f8cdb0f6bf06d3","profiles_blob":"65ee46c5d708cb696fa1378977d4c15f02258f55","preference_blob":"1fdcf7acc3912789ca71fed8f4b26f65a4f0623f"},"principles":["work-side textual cues describe a title; they are not quality judgments","a user's factor selection stays tied to that title unless repeated cross-title evidence supports a tentative hypothesis","dropped is not treated as a low numeric rating","no MAL mean is used"],"axes":{k:{"label":v["label"],"question":v["question"],"cue_1_patterns":v["cue_1"],"cue_2_patterns":v["cue_2"]} for k,v in AXES.items()},"counts":{"titles":len(rows),"complete_profiles":sum(r["profile_status"]=="complete" for r in rows),"completed":sum(r["status"]=="completed" for r in rows),"dropped":sum(r["status"]=="dropped" for r in rows),"completed_scored_profiled":model["n"],"evidence_records":len(evidence),"titles_with_direct_evidence":len(by_id)},"rating_model":model,"axis_summary":axis_summary,"seasonal_audit":audit,"evidence":evidence}
+    result={"schema_version":1,"snapshot":snapshot,"principles":["work-side textual cues describe a title; they are not quality judgments","a user's factor selection stays tied to that title unless repeated cross-title evidence supports a tentative hypothesis","dropped is not treated as a low numeric rating","no MAL mean is used"],"axes":{k:{"label":v["label"],"question":v["question"],"cue_1_patterns":v["cue_1"],"cue_2_patterns":v["cue_2"]} for k,v in AXES.items()},"counts":{"titles":len(rows),"complete_profiles":sum(r["profile_status"]=="complete" for r in rows),"completed":sum(r["status"]=="completed" for r in rows),"dropped":sum(r["status"]=="dropped" for r in rows),"completed_scored_profiled":model["n"],"evidence_records":len(evidence),"titles_with_direct_evidence":len(by_id)},"rating_model":model,"axis_summary":axis_summary,"seasonal_audit":audit,"evidence":evidence}
     (OUT/"axis_results.json").write_text(json.dumps(result,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     with (OUT/"seasonal_audit.csv").open("w",encoding="utf-8",newline="") as f:
         w=csv.DictWriter(f,fieldnames=list(audit[0]));w.writeheader();w.writerows(sorted(audit,key=lambda x:(x["year"] or 0,{"winter":0,"spring":1,"summer":2,"fall":3}.get(x["season"],4),x["mal_id"])))

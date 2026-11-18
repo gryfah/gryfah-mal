@@ -18,3 +18,31 @@ Prognosen gäller betyg vid fullföljd tittning. Jämför absoluta betygsfel fö
 | The Garden of Sinners, kapitel 3 (film, 2008) | Fujinos smärta får följder för ett mordfall, och Shikis konfrontation leder till ett val. Utgivaren placerar kapitlen utanför kronologisk ordning. [Aniplex, kapitel 2–4](https://aniplexusa.com/thegardenofsinners/) | Mörka händelser leder till ett konkret val, vilket stämmer med att du uppskattar följder som förändrar vad en person kan göra. Detaljerat våld är en möjlig kostnad. Ditt svar om *Hotaru no Haka* gäller ett annat slags lidande och ger därför en försiktig jämförelse. | Låg. Sammanfattningen visar våldets roll men ger svagt underlag om inramningen och om filmen skapar närhet till Fujino. | 7 | Medel |
 | Kizumonogatari III: Reiketsu-hen (film, 2017) | Trilogins sista del börjar där Araragi har återställt Kiss-shots kropp. De tidigare framgångarna leder till att han måste konfrontera konsekvenserna av vampyrismen. [Japan Film Database](https://jfdb.jp/en/title/6869) och [Aniplex](https://online.aniplex.co.jp/itemFrErQktf.html) | Tidigare handlingar förändrar villkoren för den centrala relationen. Det kan passa det du uppskattade i *Evangelion Q*, där en relationsförskjutning bar mycket av intresset. Bedömningen förutsätter de två första filmerna. | Medel. Källorna belägger vändningen, med begränsat stöd för hur helheten landar känslomässigt. | 8 | Låg |
 | Vandread (TV, första säsongen, 2000) | Två samhällen i krig, uppdelade efter kön, tvingas samarbeta på ett skepp när en yttre fiende dyker upp. Gonzo beskriver återkommande kriser och karaktärsutveckling. [Gonzo](https://www.gonzo.co.jp/works/vandread/) | Det påtvingade samarbetet kan ge bestående förändring. *Strike Witches* ger en relevant riskjämförelse om kriserna återgår till samma upplägg. Källan belägger bara att kriser återkommer, så risken är en hypotes. | Låg. Förändringen i besättningen och hur regelbundet serien återgår till samma upplägg behöver bättre källor. | 6 | Hög |
+
+## Utfallet efter att bedömningarna sparats
+
+Bedömningarna ovan sparades lokalt i `0632183` före öppning av facit. Samma förhandsversion finns i [den första pilotversionen](https://github.com/gryfah/gryfah-mal/blob/a1ee09d702e8dd155a7f7562e704269d92c91ea3/experiments/mal_taste_v2/BRIEF_PILOT.md).
+
+| Verk | Prognos | Tittarrisk | Registrerat utfall |
+| --- | ---: | --- | --- |
+| Gankutsuou | 8 | Låg | 8/10 |
+| Sasameki Koto | 7 | Medel | Avbruten efter 4 avsnitt |
+| Under Ninja | 7 | Hög | 6/10, färdigsedd |
+| Aiura | 7 | Medel | 6/10, färdigsedd |
+| Rascal Does Not Dream of a Knapsack Kid | 8 | Låg | 8/10 |
+| The Garden of Sinners, kapitel 3 | 7 | Medel | 7/10 |
+| Kizumonogatari III: Reiketsu-hen | 8 | Låg | 7/10 |
+| Vandread | 6 | Hög | Avbruten efter 4 avsnitt |
+
+För de sex färdigsedda verken blev det tre exakta träffar och ett genomsnittligt absolut fel på **0,50 poäng**. En fast sjua gav två exakta träffar och **0,67** i medelfel. Skillnaden motsvarar en poäng mindre i sammanlagt fel över sex titlar. Båda metoderna låg inom en poäng för samtliga sex. De tre avvikelserna i briefmetoden var alla överskattningar. Urvalet är för litet för att dra slutsatser om generell träffsäkerhet.
+
+Hög tittarrisk flaggades för *Vandread* och *Under Ninja*. Den första avbröts och den andra sågs klart. *Sasameki Koto* avbröts efter fyra avsnitt trots medelhög risk. Orsakerna till båda avbrotten är okända. För *Vandread* ger facit därför ingen grund för att säga att återkommande kriser var orsaken. Pilotens motsvarande prognos för betyg bedöms endast på färdigsedda verk.
+
+## Vad briefmallen behöver fånga
+
+- **Faktisk utveckling.** *Kizumonogatari III* överskattades med en poäng. Att tidigare händelser leder till en konfrontation visar att handlingen får följder. Det räcker för en källbelagd beskrivning av strukturen. Kopplingen till en stark känslomässig utdelning behöver något konkret om vad som förändras mellan personerna.
+- **Värdet av kort och episodisk form.** *Aiura* överskattades med en poäng. Låg tidskostnad och en återkommande grupp ger svagt stöd för den kontinuitet som uppskattades i *Azumanga Daioh*. Briefen bör ange vad som faktiskt finns kvar mellan avsnitten, eller markera att det är okänt.
+- **Var en tittarrisk uppstår.** *Under Ninja* överskattades på betyget trots en tidig varningsflagga. Skriv var i serien den observerbara tröskeln ligger. Den sena eskaleringen styrker exempelvis ett påstående om när berättelsen växlar upp. Frågan om tittaren vill fortsätta prövas separat.
+- **Vad som får tittaren att fortsätta.** *Sasameki Koto* var avbruten och *Vandread* fick rätt riskflagga på osäkert underlag. Ett sent avsnitts synopsis räcker sällan för att förklara om en tittare fastnar under de första avsnitten. Följ upp vad som skavde, eller om avbrottet hade andra skäl.
+
+Första uppföljningsfrågorna gäller *Sasameki Koto*, *Under Ninja* och *Kizumonogatari III*. De kan ge ett avbrottsskäl, en förklaring till varför en sexa ändå sågs klart och en kontroll av om relationens vändning alls var viktig för sjuan. Betygen visar avvikelsen. Användarens svar får avgöra om det var briefen eller smakkopplingen som behövde förbättras.

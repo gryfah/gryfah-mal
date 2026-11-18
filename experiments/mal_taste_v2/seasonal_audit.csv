@@ -207,7 +207,7 @@ mal_id,title,year,season,status,user_score,episodes_watched,profile_status,work_
 10460,Kimi to Boku.,2011,fall,completed,7,13,complete,relationship_agency__cue_1;relationship_agency__cue_2,0,,
 10620,Mirai Nikki (TV),2011,fall,completed,8,26,complete,relationship_agency__cue_1;emotional_framing__cue_2;content_cost__cue_1,0,,
 10793,Guilty Crown,2011,fall,completed,6,22,complete,,0,,
-10800,Chihayafuru,2011,fall,completed,8,25,complete,progression_memory__cue_1;relationship_agency__cue_1,0,,
+10800,Chihayafuru,2011,fall,completed,8,25,complete,progression_memory__cue_1;relationship_agency__cue_1,1,premise_logic;progression_memory,"karuta var fonden för att visa utveckling, med en bra balans insyn i spelets regler. saki var majong the series i jämförelse."
 11013,Inu x Boku SS,2012,winter,dropped,,3,complete,progression_memory__cue_1;relationship_agency__cue_1,0,,
 11111,Another,2012,winter,completed,7,12,complete,tone_texture__cue_1;content_cost__cue_1,0,,
 11179,Papa no Iukoto wo Kikinasai!,2012,winter,completed,6,12,complete,,0,,
@@ -354,7 +354,7 @@ mal_id,title,year,season,status,user_score,episodes_watched,profile_status,work_
 33487,Masamune-kun no Revenge,2017,winter,completed,8,12,complete,,1,emotional_framing,Berättelsens hämndplan som krockar med verkliga känslor
 33489,Little Witch Academia (TV),2017,winter,completed,7,25,complete,progression_memory__cue_1,0,,
 33581,Trinity Seven Movie 1: Eternity Library to Alchemic Girl,2017,winter,completed,5,1,complete,,1,,Minns inte
-33836,Seiren,2017,winter,completed,7,12,complete,,0,,
+33836,Seiren,2017,winter,completed,7,12,complete,,1,format_accumulation,tror formatet med intro förveckling 10 år senare ihop var mer tillfredställande än amagami
 33988,Demi-chan wa Kataritai,2017,winter,completed,8,12,complete,,0,,
 25777,Shingeki no Kyojin Season 2,2017,spring,completed,7,12,complete,,0,,
 30727,Saenai Heroine no Sodatekata ♭,2017,spring,completed,8,11,complete,,0,,
@@ -470,7 +470,7 @@ mal_id,title,year,season,status,user_score,episodes_watched,profile_status,work_
 40417,Fruits Basket 2nd Season,2020,spring,completed,9,25,complete,progression_memory__cue_1;tone_texture__cue_1,0,,
 40716,Kakushigoto,2020,spring,completed,6,12,complete,,1,emotional_framing;tone_texture,Berättelsens komedi med emotionell inramning
 42519,Bokutachi wa Benkyou ga Dekinai! Chapel no Kane wa [X] wo Shukufuku Suru,2020,spring,completed,6,1,complete,,0,,
-39547,Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan,2020,summer,completed,7,12,complete,progression_memory__cue_1,0,,
+39547,Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan,2020,summer,completed,7,12,complete,progression_memory__cue_1,1,relationship_agency,"en ip jag behövde 2 försök för att se klart. fick inget grepp om personerna, älskade sidospår tjejen saki (sakaki?) mer än mc li och ville mest se hur de rodde iland ip. kompetent 7."
 40708,Monster Musume no Oishasan,2020,summer,completed,6,12,complete,relationship_agency__cue_2;content_cost__cue_1,0,,
 40956,Enen no Shouboutai: Ni no Shou,2020,summer,dropped,,4,complete,,0,,
 41226,Uzaki-chan wa Asobitai!,2020,summer,completed,7,12,complete,,0,,
@@ -497,7 +497,7 @@ mal_id,title,year,season,status,user_score,episodes_watched,profile_status,work_
 41457,86,2021,spring,completed,10,11,complete,content_cost__cue_1,0,,
 42192,Edens Zero,2021,spring,completed,6,25,complete,progression_memory__cue_1;tone_texture__cue_1,0,,
 42361,"Ijiranaide, Nagatoro-san",2021,spring,completed,7,12,complete,relationship_agency__cue_1,0,,
-42938,Fruits Basket: The Final,2021,spring,completed,10,13,complete,relationship_agency__cue_2,0,,
+42938,Fruits Basket: The Final,2021,spring,completed,10,13,complete,relationship_agency__cue_2,1,format_accumulation,de största beatsen var ironiskt nog i säsonger innan. finalen var därför en wrap up inte crescendo som quituplets. bra och gripande wrap up. 10 av 10 för bra wrap up.
 43007,Osananajimi ga Zettai ni Makenai Love Comedy,2021,spring,completed,6,12,complete,,0,,
 43439,Shadows House,2021,spring,completed,7,13,complete,progression_memory__cue_1;relationship_agency__cue_1,0,,
 46095,Vivy: Fluorite Eye's Song,2021,spring,completed,8,13,complete,progression_memory__cue_1,0,,
