@@ -24756,6 +24756,27 @@
         "model_review_status": "reviewed",
         "model_review_note": "Beakta verkets långa kultur-/franchisekontext och medvetna omtolkning; skilj det från vanlig fortsättnings kontinuitet. Här avvisar användaren en förenklad direktjämförelse.",
         "linked_hypothesis_ids": []
+      },
+      "attack_on_titan_final_season_consequences_20261118": {
+        "id": "attack_on_titan_final_season_consequences_20261118",
+        "mal_ids": [
+          40028
+        ],
+        "kind": "work_specific_reaction",
+        "verbatim": "världen breddades, murar slogs sönder, beslut fick konsekvenser och ansvar. ingen karaktär hade plot armor",
+        "interpretation": "Shingeki no Kyojin: The Final Season uppskattades för att världen breddades och murar slogs sönder, samtidigt som beslut fick konsekvenser och medförde ansvar. Avsaknaden av plot armor bidrog till att insatserna kändes verkliga. Det avgörande med perspektivskiftet var att det ändrade konfliktens räckvidd och ansvarsfördelning, inte bara tittarens sympati.",
+        "limitations": [
+          "'Ingen karaktär hade plot armor' återger användarens upplevelse av berättelsens insatser; undvik att tolka som bokstavligt påstående att varje viktig figur riskerar död i varje scen.",
+          "Detta är positivt belägg för konkreta konsekvenser, men etablerar inte att dödsfall krävs för progression."
+        ],
+        "source": "explicit_user_statement_in_current_chat",
+        "recorded_date": "2026-11-18",
+        "evidence_status": "direct_user_explanation",
+        "model_review_status": "reviewed",
+        "model_review_note": "Värdera när ett perspektivskifte faktiskt vidgar världen, förändrar ansvar och ger val påtagliga följder. Undvik att reducera till en preferens för högre våld eller dödlighet.",
+        "linked_hypothesis_ids": [
+          "narrative_pacing_and_progression"
+        ]
       }
     }
   }
