@@ -141,6 +141,21 @@
         "prepared_at_utc": "2026-11-18T11:13:21.157Z",
         "delivery_attempted_at_utc": "2026-11-18T11:13:21.157Z",
         "delivery_status": "answered"
+      },
+      "axis_comparison_followup_v2": {
+        "threshold": "axis_comparison_followup_v2",
+        "question_ids": [
+          "mal-42938",
+          "mal-39547",
+          "mal-10800",
+          "mal-33836"
+        ],
+        "processed_count": 4,
+        "source_snapshot_utc": "2026-11-18T09:03:23.910860+00:00",
+        "created_at_utc": "2026-11-18T11:35:12.000Z",
+        "prepared_at_utc": "2026-11-18T11:35:12.000Z",
+        "delivery_attempted_at_utc": "2026-11-18T11:35:12.000Z",
+        "delivery_status": "answered"
       }
     },
     "items": {
@@ -2954,6 +2969,138 @@
             "scope": "specific_work_drop_reason",
             "text": "Användaren trodde efter The World God Only Knows att omnibusformatet i sig passade, men efter tre tjejberättelser/9 avsnitt drog slutsatsen att det specifikt var TWGOK som fungerade. Detta korrigerar hypotesen om en generell omnibuspreferens; orsaken till avbrottet anges inte mer precist.",
             "certainty": "direct_verbatim_with_cautious_interpretation"
+          }
+        }
+      },
+      "mal-42938": {
+        "question_id": "mal-42938",
+        "mal_id": 42938,
+        "title": "Fruits Basket: The Final",
+        "question": "Vad gjorde att sista säsongen landade på en tia?",
+        "options": [],
+        "multiple_select": false,
+        "created_round": "axis_comparison_followup_v2",
+        "status": "answered",
+        "created_at_utc": "2026-11-18T11:35:12.000Z",
+        "detection_reasons": [
+          "finale_comparison"
+        ],
+        "evidence": {
+          "user_score": 10,
+          "observed_status": "completed",
+          "episodes_watched": 13
+        },
+        "sources": [],
+        "answer": {
+          "raw_response": "de största beatsen var ironiskt nog i säsonger innan. finalen var därför en wrap up inte crescendo som quituplets. bra och gripande wrap up därför 9",
+          "selected_options": [],
+          "free_text": "de största beatsen var ironiskt nog i säsonger innan. finalen var därför en wrap up inte crescendo som quituplets. bra och gripande wrap up. 10 av 10 för bra wrap up.",
+          "answered_at_utc": "2026-11-18T11:35:12.000Z",
+          "source": "explicit_user_answer",
+          "follow_up_correction": {
+            "raw_response": "10 av 10 för bra wrap up",
+            "answered_at_utc": "2026-11-18T11:35:12.000Z"
+          },
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Griper som avrundning efter att de största berättelsehöjdpunkterna låg i tidigare säsonger. Rättat betyg 10/10.",
+            "certainty": "direct_verbatim_with_cautious_interpretation"
+          }
+        }
+      },
+      "mal-39547": {
+        "question_id": "mal-39547",
+        "mal_id": 39547,
+        "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
+        "question": "Hur landade själva slutet för dig?",
+        "options": [],
+        "multiple_select": false,
+        "created_round": "axis_comparison_followup_v2",
+        "status": "answered",
+        "created_at_utc": "2026-11-18T11:35:12.000Z",
+        "detection_reasons": [
+          "finale_comparison"
+        ],
+        "evidence": {
+          "user_score": 7,
+          "observed_status": "completed",
+          "episodes_watched": 12
+        },
+        "sources": [],
+        "answer": {
+          "raw_response": "en ip jag behövde 2 försök för att se klart. fick inget grepp om personerna, älskade sidospår tjejen saki (sakaki?) mer än mc li och ville mest se hur de rodde iland ip. kompetent 7.",
+          "selected_options": [],
+          "free_text": "en ip jag behövde 2 försök för att se klart. fick inget grepp om personerna, älskade sidospår tjejen saki (sakaki?) mer än mc li och ville mest se hur de rodde iland ip. kompetent 7.",
+          "answered_at_utc": "2026-11-18T11:35:12.000Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Två försök att se klart. Svårt att få grepp om personerna, mer intresse för en osäkert namngiven sidokaraktär än för huvudpersonens kärleksintressen. Fortsatte främst för att se hur serien avslutades.",
+            "certainty": "direct_verbatim_with_cautious_interpretation"
+          }
+        }
+      },
+      "mal-10800": {
+        "question_id": "mal-10800",
+        "mal_id": 10800,
+        "title": "Chihayafuru",
+        "question": "Vad fick dig att vilja fortsätta här, jämfört med Saki?",
+        "options": [],
+        "multiple_select": false,
+        "created_round": "axis_comparison_followup_v2",
+        "status": "answered",
+        "created_at_utc": "2026-11-18T11:35:12.000Z",
+        "detection_reasons": [
+          "activity_focus_comparison"
+        ],
+        "evidence": {
+          "user_score": 8,
+          "observed_status": "completed",
+          "episodes_watched": 25
+        },
+        "sources": [],
+        "answer": {
+          "raw_response": "karuta var fonden för att visa utveckling, med en bra balans insyn i spelets regler. saki var majong the series i jämförelse.",
+          "selected_options": [],
+          "free_text": "karuta var fonden för att visa utveckling, med en bra balans insyn i spelets regler. saki var majong the series i jämförelse.",
+          "answered_at_utc": "2026-11-18T11:35:12.000Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Karutan gav utrymme åt utveckling och lagom mycket insyn i reglerna. I Saki upplevdes spelet i sig dominera.",
+            "certainty": "direct_verbatim_with_cautious_interpretation"
+          }
+        }
+      },
+      "mal-33836": {
+        "question_id": "mal-33836",
+        "mal_id": 33836,
+        "title": "Seiren",
+        "question": "Minns du vad som gjorde att du såg klart Seiren jämfört med Amagami SS?",
+        "options": [],
+        "multiple_select": false,
+        "created_round": "axis_comparison_followup_v2",
+        "status": "answered",
+        "created_at_utc": "2026-11-18T11:35:12.000Z",
+        "detection_reasons": [
+          "omnibus_comparison"
+        ],
+        "evidence": {
+          "user_score": 7,
+          "observed_status": "completed",
+          "episodes_watched": 12
+        },
+        "sources": [],
+        "answer": {
+          "raw_response": "tror formatet med intro förveckling 10 år senare ihop var mer tillfredställande än amagami",
+          "selected_options": [],
+          "free_text": "tror formatet med intro förveckling 10 år senare ihop var mer tillfredställande än amagami",
+          "answered_at_utc": "2026-11-18T11:35:12.000Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren tror att introduktionen, förvecklingen och epilogen där paret är ihop tio år senare gav mer tillfredsställande avslut.",
+            "certainty": "tentative_user_recollection"
           }
         }
       }
