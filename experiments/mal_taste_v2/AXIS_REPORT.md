@@ -66,3 +66,21 @@ Eureka Seven hör till en annan etikett: dropped efter 17 registrerade avsnitt, 
 - `axis_model_v2.py`: körbar implementation.
 
 Scoreprognosen för en drop betyder endast “om den hade setts färdigt”; den omvandlar aldrig en drop till ogillande. Än så länge bör vi använda filerna som en granskningsyta: hitta titlar där din egen kommentar förklarar varför textmodellen missar, och fyll först därefter de verkaxlar som saknas.
+
+## Bedöm nästa anime
+
+Målet är att bedöma hur ett verk kan passa just din smak, även när det saknas i din MAL-lista och du aldrig har hört talas om det. Grunden är en källbelagd verkbrief och dina titelspecifika omdömen i `anime_preference_learning.json`.
+
+1. **Identifiera rätt verk.** Kontrollera titel och alternativtitel, år och vilken film, säsong eller version frågan gäller. Använd MAL-ID om det finns. Om en uppföljare kräver tidigare delar, ta hänsyn till dem i förslaget.
+2. **Hämta eller bygg en kort brief.** Börja med `anime_profiles.json`. Sök upp verket när briefen saknas eller när den avgörande egenskapen är oklar. Använd i första hand officiella synopsis, avsnittsbeskrivningar och uppgifter från upphovspersoner. Komplettera med en namngiven källa som beskriver berättandet i praktiken när den behövs. Ange källa per avgörande egenskap. En genreskylt eller reklambeskrivning ger stöd för premissen. Bedömningar av utveckling, upplösning eller upprepning kräver belägg för hur verket faktiskt är uppbyggt. Håll svaret spoilerfritt om användaren inte ber om detaljer.
+3. **Matcha det som går att belägga.** Välj de två eller tre egenskaper som kan avgöra tittarupplevelsen. För varje egenskap, ange vad briefen visar, vilken tidigare titelreaktion som är relevant och hur nära jämförelsen ligger. Sök ett motexempel när en lätt generalisering skulle kunna ge fel slutsats. En enda reaktion ger en jämförelse att pröva. Flera oberoende titlar kan ge ett återkommande mönster. Samma omdöme i flera datarader räknas som ett belägg.
+4. **Ge ett användbart besked.** Ge en kort bedömning av om titeln passar som nästa anime, vad som talar för den och vilken risk eller kunskapslucka som kan ändra slutsatsen. Ange tilltron som hög, medel eller låg och motivera den med hur specifika källorna och jämförelserna är. Markera okända egenskaper som okända. Håll eventuella avbrott och deras skäl som egna observationer. MAL:s snittbetyg och v2:s experimentella poängprognos ligger utanför den personliga bedömningen.
+5. **Följ upp.** Spara bedömningen före tittandet med källor, jämförelsetitlar och vad som är osäkert. Efteråt kan ditt omdöme visa om både beskrivningen av verket och kopplingen till smaken höll. För en första kontroll på redan sedda titlar hålls testtiteln och närliggande delar av samma franchise undan från smakunderlaget tills bedömningen är formulerad. Bedöm vilka slutsatser som höll och vilka uppgifter briefen saknade innan mönstren ges större vikt.
+
+### Jämförelser från omgång två
+
+- **Hur berättelsen avslutas.** De största höjdpunkterna i *Fruits Basket* låg enligt användaren tidigare, och *The Final* fick 10/10 för sin gripande avrundning. *5-toubun no Hanayome Movie* fick 10/10 för en final som förlöste syskondramat. *Oregairu Kan* fick 7/10. Användaren såg främst klart för att få veta hur serien skulle avslutas och hade svårt att få grepp om huvudpersonerna. När en brief lovar en final behöver vi veta vad den faktiskt avslutar och vad som byggts upp dessförinnan.
+- **Vad aktiviteten gör för berättelsen.** Karutan i *Chihayafuru* gav rum för utveckling och lagom mycket insyn i reglerna. I *Saki* upplevde användaren att mahjongen dominerade. Kontrollera vilken funktion aktiviteten har i en ny brief och hur mycket av berättelsen som bygger på spelet i sig.
+- **Vad varje delbåge hinner slutföra.** Användaren tror att introduktion, förveckling och epilogen tio år senare gjorde *Seiren* mer tillfredsställande än *Amagami SS*. Det är ett preliminärt omdöme om bågarnas upplösning. För en ny omnibusserie behöver briefen beskriva hur delbågarna slutar för att jämförelsen ska gå att använda.
+
+Omgång två finns i smakprofilens källdata. De genererade tabellerna och siffrorna ovan avser fortfarande föregående körning.
