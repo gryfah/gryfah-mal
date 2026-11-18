@@ -4,21 +4,21 @@
   "dimensions": {
     "progression": {
       "label": "Progression och tidsinvestering",
-      "support": "Witch Hunter Robin och Mushishi ger stöd för att upprepning utan märkbar utveckling kan störa. Ijiranaide, Nagatoro-san 2nd Attack (50197, 8/10): Initiative und gegenseitige Verletzlichkeit wurden als beitragende Elemente genannt.",
-      "counterexample": "Yesterday wo Utatte är ett motexempel till låg fart som generell nackdel. TWGOK visar att blockstruktur kan fungera. Busu ni Hanataba wo. (53512, 5/10): wiederholte Konflikte um dieselbe Selbstbildfrage minderten den Eindruck einer glaubwürdigen Beziehungsentwicklung. Made in Abyss Movie 3 (36862, 7/10) machte Fortschritte, aber das reichte nicht für ein hohes Ergebnis.",
-      "uncertainty": "Långsamt tempo eller episodisk struktur kan urskiljas i briefen. Upplevd stagnation kräver starkare belägg. Episodische Form, kumulative Veränderungen, glaubwürdige Figurenentscheidungen und auszahlende Konsequenzen sind getrennte Eigenschaften. Eine einzelne binäre Progressionsflagge darf kein fixes Plus auslösen."
+      "support": "Witch Hunter Robin ger stöd för att upprepning utan märkbar utveckling kan störa. Nagatoro 2nd Attack (50197, 8/10) visar att initiativ och ömsesidig sårbarhet kan bidra till relationsutveckling.",
+      "counterexample": "Yesterday wo Utatte visar att låg fart inte i sig är en nackdel. Busu ni Hanataba wo. (53512, 5/10) visar en mer specifik invändning mot upprepade konflikter utan trovärdig förändring. Made in Abyss Movie 3 gick framåt men fick 7.",
+      "uncertainty": "Episodisk form, variation mellan möten, kumulativ förändring, trovärdiga karaktärsval och känslomässiga följder är skilda egenskaper. En binär progressionsflagga får inte ge ett fast plus."
     },
     "relationship": {
       "label": "Relationer som förändras",
-      "support": "FranXX och Evangelion Q ger stöd för att förändrade relationer kan bära betyget. Nagatoro 2nd Attack (50197, 8/10): Senpais Initiative, beiderseitige Verletzlichkeit und bereits bestehendes Interesse wurden gemeinsam ausgewählt.",
-      "counterexample": "Tamako Love Story och Kamisama-OVA visar att en central relation kan bidra för lite när den inte utvecklas. Busu ni Hanataba wo. (53512, 5/10): der Nutzer nennt sowohl eine unglaubwürdige Beziehungsentwicklung als auch die Wiederholung derselben Selbstbildkonflikte.",
-      "uncertainty": "Att en relation finns säger lite om hur väl förändringen gestaltas. Bereitschaft, eine Beziehung zu verfolgen und Glaubwürdigkeit ihrer Entwicklung sind getrennte Fragen."
+      "support": "FranXX och Evangelion Q visar att förändrade relationer kan bära ett betyg. I Nagatoro 2nd Attack (50197, 8/10) valde du både Senpais initiativ och att båda visar sårbarhet, med tidigare engagemang i paret som bidragande faktor.",
+      "counterexample": "Tamako Love Story och Kamisama-OVA visar att en central relation kan bidra för lite när den inte utvecklas. I Busu ni Hanataba wo. (53512, 5/10) anger du både bristande trovärdighet i relationsutvecklingen och upprepning av samma självbildskonflikt.",
+      "uncertainty": "Att en relation finns säger lite om hur väl förändringen gestaltas. Trovärdighet, ömsesidig sårbarhet och redan upparbetat intresse är skilda möjliga bidrag."
     },
     "consequences": {
       "label": "Val, konsekvenser och upplösning",
-      "support": "White Album 2 och Clannad: After Story ger exempel på varför konsekvenser och emotionell upplösning är värda att testa. Made in Abyss Movie 3 (36862, 7/10): der Nutzer sagt ausdrücklich, dass die Geschichte voranging, aber die Darstellung von Leid und Folgen den Wert begrenzte. Kimi wa Houkago Insomnia (50796, 8/10) verweist auf die Behandlung des aufgebauten Materials im Ende.",
-      "counterexample": "Clannad fick ändå 7. Effekten av ett avslut och verkets helhetsbetyg kan gå åt olika håll. Fortschritt allein garantiert keinen höheren Wert: Made in Abyss Movie 3 erhielt 7/10 trotz ausdrücklich wahrgenommener Fortschritte.",
-      "uncertainty": "Spoilerfria briefar har ofta tunn täckning av upplösningar. Saknad signal är okänd. Die Bedeutung des Endes und der Umgang mit Leid sind von der bloßen Fortführung oder Auflösung einer Handlung zu unterscheiden."
+      "support": "White Album 2 och Clannad: After Story visar varför konsekvenser och emotionell upplösning är värda att pröva. I Insomniacs (50796, 8/10) angav du hur slutet tog hand om det uppbyggda. I Made in Abyss Movie 3 (36862, 7/10) sa du att berättelsen gick framåt, men att skildringen av lidande och följder höll nere betyget.",
+      "counterexample": "Clannad fick ändå 7. Made in Abyss Movie 3 visar dessutom att berättelsemässiga framsteg inte automatiskt innebär ett högt betyg.",
+      "uncertainty": "Spoilerfria briefar har ofta tunn täckning av upplösningar. Att berättelsen går vidare, vad följderna gör med karaktärerna och hur slutet hanterar uppbyggnaden måste kodas var för sig."
     },
     "premise": {
       "label": "Premissens funktion och förankring",
@@ -28,9 +28,9 @@
     },
     "tone": {
       "label": "Tonal konsekvens och växlingar",
-      "support": "Koi Kaze är ett uttryckligt exempel på uppskattad konsekvent ton. Kimi wa Houkago Insomnia (50796, 8/10): nächtliche Atmosphäre und Rhythmus wurden ausdrücklich ausgewählt.",
+      "support": "Koi Kaze visar stöd för konsekvent ton. Insomniacs (50796, 8/10) lyfter fram nattmiljöer och rytm som egna positiva bidrag.",
       "counterexample": "Maid Dragon och Hinamatsuri fick motsatta avvikelser trots episodisk komik med känslomässiga inslag.",
-      "uncertainty": "Tonal blandning har ingen förvald riktning. Atmosphäre, Rhythmus und Schlusszahlung sind getrennte Beitragspunkte und dürfen nicht aus Genre oder Format abgeleitet werden."
+      "uncertainty": "Atmosfär, rytm och slutets hantering av uppbyggnaden är separata egenskaper och ska inte härledas från genre eller format."
     },
     "perspective": {
       "label": "Subjektivt perspektiv och omsorg",
@@ -51,10 +51,10 @@
       "uncertainty": "Formatet används som modifierande egenskap utan förvald riktning."
     },
     "interaction_repetition": {
-      "label": "Interaktion unter Wiederholung",
-      "support": "Inugami-san to Nekoyama-san (22123, 7/10): Nutzer nennt das Zusammenspiel der Hauptfiguren als Grund, obwohl sich Situationen ähneln. Das belegt, dass Wiederholung nicht automatisch stört.",
-      "counterexample": "Flying Witch (31376, 6/10): episodisches Format war akzeptabel, einzelne Begegnungen boten aber zu wenig. Das ist ein Kontrast zu Inugami-san, kein direkter Gegenbeweis zur Rolle von Figureninteraktion.",
-      "uncertainty": "Bisher ein positives werksspezifisches Beispiel und ein nur teilweise passender Kontrast. Noch keine allgemeine Präferenz ableiten."
+      "label": "Samspelets värde när situationer upprepas",
+      "support": "Inugami-san to Nekoyama-san (22123, 7/10): du pekar ut samspelet mellan huvudpersonerna som det som fungerar, trots att situationerna liknar varandra.",
+      "counterexample": "Flying Witch (31376, 6/10): det episodiska formatet fungerade, men de enskilda mötena gav för lite. Skillnaden talar för att innehållet i mötena kan spela större roll än formatet.",
+      "uncertainty": "Ett tydligt positivt exempel och ett närliggande kontrastfall. Det räcker inte för att hävda en generell preferens."
     }
   },
   "questions": {
