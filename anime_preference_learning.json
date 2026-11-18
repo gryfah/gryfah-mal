@@ -23962,6 +23962,98 @@
         "model_review_note": "Uttrycklig metodkritik mot franchise- och genrebaserad extrapolering; inte ett negativt betyg för någon särskild Gundam-serie.",
         "model_reviewed_at_utc": "2026-11-17T21:15:06Z",
         "linked_hypothesis_ids": []
+      },
+      "senjou_no_valkyria_adaptation_comparison_20261118": {
+        "id": "senjou_no_valkyria_adaptation_comparison_20261118",
+        "mal_ids": [
+          5507
+        ],
+        "kind": "adaptation_comparison",
+        "verbatim": "var helt enkelt inte lika bra som spelet som byggde upp relationer och dynamik bättre.",
+        "interpretation": "Den centrala kritiken gäller adaptionsjämförelsen: användaren upplever att spelet bygger relationer och dynamik bättre än animen. Att en anime har gruppdynamik och karaktärsutveckling räcker alltså inte om utförandet är svagare än en relevant föregångare.",
+        "limitations": [
+          "Omdömet gäller animeadaptionen jämförd med spelet; dra inte slutsatsen att användaren ogillar premissen eller franchise generellt."
+        ],
+        "source": "explicit_user_statement_in_current_chat",
+        "recorded_date": "2026-11-18",
+        "evidence_status": "direct_user_explanation",
+        "model_review_status": "reviewed",
+        "model_review_note": "Lägg tyngd vid adaptionens faktiska relationsarbete och jämförelse med källmaterialet, inte bara förekomst av gruppdynamik.",
+        "linked_hypothesis_ids": []
+      },
+      "no6_premise_and_romance_tone_20261118": {
+        "id": "no6_premise_and_romance_tone_20261118",
+        "mal_ids": [
+          10161
+        ],
+        "kind": "work_specific_reaction",
+        "verbatim": "kändes som yaoi bait och i slutändan tunn premiss",
+        "interpretation": "Användaren upplevde en antydd romantisk/queer laddning som bait snarare än tillfredsställande relation, samtidigt som huvudpremissen till slut kändes tunn.",
+        "limitations": [
+          "Detta är ett omdöme om just No.6; generalisera inte till queer romance eller relationsteman överlag."
+        ],
+        "source": "explicit_user_statement_in_current_chat",
+        "recorded_date": "2026-11-18",
+        "evidence_status": "direct_user_explanation",
+        "model_review_status": "reviewed",
+        "model_review_note": "Relationell laddning utan tillräcklig substans eller payoff kan upplevas som bait; ett intressant premissupplägg behöver hålla även när det utvecklas.",
+        "linked_hypothesis_ids": []
+      },
+      "sankarea_premise_followthrough_20261118": {
+        "id": "sankarea_premise_followthrough_20261118",
+        "mal_ids": [
+          11499
+        ],
+        "kind": "work_specific_reaction",
+        "verbatim": "rolig ide som försöker följa premissens regler men tappar fokus rätt fort.",
+        "interpretation": "Den ursprungliga idén uppskattades och försöket att följa premissens regler noterades positivt, men berättelsen tappade fokus relativt snabbt. En fungerande premiss i starten garanterar inte fortsatt intresse om verket slutar utveckla den konsekvent.",
+        "limitations": [
+          "Ingen specifik senare riktning eller enskild orsak till fokusförlusten angavs."
+        ],
+        "source": "explicit_user_statement_in_current_chat",
+        "recorded_date": "2026-11-18",
+        "evidence_status": "direct_user_explanation",
+        "model_review_status": "reviewed",
+        "model_review_note": "Skilj uppskattning av premiss och inledande regelbundenhet från uthållighet och fokus över hela serien.",
+        "linked_hypothesis_ids": []
+      },
+      "bokutachi_no_remake_derivative_uncertain_20261118": {
+        "id": "bokutachi_no_remake_derivative_uncertain_20261118",
+        "mal_ids": [
+          40904
+        ],
+        "kind": "work_specific_reaction",
+        "verbatim": "minns inte, men tror jag tyckte det var tunn kopia av re:life",
+        "interpretation": "Osäker minnesbaserad hypotes om att Bokutachi no Remake upplevdes som en tunn ReLIFE-kopia. Registreras med låg evidensstyrka och ska inte behandlas som säker kritik eller som ett bekräftat betygsmotiv.",
+        "limitations": [
+          "Användaren markerar uttryckligen osäkerhet och svagt minne.",
+          "Jämförelsen är en möjlig förklaring, inte en säker återgivning av dåvarande reaktion."
+        ],
+        "source": "explicit_user_statement_in_current_chat",
+        "recorded_date": "2026-11-18",
+        "evidence_status": "tentative_user_recollection",
+        "confidence": "low",
+        "model_review_status": "reviewed",
+        "model_review_note": "Behåll osäkerhetsmarkören; använd inte som stark träningssignal.",
+        "linked_hypothesis_ids": []
+      },
+      "akuma_no_riddle_premise_credibility_20261118": {
+        "id": "akuma_no_riddle_premise_credibility_20261118",
+        "mal_ids": [
+          19429
+        ],
+        "kind": "work_specific_reaction",
+        "verbatim": "tyckte det var tråkig och löjlig premiss stapla -deres i ett klassrum och säga nu blir det deathmatch",
+        "interpretation": "Användaren avvisade den staplade premissen som både tråkig och löjlig: att placera en rad arketypiska '-dere'-karaktärer i ett klassrum och deklarera en deathmatch kändes inte trovärdigt eller engagerande.",
+        "limitations": [
+          "Detta är specifik kritik mot premissens konstruktion i Akuma no Riddle, inte ett generellt ogillande av death games eller ensembleberättelser."
+        ],
+        "source": "explicit_user_statement_in_current_chat",
+        "recorded_date": "2026-11-18",
+        "evidence_status": "direct_user_explanation",
+        "model_review_status": "reviewed",
+        "model_review_note": "Premissens trovärdighet och hur konfliktramen motiveras behöver bedömas; endast närvaro av konflikt, val eller utveckling är otillräckligt.",
+        "linked_hypothesis_ids": []
       }
     }
   }
