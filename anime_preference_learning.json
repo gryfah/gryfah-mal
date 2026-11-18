@@ -111,6 +111,21 @@
         "prepared_at_utc": "2026-11-17T19:12:13.232Z",
         "delivery_attempted_at_utc": "2026-11-17T19:12:20.628Z",
         "delivery_status": "attempted_unconfirmed"
+      },
+      "narrative_pilot_20261118": {
+        "threshold": "event_annotation_pilot_v1",
+        "question_ids": [
+          "mal-31376",
+          "mal-22123",
+          "mal-50197",
+          "mal-50796",
+          "mal-36862",
+          "mal-53512"
+        ],
+        "created_at_utc": "2026-11-18T05:15:52.698Z",
+        "source_snapshot_utc": "2026-11-18T05:04:40.680616+00:00",
+        "delivery_status": "answered",
+        "delivery_attempted_at_utc": "2026-11-18T05:15:52.698Z"
       }
     },
     "items": {
@@ -2561,6 +2576,244 @@
           "interpretation": {
             "scope": "specific_work",
             "text": "Användaren valde: De visuellt skiftande fantasivärldarna fungerade inte; Relationen mellan huvudpersonerna engagerade inte; Berättelsens experimentella struktur blev svår att följa. Inga ytterligare motiv angavs; valen anger möjliga bidragande orsaker.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
+      },
+      "mal-31376": {
+        "question_id": "mal-31376",
+        "mal_id": 31376,
+        "title": "Flying Witch",
+        "question": "Förklara vad som främst satte taket för ditt betyg.",
+        "options": [
+          "För lite förändrades mellan avsnitten",
+          "Det episodiska upplägget var okej, men de enskilda mötena gav för lite",
+          "Personerna eller samspelet engagerade för lite",
+          "Serien gav mig ungefär vad jag ville ha och 6 var ett okej betyg",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": "narrative_pilot_20261118",
+        "status": "answered",
+        "created_at_utc": "2026-11-18T05:15:52.698Z",
+        "detection_reasons": [
+          "event_annotation_pilot_v1"
+        ],
+        "evidence": {
+          "user_score": 6,
+          "mal_mean_score": 7.5
+        },
+        "answer": {
+          "raw_response": "b",
+          "selected_options": [
+            "Det episodiska upplägget var okej, men de enskilda mötena gav för lite"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-18T05:15:52.698Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Explicitly selected: Det episodiska upplägget var okej, men de enskilda mötena gav för lite. This records the user's stated contributing factors without generalizing beyond this title.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
+      },
+      "mal-22123": {
+        "question_id": "mal-22123",
+        "mal_id": 22123,
+        "title": "Inugami-san to Nekoyama-san",
+        "question": "Förklara vad som främst bar serien för dig.",
+        "options": [
+          "Skämten och rollkontrasterna",
+          "Samspelet mellan huvudpersonerna, även när situationerna liknade varandra",
+          "Avsnitten slutade innan upplägget hann bli tjatigt",
+          "Relationen utvecklades tillräckligt för att hålla mitt intresse",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": "narrative_pilot_20261118",
+        "status": "answered",
+        "created_at_utc": "2026-11-18T05:15:52.698Z",
+        "detection_reasons": [
+          "event_annotation_pilot_v1"
+        ],
+        "evidence": {
+          "user_score": 7,
+          "mal_mean_score": 6.51
+        },
+        "answer": {
+          "raw_response": "b",
+          "selected_options": [
+            "Samspelet mellan huvudpersonerna, även när situationerna liknade varandra"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-18T05:15:52.698Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Explicitly selected: Samspelet mellan huvudpersonerna, även när situationerna liknade varandra. This records the user's stated contributing factors without generalizing beyond this title.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
+      },
+      "mal-50197": {
+        "question_id": "mal-50197",
+        "mal_id": 50197,
+        "title": "Ijiranaide, Nagatoro-san 2nd Attack",
+        "question": "Vad bar andra säsongen främst?",
+        "options": [
+          "Senpai tog egna initiativ och förändrade relationen",
+          "Retandet i sig",
+          "Att båda visade mer sårbarhet",
+          "Jag var redan engagerad i paret efter första säsongen",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": "narrative_pilot_20261118",
+        "status": "answered",
+        "created_at_utc": "2026-11-18T05:15:52.698Z",
+        "detection_reasons": [
+          "event_annotation_pilot_v1"
+        ],
+        "evidence": {
+          "user_score": 8,
+          "mal_mean_score": 7.42
+        },
+        "answer": {
+          "raw_response": "acd",
+          "selected_options": [
+            "Senpai tog egna initiativ och förändrade relationen",
+            "Att båda visade mer sårbarhet",
+            "Jag var redan engagerad i paret efter första säsongen"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-18T05:15:52.698Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Explicitly selected: Senpai tog egna initiativ och förändrade relationen; Att båda visade mer sårbarhet; Jag var redan engagerad i paret efter första säsongen. This records the user's stated contributing factors without generalizing beyond this title.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
+      },
+      "mal-50796": {
+        "question_id": "mal-50796",
+        "mal_id": 50796,
+        "title": "Kimi wa Houkago Insomnia",
+        "question": "Vilken aspekt betydde mest för ditt betyg?",
+        "options": [
+          "Närheten kring ett problem båda delar",
+          "Fotograferingen och resan förde relationen framåt",
+          "Nattmiljöerna och rytmen",
+          "Hur slutet tog hand om det som byggts upp",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": "narrative_pilot_20261118",
+        "status": "answered",
+        "created_at_utc": "2026-11-18T05:15:52.698Z",
+        "detection_reasons": [
+          "event_annotation_pilot_v1"
+        ],
+        "evidence": {
+          "user_score": 8,
+          "mal_mean_score": 8.08
+        },
+        "answer": {
+          "raw_response": "cd",
+          "selected_options": [
+            "Nattmiljöerna och rytmen",
+            "Hur slutet tog hand om det som byggts upp"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-18T05:15:52.698Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Explicitly selected: Nattmiljöerna och rytmen; Hur slutet tog hand om det som byggts upp. This records the user's stated contributing factors without generalizing beyond this title.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
+      },
+      "mal-36862": {
+        "question_id": "mal-36862",
+        "mal_id": 36862,
+        "title": "Made in Abyss Movie 3: Fukaki Tamashii no Reimei",
+        "question": "Vad vägde tyngst i ditt helhetsbetyg?",
+        "options": [
+          "Prushka och Riko gav filmen känslomässig tyngd",
+          "Bondrewd och de moraliska frågorna",
+          "Avgrundens regler och den fortsatta nedstigningen",
+          "Filmen tog steg framåt, men hur den skildrade lidandet eller följderna höll nere betyget",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": "narrative_pilot_20261118",
+        "status": "answered",
+        "created_at_utc": "2026-11-18T05:15:52.698Z",
+        "detection_reasons": [
+          "event_annotation_pilot_v1"
+        ],
+        "evidence": {
+          "user_score": 7,
+          "mal_mean_score": 8.6
+        },
+        "answer": {
+          "raw_response": "d",
+          "selected_options": [
+            "Filmen tog steg framåt, men hur den skildrade lidandet eller följderna höll nere betyget"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-18T05:15:52.698Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Explicitly selected: Filmen tog steg framåt, men hur den skildrade lidandet eller följderna höll nere betyget. This records the user's stated contributing factors without generalizing beyond this title.",
+            "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
+      },
+      "mal-53512": {
+        "question_id": "mal-53512",
+        "mal_id": 53512,
+        "title": "Busu ni Hanataba wo.",
+        "question": "Vad drog främst ned betyget?",
+        "options": [
+          "Jag trodde inte på hur relationen utvecklades",
+          "Hanas självbild användes för att upprepa samma konflikt",
+          "Jag köpte relationen, men väntan på förändring tog för mycket plats",
+          "Humorn, berättarrösten eller tonen fick mig att tappa intresset",
+          "Annat – skriv själv",
+          "Minns inte"
+        ],
+        "multiple_select": true,
+        "created_round": "narrative_pilot_20261118",
+        "status": "answered",
+        "created_at_utc": "2026-11-18T05:15:52.698Z",
+        "detection_reasons": [
+          "event_annotation_pilot_v1"
+        ],
+        "evidence": {
+          "user_score": 5,
+          "mal_mean_score": 7.15
+        },
+        "answer": {
+          "raw_response": "ab",
+          "selected_options": [
+            "Jag trodde inte på hur relationen utvecklades",
+            "Hanas självbild användes för att upprepa samma konflikt"
+          ],
+          "free_text": null,
+          "answered_at_utc": "2026-11-18T05:15:52.698Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Explicitly selected: Jag trodde inte på hur relationen utvecklades; Hanas självbild användes för att upprepa samma konflikt. This records the user's stated contributing factors without generalizing beyond this title.",
             "certainty": "explicit_answer_with_cautious_interpretation"
           }
         }
