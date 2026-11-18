@@ -24079,7 +24079,7 @@
         "id": "horimiya_piece_vs_kamisama_ova_loop_20261118",
         "mal_ids": [
           54856,
-          13715
+          18661
         ],
         "kind": "cross_work_comparison",
         "verbatim": "hori var jag redan djup investerad i ett fint par, i kamisama så var jag redan trött på att paret var i en ska de ska de inte loop och ova var enbart ännu en loop",
@@ -24092,7 +24092,7 @@
         "recorded_date": "2026-11-18",
         "evidence_status": "direct_user_explanation",
         "model_review_status": "reviewed",
-        "model_review_note": "Relationell fördröjning blir negativ när den upprepar samma status quo; extra material kan fungera när tidigare verk redan har etablerat investering och scenernas värde.",
+        "model_review_note": "Relationell fördröjning blir negativ när den upprepar samma status quo; extra material kan fungera när tidigare verk redan har etablerat investering och scenernas värde. MAL-ID linkage verified and corrected to the OVA entry.",
         "linked_hypothesis_ids": []
       },
       "gimai_seikatsu_vs_kimi_ni_todoke_trajectories_20261118": {
@@ -24628,6 +24628,26 @@
         "evidence_status": "direct_user_statement_low_detail",
         "model_review_status": "reviewed",
         "model_review_note": "Behåll som neutral ankarexempel med låg förklaringsgrad; använd inte konsensuspoängen som signal.",
+        "linked_hypothesis_ids": []
+      },
+      "maid_dragon_ova_vs_kamisama_ova_investment_20261118": {
+        "id": "maid_dragon_ova_vs_kamisama_ova_investment_20261118",
+        "mal_ids": [
+          35363,
+          18661
+        ],
+        "kind": "cross_work_comparison",
+        "verbatim": "samma där. karaktärer jag lärt mig älska fick mer tid med mig ställt mot karaktärer jag tröttnat på som fortsatte fördriva min tid",
+        "interpretation": "Kobayashi-san Chi no Maid Dragon OVA fungerade som extra tid med karaktärer användaren lärt sig älska. Kamisama Hajimemashita OVA däremot förlängde tiden med ett par vars 'ska de/ska de inte'-dynamik användaren redan tröttnat på. Extra material värderas efter den redan uppbyggda relationella investeringen och om det känns som uppskattad närvaro eller utdragen väntan.",
+        "limitations": [
+          "Jämförelsen gäller dessa specifika sidoberättelser och par.",
+          "Detta är inte en generell regel att OVAs fungerar bara när ett par är etablerat; användarens kriterium här är att hen själv lärt sig älska karaktärerna."
+        ],
+        "source": "explicit_user_statement_in_current_chat",
+        "recorded_date": "2026-11-18",
+        "evidence_status": "direct_user_explanation",
+        "model_review_status": "reviewed",
+        "model_review_note": "Short extras are not intrinsically low or high value: extra screen time is rewarding when spent with characters the user is invested in, and tedious when it repeats a dynamic the user has tired of.",
         "linked_hypothesis_ids": []
       }
     }
