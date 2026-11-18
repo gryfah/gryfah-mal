@@ -24272,6 +24272,25 @@
         "linked_hypothesis_ids": [
           "narrative_pacing_and_progression"
         ]
+      },
+      "natsu_e_no_tunnel_emotion_directing_20261118": {
+        "id": "natsu_e_no_tunnel_emotion_directing_20261118",
+        "mal_ids": [
+          50593
+        ],
+        "kind": "work_specific_reaction",
+        "verbatim": "upplevde att ip kommunicerar alldeles för tydligt vad den anser jag ska känna, vad jag ska tycka hur jag ska reagera. min reaktion är förväntad inte skapad",
+        "interpretation": "Natsu e no Tunnel, Sayonara no Deguchi upplevdes som alltför tydligt föreskrivande: IP:n kommunicerade vad tittaren skulle känna, tycka och hur den skulle reagera. Resultatet var en förväntad reaktion snarare än en känsla som verket faktiskt skapade. Problemet är emotionell överstyrning eller otillräckligt förtjänad payoff, inte nödvändigtvis brist på känslomässigt innehåll.",
+        "limitations": [
+          "Detta gäller den specifika upplevelsen av Natsu e no Tunnel.",
+          "Undvik att dra slutsatsen att tydligt eller känslomässigt berättande alltid ogillas; skillnaden är mellan att sätta upp en känsla och att skapa den."
+        ],
+        "source": "explicit_user_statement_in_current_chat",
+        "recorded_date": "2026-11-18",
+        "evidence_status": "direct_user_explanation",
+        "model_review_status": "reviewed",
+        "model_review_note": "Utvärdera om verket ger tittaren underlag att känna något eller instruerar/kodar avsedd respons för hårt. Föreskriven känsla kan falla platt trots tydlig dramatisk avsikt.",
+        "linked_hypothesis_ids": []
       }
     }
   }
