@@ -1,5 +1,5 @@
-Warning: truncated output (original token count: 126227)
-Total output lines: 18057
+Warning: truncated output (original token count: 127771)
+Total output lines: 18191
 
 {
   "schema_version": 1,
@@ -221,8 +221,8 @@ Total output lines: 18057
     "completed": 529,
     "dropped": 97,
     "completed_scored_profiled": 526,
-    "evidence_records": 132,
-    "titles_with_direct_evidence": 108
+    "evidence_records": 140,
+    "titles_with_direct_evidence": 112
   },
   "rating_model": {
     "n": 526,
@@ -7029,19 +7029,19 @@ Total output lines: 18057
   "axis_summary": {
     "progression_memory": {
       "label": "Progression, repetition and narrative memory",
-      "titles_with_explicit_mentions": 28,
+      "titles_with_explicit_mentions": 30,
       "explicit_negative_titles": 10,
-      "explicit_positive_titles": 0,
+      "explicit_positive_titles": 1,
       "explicit_mixed_titles": 6,
-      "direction_unclear_titles": 12,
+      "direction_unclear_titles": 13,
       "dropped_titles": 9,
       "work_text_coverage": 268
     },
     "craft_intent": {
       "label": "Craft, coherence and creative intent",
-      "titles_with_explicit_mentions": 31,
+      "titles_with_explicit_mentions": 32,
       "explicit_negative_titles": 5,
-      "explicit_positive_titles": 4,
+      "explicit_positive_titles": 5,
       "explicit_mixed_titles": 17,
       "direction_unclear_titles": 10,
       "dropped_titles": 8,
@@ -7049,31 +7049,31 @@ Total output lines: 18057
     },
     "relationship_agency": {
       "label": "Relationship agency and mutual change",
-      "titles_with_explicit_mentions": 46,
+      "titles_with_explicit_mentions": 48,
       "explicit_negative_titles": 9,
-      "explicit_positive_titles": 5,
+      "explicit_positive_titles": 6,
       "explicit_mixed_titles": 14,
-      "direction_unclear_titles": 20,
+      "direction_unclear_titles": 21,
       "dropped_titles": 11,
       "work_text_coverage": 182
     },
     "emotional_framing": {
       "label": "Earned emotion and emotional framing",
-      "titles_with_explicit_mentions": 27,
+      "titles_with_explicit_mentions": 29,
       "explicit_negative_titles": 4,
-      "explicit_positive_titles": 3,
+      "explicit_positive_titles": 4,
       "explicit_mixed_titles": 10,
-      "direction_unclear_titles": 13,
+      "direction_unclear_titles": 14,
       "dropped_titles": 2,
       "work_text_coverage": 18
     },
     "premise_logic": {
       "label": "Premise logic and follow-through",
-      "titles_with_explicit_mentions": 21,
+      "titles_with_explicit_mentions": 22,
       "explicit_negative_titles": 7,
       "explicit_positive_titles": 1,
       "explicit_mixed_titles": 8,
-      "direction_unclear_titles": 6,
+      "direction_unclear_titles": 7,
       "dropped_titles": 2,
       "work_text_coverage": 0
     },
@@ -7089,9 +7089,9 @@ Total output lines: 18057
     },
     "format_accumulation": {
       "label": "Episodic form, accumulation and repetition",
-      "titles_with_explicit_mentions": 24,
+      "titles_with_explicit_mentions": 25,
       "explicit_negative_titles": 9,
-      "explicit_positive_titles": 6,
+      "explicit_positive_titles": 7,
       "explicit_mixed_titles": 4,
       "direction_unclear_titles": 7,
       "dropped_titles": 6,
@@ -8163,212 +8163,7 @@ Total output lines: 18057
       "mal_id": 492,
       "title": "Armitage III: Dual-Matrix",
       "year": 2002,
-  …26227 tokens truncated…r på vad han gör. men använder det till sin och andras fördel genom att kunna arbeta från ett äldres perspektiv"
-    },
-    {
-      "mal_id": 31953,
-      "title": "New Game!",
-      "year": 2016,
-      "season": "summer",
-      "status": "completed",
-      "user_score": 7,
-      "episodes_watched": 12,
-      "profile_status": "complete",
-      "work_cue_tags": "",
-      "explicit_evidence_count": 0,
-      "explicit_axes": "",
-      "direct_reasons": ""
-    },
-    {
-      "mal_id": 32729,
-      "title": "Orange",
-      "year": 2016,
-      "season": "summer",
-      "status": "completed",
-      "user_score": 9,
-      "episodes_watched": 13,
-      "profile_status": "complete",
-      "work_cue_tags": "progression_memory__cue_1;relationship_agency__cue_1",
-      "explicit_evidence_count": 1,
-      "explicit_axes": "relationship_agency",
-      "direct_reasons": "Berättelsens gruppens ansvar för en utsatt vän"
-    },
-    {
-      "mal_id": 32828,
-      "title": "Amaama to Inazuma",
-      "year": 2016,
-      "season": "summer",
-      "status": "dropped",
-      "user_score": "",
-      "episodes_watched": 5,
-      "profile_status": "complete",
-      "work_cue_tags": "progression_memory__cue_1;tone_texture__cue_1;content_cost__cue_1",
-      "explicit_evidence_count": 0,
-      "explicit_axes": "",
-      "direct_reasons": ""
-    },
-    {
-      "mal_id": 33091,
-      "title": "Planetarian: Chiisana Hoshi no Yume",
-      "year": 2016,
-      "season": "summer",
-      "status": "completed",
-      "user_score": 8,
-      "episodes_watched": 5,
-      "profile_status": "complete",
-      "work_cue_tags": "",
-      "explicit_evidence_count": 0,
-      "explicit_axes": "",
-      "direct_reasons": ""
-    },
-    {
-      "mal_id": 31952,
-      "title": "Kono Bijutsu-bu ni wa Mondai ga Aru!",
-      "year": 2016,
-      "season": "summer",
-      "status": "completed",
-      "user_score": 7,
-      "episodes_watched": 12,
-      "profile_status": "complete",
-      "work_cue_tags": "",
-      "explicit_evidence_count": 0,
-      "explicit_axes": "",
-      "direct_reasons": ""
-    },
-    {
-      "mal_id": 33421,
-      "title": "Yi Ren Zhi Xia",
-      "year": 2016,
-      "season": "summer",
-      "status": "dropped",
-      "user_score": "",
-      "episodes_watched": 4,
-      "profile_status": "complete",
-      "work_cue_tags": "",
-      "explicit_evidence_count": 0,
-      "explicit_axes": "",
-      "direct_reasons": ""
-    },
-    {
-      "mal_id": 32360,
-      "title": "Qualidea Code",
-      "year": 2016,
-      "season": "summer",
-      "status": "dropped",
-      "user_score": "",
-      "episodes_watched": 2,
-      "profile_status": "complete",
-      "work_cue_tags": "",
-      "explicit_evidence_count": 0,
-      "explicit_axes": "",
-      "direct_reasons": ""
-    },
-    {
-      "mal_id": 31757,
-      "title": "Kizumonogatari II: Nekketsu-hen",
-      "year": 2016,
-      "season": "summer",
-      "status": "completed",
-      "user_score": 6,
-      "episodes_watched": 1,
-      "profile_status": "complete",
-      "work_cue_tags": "progression_memory__cue_2",
-      "explicit_evidence_count": 1,
-      "explicit_axes": "",
-      "direct_reasons": "shaft estetik"
-    },
-    {
-      "mal_id": 32281,
-      "title": "Kimi no Na wa.",
-      "year": 2016,
-      "season": "summer",
-      "status": "dropped",
-      "user_score": "",
-      "episodes_watched": 0,
-      "profile_status": "complete",
-      "work_cue_tags": "progression_memory__cue_1",
-      "explicit_evidence_count": 1,
-      "explicit_axes": "craft_intent;emotional_framing;format_accumulation;premise_logic;progression_memory",
-      "direct_reasons": "Filmformatets känslomässiga berättelse fungerade inte för mig; Den övernaturliga premissen eller dess utveckling tilltalade mig inte; Visuell stil och musik räckte inte för att hålla intresset"
-    },
-    {
-      "mal_id": 33190,
-      "title": "Planetarian: Hoshi no Hito",
-      "year": 2016,
-      "season": "summer",
-      "status": "completed",
-      "user_score": 8,
-      "episodes_watched": 1,
-      "profile_status": "complete",
-      "work_cue_tags": "",
-      "explicit_evidence_count": 0,
-      "explicit_axes": "",
-      "direct_reasons": ""
-    },
-    {
-      "mal_id": 33433,
-      "title": "Shuumatsu no Izetta",
-      "year": 2016,
-      "season": "fall",
-      "status": "completed",
-      "user_score": 7,
-      "episodes_watched": 12,
-      "profile_status": "complete",
-      "work_cue_tags": "",
-      "explicit_evidence_count": 0,
-      "explicit_axes": "",
-      "direct_reasons": ""
-    },
-    {
-      "mal_id": 32603,
-      "title": "Okusama ga Seitokaichou!+!",
-      "year": 2016,
-      "season": "fall",
-      "status": "completed",
-      "user_score": 5,
-      "episodes_watched": 12,
-      "profile_status": "complete",
-      "work_cue_tags": "",
-      "explicit_evidence_count": 0,
-      "explicit_axes": "",
-      "direct_reasons": ""
-    },
-    {
-      "mal_id": 33003,
-      "title": "Mahou Shoujo Ikusei Keikaku",
-      "year": 2016,
-      "season": "fall",
-      "status": "completed",
-      "user_score": 7,
-      "episodes_watched": 12,
-      "profile_status": "complete",
-      "work_cue_tags": "progression_memory__cue_1",
-      "explicit_evidence_count": 0,
-      "explicit_axes": "",
-      "direct_reasons": ""
-    },
-    {
-      "mal_id": 33051,
-      "title": "Kidou Senshi Gundam: Tekketsu no Orphans 2nd Season",
-      "year": 2016,
-      "season": "fall",
-      "status": "completed",
-      "user_score": 8,
-      "episodes_watched": 25,
-      "profile_status": "complete",
-      "work_cue_tags": "progression_memory__cue_1",
-      "explicit_evidence_count": 0,
-      "explicit_axes": "",
-      "direct_reasons": ""
-    },
-    {
-      "mal_id": 33795,
-      "title": "Mahou Shoujo Nante Mou Ii desu kara. Second Season",
-      "year": 2016,
-      "season": "fall",
-      "status": "completed",
-      "user_score": 6,
-      "episodes_watched": 12,
+  …27771 tokens truncated…      "episodes_watched": 12,
       "profile_status": "complete",
       "work_cue_tags": "",
       "explicit_evidence_count": 0,
@@ -10849,9 +10644,9 @@ Total output lines: 18057
       "episodes_watched": 12,
       "profile_status": "complete",
       "work_cue_tags": "progression_memory__cue_2;relationship_agency__cue_2",
-      "explicit_evidence_count": 0,
-      "explicit_axes": "",
-      "direct_reasons": ""
+      "explicit_evidence_count": 2,
+      "explicit_axes": "craft_intent;emotional_framing;format_accumulation;progression_memory;relationship_agency",
+      "direct_reasons": "bra aktion, bra drama, starka karaktärer, försöken hitta nån slags mening med livet i en dystopi, relationer och stark sista båge till slutets återförening. bra musik också"
     },
     {
       "mal_id": 45576,
@@ -11213,9 +11008,9 @@ Total output lines: 18057
       "episodes_watched": 1,
       "profile_status": "complete",
       "work_cue_tags": "",
-      "explicit_evidence_count": 0,
-      "explicit_axes": "",
-      "direct_reasons": ""
+      "explicit_evidence_count": 2,
+      "explicit_axes": "emotional_framing;premise_logic;progression_memory;relationship_agency",
+      "direct_reasons": "stark gripande final på ett syskondrama med konsekvenser av att vara systrar, extramamma och rivaler. där man fått följa karaktärer man knytit an till, fram till en förlösande kärleksförklaring (bokstavligen vi bröllop)."
     },
     {
       "mal_id": 41750,
@@ -13463,6 +13258,73 @@ Total output lines: 18057
       "text": "Jag trodde inte på hur relationen utvecklades; Hanas självbild användes för att upprepa samma konflikt"
     },
     {
+      "mal_id": 48548,
+      "title": "5-toubun no Hanayome Movie",
+      "source_id": "mal-48548",
+      "source_type": "explicit_question_answer",
+      "round": "axis_anomaly_followup_v2",
+      "status": "completed",
+      "episodes_watched": null,
+      "user_score": 10,
+      "axes": [
+        "progression_memory",
+        "premise_logic",
+        "relationship_agency",
+        "emotional_framing"
+      ],
+      "direction": "factor_named_direction_unclear",
+      "certainty": "direct_factor_selection; direction only assigned when wording states it",
+      "text": "stark gripande final på ett syskondrama med konsekvenser av att vara systrar, extramamma och rivaler. där man fått följa karaktärer man knytit an till, fram till en förlösande kärleksförklaring (bokstavligen vi bröllop)."
+    },
+    {
+      "mal_id": 48569,
+      "title": "86 Part 2",
+      "source_id": "mal-48569",
+      "source_type": "explicit_question_answer",
+      "round": "axis_anomaly_followup_v2",
+      "status": "completed",
+      "episodes_watched": null,
+      "user_score": 10,
+      "axes": [
+        "progression_memory",
+        "relationship_agency",
+        "emotional_framing",
+        "format_accumulation",
+        "craft_intent"
+      ],
+      "direction": "positive_for_this_title",
+      "certainty": "direct_factor_selection; direction only assigned when wording states it",
+      "text": "bra aktion, bra drama, starka karaktärer, försöken hitta nån slags mening med livet i en dystopi, relationer och stark sista båge till slutets återförening. bra musik också"
+    },
+    {
+      "mal_id": 5671,
+      "title": "Saki",
+      "source_id": "mal-5671",
+      "source_type": "explicit_question_answer",
+      "round": "axis_anomaly_followup_v2",
+      "status": "dropped",
+      "episodes_watched": 12,
+      "user_score": null,
+      "axes": [],
+      "direction": "negative_for_this_title",
+      "certainty": "direct_factor_selection; direction only assigned when wording states it",
+      "text": "har inget emot majong, karuta eller annat. men detta var en högst majong för de som älskar majong tie in som blev för inrökt."
+    },
+    {
+      "mal_id": 8676,
+      "title": "Amagami SS",
+      "source_id": "mal-8676",
+      "source_type": "explicit_question_answer",
+      "round": "axis_anomaly_followup_v2",
+      "status": "dropped",
+      "episodes_watched": 9,
+      "user_score": null,
+      "axes": [],
+      "direction": "factor_named_direction_unclear",
+      "certainty": "direct_factor_selection; direction only assigned when wording states it",
+      "text": "trodde omnibus verk var min grej efter twogk men efter tre tjejer dvs 9 avsnitt så insåg att det var helt enkelt twogk som var min grej"
+    },
+    {
       "mal_id": 634,
       "title": null,
       "source_id": "premise_execution_20261115",
@@ -14533,6 +14395,73 @@ Total output lines: 18057
       "direction": "factor_named_direction_unclear",
       "certainty": "direct_methodological_correction",
       "text": "svår jämförelse mellan en drop och blev 5, vilket är rätt lågt betyg"
+    },
+    {
+      "mal_id": 48548,
+      "title": null,
+      "source_id": "mal-48548_20261118",
+      "source_type": "explicit_user_statement",
+      "round": null,
+      "status": null,
+      "episodes_watched": null,
+      "user_score": null,
+      "axes": [
+        "progression_memory",
+        "premise_logic",
+        "relationship_agency",
+        "emotional_framing"
+      ],
+      "direction": "factor_named_direction_unclear",
+      "certainty": "direct_verbatim_with_separate_cautious_interpretation",
+      "text": "stark gripande final på ett syskondrama med konsekvenser av att vara systrar, extramamma och rivaler. där man fått följa karaktärer man knytit an till, fram till en förlösande kärleksförklaring (bokstavligen vi bröllop)."
+    },
+    {
+      "mal_id": 48569,
+      "title": null,
+      "source_id": "mal-48569_20261118",
+      "source_type": "explicit_user_statement",
+      "round": null,
+      "status": null,
+      "episodes_watched": null,
+      "user_score": null,
+      "axes": [
+        "progression_memory",
+        "relationship_agency",
+        "emotional_framing",
+        "format_accumulation",
+        "craft_intent"
+      ],
+      "direction": "positive_for_this_title",
+      "certainty": "direct_verbatim_with_separate_cautious_interpretation",
+      "text": "bra aktion, bra drama, starka karaktärer, försöken hitta nån slags mening med livet i en dystopi, relationer och stark sista båge till slutets återförening. bra musik också"
+    },
+    {
+      "mal_id": 5671,
+      "title": null,
+      "source_id": "mal-5671_20261118",
+      "source_type": "explicit_user_statement",
+      "round": null,
+      "status": null,
+      "episodes_watched": null,
+      "user_score": null,
+      "axes": [],
+      "direction": "factor_named_direction_unclear",
+      "certainty": "direct_verbatim_with_separate_cautious_interpretation",
+      "text": "har inget emot majong, karuta eller annat. men detta var en högst majong för de som älskar majong tie in som blev för inrökt."
+    },
+    {
+      "mal_id": 8676,
+      "title": null,
+      "source_id": "mal-8676_20261118",
+      "source_type": "explicit_user_statement",
+      "round": null,
+      "status": null,
+      "episodes_watched": null,
+      "user_score": null,
+      "axes": [],
+      "direction": "factor_named_direction_unclear",
+      "certainty": "direct_verbatim_with_separate_cautious_interpretation",
+      "text": "trodde omnibus verk var min grej efter twogk men efter tre tjejer dvs 9 avsnitt så insåg att det var helt enkelt twogk som var min grej"
     }
   ]
 }
