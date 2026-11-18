@@ -151,7 +151,7 @@ mal_id,title,year,season,status,user_score,episodes_watched,profile_status,work_
 3784,Evangelion Movie 2: Ha,2009,spring,completed,9,1,complete,progression_memory__cue_1,0,,
 5150,Hatsukoi Limited.,2009,spring,completed,7,12,complete,,0,,
 5507,Senjou no Valkyria,2009,spring,completed,6,26,complete,progression_memory__cue_1;relationship_agency__cue_1,1,relationship_agency,var helt enkelt inte lika bra som spelet som byggde upp relationer och dynamik bättre.
-5671,Saki,2009,spring,dropped,,12,complete,,0,,
+5671,Saki,2009,spring,dropped,,12,complete,,2,,"har inget emot majong, karuta eller annat. men detta var en högst majong för de som älskar majong tie in som blev för inrökt."
 5680,K-On!,2009,spring,completed,7,13,complete,,0,,
 6479,Candy Boy Episode: EX02 - Shiawase Kyouyuu Riron,2009,spring,completed,7,1,complete,progression_memory__cue_1;relationship_agency__cue_1,0,,
 5081,Bakemonogatari,2009,summer,completed,7,15,complete,craft_intent__cue_1,0,,
@@ -175,7 +175,7 @@ mal_id,title,year,season,status,user_score,episodes_watched,profile_status,work_
 7724,Shiki,2010,summer,dropped,,8,complete,progression_memory__cue_1;content_cost__cue_1,1,,Den långsamma skräckuppbyggnaden tappade mig; Bygemenskapen och mysteriets personer engagerade inte
 7769,Ookami-san to Shichinin no Nakama-tachi,2010,summer,dropped,,2,complete,relationship_agency__cue_1,0,,
 8675,Seitokai Yakuindomo,2010,summer,dropped,,3,complete,,0,,
-8676,Amagami SS,2010,summer,dropped,,9,complete,progression_memory__cue_1;progression_memory__cue_2;relationship_agency__cue_1,0,,
+8676,Amagami SS,2010,summer,dropped,,9,complete,progression_memory__cue_1;progression_memory__cue_2;relationship_agency__cue_1,2,,trodde omnibus verk var min grej efter twogk men efter tre tjejer dvs 9 avsnitt så insåg att det var helt enkelt twogk som var min grej
 9014,Kuttsukiboshi,2010,summer,completed,6,2,complete,progression_memory__cue_1;relationship_agency__cue_1,0,,
 8525,Kami nomi zo Shiru Sekai,2010,fall,completed,7,12,complete,,1,format_accumulation,twgok. formatet med block berättelser där jag gav den ip höga betyg men inte kunde klara av nån annan ip som jobbade i samma format
 8726,Soredemo Machi wa Mawatteiru,2010,fall,dropped,,0,complete,tone_texture__cue_1,0,,
@@ -523,7 +523,7 @@ mal_id,title,year,season,status,user_score,episodes_watched,profile_status,work_
 45576,Mushoku Tensei: Isekai Ittara Honki Dasu Part 2,2021,fall,completed,8,12,complete,,0,,
 48483,Mieruko-chan,2021,fall,completed,6,12,complete,,1,,den var klar efter 3 ep och resten var rehash där jag av oklar anledning hade förhoppning att den ska leda nånstans. Men nej
 48556,Takt Op. Destiny,2021,fall,completed,7,12,complete,,0,,
-48569,86 Part 2,2021,fall,completed,10,12,complete,progression_memory__cue_2;relationship_agency__cue_2,0,,
+48569,86 Part 2,2021,fall,completed,10,12,complete,progression_memory__cue_2;relationship_agency__cue_2,2,craft_intent;emotional_framing;format_accumulation;progression_memory;relationship_agency,"bra aktion, bra drama, starka karaktärer, försöken hitta nån slags mening med livet i en dystopi, relationer och stark sista båge till slutets återförening. bra musik också"
 48926,"Komi-san wa, Comyushou desu.",2021,fall,completed,9,12,complete,,0,,
 42670,Princess Connect! Re:Dive Season 2,2022,winter,completed,7,12,complete,progression_memory__cue_1;relationship_agency__cue_2,0,,
 44516,Koroshi Ai,2022,winter,completed,7,12,complete,progression_memory__cue_1;content_cost__cue_1,0,,
@@ -538,7 +538,7 @@ mal_id,title,year,season,status,user_score,episodes_watched,profile_status,work_
 45613,Kawaii dake ja Nai Shikimori-san,2022,spring,completed,8,12,complete,progression_memory__cue_1;relationship_agency__cue_1,0,,
 47162,Shokei Shoujo no Virgin Road,2022,spring,completed,7,12,complete,content_cost__cue_1,0,,
 47194,Summertime Render,2022,spring,completed,8,25,complete,progression_memory__cue_1;progression_memory__cue_2;content_cost__cue_1,0,,
-48548,5-toubun no Hanayome Movie,2022,spring,completed,10,1,complete,,0,,
+48548,5-toubun no Hanayome Movie,2022,spring,completed,10,1,complete,,2,emotional_framing;premise_logic;progression_memory;relationship_agency,"stark gripande final på ett syskondrama med konsekvenser av att vara systrar, extramamma och rivaler. där man fått följa karaktärer man knytit an till, fram till en förlösande kärleksförklaring (bokstavligen vi bröllop)."
 48675,Kakkou no Iinazuke,2022,spring,dropped,,8,complete,,0,,
 48779,Deaimon,2022,spring,completed,7,12,complete,progression_memory__cue_1;relationship_agency__cue_1;emotional_framing__cue_1;tone_texture__cue_1;craft_intent__cue_1,0,,
 48857,Healer Girl,2022,spring,completed,8,12,complete,progression_memory__cue_1,0,,
