@@ -24214,7 +24214,9 @@
       },
       "azumanga_daioh_cumulative_time_arc_20261118": {
         "id": "azumanga_daioh_cumulative_time_arc_20261118",
-        "mal_ids": [],
+        "mal_ids": [
+          66
+        ],
         "kind": "work_specific_reaction",
         "verbatim": "azumanga är på ytan episodisk och fragmentarisk. men är egentligen en fullständig arc mellan klass 1-3 och övergång till college. inga resets inga ständiga lov. alla save states är kvar mellan samtliga episoder",
         "interpretation": "Azumanga Daioh ser episodisk och fragmentarisk ut lokalt, men bildar en fullständig kronologisk båge från första till tredje gymnasieåret och vidare till övergången till college. Det finns inga resets eller återkommande lov som suddar ut tiden; händelsernas 'save states' består mellan episoder. Den ackumulerade tidslinjen ger förändring och framåtrörelse under den fragmentariska ytan.",
