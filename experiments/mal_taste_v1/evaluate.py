@@ -28,6 +28,7 @@ CUES = {
     "perspective": r"subjektiv|perspektiv|utsatt|omsorg|gemenskap|sårbar|anförtror",
     "style": r"stiliser|visuell|bildspråk|animation|dialogtung|språklig|snabba klipp",
     "format": r"episodisk|fristående|block|bågar|sidohistor|bonusavsnitt|jubileum",
+    "interaction_repetition": r"återkommande.{0,40}(samspel|interaktion|möten)|samspel.{0,40}(återkommande|upprep|lika)|situationer.{0,40}(liknar|upprep)|relation.{0,40}(återkommande|vardagliga möten)",
 }
 BRIEF_FIELDS = (
     "synopsis", "themes", "tone", "pacing_and_structure", "character_dynamics",
