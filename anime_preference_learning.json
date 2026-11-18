@@ -24428,6 +24428,25 @@
         "linked_hypothesis_ids": [
           "narrative_pacing_and_progression"
         ]
+      },
+      "shuffle_relationships_and_supporting_cast_20261118": {
+        "id": "shuffle_relationships_and_supporting_cast_20261118",
+        "mal_ids": [
+          79
+        ],
+        "kind": "work_specific_reaction",
+        "verbatim": "relationer och karaktärer kunde inte bära en medioker premiss. bi karaktärer för överdrivna pastischer",
+        "interpretation": "I Shuffle! upplevdes premissen som medioker och relationerna/karaktärerna kunde inte bära den. Bikaraktärerna framstod som överdrivna pastischer. Karaktärsrelationer är alltså inte automatiskt en styrka om rollfigurerna känns karikerade och premissen inte ger tillräckligt stöd.",
+        "limitations": [
+          "Bikaraktärernas beskrivning återger användarens formulering; ingen särskild figur eller exakt pastisch anges.",
+          "Detta gäller Shuffle! och är inte ett generellt ogillande av visuella romanadaptioner eller ensemblekomedier."
+        ],
+        "source": "explicit_user_statement_in_current_chat",
+        "recorded_date": "2026-11-18",
+        "evidence_status": "direct_user_explanation",
+        "model_review_status": "reviewed",
+        "model_review_note": "Karaktärsdynamik kan inte räknas som förväntad positiv signal utan kvalitet/nyans; överdrivna pastischer kan försvaga relationernas bärkraft.",
+        "linked_hypothesis_ids": []
       }
     }
   }
