@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "processing_since_utc": "2026-11-18T14:00:00Z",
+  "description": "Delivery acknowledgements for ChatGPT MAL Next-up and Post-watch; independent of MAL data and sync.",
+  "delivered": {
+    "next_up": {
+      "20261118T151035208621Z-12119-plan_to_watch-to-completed": {
+        "mal_id": 12119,
+        "handled_at_utc": "2026-11-18T18:45:50.354Z",
+        "method": "manual_recovery_in_chat"
+      }
+    },
+    "post_watch": {
+      "20261118T151035208621Z-12119-plan_to_watch-to-completed": {
+        "mal_id": 12119,
+        "handled_at_utc": "2026-11-18T18:45:50.354Z",
+        "method": "manual_recovery_in_chat"
+      }
+    }
+  }
+}
