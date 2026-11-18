@@ -39,6 +39,11 @@ MECHANISMS = {
         r"sammanhängande|gradvis|stegvis|successivt|kontinuitet|växande",
         "progression",
     ),
+    "repetition_sustained_by_interaction": (
+        r"återkommande|upprepade|liknande|snabba situationsskämt|episodisk",
+        r"samspel|interaktion|rollkontrast|kontrast|relationen driver|driver komiken",
+        "interaction_repetition",
+    ),
     "episodic_without_central_arc": (
         r"episodisk|fristående|veckans fall|separata episoder",
         r"utan (en |någon )?(central|övergripande|fortlöpande)|snarare än en (längre |enda )?sammanhängande",
