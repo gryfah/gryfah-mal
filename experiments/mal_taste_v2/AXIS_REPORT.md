@@ -7,7 +7,7 @@ Det här steget gör modellen flerdimensionell, men lämnar tydligt öppet vad s
 - 778 titlar i MAL-listan, varav 529 `completed`, 97 `dropped` och 152 `plan_to_watch`.
 - 770 briefar är färdiga. Poänganalysen omfattar 526 titlar där brief och eget betyg finns.
 - Säsongsgranskningen omfattar samtliga **626 completed- och dropped-titlar**, grupperade efter releaseår och release-säsong.
-- 132 uttryckliga faktorsvar eller användaranteckningar pekar på 108 titlar. 518 granskade titlar saknar ännu direkt smakkommentar. De är **okända**, inte neutrala.
+- 140 svar och användaranteckningar pekar på 112 titlar. 514 granskade titlar saknar ännu direkt smakkommentar: 445 completed och 69 dropped. De är **okända**, inte neutrala.
 
 ## Axlar som nu hålls isär
 
@@ -38,6 +38,9 @@ Det finns också en tydlig informationslucka: nuvarande briefar ger nästan inge
 - **Relationer behöver rörelse.** Initiativ och ömsesidig sårbarhet bar Nagatoro S2, medan Kamisama-OVA:n kändes som ännu en “ska de, ska de inte”-loop. I Horimiya Piece fick redan älskade personer mer tid, vilket är en annan sorts värde än att vänta på en relation som stannat.
 - **Kvalitet och personlig vilja att återvända är skilda saker.** Hotaru no Haka kan vara mycket välgjord och realistisk, men ändå vara en film du inte vill se igen eftersom den går så nära barns död av svält.
 - **Konsekvenser kan ge berättelsen tyngd.** Du lyfte hur världen, ansvar och risk faktiskt förändras i Attack on Titan Final Season, och hur relationernas förskjutning bar Evangelion Q.
+- **En stark final kan betala av en specifik relationshistoria.** 5-toubun-filmen fungerade genom spänningen i att vara systrar, extramamma och rivaler, följd av en förlösande kärleksförklaring och ett bokstavligt bröllop. Det är ett exempel på payoff efter investering, inte stöd för att bröllopsslut i sig räcker.
+- **86 Part 2 samlade flera saker samtidigt.** Action och drama, starka personer, meningssökande i dystopin, relationer, återföreningen och musiken byggde tillsammans upp tian.
+- **Formatetiketter behöver precisering.** Saki föll inte på majong i sig, utan blev för inrökt i sitt majongtie-in. Amagami SS korrigerar i sin tur hypotesen att omnibus generellt är din grej: efter tre berättelser insåg du att det specifikt var The World God Only Knows som fungerade.
 
 Detta är än så länge fallförankrade exempel, inte generella vikter. Urvalet av kommenterade verk är skevt mot intressanta avvikelser. Räkna därför inte antalet negativa omnämnanden som hur ofta en egenskap stör dig i hela katalogen.
 
