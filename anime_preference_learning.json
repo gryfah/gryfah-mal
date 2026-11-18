@@ -24733,6 +24733,29 @@
         "linked_hypothesis_ids": [
           "narrative_pacing_and_progression"
         ]
+      },
+      "eva_q_context_long_epic_and_intentional_reframe_20261118": {
+        "id": "eva_q_context_long_epic_and_intentional_reframe_20261118",
+        "mal_ids": [
+          3785,
+          134
+        ],
+        "related_titles": [
+          "Gunslinger Girl säsong 2"
+        ],
+        "kind": "cross_work_comparison_context",
+        "verbatim": "svår jämförelse då Eva är ett 30 år epos där anno tog ett nytt grepp för att vända ip på huvet.",
+        "interpretation": "Jämförelsen mellan Evangelion Movie 3: Q och Gunslinger Girl säsong 2 är svår eftersom användaren ser Evangelion som ett 30-årigt epos där Hideaki Anno medvetet tog ett nytt grepp för att vända IP:n upp och ned. Förändrade relationer och kanoniska omkastningar i Q måste därför läsas som del av ett avsiktligt, långsiktigt omtag, inte som ett vanligt retcon eller en fortsättning som återställer känslomässiga beats.",
+        "limitations": [
+          "Detta är en förklaring till varför den jämförelsen inte är direkt; dra inte en generell slutsats att alla avsiktliga retcons fungerar.",
+          "Gunslinger Girl säsong 2 saknar en verifierad separat MAL-post i den aktuella anime.json; endast säsong 1 (mal_id 134) är länkad."
+        ],
+        "source": "explicit_user_statement_in_current_chat",
+        "recorded_date": "2026-11-18",
+        "evidence_status": "direct_user_explanation",
+        "model_review_status": "reviewed",
+        "model_review_note": "Beakta verkets långa kultur-/franchisekontext och medvetna omtolkning; skilj det från vanlig fortsättnings kontinuitet. Här avvisar användaren en förenklad direktjämförelse.",
+        "linked_hypothesis_ids": []
       }
     }
   }
