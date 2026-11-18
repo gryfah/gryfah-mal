@@ -39,6 +39,20 @@ Det finns också en tydlig informationslucka: nuvarande briefar ger nästan inge
 
 Detta är än så länge fallförankrade exempel, inte generella vikter. Urvalet av kommenterade verk är skevt mot intressanta avvikelser. Räkna därför inte antalet negativa omnämnanden som hur ofta en egenskap stör dig i hela katalogen.
 
+## Konkreta modellmissar
+
+Axelmodellen dras mot 7/10 och visar varför separata dimensioner behövs. Prognosen nedan är bara ett diagnostiskt jämförelsetal, inte ett nytt betygsförslag.
+
+| Titel | Ditt betyg | Axelmodell | Vad den missar enligt dina kommentarer |
+|---|---:|---:|---|
+| Myself; Yourself | 5 | 7,19 | Relationskonflikterna räckte inte för att bära en medioker premiss; bi-karaktärerna blev pastischer. |
+| Hotaru no Haka | 5 | 7,21 | Hantverk och realism kan vara höga medan den detaljerade skildringen av barns svältdöd gör filmen ovälkommen att återse. |
+| Strike Witches | 5 | 6,85 | Premiss och gruppdynamik hade värde, men återkomsten av samma episodupplägg och kostymer tröttade ut. |
+| Kamisama Hajimemashita OVA | 6 | 7,01 | Redan uttalad trötthet på parets fram-och-tillbaka-loop; OVA:n blev ännu en loop. |
+| Azumanga Daioh | 7 | 7,19 | Episodisk form uppskattades för att den ändå bevarade en hel skolbåge och tidigare händelser. Det gav inte automatiskt ett toppbetyg. |
+
+Eureka Seven hör till en annan etikett: dropped efter 17 registrerade avsnitt, med en kommentar om att canon drogs ut tills den tappade kraft. Det ska inte jämställas med ett numeriskt lågbetyg.
+
 ## Vad filerna innehåller
 
 - `seasonal_audit.csv`: alla completed- och dropped-titlar, sorterade kronologiskt. Visar betyg eller drop, antal sedda avsnitt, briefsignaler, direkt kommenterade axlar och källnära skäl.
