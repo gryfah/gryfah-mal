@@ -24232,6 +24232,25 @@
         "linked_hypothesis_ids": [
           "narrative_pacing_and_progression"
         ]
+      },
+      "boogiepop_2000_affective_distance_20261118": {
+        "id": "boogiepop_2000_affective_distance_20261118",
+        "mal_ids": [
+          369
+        ],
+        "kind": "work_specific_reaction",
+        "verbatim": "sambanden fanns där, musik och bra VA arbete. men för obtuse för att gripa tag. storyn höll mig aktivt på armlängds avstånd",
+        "interpretation": "I Boogiepop wa Warawanai fanns sambanden, musiken och ett gott röstskådespel, men berättelsen var för obtuse för att fånga användaren och höll denne aktivt på armlängds avstånd. Att pusselbitar går att lägga ihop räcker inte om framställningen inte skapar känslomässig eller karaktärsmässig tillgång. Detta är en upplevelse av distans, inte nödvändigtvis ett påstående om att berättelsen saknade sammanhang.",
+        "limitations": [
+          "Användaren erkänner att sambanden fanns; tolka inte betyget som oförmåga att förstå intrigen eller som att serien objektivt saknar koherens.",
+          "Upplevelsen gäller specifikt Boogiepop wa Warawanai (2000)."
+        ],
+        "source": "explicit_user_statement_in_current_chat",
+        "recorded_date": "2026-11-18",
+        "evidence_status": "direct_user_explanation",
+        "model_review_status": "reviewed",
+        "model_review_note": "Skilj strukturell komplexitet från publikens känsla av tillträde och investering. En begriplig lösning eller välgjort ljudspår räcker inte om gestaltningen håller tittaren på avstånd.",
+        "linked_hypothesis_ids": []
       }
     }
   }
