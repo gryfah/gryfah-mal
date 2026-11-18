@@ -126,6 +126,21 @@
         "source_snapshot_utc": "2026-11-18T05:04:40.680616+00:00",
         "delivery_status": "answered",
         "delivery_attempted_at_utc": "2026-11-18T05:15:52.698Z"
+      },
+      "axis_anomaly_followup_v2": {
+        "threshold": "axis_anomaly_followup_v2",
+        "question_ids": [
+          "mal-48548",
+          "mal-48569",
+          "mal-5671",
+          "mal-8676"
+        ],
+        "processed_count": 4,
+        "source_snapshot_utc": "2026-11-18T09:03:23.910860+00:00",
+        "created_at_utc": "2026-11-18T11:13:21.157Z",
+        "prepared_at_utc": "2026-11-18T11:13:21.157Z",
+        "delivery_attempted_at_utc": "2026-11-18T11:13:21.157Z",
+        "delivery_status": "answered"
       }
     },
     "items": {
@@ -2815,6 +2830,130 @@
             "scope": "specific_work",
             "text": "Explicitly selected: Jag trodde inte på hur relationen utvecklades; Hanas självbild användes för att upprepa samma konflikt. This records the user's stated contributing factors without generalizing beyond this title.",
             "certainty": "explicit_answer_with_cautious_interpretation"
+          }
+        }
+      },
+      "mal-48548": {
+        "question_id": "mal-48548",
+        "mal_id": 48548,
+        "title": "5-toubun no Hanayome Movie",
+        "question": "Vad gjorde att filmen landade så starkt för dig?",
+        "options": [],
+        "multiple_select": false,
+        "created_round": "axis_anomaly_followup_v2",
+        "status": "answered",
+        "created_at_utc": "2026-11-18T11:13:21.157Z",
+        "detection_reasons": [
+          "rating_outlier_v2"
+        ],
+        "evidence": {
+          "user_score": 10,
+          "observed_status": "completed"
+        },
+        "sources": [],
+        "answer": {
+          "raw_response": "stark gripande final på ett syskondrama med konsekvenser av att vara systrar, extramamma och rivaler. där man fått följa karaktärer man knytit an till, fram till en förlösande kärleksförklaring (bokstavligen vi bröllop).",
+          "selected_options": [],
+          "free_text": "stark gripande final på ett syskondrama med konsekvenser av att vara systrar, extramamma och rivaler. där man fått följa karaktärer man knytit an till, fram till en förlösande kärleksförklaring (bokstavligen vi bröllop).",
+          "answered_at_utc": "2026-11-18T11:13:21.157Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren tillskriver 10/10 en stark, gripande final där systerrelationernas flera roller och tidigare karaktärsinvestering mynnar ut i en förlösande kärleksförklaring och ett bröllop. Titelbundet belägg för emotionell utdelning, relationer och payoff; inte en generell regel om bröllopsslut.",
+            "certainty": "direct_verbatim_with_cautious_interpretation"
+          }
+        }
+      },
+      "mal-48569": {
+        "question_id": "mal-48569",
+        "mal_id": 48569,
+        "title": "86 Part 2",
+        "question": "Vad bar den till en tia?",
+        "options": [],
+        "multiple_select": false,
+        "created_round": "axis_anomaly_followup_v2",
+        "status": "answered",
+        "created_at_utc": "2026-11-18T11:13:21.157Z",
+        "detection_reasons": [
+          "rating_outlier_v2"
+        ],
+        "evidence": {
+          "user_score": 10,
+          "observed_status": "completed"
+        },
+        "sources": [],
+        "answer": {
+          "raw_response": "bra aktion, bra drama, starka karaktärer, försöken hitta nån slags mening med livet i en dystopi, relationer och stark sista båge till slutets återförening. bra musik också",
+          "selected_options": [],
+          "free_text": "bra aktion, bra drama, starka karaktärer, försöken hitta nån slags mening med livet i en dystopi, relationer och stark sista båge till slutets återförening. bra musik också",
+          "answered_at_utc": "2026-11-18T11:13:21.157Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work",
+            "text": "Användaren lyfter action, drama, starka karaktärer, sökandet efter mening i en dystopi, relationer, en stark avslutande båge med återförening och musiken som skäl till 10/10.",
+            "certainty": "direct_verbatim_with_cautious_interpretation"
+          }
+        }
+      },
+      "mal-5671": {
+        "question_id": "mal-5671",
+        "mal_id": 5671,
+        "title": "Saki",
+        "question": "Minns du vad gjorde att du inte fortsatte? Det kan ha varit serien eller omständigheter runt tittandet.",
+        "options": [],
+        "multiple_select": false,
+        "created_round": "axis_anomaly_followup_v2",
+        "status": "answered",
+        "created_at_utc": "2026-11-18T11:13:21.157Z",
+        "detection_reasons": [
+          "unannotated_drop_v2"
+        ],
+        "evidence": {
+          "observed_status": "dropped",
+          "episodes_watched": 12
+        },
+        "sources": [],
+        "answer": {
+          "raw_response": "har inget emot majong, karuta eller annat. men detta var en högst majong för de som älskar majong tie in som blev för inrökt.",
+          "selected_options": [],
+          "free_text": "har inget emot majong, karuta eller annat. men detta var en högst majong för de som älskar majong tie in som blev för inrökt.",
+          "answered_at_utc": "2026-11-18T11:13:21.157Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work_drop_reason",
+            "text": "Användaren säger sig inte ha en generell invändning mot majong eller karuta; Saki blev för inrökt i sin majongkoppling. Det pekar på graden av specialist-/tie-in-innehåll i just detta verk, inte på motvilja mot tävlings- eller strategispel generellt.",
+            "certainty": "direct_verbatim_with_cautious_interpretation"
+          }
+        }
+      },
+      "mal-8676": {
+        "question_id": "mal-8676",
+        "mal_id": 8676,
+        "title": "Amagami SS",
+        "question": "Vad minns du av varför du lade den åt sidan?",
+        "options": [],
+        "multiple_select": false,
+        "created_round": "axis_anomaly_followup_v2",
+        "status": "answered",
+        "created_at_utc": "2026-11-18T11:13:21.157Z",
+        "detection_reasons": [
+          "unannotated_drop_v2"
+        ],
+        "evidence": {
+          "observed_status": "dropped",
+          "episodes_watched": 9
+        },
+        "sources": [],
+        "answer": {
+          "raw_response": "trodde omnibus verk var min grej efter twogk men efter tre tjejer dvs 9 avsnitt så insåg att det var helt enkelt twogk som var min grej",
+          "selected_options": [],
+          "free_text": "trodde omnibus verk var min grej efter twogk men efter tre tjejer dvs 9 avsnitt så insåg att det var helt enkelt twogk som var min grej",
+          "answered_at_utc": "2026-11-18T11:13:21.157Z",
+          "source": "explicit_user_answer",
+          "interpretation": {
+            "scope": "specific_work_drop_reason",
+            "text": "Användaren trodde efter The World God Only Knows att omnibusformatet i sig passade, men efter tre tjejberättelser/9 avsnitt drog slutsatsen att det specifikt var TWGOK som fungerade. Detta korrigerar hypotesen om en generell omnibuspreferens; orsaken till avbrottet anges inte mer precist.",
+            "certainty": "direct_verbatim_with_cautious_interpretation"
           }
         }
       }
@@ -24797,6 +24936,70 @@
         "model_review_status": "reviewed",
         "model_review_note": "Skilj status droppad från completed med lågt betyg; event/threshold/scope of exposure gör jämförelser osymmetriska.",
         "linked_hypothesis_ids": []
+      },
+      "mal-48548_20261118": {
+        "id": "mal-48548_20261118",
+        "mal_ids": [
+          48548
+        ],
+        "kind": "work_specific_reaction",
+        "verbatim": "stark gripande final på ett syskondrama med konsekvenser av att vara systrar, extramamma och rivaler. där man fått följa karaktärer man knytit an till, fram till en förlösande kärleksförklaring (bokstavligen vi bröllop).",
+        "interpretation": "Användaren tillskriver 10/10 en stark, gripande final där systerrelationernas flera roller och tidigare karaktärsinvestering mynnar ut i en förlösande kärleksförklaring och ett bröllop. Titelbundet belägg för emotionell utdelning, relationer och payoff; inte en generell regel om bröllopsslut.",
+        "limitations": [
+          "Gäller denna film och dess uppbyggda relationer; generalisera inte till alla romantiska slut."
+        ],
+        "source": "explicit_user_answer_in_current_chat",
+        "recorded_date": "2026-11-18",
+        "evidence_status": "direct_verbatim_with_separate_cautious_interpretation",
+        "question_id": "mal-48548"
+      },
+      "mal-48569_20261118": {
+        "id": "mal-48569_20261118",
+        "mal_ids": [
+          48569
+        ],
+        "kind": "work_specific_reaction",
+        "verbatim": "bra aktion, bra drama, starka karaktärer, försöken hitta nån slags mening med livet i en dystopi, relationer och stark sista båge till slutets återförening. bra musik också",
+        "interpretation": "Användaren lyfter action, drama, starka karaktärer, sökandet efter mening i en dystopi, relationer, en stark avslutande båge med återförening och musiken som skäl till 10/10.",
+        "limitations": [
+          "Flera samverkande faktorer; bidragens relativa vikt är inte angiven."
+        ],
+        "source": "explicit_user_answer_in_current_chat",
+        "recorded_date": "2026-11-18",
+        "evidence_status": "direct_verbatim_with_separate_cautious_interpretation",
+        "question_id": "mal-48569"
+      },
+      "mal-5671_20261118": {
+        "id": "mal-5671_20261118",
+        "mal_ids": [
+          5671
+        ],
+        "kind": "work_specific_drop_reason",
+        "verbatim": "har inget emot majong, karuta eller annat. men detta var en högst majong för de som älskar majong tie in som blev för inrökt.",
+        "interpretation": "Användaren säger sig inte ha en generell invändning mot majong eller karuta; Saki blev för inrökt i sin majongkoppling. Det pekar på graden av specialist-/tie-in-innehåll i just detta verk, inte på motvilja mot tävlings- eller strategispel generellt.",
+        "limitations": [
+          "Gäller Saki och graden av majongcentrering; dra ingen generell slutsats om spel- eller sportanime."
+        ],
+        "source": "explicit_user_answer_in_current_chat",
+        "recorded_date": "2026-11-18",
+        "evidence_status": "direct_verbatim_with_separate_cautious_interpretation",
+        "question_id": "mal-5671"
+      },
+      "mal-8676_20261118": {
+        "id": "mal-8676_20261118",
+        "mal_ids": [
+          8676
+        ],
+        "kind": "format_preference_correction",
+        "verbatim": "trodde omnibus verk var min grej efter twogk men efter tre tjejer dvs 9 avsnitt så insåg att det var helt enkelt twogk som var min grej",
+        "interpretation": "Användaren trodde efter The World God Only Knows att omnibusformatet i sig passade, men efter tre tjejberättelser/9 avsnitt drog slutsatsen att det specifikt var TWGOK som fungerade. Detta korrigerar hypotesen om en generell omnibuspreferens; orsaken till avbrottet anges inte mer precist.",
+        "limitations": [
+          "Överge omnibusformat som generell preferens utifrån detta svar; ingen närmare kritik av Amagami SS:s utförande är specificerad."
+        ],
+        "source": "explicit_user_answer_in_current_chat",
+        "recorded_date": "2026-11-18",
+        "evidence_status": "direct_verbatim_with_separate_cautious_interpretation",
+        "question_id": "mal-8676"
       }
     }
   }
