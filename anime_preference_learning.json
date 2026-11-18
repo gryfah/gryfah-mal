@@ -24506,6 +24506,25 @@
         "model_review_status": "reviewed",
         "model_review_note": "Skilj tematisk mörkhet från poserande/ytlig gestaltning. Användarens invändning gäller utförandets trovärdighet och ton, inte ämneskategorin i sig.",
         "linked_hypothesis_ids": []
+      },
+      "soredemo_romance_archetype_loop_20261118": {
+        "id": "soredemo_romance_archetype_loop_20261118",
+        "mal_ids": [
+          22101
+        ],
+        "kind": "work_specific_reaction",
+        "verbatim": "bog standard rodnande mö moody man loop",
+        "interpretation": "Soredemo Sekai wa Utsukushii upplevdes som en standardiserad romantisk loop byggd kring en rodnande ung kvinna och en butter/moody man. Dynamiken kändes återanvänd snarare än utvecklande.",
+        "limitations": [
+          "Kort, kondenserad formulering; behandla som en översiktlig minnesbild och fyll inte i detaljer om specifika scener.",
+          "Kritiken gäller denna relationella formel i verket, inte romantik generellt."
+        ],
+        "source": "explicit_user_statement_in_current_chat",
+        "recorded_date": "2026-11-18",
+        "evidence_status": "direct_user_explanation",
+        "model_review_status": "reviewed",
+        "model_review_note": "Undvik att räkna genre-romantik eller grundläggande motsatspar som positiv relationsdynamik utan faktisk utveckling och variation.",
+        "linked_hypothesis_ids": []
       }
     }
   }
