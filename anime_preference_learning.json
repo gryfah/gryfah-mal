@@ -24136,6 +24136,24 @@
         "model_review_status": "reviewed",
         "model_review_note": "En premiss måste uppfattas som aktiv del av berättelsens tänkande: dess konsekvenser och uppkomst bör inte mötas med axelryckning. Beakta upplevd extern/franchisefunktion när den tränger undan den dramatiska idén.",
         "linked_hypothesis_ids": []
+      },
+      "relife_premise_rules_and_agency_20261118": {
+        "id": "relife_premise_rules_and_agency_20261118",
+        "mal_ids": [
+          30015
+        ],
+        "kind": "work_specific_reaction",
+        "verbatim": "precis, reglerna etableras och följs. folk reagerar på att mc är en gammal man i en ung kropp om han inte tänker på vad han gör. men använder det till sin och andras fördel genom att kunna arbeta från ett äldres perspektiv",
+        "interpretation": "ReLIFE uppskattas för att premissens regler etableras och följs, och att omgivningen reagerar trovärdigt när den vuxne huvudpersonen agerar på ett sätt som avslöjar hans ålder och erfarenhet. Han använder dessutom den äldre personens perspektiv aktivt till sin och andras fördel. En premiss blir starkare när dess regler formar beteenden, sociala konsekvenser och konkret handlingsutrymme.",
+        "limitations": [
+          "Gäller användarens förklaring till ReLIFE; inte belägg för att alla berättelser behöver explicita regler eller samma typ av social realism."
+        ],
+        "source": "explicit_user_statement_in_current_chat",
+        "recorded_date": "2026-11-18",
+        "evidence_status": "direct_user_explanation",
+        "model_review_status": "reviewed",
+        "model_review_note": "Koppla premissens regelverk till reaktioner och val; aktivt, kreativt bruk av begränsningar värderas högre än att premissen bara sätter upp situationer.",
+        "linked_hypothesis_ids": []
       }
     }
   }
