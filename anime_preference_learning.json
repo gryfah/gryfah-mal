@@ -24548,6 +24548,25 @@
         "related_titles": [
           "Onimai"
         ]
+      },
+      "keijo_ecchi_premise_tolerance_limit_20261118": {
+        "id": "keijo_ecchi_premise_tolerance_limit_20261118",
+        "mal_ids": [
+          32686
+        ],
+        "kind": "work_specific_reaction",
+        "verbatim": "var fånig över min gräns för vad jag accepterar som ecchi premiss.",
+        "interpretation": "Keijo!!!!!!!! föll utanför användarens acceptansgräns för vad som fungerar som en ecchi-premiss. Detta är inte en generell aversion mot absurditet; det gäller den specifika fånigheten i premissens ecchi-inramning.",
+        "limitations": [
+          "Användaren såg ett avsnitt före droppet; reaktionen gäller den inledande premissen/formen.",
+          "Den exakta gränsen för ecchi-innehåll är inte definierad; generalisera inte till alla ecchi-komedier."
+        ],
+        "source": "explicit_user_statement_in_current_chat",
+        "recorded_date": "2026-11-18",
+        "evidence_status": "direct_user_explanation",
+        "model_review_status": "reviewed",
+        "model_review_note": "Håll åtskillnad mellan att en absurd premiss fungerar och att absurditet som ecchi-premiss överskrider användarens gräns. Jämför verk som absurditeten bar utan att vila på ecchi-framing.",
+        "linked_hypothesis_ids": []
       }
     }
   }
