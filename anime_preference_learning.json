@@ -24349,6 +24349,25 @@
         "model_review_status": "reviewed",
         "model_review_note": "Lägg till explicit undantagsstatus. En exceptionell personlig upplevelse ska bevaras men hållas utanför allmänna prediktiva vikter.",
         "linked_hypothesis_ids": []
+      },
+      "spriggan_detailed_craft_execution_20261118": {
+        "id": "spriggan_detailed_craft_execution_20261118",
+        "mal_ids": [
+          420
+        ],
+        "kind": "work_specific_reaction",
+        "verbatim": "den var så in till minsta detalj väl gjord. den förmedlade känslan av kreatörer som är väldigt bra på det vad de gör och fått möjlighet att utöva sin craft under en begränsad tid",
+        "interpretation": "Spriggan uppskattades som välgjort in i minsta detalj. Det förmedlade känslan av skickliga kreatörer som fått koncentrerad tid/utrymme att utöva sitt hantverk. Den visuella och actionmässiga uppskattningen gäller därmed inte bara mängd eller spektakel, utan synligt kunnande och omsorg i utförandet.",
+        "limitations": [
+          "'Under en begränsad tid' återges som användarens upplevelse av koncentrerat utrymme i verket; dra inte slutsatser om faktisk produktionsbudget eller produktionsvillkor.",
+          "Detta gäller Spriggan specifikt, inte en generell preferens för långfilmer framför serier."
+        ],
+        "source": "explicit_user_statement_in_current_chat",
+        "recorded_date": "2026-11-18",
+        "evidence_status": "direct_user_explanation",
+        "model_review_status": "reviewed",
+        "model_review_note": "Action/visuell genomförande kan uppskattas för detaljrik omsorg och synligt hantverkskunnande; reducera inte till enbart hög insats eller effekt.",
+        "linked_hypothesis_ids": []
       }
     }
   }
