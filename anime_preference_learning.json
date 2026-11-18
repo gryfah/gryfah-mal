@@ -24368,6 +24368,25 @@
         "model_review_status": "reviewed",
         "model_review_note": "Action/visuell genomförande kan uppskattas för detaljrik omsorg och synligt hantverkskunnande; reducera inte till enbart hög insats eller effekt.",
         "linked_hypothesis_ids": []
+      },
+      "gunslinger_girl_season2_reverses_emotional_beats_20261118": {
+        "id": "gunslinger_girl_season2_reverses_emotional_beats_20261118",
+        "mal_ids": [
+          134
+        ],
+        "kind": "cross_season_comparison",
+        "verbatim": "1 intressant premiss, hjärtat på rätt ställe i utförande trots brister i produktion, känslosamma beats. sen s2 så upphävde de flera beats från s1 för att kunna krama ut mer content och dessutom utan själ. tappade intresset fort.",
+        "interpretation": "Gunslinger Girl säsong 1 uppskattades för en intressant premiss, ett utförande med hjärtat på rätt ställe och känslomässiga träffar trots produktionsbrister. Säsong 2 tappade användaren snabbt eftersom den upphävde flera känslomässiga händelser från säsong 1 för att kunna fortsätta pressa ut innehåll, och saknade den tidigare själfullheten. Produktionskvalitet är inte ensam avgörande: brister kan bäras av en omsorgsfull och meningsfull gestaltning, medan kontinuitetsbrott som urholkar känslomässiga beats skadar investeringen.",
+        "limitations": [
+          "Registrera användarens upplevelse av säsong 2; behandla inte motivet 'krama ut mer content' som en verifierad produktionsavsikt.",
+          "Användaren säger att produktionen i säsong 1 hade brister men var ändå engagerande; dra inte slutsatsen att teknisk kvalitet är oviktig."
+        ],
+        "source": "explicit_user_statement_in_current_chat",
+        "recorded_date": "2026-11-18",
+        "evidence_status": "direct_user_explanation",
+        "model_review_status": "reviewed",
+        "model_review_note": "Väg känslomässig kontinuitet och upplevd omsorg tyngre än teknisk finish ensam. Undvik att extrapolera motiv, men notera att upphävda beats kan bryta förtroendet.",
+        "linked_hypothesis_ids": []
       }
     }
   }
