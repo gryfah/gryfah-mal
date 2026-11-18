@@ -24,6 +24,8 @@ Det här steget gör modellen flerdimensionell, men lämnar tydligt öppet vad s
 
 Verksbriefens signaler och dina reaktioner lagras var för sig. Ett omnämnande av en relation betyder alltså inte automatiskt att relationen uppskattades. Direkta blandade omdömen kan också förbli blandade.
 
+Den första axeltaggningen är lexikonbaserad. En tagg visar att formuleringen matchar en axel, inte att tolkningen är verifierad; vissa taggar behöver manuell granskning innan de kan påverka rekommendationsvikter.
+
 ## Första mätningen
 
 Den automatiska axelavläsningen av brieftext gav MAE **0,7958**, sämre än medianbaslinjens **0,7605**. Den enkla textmodellen från första försöket gav 0,7484, men dess lilla förbättring var osäker. De här automatiska signalerna är därför inte tillräckliga för att rangordna titlar som om de vore säkra smakprognoser.
