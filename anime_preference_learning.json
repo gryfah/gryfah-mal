@@ -24610,6 +24610,25 @@
         "linked_hypothesis_ids": [
           "narrative_pacing_and_progression"
         ]
+      },
+      "rdg_red_data_girl_neutral_fine_20261118": {
+        "id": "rdg_red_data_girl_neutral_fine_20261118",
+        "mal_ids": [
+          14921
+        ],
+        "kind": "work_specific_neutral_reaction",
+        "verbatim": "där är jag på mal sidan. koncensus säger 6 fine och jag med. den var fine.",
+        "interpretation": "RDG: Red Data Girl upplevdes som 'fine' och användaren instämmer i sitt eget betyg 6 som en neutral/mittnivåreaktion. Ingen särskild styrka eller svaghet angavs.",
+        "limitations": [
+          "Ingen förklaring till betyget gavs.",
+          "Användaren nämnde enighet med konsensus, men externa medelbetyg får inte användas som prediktor eller förklaring i den här smakprofileringen."
+        ],
+        "source": "explicit_user_statement_in_current_chat",
+        "recorded_date": "2026-11-18",
+        "evidence_status": "direct_user_statement_low_detail",
+        "model_review_status": "reviewed",
+        "model_review_note": "Behåll som neutral ankarexempel med låg förklaringsgrad; använd inte konsensuspoängen som signal.",
+        "linked_hypothesis_ids": []
       }
     }
   }
