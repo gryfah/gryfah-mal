@@ -1,21 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-19T07:07:12.731495Z",
+  "updated_at": "2026-11-19T08:03:46.175125Z",
   "events": [
-    {
-      "event_id": "20261112T071126416896Z-59848-plan_to_watch-to-completed",
-      "detected_at": "2026-11-12T07:11:26.416896Z",
-      "mal_id": 59848,
-      "title": "Virgin Punk: Clockwork Girl",
-      "previous_status": "plan_to_watch",
-      "status": "completed",
-      "score": 7,
-      "signals": [
-        "next_up",
-        "post_watch"
-      ],
-      "mal_url": "https://myanimelist.net/anime/59848"
-    },
     {
       "event_id": "20261118T151035208621Z-12119-plan_to_watch-to-completed",
       "detected_at": "2026-11-18T15:10:35.208621Z",
