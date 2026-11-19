@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-19T20:03:52.701191Z",
+  "updated_at": "2026-11-19T21:05:07.650027Z",
   "events": [
     {
       "event_id": "20261118T151035208621Z-12119-plan_to_watch-to-completed",
@@ -15,7 +15,22 @@
         "post_watch"
       ],
       "mal_url": "https://myanimelist.net/anime/12119"
+    },
+    {
+      "event_id": "20261119T210507650027Z-2993-plan_to_watch-to-dropped",
+      "detected_at": "2026-11-19T21:05:07.650027Z",
+      "mal_id": 2993,
+      "title": "Rosario to Vampire",
+      "previous_status": "plan_to_watch",
+      "status": "dropped",
+      "score": 0,
+      "signals": [
+        "next_up"
+      ],
+      "mal_url": "https://myanimelist.net/anime/2993"
     }
   ],
-  "ptw_exits_pending": {}
+  "ptw_exits_pending": {
+    "2993": "20261119T210507650027Z-2993-plan_to_watch-to-dropped"
+  }
 }
