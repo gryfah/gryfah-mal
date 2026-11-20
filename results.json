@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-20T07:06:41.052421Z",
+  "updated_at": "2026-11-20T08:04:17.698091Z",
   "events": [
     {
       "event_id": "20261118T151035208621Z-12119-plan_to_watch-to-completed",
@@ -28,6 +28,19 @@
         "next_up"
       ],
       "mal_url": "https://myanimelist.net/anime/2993"
+    },
+    {
+      "event_id": "20261120T080417698091Z-65169-new-to-plan_to_watch",
+      "detected_at": "2026-11-20T08:04:17.698091Z",
+      "mal_id": 65169,
+      "title": "Dark Summoner to Dekiteiru Mini Anime Gekijou",
+      "previous_status": null,
+      "status": "plan_to_watch",
+      "score": 0,
+      "signals": [
+        "brief_needed"
+      ],
+      "mal_url": "https://myanimelist.net/anime/65169"
     }
   ],
   "ptw_exits_pending": {
