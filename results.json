@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-22T19:06:15.311540Z",
+  "updated_at": "2026-11-22T20:09:00.550957Z",
   "events": [
     {
       "event_id": "20261118T151035208621Z-12119-plan_to_watch-to-completed",
@@ -41,6 +41,20 @@
         "brief_needed"
       ],
       "mal_url": "https://myanimelist.net/anime/65169"
+    },
+    {
+      "event_id": "20261122T200900550957Z-22865-plan_to_watch-to-completed",
+      "detected_at": "2026-11-22T20:09:00.550957Z",
+      "mal_id": 22865,
+      "title": "Rokujouma no Shinryakusha!?",
+      "previous_status": "plan_to_watch",
+      "status": "completed",
+      "score": 7,
+      "signals": [
+        "next_up",
+        "post_watch"
+      ],
+      "mal_url": "https://myanimelist.net/anime/22865"
     }
   ],
   "ptw_exits_pending": {
