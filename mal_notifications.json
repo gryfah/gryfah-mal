@@ -23,6 +23,10 @@
         "mal_id": 12119,
         "handled_at_utc": "2026-11-18T18:45:50.354Z",
         "method": "manual_recovery_in_chat"
+      },
+      "20261122T200900550957Z-22865-plan_to_watch-to-completed": {
+        "mal_id": 22865,
+        "handled_at_utc": "2026-11-22T20:24:25.518Z"
       }
     }
   }
