@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-23T06:07:14.008796Z",
+  "updated_at": "2026-11-23T07:04:02.665270Z",
   "events": [
     {
       "event_id": "20261118T151035208621Z-12119-plan_to_watch-to-completed",
@@ -55,9 +55,50 @@
         "post_watch"
       ],
       "mal_url": "https://myanimelist.net/anime/22865"
+    },
+    {
+      "event_id": "20261123T070402665270Z-14741-new-to-plan_to_watch",
+      "detected_at": "2026-11-23T07:04:02.665270Z",
+      "mal_id": 14741,
+      "title": "Chuunibyou demo Koi ga Shitai!",
+      "previous_status": null,
+      "status": "plan_to_watch",
+      "score": 0,
+      "signals": [
+        "brief_needed"
+      ],
+      "mal_url": "https://myanimelist.net/anime/14741"
+    },
+    {
+      "event_id": "20261123T070402665270Z-15583-plan_to_watch-to-removed",
+      "detected_at": "2026-11-23T07:04:02.665270Z",
+      "mal_id": 15583,
+      "title": "Date A Live",
+      "previous_status": "plan_to_watch",
+      "status": null,
+      "score": null,
+      "signals": [
+        "next_up"
+      ],
+      "mal_url": "https://myanimelist.net/anime/15583"
+    },
+    {
+      "event_id": "20261123T070402665270Z-51122-plan_to_watch-to-removed",
+      "detected_at": "2026-11-23T07:04:02.665270Z",
+      "mal_id": 51122,
+      "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
+      "previous_status": "plan_to_watch",
+      "status": null,
+      "score": null,
+      "signals": [
+        "next_up"
+      ],
+      "mal_url": "https://myanimelist.net/anime/51122"
     }
   ],
   "ptw_exits_pending": {
-    "2993": "20261119T210507650027Z-2993-plan_to_watch-to-dropped"
+    "2993": "20261119T210507650027Z-2993-plan_to_watch-to-dropped",
+    "15583": "20261123T070402665270Z-15583-plan_to_watch-to-removed",
+    "51122": "20261123T070402665270Z-51122-plan_to_watch-to-removed"
   }
 }
