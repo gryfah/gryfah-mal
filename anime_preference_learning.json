@@ -16442,10 +16442,43 @@
           "Inga verifierade oberoende motexempel har ännu utvärderats."
         ],
         "updated_at_utc": "2026-11-10T11:17:04.036Z"
+      },
+      "premise_execution_and_followthrough": {
+        "feature": "Premissens faktiska genomförande och utforskning",
+        "direction": "En särpräglad premiss som väcker nyfikenhet men sedan används ytligt kan begränsa uppskattningen; konsekvent genomförande kan vara positivt oavsett genre eller tempo.",
+        "confidence": "tentative",
+        "supporting_mal_ids": [
+          52081,
+          11499,
+          12119,
+          634,
+          52481
+        ],
+        "counterexample_mal_ids": [
+          18677,
+          3503
+        ],
+        "source_evidence_ids": [
+          "premise_execution_20261115",
+          "sankarea_premise_followthrough_20261118",
+          "natsuiro_kiseki_premise_and_idol_tie_in_20261118",
+          "koi_kaze_execution_20261115",
+          "gimai_seikatsu_vs_kimi_ni_todoke_trajectories_20261118",
+          "yuusha_narenakatta_understated_office_comedy_20261118",
+          "kanokon_straightforward_ecchi_20261118",
+          "post_watch_edomae_elf_premise_underused_20261126"
+        ],
+        "version": 1,
+        "limitations": [
+          "Motexemplen är gränsfall: en nedtonad premiss eller rak genreecchi kan fungera utan omfattande utforskning när verket levererar sitt faktiska kontrakt.",
+          "Ska inte förväxlas med krav på dramatiskt tempo, emotionellt djup eller komplexitet; bedöm verkets ambition och utförande separat.",
+          "Kvalitetsbedömningen måste prövas mot oberoende verkbriefar och ytterligare omdömen; ingen automatisk poängregel."
+        ],
+        "updated_at_utc": "2026-11-26T06:46:47.845Z"
       }
     },
     "preference_model_revision": {
-      "version": 1,
+      "version": 2,
       "reviewed_answer_ids": [
         "mal-6",
         "mal-7",
@@ -16465,14 +16498,18 @@
         "mal-31043"
       ],
       "changed_hypothesis_ids": [
-        "narrative_pacing_and_progression"
+        "narrative_pacing_and_progression",
+        "premise_execution_and_followthrough"
       ],
-      "updated_at_utc": "2026-11-10T11:17:04.036Z",
+      "updated_at_utc": "2026-11-26T06:46:47.845Z",
       "reassessment_required": true,
       "progress": {
         "processed": 529,
         "total": 529
-      }
+      },
+      "source_evidence_ids": [
+        "post_watch_edomae_elf_premise_underused_20261126"
+      ]
     },
     "completed_reassessments": {
       "1": {
@@ -24823,6 +24860,28 @@
           "natsuiro_kiseki_premise_and_idol_tie_in_20261118"
         ],
         "linked_hypothesis_ids": []
+      },
+      "post_watch_edomae_elf_premise_underused_20261126": {
+        "id": "post_watch_edomae_elf_premise_underused_20261126",
+        "mal_ids": [
+          52081
+        ],
+        "title": "Edomae Elf",
+        "event_id": "20261126T060026309109Z-52081-plan_to_watch-to-completed",
+        "kind": "work_specific_reaction",
+        "verbatim": "ip hade en rolig usp, och det var just reverse isekai. tre eller fler alver dras till jorden och får under århundranden lära sig hur de kan maximera sin tillvaro genom att le överseende när människor sätter dem i center för olika ritualer. denna utnyttjas i princip inte alls och serien puttrar på och ger i slutändan inte nånting utöver att man fått nåt att titta på under pendling",
+        "interpretation": "Användaren uppskattade seriens reverse-isekai-USP: långlivade alver lär sig över århundraden att leva väl genom att anpassa sig till människors ritualer. Kritiken gäller att denna särskiljande idé enligt användaren nästan inte utforskas; den lågmälda serien ger till slut främst något att titta på under pendling. Betyg 6/10. Det är outnyttjad premisspotential snarare än belagt ogillande av lågmäld komedi eller avsaknad av emotionellt djup i sig.",
+        "limitations": [
+          "Alvernas strategiska anpassning är användarens läsning av premissen, inte verifierad avsikt hos karaktärerna.",
+          "Uttalandet gäller en specifik serie; pendling är visningskontext, inte en generell betygsregel.",
+          "Användaren anger inte att mer drama eller snabbare tempo i sig skulle ha förbättrat serien."
+        ],
+        "source": "post_watch_explicit_user_reply",
+        "recorded_date": "2026-11-26",
+        "evidence_status": "direct_user_explanation",
+        "linked_hypothesis_ids": [
+          "premise_execution_and_followthrough"
+        ]
       }
     }
   }
