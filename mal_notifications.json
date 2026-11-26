@@ -24,6 +24,10 @@
       "20261123T070402665270Z-51122-plan_to_watch-to-removed": {
         "mal_id": 51122,
         "handled_at_utc": "2026-11-23T07:22:20.948Z"
+      },
+      "20261126T060026309109Z-52081-plan_to_watch-to-completed": {
+        "mal_id": 52081,
+        "handled_at_utc": "2026-11-26T06:48:09.756Z"
       }
     },
     "post_watch": {
