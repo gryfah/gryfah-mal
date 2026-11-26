@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-26T05:04:30.531584Z",
+  "updated_at": "2026-11-26T06:00:26.309109Z",
   "events": [
     {
       "event_id": "20261119T210507650027Z-2993-plan_to_watch-to-dropped",
@@ -80,6 +80,20 @@
         "next_up"
       ],
       "mal_url": "https://myanimelist.net/anime/51122"
+    },
+    {
+      "event_id": "20261126T060026309109Z-52081-plan_to_watch-to-completed",
+      "detected_at": "2026-11-26T06:00:26.309109Z",
+      "mal_id": 52081,
+      "title": "Edomae Elf",
+      "previous_status": "plan_to_watch",
+      "status": "completed",
+      "score": 6,
+      "signals": [
+        "next_up",
+        "post_watch"
+      ],
+      "mal_url": "https://myanimelist.net/anime/52081"
     }
   ],
   "ptw_exits_pending": {
